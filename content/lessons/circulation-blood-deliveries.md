@@ -73,4 +73,4 @@ Blood contains cells and small cell fragments carried in a liquid called **plasm
 ## Connect a job to a problem
 If the number of red blood cells drops, the heart might still pump, yet each amount of blood may carry less oxygen. A delivery problem can involve the cargo as well as the pump or route.
 
-**Explain aloud:** Why would a normal pulse alone not prove that oxygen delivery is normal?
+**Reflect:** Why would a normal pulse alone not prove that oxygen delivery is normal?

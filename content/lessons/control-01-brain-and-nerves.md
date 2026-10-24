@@ -81,4 +81,4 @@ These regions work together; a colored brain picture marks useful regions, not s
 ## Follow a response
 When you decide to pick up a cup, motor pathways help activate muscles. Sensory information about touch and position helps adjust your grip as the action continues.
 
-**Explain aloud:** Why would a command to grip be more useful when the nervous system also receives information about the cup?
+**Reflect:** Why would a command to grip be more useful when the nervous system also receives information about the cup?

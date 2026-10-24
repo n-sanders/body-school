@@ -87,6 +87,3 @@ Follow oxygen from outside air into the lungs, across a thin exchange surface in
 Do not confuse air moving through airways with blood moving through vessels. The two routes meet across very thin walls; they do not become one open tube.
 
 **Predict:** Would a faster heartbeat solve the problem if no fresh air reached the air sacs? Explain which part of the delivery chain would still be missing.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

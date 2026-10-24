@@ -66,7 +66,7 @@ export function HomePage() {
           </li>
         </ol>
         <p>Plan about 10 minutes: read a short explanation, study a picture or example, and answer five concept questions.
-          Take longer if you want to discuss an idea. New scientific words are explained as you meet them.</p>
+          Work independently and pause to think through each reflection. New scientific words are explained as you meet them.</p>
         <p className="muted">
           Lost your progress? Open any lesson or the <Link to="/progress">Progress</Link> page and use{" "}
           <em>Mark completed</em>.

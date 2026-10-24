@@ -81,7 +81,7 @@ A targeted response may develop. If memory cells remain, a future encounter with
 ## Keep observations separate from causes
 Redness, warmth, and swelling can reflect inflammation. They do not, by themselves, reveal exactly what entered the tissue or prove that an infection is present. The same kind of response can follow different problems.
 
-**Explain aloud:** Describe how the skin, blood, and lymph routes contribute different jobs to the same scenario.
+**Reflect:** Describe how the skin, blood, and lymph routes contribute different jobs to the same scenario.
 
 ## Compare first and later encounters
 A stronger later response does not mean the skin learned a new physical shape. Immune memory changes how parts of the defense system respond to particular targets. Explain that difference using prevention, response, and memory in your own words.

@@ -77,6 +77,3 @@ Urine and stool therefore have different routes and origins. Kidneys do not rece
 This unit will also introduce digestive helpers: the liver, gallbladder, and pancreas. Food does not travel through these organs as if they were sections of the food tube.
 
 **Predict:** Why might someone digest a meal normally but still have trouble getting enough nutrients to cells? Name another step that must work.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

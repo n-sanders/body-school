@@ -92,4 +92,4 @@ Skin has several jobs that are easy to miss if you only think "it holds me in":
 Hair and nails are skin structures that add protection. A scrape that breaks the epidermis is the moment the next lesson's defenders matter, because the barrier has a gap.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Connect one skin structure with each job: forming a barrier, sensing, and controlling heat loss. Why is skin more than a covering?

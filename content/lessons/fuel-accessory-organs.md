@@ -76,4 +76,4 @@ The **pancreas** sends digestive enzymes into the small intestine. Enzymes help 
 ## One organ, several roles
 The liver also processes absorbed materials and performs many other jobs. The pancreas has a second role: releasing hormones into blood. A duct carrying digestive fluid and blood carrying a hormone are different routes.
 
-**Trace aloud:** Follow a bite from stomach to small intestine, then describe where bile joins that route. Explain why the bite does not need to enter the liver.
+**Trace the process:** Follow a bite from stomach to small intestine, then describe where bile joins that route. Explain why the bite does not need to enter the liver.

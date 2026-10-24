@@ -72,7 +72,7 @@ Now follow an absorbed nutrient: across the intestinal lining → transport rout
 ## A different journey
 Follow a dissolved waste already in blood: blood reaches kidneys → filtering and adjustment → urine → bladder → outside. Useful materials and much water return to blood during processing.
 
-**Explain aloud:** Why is “the body removes waste” too general to distinguish stool from urine?
+**Reflect:** Why is “the body removes waste” too general to distinguish stool from urine?
 
 ## Predict an adjustment
 On a warm day, sweating can increase water loss. The kidneys can conserve more water, while thirst can encourage replacement. Cooling and water balance therefore interact.

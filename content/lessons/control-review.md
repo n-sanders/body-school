@@ -96,6 +96,3 @@ Imagine body temperature rises during activity. Describe the detection of change
 
 ## Apply a limit
 If sweat cannot evaporate effectively, the same amount of sweating may remove less heat. Explain why detecting a problem and starting a response do not guarantee that the problem will be fully corrected.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

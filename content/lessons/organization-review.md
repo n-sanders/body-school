@@ -83,6 +83,3 @@ Imagine that food is broken down normally but nutrients cannot cross the intesti
 **Check your explanation:** It should mention absorption and delivery, not just name the intestine. It should also connect a small structure, the lining, with the needs of the whole body.
 
 The quiz revisits earlier ideas. Use the feedback to repair your explanation before moving on.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

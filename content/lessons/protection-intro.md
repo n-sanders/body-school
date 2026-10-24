@@ -86,6 +86,3 @@ Along the route, lymph nodes provide places where immune cells can encounter mat
 This unit focuses on mechanisms, not diagnosing illness from a symptom. Redness, swelling, or a swollen node can be observations, but an observation alone does not identify a cause.
 
 **Predict:** Why might a barrier and an internal defense response both be useful, rather than relying entirely on one?
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

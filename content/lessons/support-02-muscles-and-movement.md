@@ -83,4 +83,4 @@ Heart muscle contracts to pump blood. Smooth muscle in organs such as the digest
 ## Try an explanation
 Imagine carrying a tray without tilting it. Your arms barely move, but muscles maintain tension to hold their position. Visible movement is therefore not the only evidence of muscle work.
 
-**Explain aloud:** How are lifting a tray and holding it still alike? How do they differ?
+**Reflect:** How are lifting a tray and holding it still alike? How do they differ?

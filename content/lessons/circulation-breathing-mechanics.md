@@ -79,4 +79,4 @@ Breathing faster means more breaths per minute. Breathing more deeply means movi
 ## Use a model carefully
 A stretchy bag inside a sealed container can model how changing surrounding space affects a lung. Real lungs have branching airways, many tiny air sacs, a blood supply, and connections to living chest tissues that a simple bag leaves out.
 
-**Explain aloud:** Trace the chain from diaphragm contraction to inward airflow.
+**Reflect:** Trace the chain from diaphragm contraction to inward airflow.

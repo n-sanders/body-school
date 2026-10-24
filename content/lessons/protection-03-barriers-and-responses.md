@@ -79,4 +79,4 @@ After some encounters, memory cells remain. A later response to the same target 
 ## Cooperation, not a wall between teams
 Early defenses help shape targeted responses, and targeted responses can help other defense cells work. Memory is useful but does not guarantee that every future exposure causes no illness.
 
-**Explain aloud:** How does preventing entry differ from recognizing a target more quickly after a later exposure?
+**Reflect:** How does preventing entry differ from recognizing a target more quickly after a later exposure?

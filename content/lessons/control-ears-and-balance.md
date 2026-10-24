@@ -82,4 +82,4 @@ Balance also uses vision and information from muscles and joints. The ears do no
 ## Compare the jobs
 Hearing begins with sound vibrations; balance uses information about movement and position. Both depend on sensory cells converting a physical change into signals.
 
-**Explain aloud:** Why would “the ear collects sound” leave out much of the hearing process?
+**Reflect:** Why would “the ear collects sound” leave out much of the hearing process?

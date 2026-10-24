@@ -79,4 +79,4 @@ Changing pupil size changes how much light enters. Changing lens shape helps foc
 ## Connect sensation with action
 To catch a ball, vision supplies information about position and motion. The brain combines it with other sensory information and sends commands toward muscles.
 
-**Explain aloud:** Why could a clear lens alone not provide vision if the light-sensitive tissue could not send usable signals?
+**Reflect:** Why could a clear lens alone not provide vision if the light-sensitive tissue could not send usable signals?

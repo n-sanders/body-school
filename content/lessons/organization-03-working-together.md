@@ -68,7 +68,7 @@ passMark: 0.8
 
 It is useful to study bones, then the heart, then the stomach. That is not how the body runs. **Each system depends on the others.**
 
-Muscle activity requires energy. Blood brings supplies, including oxygen and nutrients, that support the processes releasing that energy. The blood brings both. The lungs load the blood with oxygen. The digestive system is the source of the fuel. Nerves tell the muscle when to pull. Skin and sweat may cool you if the work lasts.
+Muscle activity requires energy. Blood brings supplies, including oxygen and nutrients, that support the processes releasing that energy. The lungs load the blood with oxygen. The digestive system is the source of the fuel. Nerves tell the muscle when to pull. Skin and sweat may cool you if the work lasts.
 
 ## Follow one ordinary action
 
@@ -94,4 +94,4 @@ The next units take the systems in turn:
 Each unit ends by pointing toward the next dependency. The last unit puts the pieces back into everyday scenes: activity, a meal, recovery, and responding to a warning. The question to keep is always the same. **How does this part serve the whole body?**
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Follow oxygen from the lungs to a muscle used in walking. Which parts provide exchange, transport, and movement?

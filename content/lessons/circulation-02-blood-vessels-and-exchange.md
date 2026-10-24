@@ -85,4 +85,4 @@ That same blood will be sent to the lungs next, because the oxygen it just gave 
 The nutrients in the drop are a preview of Unit 4. Digestion breaks food down, and absorption transfers nutrients across the intestinal lining into transport routes. Circulation only delivers them.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Follow blood from an artery through capillaries and back toward the heart. Where do materials cross, and why there?

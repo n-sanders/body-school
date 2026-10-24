@@ -99,4 +99,4 @@ Bones meet at **joints**. They do not all move the same amount.
 Bones can support you, but they cannot move you by themselves. That is the muscle's job, and it comes next.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Compare the elbow and shoulder. How do their joint structures affect the movements they allow?

@@ -77,4 +77,4 @@ Increased warmth can also trigger cooling responses, including sweating and chan
 ## Explain a linked response
 A useful explanation follows demand → coordinated response → effect. It does not say the heart alone creates energy or that all responses work without limits.
 
-**Explain aloud:** Why might both breathing depth and heart rate increase during a game, even while arterial blood remains well oxygenated?
+**Reflect:** Why might both breathing depth and heart rate increase during a game, even while arterial blood remains well oxygenated?

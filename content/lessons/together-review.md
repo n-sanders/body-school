@@ -89,6 +89,3 @@ Now change one link: reduce an exchange surface, interrupt a route, or prevent a
 You can now connect cells, tissues, organs, and systems; trace supplies and wastes; compare messages with materials; and explain feedback. Scientific names help label those ideas, but the connections are what later courses will build on.
 
 **Self-check:** Did you explain a route? Distinguish observation from inference? Describe a response and its limits? If one part is unclear, return to that lesson and improve just that part before the quiz.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

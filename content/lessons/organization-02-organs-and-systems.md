@@ -98,4 +98,4 @@ The whole **organism** is the living person: all of those systems in one body.
 The next units look at those systems one at a time. Each unit still belongs to the same body.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Use the stomach to connect the levels of organization: cells, tissues, organ, and system. What does each level contribute?

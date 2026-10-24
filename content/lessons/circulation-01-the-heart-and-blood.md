@@ -93,4 +93,4 @@ The heart does not make oxygen or nutrients. It creates pressure that moves bloo
 
 The two loops connect: blood returning from the body goes toward the lungs, then blood returning from the lungs goes toward the body. Neither loop can keep supplying tissues normally if the other stops.
 
-**Trace aloud:** Follow a drop from a body tissue through both loops and back to that tissue. Name where gas exchange happens and where pumping happens.
+**Trace the process:** Follow a drop from a body tissue through both loops and back to that tissue. Name where gas exchange happens and where pumping happens.

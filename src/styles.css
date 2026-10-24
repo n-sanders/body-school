@@ -407,8 +407,6 @@ table {
 
 .prose { overflow-wrap: anywhere; }
 .prose table { display: block; overflow-x: auto; }
-.optional-exploration > summary { cursor: pointer; font-weight: 650; }
-.optional-exploration[open] > summary { margin-bottom: 1rem; }
 th,
 td {
   text-align: left;

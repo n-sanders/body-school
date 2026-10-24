@@ -78,7 +78,7 @@ Now hold the bottle still. The joint angle stops changing, but muscle tension ca
 ## Compare two problems
 In one model, the muscle cannot develop enough tension. In another, the muscle contracts but its tendon cannot transfer the pull. Both models might produce weak movement, but the failed connection is different.
 
-**Explain aloud:** Why would “the arm does not move well” be an observation rather than a complete explanation?
+**Reflect:** Why would “the arm does not move well” be an observation rather than a complete explanation?
 
 ## Keep the wider picture
 Bones also protect organs, support posture, store minerals, and contain marrow. Muscles need blood to bring oxygen and nutrients and carry away wastes. A successful movement therefore connects this unit to the next one.

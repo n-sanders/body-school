@@ -84,7 +84,7 @@ Now follow carbon dioxide in the other overall direction. Cells produce it, bloo
 ## Compare possible failures
 Consider three models: fresh air cannot reach the air sacs; blood cannot carry enough oxygen; a vessel to a tissue is blocked. Each could reduce oxygen delivery even if other parts still work.
 
-**Explain aloud:** Why does “the heart is beating” not prove the whole delivery process is working normally?
+**Reflect:** Why does “the heart is beating” not prove the whole delivery process is working normally?
 
 ## Read observations carefully
 A faster pulse is a count of heartbeats per minute. Faster breathing is a count of breaths per minute. Deeper breathing moves more air in a breath. They describe different changes and do not directly measure the oxygen reaching each cell.

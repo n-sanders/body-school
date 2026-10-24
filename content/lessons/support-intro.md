@@ -81,6 +81,3 @@ Bones are living organs, not dry sticks. They contain cells and blood vessels. S
 Support is not the same as movement. A rib cage protects organs even when you are sitting still. Muscles can also hold a position without visibly shortening.
 
 **Predict:** If a muscle could contract but its tendon no longer transferred the pull to a bone, would that movement work normally? Explain your prediction before the lessons.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

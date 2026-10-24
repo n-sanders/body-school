@@ -69,7 +69,7 @@ reviewedOn: 2026-10-24
 ## A question to carry through the course
 How can one body sense a sound, run across a room, and recover afterward? No organ does all of that alone. Body School follows the parts and, more importantly, the connections between them.
 
-Each lesson is planned for about **10 minutes**: roughly three minutes to read and inspect an example, two minutes to explain an idea aloud, and five minutes for five questions and feedback. Take longer when you need it. The structure guide is optional reference reading.
+Each lesson is planned for about **10 minutes**: roughly five minutes to read the explanation, pictures, and Go deeper section, a minute to reflect independently, and four minutes for five questions and feedback. Take longer when you need it. Read the Go deeper section as part of the lesson. It connects the ideas to real structures; the quiz may focus on only some of that material. You can think through reflection prompts silently or jot down a short answer for yourself.
 
 ## Build explanations, not word lists
 You will meet scientific names because they help people describe the same thing clearly. Each name comes with a job or example. The questions ask you to follow a process, predict a change, or choose evidence—not spell long names.
@@ -79,4 +79,4 @@ For example, “lungs take in oxygen” is a start. “Oxygen crosses from tiny 
 ## Before you begin
 Think about walking upstairs. What changes in your breathing, pulse, and muscles? Keep those observations in mind; later units will help you explain them. You do not need to exercise to do the lesson.
 
-**Explain aloud:** Why might studying only the heart leave part of the upstairs story unexplained?
+**Reflect:** Why might studying only the heart leave part of the upstairs story unexplained?

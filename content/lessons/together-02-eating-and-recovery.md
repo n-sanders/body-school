@@ -77,4 +77,4 @@ A nutrient is material that can be delivered and used. Insulin is a message help
 
 Sleep and rest provide conditions that support many maintenance processes. They do not remove the need for food, water, or working transport systems.
 
-**Explain aloud:** Why would eating a meal not guarantee recovery if absorption or circulation could not deliver the materials to tissues?
+**Reflect:** Why would eating a meal not guarantee recovery if absorption or circulation could not deliver the materials to tissues?

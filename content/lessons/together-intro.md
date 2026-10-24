@@ -83,7 +83,4 @@ Start with an observation. Then name a process and explain a connection. For exa
 
 Avoid assuming an observation proves more than it does. A pulse count measures beats per minute, not the amount of oxygen in every muscle cell.
 
-**Before the lessons:** Choose one event you could explain to someone else. List a material that moves and a signal that helps control a response. Keep your answer to a few connected sentences.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Before the lessons:** Choose one event you want to understand more clearly. List a material that moves and a signal that helps control a response. Keep your answer to a few connected sentences.

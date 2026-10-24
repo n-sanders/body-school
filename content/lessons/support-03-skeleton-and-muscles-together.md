@@ -90,4 +90,4 @@ The spine is a good place to see the partnership. Vertebrae stack into a column.
 Muscle activity uses energy, and oxygen supports many of the processes that release it. Bone marrow and calcium are jobs of the skeleton, but they do not power a sprint. The heart, the blood vessels, and the lungs do the delivery. That is the next unit: follow a drop of blood, then follow a breath of air.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Imagine a muscle contracts but its tendon cannot transfer the pull. Which step of the movement would fail, and why?

@@ -92,4 +92,4 @@ A **tissue** is a group of similar cells working on the same job. Four broad tis
 Later units will not ask you to memorize long lists of rare cell names. They will keep coming back to these four tissues and to the idea that **parts work together**.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Compare a nerve cell with a muscle cell. How does each cell’s structure help it do a different job?

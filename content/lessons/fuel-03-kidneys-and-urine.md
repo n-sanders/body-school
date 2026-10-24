@@ -79,4 +79,4 @@ Urine leaves each kidney through a **ureter**, a tube leading to the bladder. Th
 
 Kidneys process blood; the bladder is a storage organ. Neither receives whole undigested food from the intestine.
 
-**Explain aloud:** Why is a kitchen strainer an incomplete model of a kidney? Include the return of needed materials in your answer.
+**Reflect:** Why is a kitchen strainer an incomplete model of a kidney? Include the return of needed materials in your answer.

@@ -96,11 +96,12 @@ function LessonView({ lesson }: { lesson: Lesson }) {
       )}
 
       {(lesson.items.length > 0 || lesson.compare.length > 0) && (
-        <details className="optional-exploration card">
-          <summary>Optional: explore the structures in the guide</summary>
+        <section className="deeper-exploration card" aria-labelledby="go-deeper-heading">
+          <h2 id="go-deeper-heading">Go deeper: explore the structures</h2>
+          <p>Read these examples as part of the lesson. Use the pictures and facts to connect each structure with its job.</p>
       {lesson.items.length > 0 && (
         <section>
-          <h2>{noun.Many} in this lesson</h2>
+          <h3>{noun.Many} in this lesson</h3>
           {lesson.items.map((slug) => (
             <ItemCard key={slug} item={getItem(slug)!} />
           ))}
@@ -110,7 +111,7 @@ function LessonView({ lesson }: { lesson: Lesson }) {
       {lesson.compare.map(([a, b]) => (
         <CompareItems key={`${a}-${b}`} a={getItem(a)!} b={getItem(b)!} />
       ))}
-        </details>
+        </section>
       )}
 
       {lesson.sources.length > 0 && (

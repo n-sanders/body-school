@@ -151,7 +151,7 @@ Apply the course model to activity, meals, recovery, and new situations.
 ## A question to carry through the course
 How can one body sense a sound, run across a room, and recover afterward? No organ does all of that alone. Body School follows the parts and, more importantly, the connections between them.
 
-Each lesson is planned for about **10 minutes**: roughly three minutes to read and inspect an example, two minutes to explain an idea aloud, and five minutes for five questions and feedback. Take longer when you need it. The structure guide is optional reference reading.
+Each lesson is planned for about **10 minutes**: roughly five minutes to read the explanation, pictures, and Go deeper section, a minute to reflect independently, and four minutes for five questions and feedback. Take longer when you need it. Read the Go deeper section as part of the lesson. It connects the ideas to real structures; the quiz may focus on only some of that material. You can think through reflection prompts silently or jot down a short answer for yourself.
 
 ## Build explanations, not word lists
 You will meet scientific names because they help people describe the same thing clearly. Each name comes with a job or example. The questions ask you to follow a process, predict a change, or choose evidence—not spell long names.
@@ -161,7 +161,7 @@ For example, “lungs take in oxygen” is a start. “Oxygen crosses from tiny 
 ## Before you begin
 Think about walking upstairs. What changes in your breathing, pulse, and muscles? Keep those observations in mind; later units will help you explain them. You do not need to exercise to do the lesson.
 
-**Explain aloud:** Why might studying only the heart leave part of the upstairs story unexplained?
+**Reflect:** Why might studying only the heart leave part of the upstairs story unexplained?
 
 </details>
 
@@ -242,7 +242,7 @@ A **tissue** is a group of similar cells working on the same job. Four broad tis
 Later units will not ask you to memorize long lists of rare cell names. They will keep coming back to these four tissues and to the idea that **parts work together**.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Compare a nerve cell with a muscle cell. How does each cell’s structure help it do a different job?
 
 </details>
 
@@ -329,7 +329,7 @@ The whole **organism** is the living person: all of those systems in one body.
 The next units look at those systems one at a time. Each unit still belongs to the same body.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Use the stomach to connect the levels of organization: cells, tissues, organ, and system. What does each level contribute?
 
 </details>
 
@@ -386,7 +386,7 @@ The next units look at those systems one at a time. Each unit still belongs to t
 
 It is useful to study bones, then the heart, then the stomach. That is not how the body runs. **Each system depends on the others.**
 
-Muscle activity requires energy. Blood brings supplies, including oxygen and nutrients, that support the processes releasing that energy. The blood brings both. The lungs load the blood with oxygen. The digestive system is the source of the fuel. Nerves tell the muscle when to pull. Skin and sweat may cool you if the work lasts.
+Muscle activity requires energy. Blood brings supplies, including oxygen and nutrients, that support the processes releasing that energy. The lungs load the blood with oxygen. The digestive system is the source of the fuel. Nerves tell the muscle when to pull. Skin and sweat may cool you if the work lasts.
 
 ## Follow one ordinary action
 
@@ -412,7 +412,7 @@ The next units take the systems in turn:
 Each unit ends by pointing toward the next dependency. The last unit puts the pieces back into everyday scenes: activity, a meal, recovery, and responding to a warning. The question to keep is always the same. **How does this part serve the whole body?**
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Follow oxygen from the lungs to a muscle used in walking. Which parts provide exchange, transport, and movement?
 
 </details>
 
@@ -483,9 +483,6 @@ Imagine that food is broken down normally but nutrients cannot cross the intesti
 
 The quiz revisits earlier ideas. Use the feedback to repair your explanation before moving on.
 
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
-
 </details>
 
 ### Preview: How can a body move?
@@ -550,9 +547,6 @@ Bones are living organs, not dry sticks. They contain cells and blood vessels. S
 Support is not the same as movement. A rib cage protects organs even when you are sitting still. Muscles can also hold a position without visibly shortening.
 
 **Predict:** If a muscle could contract but its tendon no longer transferred the pull to a bone, would that movement work normally? Explain your prediction before the lessons.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
 
 </details>
 
@@ -637,7 +631,7 @@ Bones meet at **joints**. They do not all move the same amount.
 Bones can support you, but they cannot move you by themselves. That is the muscle's job, and it comes next.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Compare the elbow and shoulder. How do their joint structures affect the movements they allow?
 
 </details>
 
@@ -708,7 +702,7 @@ Heart muscle contracts to pump blood. Smooth muscle in organs such as the digest
 ## Try an explanation
 Imagine carrying a tray without tilting it. Your arms barely move, but muscles maintain tension to hold their position. Visible movement is therefore not the only evidence of muscle work.
 
-**Explain aloud:** How are lifting a tray and holding it still alike? How do they differ?
+**Reflect:** How are lifting a tray and holding it still alike? How do they differ?
 
 </details>
 
@@ -785,7 +779,7 @@ The spine is a good place to see the partnership. Vertebrae stack into a column.
 Muscle activity uses energy, and oxygen supports many of the processes that release it. Bone marrow and calcium are jobs of the skeleton, but they do not power a sprint. The heart, the blood vessels, and the lungs do the delivery. That is the next unit: follow a drop of blood, then follow a breath of air.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Imagine a muscle contracts but its tendon cannot transfer the pull. Which step of the movement would fail, and why?
 
 </details>
 
@@ -848,7 +842,7 @@ Now hold the bottle still. The joint angle stops changing, but muscle tension ca
 ## Compare two problems
 In one model, the muscle cannot develop enough tension. In another, the muscle contracts but its tendon cannot transfer the pull. Both models might produce weak movement, but the failed connection is different.
 
-**Explain aloud:** Why would “the arm does not move well” be an observation rather than a complete explanation?
+**Reflect:** Why would “the arm does not move well” be an observation rather than a complete explanation?
 
 ## Keep the wider picture
 Bones also protect organs, support posture, store minerals, and contain marrow. Muscles need blood to bring oxygen and nutrients and carry away wastes. A successful movement therefore connects this unit to the next one.
@@ -921,9 +915,6 @@ Follow oxygen from outside air into the lungs, across a thin exchange surface in
 Do not confuse air moving through airways with blood moving through vessels. The two routes meet across very thin walls; they do not become one open tube.
 
 **Predict:** Would a faster heartbeat solve the problem if no fresh air reached the air sacs? Explain which part of the delivery chain would still be missing.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
 
 </details>
 
@@ -1004,7 +995,7 @@ The heart does not make oxygen or nutrients. It creates pressure that moves bloo
 
 The two loops connect: blood returning from the body goes toward the lungs, then blood returning from the lungs goes toward the body. Neither loop can keep supplying tissues normally if the other stops.
 
-**Trace aloud:** Follow a drop from a body tissue through both loops and back to that tissue. Name where gas exchange happens and where pumping happens.
+**Trace the process:** Follow a drop from a body tissue through both loops and back to that tissue. Name where gas exchange happens and where pumping happens.
 
 </details>
 
@@ -1068,7 +1059,7 @@ Blood contains cells and small cell fragments carried in a liquid called **plasm
 ## Connect a job to a problem
 If the number of red blood cells drops, the heart might still pump, yet each amount of blood may carry less oxygen. A delivery problem can involve the cargo as well as the pump or route.
 
-**Explain aloud:** Why would a normal pulse alone not prove that oxygen delivery is normal?
+**Reflect:** Why would a normal pulse alone not prove that oxygen delivery is normal?
 
 </details>
 
@@ -1140,7 +1131,7 @@ That same blood will be sent to the lungs next, because the oxygen it just gave 
 The nutrients in the drop are a preview of Unit 4. Digestion breaks food down, and absorption transfers nutrients across the intestinal lining into transport routes. Circulation only delivers them.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Follow blood from an artery through capillaries and back toward the heart. Where do materials cross, and why there?
 
 </details>
 
@@ -1210,7 +1201,7 @@ Breathing faster means more breaths per minute. Breathing more deeply means movi
 ## Use a model carefully
 A stretchy bag inside a sealed container can model how changing surrounding space affects a lung. Real lungs have branching airways, many tiny air sacs, a blood supply, and connections to living chest tissues that a simple bag leaves out.
 
-**Explain aloud:** Trace the chain from diaphragm contraction to inward airflow.
+**Reflect:** Trace the chain from diaphragm contraction to inward airflow.
 
 </details>
 
@@ -1280,7 +1271,7 @@ The blood and air stay on opposite sides of the thin exchange barrier. Whole blo
 ## Connect two jobs
 Breathing replaces air; circulation replaces blood beside the air sacs. Both are needed to keep exchange going effectively.
 
-**Explain aloud:** Why would having fresh air in the lungs be insufficient if blood stopped moving past the air sacs?
+**Reflect:** Why would having fresh air in the lungs be insufficient if blood stopped moving past the air sacs?
 
 </details>
 
@@ -1345,7 +1336,7 @@ Now follow carbon dioxide in the other overall direction. Cells produce it, bloo
 ## Compare possible failures
 Consider three models: fresh air cannot reach the air sacs; blood cannot carry enough oxygen; a vessel to a tissue is blocked. Each could reduce oxygen delivery even if other parts still work.
 
-**Explain aloud:** Why does “the heart is beating” not prove the whole delivery process is working normally?
+**Reflect:** Why does “the heart is beating” not prove the whole delivery process is working normally?
 
 ## Read observations carefully
 A faster pulse is a count of heartbeats per minute. Faster breathing is a count of breaths per minute. Deeper breathing moves more air in a breath. They describe different changes and do not directly measure the oxygen reaching each cell.
@@ -1416,9 +1407,6 @@ Urine and stool therefore have different routes and origins. Kidneys do not rece
 This unit will also introduce digestive helpers: the liver, gallbladder, and pancreas. Food does not travel through these organs as if they were sections of the food tube.
 
 **Predict:** Why might someone digest a meal normally but still have trouble getting enough nutrients to cells? Name another step that must work.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
 
 </details>
 
@@ -1498,7 +1486,7 @@ A mucus lining keeps the acid from digesting the stomach wall itself. The stomac
 The blood will eventually carry the nutrients from this sandwich. Digestive substances from the liver and pancreas help prepare nutrients for absorption across the small-intestinal lining.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Separate the jobs of chewing, digestive chemicals, and muscle waves. Why does processing a bite need all three?
 
 </details>
 
@@ -1565,7 +1553,7 @@ The **pancreas** sends digestive enzymes into the small intestine. Enzymes help 
 ## One organ, several roles
 The liver also processes absorbed materials and performs many other jobs. The pancreas has a second role: releasing hormones into blood. A duct carrying digestive fluid and blood carrying a hormone are different routes.
 
-**Trace aloud:** Follow a bite from stomach to small intestine, then describe where bile joins that route. Explain why the bite does not need to enter the liver.
+**Trace the process:** Follow a bite from stomach to small intestine, then describe where bile joins that route. Explain why the bite does not need to enter the liver.
 
 </details>
 
@@ -1701,7 +1689,7 @@ Urine leaves each kidney through a **ureter**, a tube leading to the bladder. Th
 
 Kidneys process blood; the bladder is a storage organ. Neither receives whole undigested food from the intestine.
 
-**Explain aloud:** Why is a kitchen strainer an incomplete model of a kidney? Include the return of needed materials in your answer.
+**Reflect:** Why is a kitchen strainer an incomplete model of a kidney? Include the return of needed materials in your answer.
 
 </details>
 
@@ -1767,9 +1755,6 @@ A single observation, such as urine color, is not a complete explanation of heal
 
 **Predict:** If two otherwise similar situations differ only in water lost through sweat, which would usually require more water conservation? Explain the direction of the response.
 
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
-
 </details>
 
 ### Review: Follow a meal and a waste
@@ -1829,7 +1814,7 @@ Now follow an absorbed nutrient: across the intestinal lining → transport rout
 ## A different journey
 Follow a dissolved waste already in blood: blood reaches kidneys → filtering and adjustment → urine → bladder → outside. Useful materials and much water return to blood during processing.
 
-**Explain aloud:** Why is “the body removes waste” too general to distinguish stool from urine?
+**Reflect:** Why is “the body removes waste” too general to distinguish stool from urine?
 
 ## Predict an adjustment
 On a warm day, sweating can increase water loss. The kidneys can conserve more water, while thirst can encourage replacement. Cooling and water balance therefore interact.
@@ -1903,7 +1888,7 @@ Nerve signals follow connected cells and often support fast, specific responses.
 
 This unit separates sensing, reflexes, and hormone control into short lessons. The final lesson connects them through feedback: a response changes a condition, and that changed condition affects further responses.
 
-**Explain aloud:** How is noticing a ball different from moving your hand to catch it? Include an information step and an action step.
+**Reflect:** How is noticing a ball different from moving your hand to catch it? Include an information step and an action step.
 
 </details>
 
@@ -1973,7 +1958,7 @@ These regions work together; a colored brain picture marks useful regions, not s
 ## Follow a response
 When you decide to pick up a cup, motor pathways help activate muscles. Sensory information about touch and position helps adjust your grip as the action continues.
 
-**Explain aloud:** Why would a command to grip be more useful when the nervous system also receives information about the cup?
+**Reflect:** Why would a command to grip be more useful when the nervous system also receives information about the cup?
 
 </details>
 
@@ -2043,7 +2028,7 @@ So “the brain is not involved at all” is misleading. The key distinction is 
 ## Compare two actions
 Withdrawing from a hot object and deliberately reaching for a cup both use nerves and muscles. They differ in how the action is initiated and controlled.
 
-**Trace aloud:** Sensor → sensory pathway → spinal connections → motor pathway → muscle. Then add the route that carries information toward the brain.
+**Trace the process:** Sensor → sensory pathway → spinal connections → motor pathway → muscle. Then add the route that carries information toward the brain.
 
 </details>
 
@@ -2113,7 +2098,7 @@ Changing pupil size changes how much light enters. Changing lens shape helps foc
 ## Connect sensation with action
 To catch a ball, vision supplies information about position and motion. The brain combines it with other sensory information and sends commands toward muscles.
 
-**Explain aloud:** Why could a clear lens alone not provide vision if the light-sensitive tissue could not send usable signals?
+**Reflect:** Why could a clear lens alone not provide vision if the light-sensitive tissue could not send usable signals?
 
 </details>
 
@@ -2184,7 +2169,7 @@ Balance also uses vision and information from muscles and joints. The ears do no
 ## Compare the jobs
 Hearing begins with sound vibrations; balance uses information about movement and position. Both depend on sensory cells converting a physical change into signals.
 
-**Explain aloud:** Why would “the ear collects sound” leave out much of the hearing process?
+**Reflect:** Why would “the ear collects sound” leave out much of the hearing process?
 
 </details>
 
@@ -2256,7 +2241,7 @@ Some hormone effects take time to develop; others can be rapid. Nerve pathways o
 ## Connected control
 The pituitary, at the base of the brain, influences several other glands. It is itself controlled by signals and feedback. No single gland makes every decision alone.
 
-**Explain aloud:** Why can a hormone pass many cells in blood while affecting only certain ones?
+**Reflect:** Why can a hormone pass many cells in blood while affecting only certain ones?
 
 </details>
 
@@ -2322,7 +2307,7 @@ This is **negative feedback**: the response reduces the original disturbance. �
 ## Limits matter
 Responses have limits and depend on conditions. Sweat cools best when it can evaporate; producing sweat alone does not guarantee enough cooling. A control system can also be overwhelmed.
 
-**Trace aloud:** More warmth → detection and signals → cooling responses → less excess warmth → reduced cooling response.
+**Trace the process:** More warmth → detection and signals → cooling responses → less excess warmth → reduced cooling response.
 
 </details>
 
@@ -2396,9 +2381,6 @@ Imagine body temperature rises during activity. Describe the detection of change
 ## Apply a limit
 If sweat cannot evaporate effectively, the same amount of sweating may remove less heat. Explain why detecting a problem and starting a response do not guarantee that the problem will be fully corrected.
 
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
-
 </details>
 
 ### Preview: Layers of protection
@@ -2466,9 +2448,6 @@ Along the route, lymph nodes provide places where immune cells can encounter mat
 This unit focuses on mechanisms, not diagnosing illness from a symptom. Redness, swelling, or a swollen node can be observations, but an observation alone does not identify a cause.
 
 **Predict:** Why might a barrier and an internal defense response both be useful, rather than relying entirely on one?
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
 
 </details>
 
@@ -2548,7 +2527,7 @@ Skin has several jobs that are easy to miss if you only think "it holds me in":
 Hair and nails are skin structures that add protection. A scrape that breaks the epidermis is the moment the next lesson's defenders matter, because the barrier has a gap.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Connect one skin structure with each job: forming a barrier, sensing, and controlling heat loss. Why is skin more than a covering?
 
 </details>
 
@@ -2618,7 +2597,7 @@ Immune cells also work in blood and tissues. Some take in and break down microbe
 
 The spleen is another immune-related organ. It checks material in blood rather than serving as a lymph node on a lymph-vessel route. It also helps remove old blood cells.
 
-**Explain aloud:** Why can the lymph system matter both for fluid balance and defense? Include what is transported and where immune cells can encounter it.
+**Reflect:** Why can the lymph system matter both for fluid balance and defense? Include what is transported and where immune cells can encounter it.
 
 </details>
 
@@ -2684,7 +2663,7 @@ After some encounters, memory cells remain. A later response to the same target 
 ## Cooperation, not a wall between teams
 Early defenses help shape targeted responses, and targeted responses can help other defense cells work. Memory is useful but does not guarantee that every future exposure causes no illness.
 
-**Explain aloud:** How does preventing entry differ from recognizing a target more quickly after a later exposure?
+**Reflect:** How does preventing entry differ from recognizing a target more quickly after a later exposure?
 
 </details>
 
@@ -2748,7 +2727,7 @@ A targeted response may develop. If memory cells remain, a future encounter with
 ## Keep observations separate from causes
 Redness, warmth, and swelling can reflect inflammation. They do not, by themselves, reveal exactly what entered the tissue or prove that an infection is present. The same kind of response can follow different problems.
 
-**Explain aloud:** Describe how the skin, blood, and lymph routes contribute different jobs to the same scenario.
+**Reflect:** Describe how the skin, blood, and lymph routes contribute different jobs to the same scenario.
 
 ## Compare first and later encounters
 A stronger later response does not mean the skin learned a new physical shape. Immune memory changes how parts of the defense system respond to particular targets. Explain that difference using prevention, response, and memory in your own words.
@@ -2817,10 +2796,7 @@ Start with an observation. Then name a process and explain a connection. For exa
 
 Avoid assuming an observation proves more than it does. A pulse count measures beats per minute, not the amount of oxygen in every muscle cell.
 
-**Before the lessons:** Choose one event you could explain to someone else. List a material that moves and a signal that helps control a response. Keep your answer to a few connected sentences.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Before the lessons:** Choose one event you want to understand more clearly. List a material that moves and a signal that helps control a response. Keep your answer to a few connected sentences.
 
 </details>
 
@@ -2886,7 +2862,7 @@ Increased warmth can also trigger cooling responses, including sweating and chan
 ## Explain a linked response
 A useful explanation follows demand → coordinated response → effect. It does not say the heart alone creates energy or that all responses work without limits.
 
-**Explain aloud:** Why might both breathing depth and heart rate increase during a game, even while arterial blood remains well oxygenated?
+**Reflect:** Why might both breathing depth and heart rate increase during a game, even while arterial blood remains well oxygenated?
 
 </details>
 
@@ -2952,7 +2928,7 @@ A nutrient is material that can be delivered and used. Insulin is a message help
 
 Sleep and rest provide conditions that support many maintenance processes. They do not remove the need for food, water, or working transport systems.
 
-**Explain aloud:** Why would eating a meal not guarantee recovery if absorption or circulation could not deliver the materials to tissues?
+**Reflect:** Why would eating a meal not guarantee recovery if absorption or circulation could not deliver the materials to tissues?
 
 </details>
 
@@ -3018,10 +2994,7 @@ A count of breaths shows rate, not depth. A faster pulse shows heart rate, not e
 
 Scientific models are useful without showing every detail. High-school courses will add chemistry, cell mechanisms, and more precise measurements to these same connections.
 
-**Final explain-aloud task:** In four or five sentences, connect a material journey, a control signal, and a response to changing conditions.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Final reflection:** In four or five sentences, connect a material journey, a control signal, and a response to changing conditions.
 
 </details>
 
@@ -3093,9 +3066,6 @@ Now change one link: reduce an exchange surface, interrupt a route, or prevent a
 You can now connect cells, tissues, organs, and systems; trace supplies and wastes; compare messages with materials; and explain feedback. Scientific names help label those ideas, but the connections are what later courses will build on.
 
 **Self-check:** Did you explain a route? Distinguish observation from inference? Describe a response and its limits? If one part is unclear, return to that lesson and improve just that part before the quiz.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
 
 </details>
 

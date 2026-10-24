@@ -79,4 +79,4 @@ So “the brain is not involved at all” is misleading. The key distinction is 
 ## Compare two actions
 Withdrawing from a hot object and deliberately reaching for a cup both use nerves and muscles. They differ in how the action is initiated and controlled.
 
-**Trace aloud:** Sensor → sensory pathway → spinal connections → motor pathway → muscle. Then add the route that carries information toward the brain.
+**Trace the process:** Sensor → sensory pathway → spinal connections → motor pathway → muscle. Then add the route that carries information toward the brain.

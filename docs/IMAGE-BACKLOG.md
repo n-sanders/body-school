@@ -2,7 +2,7 @@
 
 The 66 original generated SVG placeholders are removed. Current images are found artwork: 22 unmodified Servier Medical Art PNGs and five retained sourced figures. SVG is a file format, not a quality judgment: the retained skeleton, heart-flow, and respiratory SVGs are detailed sourced illustrations rather than first-pass placeholders.
 
-No new AI artwork was generated. These are remaining **teaching-diagram gaps**, not missing files or broken lesson images. The text, tables, and explain-aloud prompts teach the ideas until suitable diagrams are available. Candidates were checked in Servier Medical Art and the first-pass Commons collection; this is not a claim that no usable image exists anywhere.
+No new AI artwork was generated. These are remaining **teaching-diagram gaps**, not missing files or broken lesson images. The text, tables, and reflection prompts teach the ideas until suitable diagrams are available. Candidates were checked in Servier Medical Art and the first-pass Commons collection; this is not a claim that no usable image exists anywhere.
 
 | Priority | Lessons | Figure needed | Why current found art is insufficient |
 | --- | --- | --- | --- |

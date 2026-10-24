@@ -77,7 +77,4 @@ A count of breaths shows rate, not depth. A faster pulse shows heart rate, not e
 
 Scientific models are useful without showing every detail. High-school courses will add chemistry, cell mechanisms, and more precise measurements to these same connections.
 
-**Final explain-aloud task:** In four or five sentences, connect a material journey, a control signal, and a response to changing conditions.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Final reflection:** In four or five sentences, connect a material journey, a control signal, and a response to changing conditions.

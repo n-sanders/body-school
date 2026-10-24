@@ -92,4 +92,4 @@ Nerve signals follow connected cells and often support fast, specific responses.
 
 This unit separates sensing, reflexes, and hormone control into short lessons. The final lesson connects them through feedback: a response changes a condition, and that changed condition affects further responses.
 
-**Explain aloud:** How is noticing a ball different from moving your hand to catch it? Include an information step and an action step.
+**Reflect:** How is noticing a ball different from moving your hand to catch it? Include an information step and an action step.

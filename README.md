@@ -2,9 +2,9 @@
 
 A middle-school foundation in major organs and body systems for learners around 11–13. Built on StudyKit. Reproductive organs and systems are outside scope.
 
-The curriculum has **42 short lessons in seven units**: 28 focused core lessons, seven introductions, and seven reviews. Each targets **about 10 minutes**, including an explain-aloud prompt and five concept questions. Pacing is an estimate to check with learners; there is no long vocabulary memorization requirement.
+The curriculum has **42 short lessons in seven units**: 28 focused core lessons, seven introductions, and seven reviews. Each targets **about 10 minutes**, including an independent reflection prompt and five concept questions. Pacing is an estimate to check with learners; there is no long vocabulary memorization requirement.
 
-The structure catalog is optional reference reading with credited educational artwork. Practice and spaced Review focus on lesson concepts. Browser-local progress is retained by the existing app.
+Lessons include visible Go deeper sections with structure facts and credited educational artwork. The separate structure catalog also provides reference reading. Practice and spaced Review focus on lesson concepts. Browser-local progress is retained by the existing app.
 
 See [the revision notes](docs/CURRICULUM-REVISION.md) for pacing, coverage, assessment choices, and existing-progress considerations; [the image backlog](docs/IMAGE-BACKLOG.md) for figures to improve later; and [image credits](IMAGE_CREDITS.md) for every current asset.
 
@@ -20,7 +20,7 @@ npm run validate
 npm run audit
 ```
 
-`content/curriculum.yaml` defines sequence and units. Lesson files are in `content/lessons/`; optional structure references are in `content/items/`. Found artwork lives in `public/images/servier/` and `public/images/lessons/`. `docs/image-manifest.json` records original Servier download URLs and licenses.
+`content/curriculum.yaml` defines sequence and units. Lesson files are in `content/lessons/`; structure references are in `content/items/`. Found artwork lives in `public/images/servier/` and `public/images/lessons/`. `docs/image-manifest.json` records original Servier download URLs and licenses.
 
 The old `scripts/make-body-images.py` is retired and exits without generating placeholder art. The historical `scripts/download-sourced-images.py` describes the first-pass Commons collection; do not run it to restore removed figures. Use the current manifest and credits when maintaining the selected artwork.
 

@@ -90,4 +90,4 @@ A mucus lining keeps the acid from digesting the stomach wall itself. The stomac
 The blood will eventually carry the nutrients from this sandwich. Digestive substances from the liver and pancreas help prepare nutrients for absorption across the small-intestinal lining.
 
 
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
+**Reflect:** Separate the jobs of chewing, digestive chemicals, and muscle waves. Why does processing a bite need all three?

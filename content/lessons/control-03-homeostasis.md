@@ -77,4 +77,4 @@ This is **negative feedback**: the response reduces the original disturbance. �
 ## Limits matter
 Responses have limits and depend on conditions. Sweat cools best when it can evaporate; producing sweat alone does not guarantee enough cooling. A control system can also be overwhelmed.
 
-**Trace aloud:** More warmth → detection and signals → cooling responses → less excess warmth → reduced cooling response.
+**Trace the process:** More warmth → detection and signals → cooling responses → less excess warmth → reduced cooling response.

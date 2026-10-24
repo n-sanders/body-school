@@ -81,4 +81,4 @@ The blood and air stay on opposite sides of the thin exchange barrier. Whole blo
 ## Connect two jobs
 Breathing replaces air; circulation replaces blood beside the air sacs. Both are needed to keep exchange going effectively.
 
-**Explain aloud:** Why would having fresh air in the lungs be insufficient if blood stopped moving past the air sacs?
+**Reflect:** Why would having fresh air in the lungs be insufficient if blood stopped moving past the air sacs?

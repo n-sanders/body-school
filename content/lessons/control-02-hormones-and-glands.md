@@ -88,4 +88,4 @@ Some hormone effects take time to develop; others can be rapid. Nerve pathways o
 ## Connected control
 The pituitary, at the base of the brain, influences several other glands. It is itself controlled by signals and feedback. No single gland makes every decision alone.
 
-**Explain aloud:** Why can a hormone pass many cells in blood while affecting only certain ones?
+**Reflect:** Why can a hormone pass many cells in blood while affecting only certain ones?

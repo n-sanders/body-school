@@ -83,4 +83,4 @@ Immune cells also work in blood and tissues. Some take in and break down microbe
 
 The spleen is another immune-related organ. It checks material in blood rather than serving as a lymph node on a lymph-vessel route. It also helps remove old blood cells.
 
-**Explain aloud:** Why can the lymph system matter both for fluid balance and defense? Include what is transported and where immune cells can encounter it.
+**Reflect:** Why can the lymph system matter both for fluid balance and defense? Include what is transported and where immune cells can encounter it.

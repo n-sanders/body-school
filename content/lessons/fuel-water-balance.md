@@ -74,6 +74,3 @@ Sensors, thirst, hormones, and kidney responses all contribute. Sweating during 
 A single observation, such as urine color, is not a complete explanation of health. The lesson’s model concerns how inputs, losses, and responses connect.
 
 **Predict:** If two otherwise similar situations differ only in water lost through sweat, which would usually require more water conservation? Explain the direction of the response.
-
-
-**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.
