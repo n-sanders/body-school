@@ -1,0 +1,32 @@
+slug: spine
+name: Spine
+category: support
+attributes:
+  system: Skeletal
+  location: Down the back
+  role: Supports the body and guards the spinal cord
+summary: A stack of vertebrae with cartilage cushions between them, forming a slightly curved column.
+traits:
+  - text: Vertebrae are stacked bones. Pads of cartilage between them absorb shock.
+    source: wikipedia-spine
+  - text: The spine holds the body upright and is an anchor for many muscles.
+    source: openstax-skeleton
+  - text: A tunnel inside the vertebrae protects the spinal cord.
+    source: wikipedia-spine
+lookAlikes: [rib-cage, spinal-cord]
+sources:
+  - id: openstax-skeleton
+    title: "OpenStax Anatomy and Physiology 2e: Functions of the Skeletal System"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/6-1-the-functions-of-the-skeletal-system
+  - id: wikipedia-spine
+    title: "Wikipedia: Vertebral column"
+    url: https://en.wikipedia.org/wiki/Vertebral_column
+images:
+  - url: images/organs/spine-diagram.svg
+    note: Unlabeled stack of vertebrae with a gentle curve.
+    reviewed: true
+  - url: images/organs/spine-context.svg
+    note: Spine running down the back of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

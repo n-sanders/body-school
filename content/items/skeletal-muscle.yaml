@@ -1,0 +1,32 @@
+slug: skeletal-muscle
+name: Skeletal muscle
+category: support
+attributes:
+  system: Muscular
+  location: Attached to bones
+  role: Pulls on bones to move the body
+summary: Voluntary muscle with a striped look, attached to bones by tendons.
+traits:
+  - text: Skeletal muscle is the kind you can choose to contract, such as when you lift an arm.
+    source: openstax-muscle
+  - text: Under a microscope it looks striped, which is why it is called striated muscle.
+    source: wikipedia-muscle
+  - text: Tendons connect skeletal muscle to bone. The muscle pulls; it does not push.
+    source: openstax-muscle
+lookAlikes: [heart, spine]
+sources:
+  - id: openstax-muscle
+    title: "OpenStax Anatomy and Physiology 2e: Skeletal Muscle"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle
+  - id: wikipedia-muscle
+    title: "Wikipedia: Skeletal muscle"
+    url: https://en.wikipedia.org/wiki/Skeletal_muscle
+images:
+  - url: images/organs/skeletal-muscle-diagram.svg
+    note: Unlabeled bone with two muscles, one showing light stripes.
+    reviewed: true
+  - url: images/organs/skeletal-muscle-context.svg
+    note: Skeletal muscle drawn on the upper arm of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='480' height='360' viewBox='0 0 480 360' role='img'>
+<title>Liver</title><desc>Large brown organ with a small green sac.</desc>
+<rect width='100%' height='100%' fill='#fbf6ef'/>
+<g transform='translate(240 188) scale(1.35) translate(-100 -100)'><path d='M18 70 Q20 36 78 40 Q110 30 150 58 Q186 90 160 140 Q110 160 40 132 Q12 112 18 70 Z' fill='#8d4b2a' stroke='#6b341c' stroke-width='3' /><path d='M78 48 Q92 90 70 130' fill='none' stroke='#6b341c' stroke-width='3' /><path d='M118 108 Q132 140 150 132 Q156 112 140 104 Z' fill='#3f8f62' stroke='#246746' stroke-width='2' /></g>
+</svg>

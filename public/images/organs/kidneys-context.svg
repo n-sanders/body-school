@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='480' height='360' viewBox='0 0 480 360' role='img'>
+<title>Kidneys in the body</title><desc>Where this structure sits: Two bean-shaped filters draining to a bladder.</desc>
+<rect width='100%' height='100%' fill='#fbf6ef'/>
+<g fill='none' stroke='#d9cfc4' stroke-width='4' stroke-linejoin='round'><circle cx='240' cy='46' r='26'/><path d='M228 70 v22 h-78 l-8 78 18 8 28-70 v150 l18 28 h64 l18-28 v-150 l28 70 18-8 -8-78 h-78 v-22'/></g><g transform='translate(240 200)'><g transform='translate(-78 -140) scale(0.72)'><path d='M40 40 Q18 80 36 130 Q60 156 78 120 Q90 80 70 40 Q58 28 40 40 Z' fill='#d16b6b' stroke='#a84e4e' stroke-width='3' /><path d='M160 40 Q182 80 164 130 Q140 156 122 120 Q110 80 130 40 Q142 28 160 40 Z' fill='#d16b6b' stroke='#a84e4e' stroke-width='3' /><path d='M58 70 Q70 90 60 112' fill='none' stroke='#f8e4e4' stroke-width='3' /><path d='M142 70 Q130 90 140 112' fill='none' stroke='#f8e4e4' stroke-width='3' /><path d='M62 124 C80 150 80 150 96 168' fill='none' stroke='#a84e4e' stroke-width='4' /><path d='M138 124 C120 150 120 150 104 168' fill='none' stroke='#a84e4e' stroke-width='4' /><ellipse cx='100' cy='176' rx='22' ry='14' fill='#f3c9c4' stroke='#a84e4e' stroke-width='3'/></g></g>
+</svg>

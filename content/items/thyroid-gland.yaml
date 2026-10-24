@@ -1,0 +1,32 @@
+slug: thyroid-gland
+name: Thyroid and pituitary glands
+category: control
+attributes:
+  system: Endocrine
+  location: Neck, and the base of the brain
+  role: Release hormones that guide growth and metabolism
+summary: The butterfly-shaped thyroid in the neck and the small pituitary at the base of the brain.
+traits:
+  - text: The pituitary is often called a master gland because its hormones tell other glands what to do.
+    source: openstax-endocrine
+  - text: The thyroid sits against the windpipe and releases hormones that set the pace of metabolism.
+    source: openstax-thyroid
+  - text: Hormone messages travel in the blood, so they are slower than nerve signals but can last longer.
+    source: openstax-endocrine
+lookAlikes: [adrenal-glands, pancreas, lymph-nodes]
+sources:
+  - id: openstax-endocrine
+    title: "OpenStax Anatomy and Physiology 2e: An Overview of the Endocrine System"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/17-1-an-overview-of-the-endocrine-system
+  - id: openstax-thyroid
+    title: "OpenStax Anatomy and Physiology 2e: The Thyroid Gland"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/17-4-the-thyroid-gland
+images:
+  - url: images/organs/thyroid-gland-diagram.svg
+    note: Unlabeled butterfly-shaped gland on a windpipe.
+    reviewed: true
+  - url: images/organs/thyroid-gland-context.svg
+    note: Thyroid placed at the neck of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

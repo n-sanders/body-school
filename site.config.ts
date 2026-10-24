@@ -48,23 +48,31 @@ export interface SiteConfig {
 }
 
 const config: SiteConfig = {
-  name: "StudyKit",
-  slug: "studykit",
-  emoji: "📚",
-  tagline: "Learn to recognize basic shapes",
-  description: "Work through short lessons, then practice until you can name every shape at a glance.",
+  name: "Body School",
+  slug: "body-school",
+  emoji: "🫀",
+  tagline: "Explore how the human body is built and how its systems work together",
+  description:
+    "Work through seven units from cells and tissues to major organ systems, practice identifying key organs and structures, and see how your body stays in balance.",
   footer:
-    "Example course for the StudyKit skeleton. Shape facts cite [Wikipedia](https://en.wikipedia.org/). Progress is saved only in this browser.",
+    "Body School — a middle-school course on human anatomy and physiology. Diagrams from OpenStax, Wikimedia Commons, and Body School contributors (see IMAGE_CREDITS.md). Progress is saved only in this browser.",
   catalog: {
     enabled: true,
-    singular: "shape",
-    plural: "shapes",
-    categoryLabel: "Kind",
+    singular: "organ",
+    plural: "organs",
+    categoryLabel: "Body System",
     categories: [
-      { id: "curved", label: "Curved" },
-      { id: "polygon", label: "Polygon" },
+      { id: "support", label: "Skeletal & Muscular" },
+      { id: "circulation", label: "Circulatory & Respiratory" },
+      { id: "fuel", label: "Digestive & Urinary" },
+      { id: "control", label: "Nervous & Endocrine" },
+      { id: "protection", label: "Integumentary & Immune" },
     ],
-    attributes: [{ id: "sides", label: "Sides" }],
+    attributes: [
+      { id: "system", label: "System" },
+      { id: "location", label: "Location" },
+      { id: "role", label: "Main Job" },
+    ],
   },
   images: { provider: "pinned" },
   imageCredit: (url) => (url.startsWith("images/") ? "This site" : new URL(url).hostname),

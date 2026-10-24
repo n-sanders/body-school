@@ -1,0 +1,32 @@
+slug: stomach
+name: Stomach
+category: fuel
+attributes:
+  system: Digestive
+  location: Upper abdomen, mostly on the left
+  role: Churns food with acid and enzymes
+summary: A J-shaped muscular sac that stores a meal and begins breaking it down.
+traits:
+  - text: The stomach squeezes and mixes food with acid and enzymes such as pepsin.
+    source: openstax-stomach
+  - text: A mucus lining protects the stomach wall from its own acid.
+    source: wikipedia-stomach
+  - text: Food usually stays here for a few hours before moving into the small intestine as a soupy mix.
+    source: openstax-stomach
+lookAlikes: [liver, pancreas, kidneys]
+sources:
+  - id: openstax-stomach
+    title: "OpenStax Anatomy and Physiology 2e: The Stomach"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach
+  - id: wikipedia-stomach
+    title: "Wikipedia: Stomach"
+    url: https://en.wikipedia.org/wiki/Stomach
+images:
+  - url: images/organs/stomach-diagram.svg
+    note: Unlabeled J-shaped stomach under a short tube.
+    reviewed: true
+  - url: images/organs/stomach-context.svg
+    note: Stomach in the upper abdomen of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

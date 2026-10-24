@@ -1,0 +1,32 @@
+slug: liver
+name: Liver
+category: fuel
+attributes:
+  system: Digestive
+  location: Upper abdomen, mostly on the right
+  role: Makes bile and processes nutrients
+summary: A large organ that makes bile for fat digestion and handles many nutrients arriving from the intestine.
+traits:
+  - text: The liver makes bile, which helps break fats into smaller droplets.
+    source: openstax-accessory
+  - text: The gallbladder is a small sac that stores bile until a meal needs it.
+    source: openstax-accessory
+  - text: Blood from the intestines visits the liver before those nutrients travel on to the rest of the body.
+    source: wikipedia-liver
+lookAlikes: [stomach, pancreas, diaphragm]
+sources:
+  - id: openstax-accessory
+    title: "OpenStax Anatomy and Physiology 2e: The Liver, Pancreas, and Gallbladder"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder
+  - id: wikipedia-liver
+    title: "Wikipedia: Liver"
+    url: https://en.wikipedia.org/wiki/Liver
+images:
+  - url: images/organs/liver-diagram.svg
+    note: Unlabeled liver with a small green gallbladder.
+    reviewed: true
+  - url: images/organs/liver-context.svg
+    note: Liver in the upper right abdomen of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

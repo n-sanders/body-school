@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='480' height='360' viewBox='0 0 480 360' role='img'>
+<title>Skeletal muscle</title><desc>Bone with a muscle that has light stripes.</desc>
+<rect width='100%' height='100%' fill='#fbf6ef'/>
+<g transform='translate(240 188) scale(1.35) translate(-100 -100)'><rect x='90' y='24' width='18' height='150' rx='8' fill='#ead9bc' stroke='#c4ae8e' stroke-width='3'/><circle cx='99' cy='28' r='16' fill='#ead9bc' stroke='#c4ae8e' stroke-width='3'/><circle cx='99' cy='170' r='14' fill='#ead9bc' stroke='#c4ae8e' stroke-width='3'/><path d='M78 50 Q40 90 70 150 Q96 120 108 70 Z' fill='#d4534e' stroke='#a33b3b' stroke-width='3' /><path d='M112 58 Q150 96 124 148 Q104 110 100 70 Z' fill='#e07a6a' stroke='#a33b3b' stroke-width='3' /><path d='M62 80 h28 M58 100 h30 M64 120 h24' stroke='#fff6f4' stroke-width='2' fill='none'/></g>
+</svg>

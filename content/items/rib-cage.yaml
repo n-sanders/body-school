@@ -1,0 +1,32 @@
+slug: rib-cage
+name: Rib cage
+category: support
+attributes:
+  system: Skeletal
+  location: Chest
+  role: Protects the heart and lungs
+summary: Curved ribs and a central breastbone that form a flexible cage around the heart and lungs.
+traits:
+  - text: The rib cage shields the heart and lungs while still leaving room for the chest to expand.
+    source: openstax-skeleton
+  - text: Ribs curve out from the spine and most of them meet the breastbone at the front.
+    source: wikipedia-rib
+  - text: Cartilage lets the cage spring a little with each breath instead of staying rigid.
+    source: wikipedia-rib
+lookAlikes: [skull, spine]
+sources:
+  - id: openstax-skeleton
+    title: "OpenStax Anatomy and Physiology 2e: Functions of the Skeletal System"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/6-1-the-functions-of-the-skeletal-system
+  - id: wikipedia-rib
+    title: "Wikipedia: Rib cage"
+    url: https://en.wikipedia.org/wiki/Rib_cage
+images:
+  - url: images/organs/rib-cage-diagram.svg
+    note: Unlabeled rib cage with a central breastbone and paired curved ribs.
+    reviewed: true
+  - url: images/organs/rib-cage-context.svg
+    note: Rib cage across the chest of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

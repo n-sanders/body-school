@@ -1,0 +1,32 @@
+slug: lungs
+name: Lungs
+category: circulation
+attributes:
+  system: Respiratory
+  location: Chest, one on each side
+  role: Exchange oxygen and carbon dioxide
+summary: Two spongy organs where inhaled air meets blood in tiny air sacs.
+traits:
+  - text: Air reaches the lungs through the windpipe, which splits into bronchi.
+    source: openstax-lungs
+  - text: Tiny air sacs called alveoli are wrapped in capillaries, so gases can move between air and blood.
+    source: openstax-lungs
+  - text: The right lung is usually a bit larger and has three lobes; the left has two, leaving room for the heart.
+    source: wikipedia-lung
+lookAlikes: [heart, diaphragm]
+sources:
+  - id: openstax-lungs
+    title: "OpenStax Anatomy and Physiology 2e: Organs and Structures of the Respiratory System"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system
+  - id: wikipedia-lung
+    title: "Wikipedia: Lung"
+    url: https://en.wikipedia.org/wiki/Lung
+images:
+  - url: images/organs/lungs-diagram.svg
+    note: Unlabeled windpipe splitting into two lungs.
+    reviewed: true
+  - url: images/organs/lungs-context.svg
+    note: Lungs filling the chest of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

@@ -1,15 +1,65 @@
-title: Basic Shapes
-intro: Take the lessons in order. Each one unlocks when you pass the quiz of the lesson before it.
+# Curriculum structure for Body School (middle-school level)
+# Units and lessons appear to learners in this order.
+# Each lesson id must match a file in content/lessons/.
+# Reproductive organs and systems are intentionally outside the scope.
+
+title: Body School
+intro: |
+  Welcome to **Body School**! Work through the units in order to learn how the human body is organized, what the major organs do, and how the body systems work together. Each lesson unlocks when you pass the quiz of the lesson before it. Reproductive systems are left for later study.
+
 units:
-  - id: shapes
-    title: "Unit 1: Recognizing shapes"
-    description: Name common shapes at a glance and tell look-alikes apart.
+  - id: organization
+    title: "Unit 1: From Cells to Systems"
+    description: Learn the levels of organization from cells to the whole body, the four main tissue types, and how organs and systems fit together.
     lessons:
-      - shapes-01-curves
-      - shapes-02-triangle-and-square
-      - shapes-03-pentagon-and-hexagon
-  - id: facts
-    title: "Unit 2: Shape facts"
-    description: A text-only lesson about counting sides and corners.
+      - organization-01-cells-and-tissues
+      - organization-02-organs-and-systems
+      - organization-03-working-together
+
+  - id: support
+    title: "Unit 2: Support and Movement"
+    description: Explore how bones protect and support the body and how muscles pull on bones to create movement.
     lessons:
-      - facts-01-sides-and-corners
+      - support-01-bones-and-joints
+      - support-02-muscles-and-movement
+      - support-03-skeleton-and-muscles-together
+
+  - id: circulation
+    title: "Unit 3: Circulation and Breathing"
+    description: Follow blood through the heart and vessels and air through the lungs to see how oxygen and carbon dioxide are exchanged.
+    lessons:
+      - circulation-01-the-heart-and-blood
+      - circulation-02-blood-vessels-and-exchange
+      - circulation-03-lungs-and-breathing
+
+  - id: fuel
+    title: "Unit 4: Fuel and Waste"
+    description: Trace food through the digestive system and see how the kidneys filter the blood and remove wastes.
+    lessons:
+      - fuel-01-digestion-from-mouth-to-stomach
+      - fuel-02-small-intestine-and-absorption
+      - fuel-03-kidneys-and-urine
+
+  - id: control
+    title: "Unit 5: Control and Coordination"
+    description: Compare fast nerve signals with slower hormone messages and see how the two systems help keep the body stable.
+    lessons:
+      - control-01-brain-and-nerves
+      - control-02-hormones-and-glands
+      - control-03-homeostasis
+
+  - id: protection
+    title: "Unit 6: Protection and Defense"
+    description: Examine the skin as a barrier and the immune and lymphatic systems as the body's defense force.
+    lessons:
+      - protection-01-skin-and-its-jobs
+      - protection-02-immune-cells-and-lymph
+      - protection-03-barriers-and-responses
+
+  - id: together
+    title: "Unit 7: Systems Working Together"
+    description: Watch multiple systems cooperate during everyday activities and see how the body maintains stable internal conditions.
+    lessons:
+      - together-01-exercise-and-energy
+      - together-02-eating-and-recovery
+      - together-03-final-connections

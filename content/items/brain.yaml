@@ -1,0 +1,32 @@
+slug: brain
+name: Brain
+category: control
+attributes:
+  system: Nervous
+  location: Inside the skull
+  role: Processes information and directs responses
+summary: The main control organ, with regions for thinking, movement, balance, and automatic jobs such as breathing rate.
+traits:
+  - text: The large wrinkled cerebrum handles thinking, sensing, and voluntary movement.
+    source: openstax-cns
+  - text: The cerebellum, tucked at the back, helps with balance and smooth movement.
+    source: openstax-cns
+  - text: The brainstem keeps basic jobs going, including breathing rate and heart rate.
+    source: wikipedia-brain
+lookAlikes: [spinal-cord, skull]
+sources:
+  - id: openstax-cns
+    title: "OpenStax Anatomy and Physiology 2e: The Central Nervous System"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system
+  - id: wikipedia-brain
+    title: "Wikipedia: Human brain"
+    url: https://en.wikipedia.org/wiki/Human_brain
+images:
+  - url: images/organs/brain-diagram.svg
+    note: Unlabeled brain with cerebrum, cerebellum, and brainstem.
+    reviewed: true
+  - url: images/organs/brain-context.svg
+    note: Brain inside the head of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

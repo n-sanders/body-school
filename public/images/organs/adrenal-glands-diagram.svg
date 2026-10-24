@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='480' height='360' viewBox='0 0 480 360' role='img'>
+<title>Adrenal glands</title><desc>Small caps sitting on the kidneys.</desc>
+<rect width='100%' height='100%' fill='#fbf6ef'/>
+<g transform='translate(240 188) scale(1.35) translate(-100 -100)'><path d='M40 40 Q18 80 36 130 Q60 156 78 120 Q90 80 70 40 Q58 28 40 40 Z' fill='#d16b6b' stroke='#a84e4e' stroke-width='3' /><path d='M160 40 Q182 80 164 130 Q140 156 122 120 Q110 80 130 40 Q142 28 160 40 Z' fill='#d16b6b' stroke='#a84e4e' stroke-width='3' /><path d='M58 70 Q70 90 60 112' fill='none' stroke='#f8e4e4' stroke-width='3' /><path d='M142 70 Q130 90 140 112' fill='none' stroke='#f8e4e4' stroke-width='3' /><path d='M62 124 C80 150 80 150 96 168' fill='none' stroke='#a84e4e' stroke-width='4' /><path d='M138 124 C120 150 120 150 104 168' fill='none' stroke='#a84e4e' stroke-width='4' /><ellipse cx='100' cy='176' rx='22' ry='14' fill='#f3c9c4' stroke='#a84e4e' stroke-width='3'/><path d='M36 36 L62 18 L78 42 Z' fill='#e6c15c' stroke='#b89030' stroke-width='2' /><path d='M164 36 L138 18 L122 42 Z' fill='#e6c15c' stroke='#b89030' stroke-width='2' /></g>
+</svg>

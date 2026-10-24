@@ -1,0 +1,24 @@
+Unit 1: From Cells to Systems
+Approach
+
+Start with the concrete idea that the body is built from smaller parts that work together. Introduce the levels of organization from cells up to the whole organism, then briefly describe the four main tissue types so later units have a foundation. Emphasize that organs are groups of tissues that perform a job, and systems are groups of organs that share a larger job. Keep examples familiar and visual.
+
+Key concepts
+
+The human body is organized in levels:
+- Cells are the basic living units. Different cells have different shapes and jobs (example: a muscle cell contracts, a nerve cell carries signals).
+- Tissues are groups of similar cells working together. The four main types are epithelial (covers and lines surfaces), connective (supports and connects), muscle (contracts to produce movement), and nervous (carries signals).
+- Organs are structures made of two or more tissue types that perform a specific function (examples: heart, lungs, stomach, brain).
+- Organ systems are groups of organs that work together to perform major body functions (examples: circulatory system, digestive system).
+- The whole organism is the complete living person made of all the systems working together.
+
+Organs and systems do not work in isolation. Each system depends on others. For example, muscles need oxygen delivered by the circulatory system, which itself depends on the respiratory system.
+
+The course will focus on the major organs and systems, leaving reproductive organs and systems for later study if desired.
+
+Tone guidance for lessons
+
+Begin with something a student can picture (a single brick → a wall → a house → a neighborhood) before introducing the biological terms.
+Use simple side-by-side examples of different cell or tissue types rather than long lists of specialized names.
+Stress the idea of “parts working together” so the rest of the course feels connected rather than a collection of separate topics.
+Keep language concrete and observational. End by noting that the following units will examine specific systems one at a time, always returning to how they serve the whole body.

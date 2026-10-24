@@ -1,0 +1,32 @@
+slug: spleen
+name: Spleen
+category: protection
+attributes:
+  system: Lymphatic and immune
+  location: Upper left abdomen
+  role: Filters blood and helps immune cells
+summary: A fist-sized organ that filters blood, recycles old red blood cells, and helps the immune response.
+traits:
+  - text: The spleen sits in the upper left abdomen, tucked near the stomach.
+    source: openstax-lymph
+  - text: It filters blood rather than lymph, and it removes worn-out red blood cells.
+    source: wikipedia-spleen
+  - text: Immune cells in the spleen watch the blood for invaders.
+    source: openstax-lymph
+lookAlikes: [kidneys, stomach, lymph-nodes]
+sources:
+  - id: openstax-lymph
+    title: "OpenStax Anatomy and Physiology 2e: Anatomy of the Lymphatic and Immune Systems"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems
+  - id: wikipedia-spleen
+    title: "Wikipedia: Spleen"
+    url: https://en.wikipedia.org/wiki/Spleen
+images:
+  - url: images/organs/spleen-diagram.svg
+    note: Unlabeled purple spleen beside a pale stomach.
+    reviewed: true
+  - url: images/organs/spleen-context.svg
+    note: Spleen in the upper left abdomen of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

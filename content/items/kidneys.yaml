@@ -1,0 +1,32 @@
+slug: kidneys
+name: Kidneys
+category: fuel
+attributes:
+  system: Urinary
+  location: Back of the abdomen, one on each side
+  role: Filter blood and make urine
+summary: A pair of bean-shaped filters that clean the blood and send urine toward the bladder.
+traits:
+  - text: The kidneys filter blood all day, then return useful water, salts, and nutrients to the blood.
+    source: openstax-kidney
+  - text: Wastes and extra water leave as urine, travel down the ureters, and are stored in the bladder.
+    source: openstax-kidney
+  - text: The kidneys also help balance water, salts, and blood pressure.
+    source: wikipedia-kidney
+lookAlikes: [stomach, spleen, adrenal-glands]
+sources:
+  - id: openstax-kidney
+    title: "OpenStax Anatomy and Physiology 2e: Gross Anatomy of the Kidney"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney
+  - id: wikipedia-kidney
+    title: "Wikipedia: Kidney"
+    url: https://en.wikipedia.org/wiki/Kidney
+images:
+  - url: images/organs/kidneys-diagram.svg
+    note: Unlabeled pair of kidneys draining toward a bladder.
+    reviewed: true
+  - url: images/organs/kidneys-context.svg
+    note: Kidneys on either side of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

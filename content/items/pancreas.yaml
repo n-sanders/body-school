@@ -1,0 +1,32 @@
+slug: pancreas
+name: Pancreas
+category: fuel
+attributes:
+  system: Digestive and endocrine
+  location: Behind the stomach
+  role: Makes digestive enzymes and insulin
+summary: A long gland that pours enzymes into the small intestine and releases insulin and glucagon into the blood.
+traits:
+  - text: Most of the pancreas makes digestive enzymes and bicarbonate that empty into the small intestine.
+    source: openstax-accessory
+  - text: Small clusters of cells in the pancreas release insulin, which helps lower blood sugar.
+    source: openstax-pancreas
+  - text: Glucagon from the pancreas has the opposite job and helps raise blood sugar.
+    source: openstax-pancreas
+lookAlikes: [liver, stomach, thyroid-gland]
+sources:
+  - id: openstax-accessory
+    title: "OpenStax Anatomy and Physiology 2e: The Liver, Pancreas, and Gallbladder"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder
+  - id: openstax-pancreas
+    title: "OpenStax Anatomy and Physiology 2e: The Endocrine Pancreas"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/17-9-the-endocrine-pancreas
+images:
+  - url: images/organs/pancreas-diagram.svg
+    note: Unlabeled long bumpy gland across a faint stomach.
+    reviewed: true
+  - url: images/organs/pancreas-context.svg
+    note: Pancreas across the upper abdomen of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

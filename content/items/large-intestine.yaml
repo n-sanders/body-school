@@ -1,0 +1,32 @@
+slug: large-intestine
+name: Large intestine
+category: fuel
+attributes:
+  system: Digestive
+  location: Frames the small intestine
+  role: Absorbs water and forms feces
+summary: A wider tube that recovers water from leftover food and packages the waste.
+traits:
+  - text: The large intestine is shorter than the small intestine but wider.
+    source: openstax-intestine
+  - text: It absorbs water and some salts, and the remaining material becomes feces.
+    source: openstax-intestine
+  - text: It frames the small intestine, with sections that travel up, across, and down the abdomen.
+    source: wikipedia-large
+lookAlikes: [small-intestine, stomach]
+sources:
+  - id: openstax-intestine
+    title: "OpenStax Anatomy and Physiology 2e: The Small and Large Intestines"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines
+  - id: wikipedia-large
+    title: "Wikipedia: Large intestine"
+    url: https://en.wikipedia.org/wiki/Large_intestine
+images:
+  - url: images/organs/large-intestine-diagram.svg
+    note: Unlabeled wider tube framing a central coil.
+    reviewed: true
+  - url: images/organs/large-intestine-context.svg
+    note: Large intestine framing the abdomen of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

@@ -1,0 +1,35 @@
+slug: spinal-cord
+name: Spinal cord
+category: control
+attributes:
+  system: Nervous
+  location: Inside the spine
+  role: Carries signals between the brain and the body
+summary: The main nerve cable running through the vertebrae, with nerves branching out to the body.
+traits:
+  - text: The spinal cord is part of the central nervous system, together with the brain.
+    source: openstax-cns
+  - text: Sensory signals travel in toward the cord, and motor signals travel out to muscles and glands.
+    source: openstax-nerves
+  - text: Some quick reflexes are routed through the spinal cord before you have time to think.
+    source: wikipedia-cord
+lookAlikes: [brain, spine, blood-vessels]
+sources:
+  - id: openstax-cns
+    title: "OpenStax Anatomy and Physiology 2e: The Central Nervous System"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system
+  - id: openstax-nerves
+    title: "OpenStax Anatomy and Physiology 2e: Basic Structure and Function of the Nervous System"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system
+  - id: wikipedia-cord
+    title: "Wikipedia: Spinal cord"
+    url: https://en.wikipedia.org/wiki/Spinal_cord
+images:
+  - url: images/organs/spinal-cord-diagram.svg
+    note: Unlabeled cord inside vertebrae with side branches.
+    reviewed: true
+  - url: images/organs/spinal-cord-context.svg
+    note: Spinal cord down the back of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"

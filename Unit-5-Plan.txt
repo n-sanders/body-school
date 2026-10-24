@@ -1,0 +1,27 @@
+Unit 5: Control and Coordination — Nervous and Endocrine Systems
+Approach
+
+Show two complementary ways the body sends messages: fast electrical signals through nerves, and slower chemical messages (hormones) through the blood. Introduce the major parts of the nervous system and a few key endocrine glands, then illustrate how the two systems often work together to keep conditions stable (homeostasis).
+
+Key concepts
+
+The nervous system detects changes, processes information, and directs responses.
+- The central nervous system includes the brain and spinal cord. The brain has regions specialized for different jobs (thinking, movement, balance, breathing rate, etc.).
+- The peripheral nervous system is the network of nerves that connect the central nervous system to the rest of the body.
+- Sensory organs (eyes, ears, skin, etc.) gather information. Motor nerves carry instructions to muscles and glands.
+- Signals travel very quickly as electrical impulses along neurons and chemical messages across synapses.
+
+The endocrine system uses hormones—chemical messengers released into the blood by glands.
+- Major glands include the pituitary (often called the “master gland”), thyroid, adrenal glands, pancreas (insulin and glucagon), and others.
+- Hormones travel more slowly than nerve signals but can affect many cells at once and for a longer time.
+- Examples: insulin lowers blood sugar; adrenaline prepares the body for sudden action; growth hormone influences growth.
+
+The two systems cooperate. The brain can signal endocrine glands, and hormones can influence the brain and other organs. Together they help maintain homeostasis—relatively stable internal conditions despite changes outside or inside the body.
+
+Tone guidance for lessons
+
+Begin with everyday examples of fast reactions (pulling a hand from a hot stove) versus slower changes (feeling hungry or sleepy) to distinguish nervous and endocrine control.
+Use simple analogies (a telephone network for nerves; a broadcast radio message for hormones) without over-relying on them.
+Name a small set of major brain regions and glands rather than a complete catalog.
+Emphasize coordination and balance rather than isolated facts about individual hormones.
+End by noting that the next unit covers the systems that protect the body from the outside world and from invaders.

@@ -1,9 +1,9 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   // Worker name and *.workers.dev subdomain; change it for each topic.
-  "name": "studykit",
+  "name": "body-school",
   // Set this to today's date
-  "compatibility_date": "2026-10-21",
+  "compatibility_date": "2026-10-24",
   "compatibility_flags": ["nodejs_compat"],
   "observability": {
     "enabled": true,

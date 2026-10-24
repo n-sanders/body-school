@@ -1,0 +1,32 @@
+slug: heart
+name: Heart
+category: circulation
+attributes:
+  system: Circulatory
+  location: Center of the chest, tipped left
+  role: Pumps blood to the lungs and the body
+summary: A four-chamber muscular pump that keeps blood moving day and night.
+traits:
+  - text: The heart has two upper rooms (atria) and two lower rooms (ventricles).
+    source: openstax-heart
+  - text: The right side sends blood to the lungs. The left side sends blood to the rest of the body.
+    source: openstax-heart
+  - text: Heart muscle is cardiac muscle. It contracts on its own, without you deciding to flex it.
+    source: wikipedia-heart
+lookAlikes: [lungs, stomach, skeletal-muscle]
+sources:
+  - id: openstax-heart
+    title: "OpenStax Anatomy and Physiology 2e: Heart Anatomy"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy
+  - id: wikipedia-heart
+    title: "Wikipedia: Heart"
+    url: https://en.wikipedia.org/wiki/Heart
+images:
+  - url: images/organs/heart-diagram.svg
+    note: Unlabeled heart with chamber lines and an arching vessel.
+    reviewed: true
+  - url: images/organs/heart-context.svg
+    note: Heart placed in the chest of a simple body outline.
+    reviewed: true
+reviewedBy: body-school
+reviewedOn: "2026-10-24"
