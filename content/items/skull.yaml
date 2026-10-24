@@ -9,11 +9,13 @@ summary: A bony case around the brain, with a movable lower jaw and openings for
 traits:
   - text: The rounded cranium wraps the brain, and the seams between its bones barely move.
     source: openstax-skeleton
-  - text: The lower jaw is a movable joint, so the skull is not one solid unmoving bone.
+  - text: The lower jaw moves at joints with the rest of the skull; the skull is not one solid unmoving bone.
     source: wikipedia-skull
   - text: Openings in the front of the skull make room for the eyes, nose, and teeth.
     source: wikipedia-skull
-lookAlikes: [rib-cage, spine]
+lookAlikes:
+  - rib-cage
+  - spine
 sources:
   - id: openstax-skeleton
     title: "OpenStax Anatomy and Physiology 2e: Functions of the Skeletal System"
@@ -22,11 +24,8 @@ sources:
     title: "Wikipedia: Skull"
     url: https://en.wikipedia.org/wiki/Skull
 images:
-  - url: images/organs/skull-diagram.svg
-    note: Unlabeled skull with cranium, jaw, eye openings, and teeth.
+  - url: images/lessons/sourced-skeleton.svg
+    note: "Full skeleton: focus on the skull at the head. The other labelled bones provide context."
     reviewed: true
-  - url: images/organs/skull-context.svg
-    note: Skull sitting at the top of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

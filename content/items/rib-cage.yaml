@@ -13,7 +13,9 @@ traits:
     source: wikipedia-rib
   - text: Cartilage lets the cage spring a little with each breath instead of staying rigid.
     source: wikipedia-rib
-lookAlikes: [skull, spine]
+lookAlikes:
+  - skull
+  - spine
 sources:
   - id: openstax-skeleton
     title: "OpenStax Anatomy and Physiology 2e: Functions of the Skeletal System"
@@ -22,11 +24,8 @@ sources:
     title: "Wikipedia: Rib cage"
     url: https://en.wikipedia.org/wiki/Rib_cage
 images:
-  - url: images/organs/rib-cage-diagram.svg
-    note: Unlabeled rib cage with a central breastbone and paired curved ribs.
+  - url: images/lessons/sourced-skeleton.svg
+    note: "Full skeleton: focus on the ribs around the chest."
     reviewed: true
-  - url: images/organs/rib-cage-context.svg
-    note: Rib cage across the chest of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

@@ -13,7 +13,9 @@ traits:
     source: openstax-skin
   - text: Sweat and changes in blood flow help control body temperature, and sunlight on skin helps make vitamin D.
     source: wikipedia-skin
-lookAlikes: [lymph-nodes, spleen]
+lookAlikes:
+  - lymph-nodes
+  - spleen
 sources:
   - id: openstax-skin
     title: "OpenStax Anatomy and Physiology 2e: Layers of the Skin"
@@ -22,11 +24,8 @@ sources:
     title: "Wikipedia: Human skin"
     url: https://en.wikipedia.org/wiki/Human_skin
 images:
-  - url: images/organs/skin-diagram.svg
-    note: Unlabeled skin layers with a hair and a small gland.
+  - url: images/servier/skin.png
+    note: "Intact skin in section: the outside surface lies above deeper tissue and vessels."
     reviewed: true
-  - url: images/organs/skin-context.svg
-    note: Skin layers drawn along the side of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

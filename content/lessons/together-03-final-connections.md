@@ -1,14 +1,13 @@
 ---
 id: together-03-final-connections
-title: Final connections
+title: "Final connections: Explain, predict, check"
 unit: together
-summary: The body is one organism that keeps internal conditions in range by letting systems share the work.
+summary: A strong body explanation follows materials and signals and uses evidence carefully.
 prerequisites:
   - together-02-eating-and-recovery
 objectives:
-  - Put the levels of organization back together with real systems
-  - Use negative feedback to explain temperature, oxygen, sugar, or water
-  - Explain how careful observation carries into any later study of the body
+  - A strong body explanation follows materials and signals and uses evidence carefully.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 sources:
   - id: openstax-organization
     title: "OpenStax Anatomy and Physiology 2e: Structural Organization of the Human Body"
@@ -18,96 +17,67 @@ sources:
     url: https://medlineplus.gov/anatomy.html
 quiz:
   - type: question
-    prompt: Which sequence still describes the whole body at the end of the course?
+    prompt: What makes a prediction useful?
     choices:
-      - Cells, tissues, organs, systems, one organism
-      - Organs, cells, rocks, systems
-      - Only hormones, with no cells involved
-    answer: Cells, tissues, organs, systems, one organism
-    explanation: Unit 1's ladder never went away. Every later organ is still made of tissues and cells.
+      - It explains how a changed condition affects a later step
+      - It names an organ without explaining any effect
+      - It assumes every possible change has the same consequence
+    answer: It explains how a changed condition affects a later step
+    explanation: A mechanism connects cause with an expected effect.
   - type: question
-    prompt: On a cold walk, which response conserves heat?
+    prompt: Which evidence would directly distinguish faster from deeper breathing?
     choices:
-      - Less blood flow to the skin, plus shivering
-      - Sweat poured on purpose to cool you further
-      - The stomach stops acid so the skin can freeze
-    answer: Less blood flow to the skin, plus shivering
-    explanation: Nerves and hormones start the response. Muscles shiver. Skin and circulation keep heat in. That is negative feedback against the cold.
+      - Both breath count and air moved per breath
+      - Breath count alone for both rate and depth
+      - Pulse count alone for both rate and depth
+    answer: Both breath count and air moved per breath
+    explanation: Rate and depth require different information.
   - type: question
-    prompt: Oxygen level is part of homeostasis. Where is the gas exchange you would mention?
+    prompt: Why can one working organ fail to guarantee a successful process?
     choices:
-      - Between alveoli and capillaries in the lungs
-      - Between villi and bile
-      - Inside a skull suture
-    answer: Between alveoli and capillaries in the lungs
-    explanation: Breathing rate changes when cells need more oxygen. The meeting place is still the air sac from Unit 3.
+      - Other links in the process may not work
+      - The strongest organ always replaces any failed connection
+      - A working pump guarantees delivery regardless of routes
+    answer: Other links in the process may not work
+    explanation: A chain depends on multiple working connections.
   - type: question
-    prompt: What do a sprint, a meal, and a scrape have in common?
+    prompt: What should a system explanation include beyond names?
     choices:
-      - Several systems contribute, and the body is pushed back toward a workable range
-      - Each one uses only the spleen
-      - Each one invents a new organ
-    answer: Several systems contribute, and the body is pushed back toward a workable range
-    explanation: Cooperation and homeostasis are the two ideas Unit 7 keeps repeating.
+      - Materials or information moving between parts and their effects
+      - A list of organs without connections
+      - Only the size and color of the illustrated structures
+    answer: Materials or information moving between parts and their effects
+    explanation: Routes and effects explain cooperation.
   - type: question
-    prompt: Why were reproductive systems left out?
+    prompt: How can a simple model support later learning?
     choices:
-      - They are a later topic. The systems in this course already show how a body is supported
-      - The body has no other organs
-      - Hormones do not exist outside this course
-    answer: They are a later topic. The systems in this course already show how a body is supported
-    explanation: Students who study reproduction later already know circulation, hormones, protection, and homeostasis.
-  - type: question
-    prompt: A negative feedback loop usually...
-    choices:
-      - Reverses the change that set it off
-      - Makes every change larger on purpose
-      - Works only in bones
-    answer: Reverses the change that set it off
-    explanation: Sensor, control center, effector. The effector's job is to bring the condition back.
-  - type: question
-    prompt: What habit from this course is worth keeping?
-    choices:
-      - Ask what job a part does, what it connects to, and how you could check the idea
-      - Memorize every vessel and then stop asking questions
-      - Treat each organ as if the others do not exist
-    answer: Ask what job a part does, what it connects to, and how you could check the idea
-    explanation: The same observation works on any further study of the body.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - It provides connections to refine with more detail and evidence
+      - It must already include every detail to be useful
+      - Its simplified connections can never be refined
+    answer: It provides connections to refine with more detail and evidence
+    explanation: A useful foundation can be expanded and corrected.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+items: []
+images: []
+compare: []
+passMark: 0.8
 ---
 
-## Back to the first picture
+## Build a model you can use later
+Choose an everyday event: walking upstairs, eating lunch, hearing a warning, or cooling after a game. Begin with an observation. Then explain how at least three systems contribute different jobs.
 
-A brick, a wall, a house, a neighborhood. A cell, a tissue, an organ, a system, a person. The units in between gave the house its rooms:
+Follow one material, such as oxygen, glucose, water, or carbon dioxide. State where it starts, what barrier or route it crosses, and where it goes next. Follow one signal too: a nerve command or a hormone message.
 
-- bones and muscles for support and movement
-- heart, vessels, lungs, and diaphragm for oxygen
-- digestive organs and kidneys for fuel and waste
-- brain, cord, and glands for fast and slow messages
-- skin, lymph, and spleen for the wall and the response
+## Make a prediction
+Change one condition in your model. Perhaps an exchange surface is reduced or a transport route is blocked. Predict which later step would be affected and explain why. A prediction should follow from a mechanism, not just say that everything gets worse.
 
-None of those rooms runs the house alone.
+## Check what evidence can show
+A count of breaths shows rate, not depth. A faster pulse shows heart rate, not every part of oxygen delivery. Good explanations distinguish measured observations from inferred processes.
 
-![Temperature, oxygen, sugar, and water around a stable range](images/lessons/together-03-connections.svg)
+Scientific models are useful without showing every detail. High-school courses will add chemistry, cell mechanisms, and more precise measurements to these same connections.
 
-*Different conditions, the same kind of balance. (Diagram made for Body School.)*
+**Final explain-aloud task:** In four or five sentences, connect a material journey, a control signal, and a response to changing conditions.
 
-## The same loop, different sensors
 
-Homeostasis is practical. The body works to keep conditions in a comfortable range.
-
-- **Cold.** Sensors report the drop. You shiver (muscles). Blood flow to the skin falls (circulation and skin). Hormones can support a longer response. The change — getting colder — is opposed.
-- **Low oxygen during work.** Breathing and heart rate rise. Remember the alveoli: oxygen in, carbon dioxide out.
-- **A sugary meal.** Insulin helps bring blood sugar down. Glucagon helps if it falls too far.
-- **Extra water.** The kidneys release more urine. Too little water, and they keep more.
-
-Sensor, control center, effector. Negative feedback reverses the change. You have already seen every piece of that sentence in an earlier unit.
-
-## What was left for later
-
-The reproductive system is still outside this course. If you study it later, you will already know how blood, hormones, protection, and homeostasis support a living body. Nothing in these seven units depends on that later topic.
-
-## A way of looking
-
-The useful habit was never a longer list of names. It was a question: **What is this part for, what does it connect to, and how would I check?** That question works on a bone, a capillary, a kidney, or anything you study next. The body stays one organism. The careful looking is yours to keep.
+**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

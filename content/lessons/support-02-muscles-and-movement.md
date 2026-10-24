@@ -1,14 +1,13 @@
 ---
 id: support-02-muscles-and-movement
-title: Muscles and movement
+title: Muscles make tension
 unit: support
-summary: Three kinds of muscle tissue share the ability to shorten, but only skeletal muscle is under your direct control.
+summary: Muscle tissue can move parts or hold them steady.
 prerequisites:
   - support-01-bones-and-joints
 objectives:
-  - Distinguish skeletal, cardiac, and smooth muscle
-  - Explain why a skeletal muscle pulls and does not push
-  - Recognize skeletal muscle attached to a bone
+  - Muscle tissue can move parts or hold them steady.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - skeletal-muscle
 sources:
@@ -19,86 +18,69 @@ sources:
     title: "Wikipedia: Skeletal muscle"
     url: https://en.wikipedia.org/wiki/Skeletal_muscle
 quiz:
-  - type: identify
-    item: skeletal-muscle
-  - type: find
-    item: skeletal-muscle
   - type: question
-    prompt: Which muscle type do you use on purpose when you lift a book?
+    prompt: Why can an arm tire while holding a book still?
     choices:
-      - Skeletal muscle
-      - Cardiac muscle only
-      - Smooth muscle in the stomach
-    answer: Skeletal muscle
-    explanation: Skeletal muscle is voluntary. Cardiac and smooth muscle contract automatically.
+      - Muscles are maintaining tension
+      - Muscles must be resting because their length is not changing
+      - Only moving a load requires muscle tension
+    answer: Muscles are maintaining tension
+    explanation: Muscles can work without shortening visibly.
   - type: question
-    prompt: Where is cardiac muscle found?
+    prompt: What is the tendon’s role during a movement?
     choices:
-      - In the heart
-      - Only in the fingers
-      - In the outer layer of the skin
-    answer: In the heart
-    explanation: Cardiac muscle builds the heart wall and keeps pumping without a conscious decision.
+      - Transfer a muscle’s pull to a bone
+      - Choose when a muscle should contract
+      - Connect one bone directly to another bone
+    answer: Transfer a muscle’s pull to a bone
+    explanation: Tendons connect muscle to bone and transmit force.
   - type: question
-    prompt: Smooth muscle is most likely to be found where?
+    prompt: Why are opposing muscles useful?
     choices:
-      - In the wall of the stomach or a blood vessel
-      - Covering the outside of the skull
-      - Inside a tooth
-    answer: In the wall of the stomach or a blood vessel
-    explanation: Smooth muscle works automatically in organs and vessel walls.
+      - They can pull a joint in opposite directions
+      - A single muscle can push the bone back when it relaxes
+      - Relaxation of one muscle always supplies the opposite force
+    answer: They can pull a joint in opposite directions
+    explanation: Muscles pull; a different pull produces the opposite motion.
   - type: question
-    prompt: Why do teachers say a muscle pulls and never pushes?
+    prompt: Why does digestion continue while you are concentrating on a game?
     choices:
-      - Muscle cells shorten. They cannot lengthen themselves to shove a bone
-      - Muscles are filled with air and can only inflate
-      - Bones refuse to be pushed because of gravity
-    answer: Muscle cells shorten. They cannot lengthen themselves to shove a bone
-    explanation: Shortening pulls on the tendon and the bone. Lengthening happens when another force, often the partner muscle, stretches it.
+      - Smooth muscle activity is controlled largely automatically
+      - Digestive movement stops unless you pay attention to it
+      - Smooth muscle works only when the skeleton moves
+    answer: Smooth muscle activity is controlled largely automatically
+    explanation: Organ movement does not require a conscious decision for each contraction.
   - type: question
-    prompt: What connects skeletal muscle to bone?
+    prompt: Which claim about skeletal muscles needs correcting?
     choices:
-      - A tendon
-      - A capillary in the lung
-      - Bile from the liver
-    answer: A tendon
-    explanation: Tendons attach muscle to bone. Ligaments attach bone to bone.
-  - type: question
-    prompt: Which description matches skeletal muscle's look?
-    choices:
-      - It is striped, or striated, because of the way its proteins line up
-      - It is a hollow air sac
-      - It is a bean-shaped filter
-    answer: It is striped, or striated, because of the way its proteins line up
-    explanation: The stripes are a clue in diagrams and under a microscope. Cardiac muscle is striped too, but it is found in the heart.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Every skeletal muscle action must be consciously chosen
+      - Skeletal muscles can help maintain posture
+      - Skeletal muscles transfer pulls through tendons
+    answer: Every skeletal muscle action must be consciously chosen
+    explanation: Reflexes and posture involve automatic control of skeletal muscle too.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+compare: []
+passMark: 0.8
 ---
 
-## Movement you can feel
+## Pulling and holding
+A muscle **contracts** when its cells develop tension. It may shorten, as when you lift a book, or stay about the same length while you hold the book still. During controlled lowering, an active muscle can even lengthen while resisting a load.
 
-Bend your elbow. The bulge in the upper arm is **skeletal muscle**. You chose to contract it. That is the meaning of **voluntary**.
+Skeletal muscles attach to bones through **tendons**, strong connective tissues that transfer a pull. A muscle cannot push a bone back the opposite way. Other muscles supply the opposite pull.
 
-There are two other muscle tissues, and you do not steer them thought by thought.
 
-| Muscle | Where it is | Who is in charge |
-| --- | --- | --- |
-| Skeletal | Attached to bones | You, for ordinary movements |
-| Cardiac | The heart | Automatic |
-| Smooth | Stomach, intestines, blood vessels, and other organs | Automatic |
+![A muscle contains bundles of smaller fibers. Focus on how the tendon connects the muscle to a bone.](images/lessons/sourced-muscle-structure.jpg)
 
-![Skeletal, cardiac, and smooth muscle](images/lessons/support-02-muscle-types.svg)
+*A muscle contains bundles of smaller fibers. Focus on how the tendon connects the muscle to a bone. [Source and license](#/credits).*
 
-*All three can shorten. Only skeletal muscle waits for you to decide. (Diagram made for Body School.)*
+## Three places to find muscle
+Skeletal muscle moves the skeleton and helps maintain posture. You can control many of these movements, but posture and reflex actions also involve automatic control.
 
-![Muscle tissue types](images/lessons/sourced-muscle-tissues.jpg)
+Heart muscle contracts to pump blood. Smooth muscle in organs such as the digestive tract helps move contents along. These actions normally happen without a decision for every contraction.
 
-*Skeletal, cardiac, and smooth muscle as drawn for the SEER training modules. (National Cancer Institute, public domain, via Wikimedia Commons.)*
+## Try an explanation
+Imagine carrying a tray without tilting it. Your arms barely move, but muscles maintain tension to hold their position. Visible movement is therefore not the only evidence of muscle work.
 
-## Pull, never push
-
-A muscle works by **shortening**. When skeletal muscle shortens, it tugs on a **tendon**, and the tendon tugs on a bone. It cannot lengthen itself to shove the bone the other way.
-
-That is why muscles work in teams. One muscle pulls a bone one direction. A partner pulls it back. The next lesson puts that pair on the skeleton.
-
-Skeletal muscle also needs a supply line. Shortening costs energy and oxygen. Circulation and breathing, in the following unit, are how those supplies arrive.
+**Explain aloud:** How are lifting a tray and holding it still alike? How do they differ?

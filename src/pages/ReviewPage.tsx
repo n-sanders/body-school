@@ -3,7 +3,7 @@ import { Link } from "react-router";
 import { allItems, content } from "../content/loader";
 import { useProgress } from "../hooks/useProgress";
 import { PracticeSession } from "../components/PracticeSession";
-import { knownDueCards, studiedItems } from "../lib/learning";
+import { knownDueCards, studiedItems, practiceCardEnabled } from "../lib/learning";
 import { BOX_INTERVAL_DAYS, MAX_BOX, nextDue } from "../lib/progress";
 import { cardExists, cardLabel } from "../lib/quiz";
 
@@ -24,11 +24,12 @@ export function ReviewPage() {
     setSession((s) => s + 1);
   };
 
-  const upcoming = nextDue(progress);
+  const reviewProgress = { ...progress, cards: Object.fromEntries(Object.entries(progress.cards).filter(([key]) => practiceCardEnabled(key) && cardExists(content, key))) };
+  const upcoming = nextDue(reviewProgress);
   const boxes = Array.from({ length: MAX_BOX }, (_, i) => i + 1).map((box) => ({
     box,
     cards: Object.entries(progress.cards)
-      .filter(([key, s]) => s.box === box && cardExists(content, key))
+      .filter(([key, s]) => s.box === box && cardExists(content, key) && practiceCardEnabled(key))
       .map(([key]) => cardLabel(content, key)),
   }));
 

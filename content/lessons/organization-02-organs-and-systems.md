@@ -2,13 +2,12 @@
 id: organization-02-organs-and-systems
 title: Organs and systems
 unit: organization
-summary: Organs are structures made of more than one tissue, and systems are teams of organs.
+summary: An organ combines tissues, and a system connects organs that cooperate.
 prerequisites:
   - organization-01-cells-and-tissues
 objectives:
-  - Explain how an organ is different from a tissue
-  - Name several major organs and the system each belongs to
-  - State why this course leaves reproductive organs for later study
+  - An organ combines tissues, and a system connects organs that cooperate.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 sources:
   - id: openstax-organization
     title: "OpenStax Anatomy and Physiology 2e: Structural Organization of the Human Body"
@@ -18,68 +17,56 @@ sources:
     url: https://medlineplus.gov/anatomy.html
 quiz:
   - type: question
-    prompt: What makes a structure an organ?
+    prompt: Why is the stomach an organ rather than a single tissue?
     choices:
-      - It is made of two or more tissue types and does a specific job
-      - It is any single cell with a special shape
-      - It is only a bone, because bones are hard
-    answer: It is made of two or more tissue types and does a specific job
-    explanation: An organ such as the stomach uses lining, muscle, nerve, and connective tissue together.
+      - Different tissues cooperate to mix, protect, and control it
+      - Its large size alone makes it an organ
+      - Every cell in it has the same structure and job
+    answer: Different tissues cooperate to mix, protect, and control it
+    explanation: An organ contains multiple tissue types with connected jobs.
   - type: question
-    prompt: Which group is an organ system?
+    prompt: Which example shows a system?
     choices:
-      - The heart, blood, and blood vessels working as the circulatory system
-      - One muscle cell by itself
-      - A single layer of skin cells
-    answer: The heart, blood, and blood vessels working as the circulatory system
-    explanation: A system is a team of organs that share a larger job.
+      - Several organs cooperating to digest and absorb food
+      - Different cells working only as one lining tissue
+      - One cell carrying out a specialized job
+    answer: Several organs cooperating to digest and absorb food
+    explanation: A system connects organs with related functions.
   - type: question
-    prompt: Which organs does this course treat as outside its scope?
+    prompt: A heart pumps normally, but a vessel is blocked. Why can delivery still fail?
     choices:
-      - Reproductive organs
-      - The heart and lungs
-      - The brain and stomach
-    answer: Reproductive organs
-    explanation: Body School studies the major organs that support everyday life and leaves reproductive systems for later study.
+      - Transport depends on the pump and the connected route
+      - The heart can guarantee delivery regardless of the vessel
+      - A blocked route affects only the vessel, never nearby cells
+    answer: Transport depends on the pump and the connected route
+    explanation: A working organ cannot complete a system’s task alone.
   - type: question
-    prompt: Why can the stomach be used as an example of an organ?
+    prompt: Why can one organ belong in more than one system discussion?
     choices:
-      - Its wall uses several tissues so it can line, squeeze, sense, and receive blood
-      - It is made of only one cell
-      - It is a tissue type, not an organ
-    answer: Its wall uses several tissues so it can line, squeeze, sense, and receive blood
-    explanation: Epithelium lines it, muscle churns food, nerves coordinate the work, and blood supplies the cells.
+      - One organ may contribute to several connected jobs
+      - Each organ can perform only one kind of job
+      - Every system has completely separate materials and routes
+    answer: One organ may contribute to several connected jobs
+    explanation: System boundaries are useful models, not sealed compartments.
   - type: question
-    prompt: Which pairing is correct?
+    prompt: Which order shows how small working parts build larger ones?
     choices:
-      - Lungs belong to the respiratory system
-      - The skull belongs to the digestive system
-      - Kidneys belong to the muscular system
-    answer: Lungs belong to the respiratory system
-    explanation: The lungs exchange gases. Kidneys filter blood. The skull is part of the skeleton.
-  - type: question
-    prompt: What is the whole organism in this course?
-    choices:
-      - The complete living person, made of all the systems working together
-      - Only the brain
-      - Only the cells that can be seen without a microscope
-    answer: The complete living person, made of all the systems working together
-    explanation: The organism is the top level. Every system is part of that one person.
-  - type: question
-    prompt: A house with different rooms is most like which idea?
-    choices:
-      - An organ built from different tissues, or a body built from different systems
-      - A single epithelial cell
-      - A mineral stored in bone
-    answer: An organ built from different tissues, or a body built from different systems
-    explanation: Different parts, fitted together, do a job that none of them could do alone.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Cells form tissues; tissues form organs; organs cooperate in systems
+      - Cells form organs directly; tissues are groups of systems
+      - Tissues form cells; organs form tissues
+    answer: Cells form tissues; tissues form organs; organs cooperate in systems
+    explanation: Each larger level combines smaller working parts.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+items: []
+images: []
+compare: []
+passMark: 0.8
 ---
 
 ## From a tissue to an organ
 
-A tissue is a team of similar cells. An **organ** is the next step up: a structure made of **two or more kinds of tissue** that does one main job.
+A tissue is a team of similar cells. An **organ** is the next step up: a structure made of **two or more kinds of tissue** whose tissues cooperate on related jobs.
 
 The stomach is a clear example. It is not just a bag of muscle.
 
@@ -90,10 +77,6 @@ The stomach is a clear example. It is not just a bag of muscle.
 
 The heart, lungs, brain, and kidneys are organs for the same reason. Each one is a structure with a job, built from more than one tissue.
 
-![A stomach shape with callouts for lining, muscle, nerves, and blood](images/lessons/organization-02-organ-from-tissues.svg)
-
-*One organ, several tissues. The stomach needs all of them. (Diagram made for Body School.)*
-
 ## From organs to systems
 
 An **organ system** is a group of organs that share a larger job.
@@ -103,13 +86,16 @@ An **organ system** is a group of organs that share a larger job.
 | Skeletal and muscular | Bones, joints, skeletal muscles | Support the body and move it |
 | Circulatory and respiratory | Heart, vessels, lungs, diaphragm | Deliver oxygen and remove carbon dioxide |
 | Digestive and urinary | Stomach, intestines, liver, kidneys | Take in fuel and remove many wastes |
-| Nervous and endocrine | Brain, nerves, glands | Send fast and slow messages |
+| Nervous and endocrine | Brain, nerves, glands | Carry and respond to information |
 | Integumentary and immune | Skin, lymph nodes, spleen | Block invaders and respond when they get in |
+
+Systems are useful groupings, not sealed boxes. One organ can contribute to more than one job; the pancreas, for example, helps digestion and sends hormone messages.
 
 The whole **organism** is the living person: all of those systems in one body.
 
-## What this course leaves out
-
-Reproductive organs and systems are **outside the scope** of Body School. A few systems share pathways with them in adults, but those details are left for later study. The lessons ahead stay with the organs that support movement, breathing, eating, control, and defense.
+## Keep the connections
 
 The next units look at those systems one at a time. Each unit still belongs to the same body.
+
+
+**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

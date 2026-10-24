@@ -9,6 +9,7 @@ Run:  python scripts/make-body-images.py
 """
 
 from __future__ import annotations
+raise SystemExit("Retired placeholder generator: use credited source artwork; see docs/IMAGE-BACKLOG.md")
 
 import math
 import os

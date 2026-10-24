@@ -44,6 +44,7 @@ function LessonView({ lesson }: { lesson: Lesson }) {
         <div>
           <h1>{lesson.title}</h1>
           <p className="lead">{lesson.summary}</p>
+          <p className="muted small">About 10 minutes · read, explore an example, and answer five concept questions.</p>
         </div>
         <div className="lesson-status">
           <StatusBadge status={status} record={record} />
@@ -94,6 +95,9 @@ function LessonView({ lesson }: { lesson: Lesson }) {
         </section>
       )}
 
+      {(lesson.items.length > 0 || lesson.compare.length > 0) && (
+        <details className="optional-exploration card">
+          <summary>Optional: explore the structures in the guide</summary>
       {lesson.items.length > 0 && (
         <section>
           <h2>{noun.Many} in this lesson</h2>
@@ -106,6 +110,8 @@ function LessonView({ lesson }: { lesson: Lesson }) {
       {lesson.compare.map(([a, b]) => (
         <CompareItems key={`${a}-${b}`} a={getItem(a)!} b={getItem(b)!} />
       ))}
+        </details>
+      )}
 
       {lesson.sources.length > 0 && (
         <section className="sources muted small">

@@ -13,7 +13,10 @@ traits:
     source: openstax-kidney
   - text: The kidneys also help balance water, salts, and blood pressure.
     source: wikipedia-kidney
-lookAlikes: [stomach, spleen, adrenal-glands]
+lookAlikes:
+  - stomach
+  - spleen
+  - adrenal-glands
 sources:
   - id: openstax-kidney
     title: "OpenStax Anatomy and Physiology 2e: Gross Anatomy of the Kidney"
@@ -22,11 +25,11 @@ sources:
     title: "Wikipedia: Kidney"
     url: https://en.wikipedia.org/wiki/Kidney
 images:
-  - url: images/organs/kidneys-diagram.svg
-    note: Unlabeled pair of kidneys draining toward a bladder.
+  - url: images/servier/urinary.png
+    note: "Urinary route: kidneys at the top connect by tubes to the bladder below."
     reviewed: true
-  - url: images/organs/kidneys-context.svg
-    note: Kidneys on either side of a simple body outline.
+  - url: images/servier/kidney.png
+    note: "Cutaway of one kidney: outer tissue surrounds internal collecting spaces. This view does not show the microscopic filtering and return steps."
     reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

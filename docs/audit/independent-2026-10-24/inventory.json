@@ -1,0 +1,1131 @@
+{
+  "stats": {
+    "commit": "8d533afcba192bae684e1ea8ca12e0d55de528c6",
+    "lessons": 21,
+    "catalogItems": 21,
+    "totalImages": 86,
+    "svgImages": 76,
+    "proseWords": 4483,
+    "minProseWords": 151,
+    "maxProseWords": 280,
+    "quizQuestions": 161,
+    "textQuestions": 127,
+    "imageQuestions": 34,
+    "correctAnswerLongest": 97,
+    "reviewedImages": 42
+  },
+  "units": [
+    {
+      "id": "organization",
+      "title": "Unit 1: From Cells to Systems",
+      "lessons": 3,
+      "proseWords": 714
+    },
+    {
+      "id": "support",
+      "title": "Unit 2: Support and Movement",
+      "lessons": 3,
+      "proseWords": 591
+    },
+    {
+      "id": "circulation",
+      "title": "Unit 3: Circulation and Breathing",
+      "lessons": 3,
+      "proseWords": 614
+    },
+    {
+      "id": "fuel",
+      "title": "Unit 4: Fuel and Waste",
+      "lessons": 3,
+      "proseWords": 628
+    },
+    {
+      "id": "control",
+      "title": "Unit 5: Control and Coordination",
+      "lessons": 3,
+      "proseWords": 615
+    },
+    {
+      "id": "protection",
+      "title": "Unit 6: Protection and Defense",
+      "lessons": 3,
+      "proseWords": 619
+    },
+    {
+      "id": "together",
+      "title": "Unit 7: Systems Working Together",
+      "lessons": 3,
+      "proseWords": 702
+    }
+  ],
+  "lessons": [
+    {
+      "id": "organization-01-cells-and-tissues",
+      "title": "Cells and tissues",
+      "unit": "organization",
+      "file": "content/lessons/organization-01-cells-and-tissues.md",
+      "proseWords": 209,
+      "bodyWordsWithHeadingsAndCaptions": 257,
+      "quizCount": 7,
+      "textQuestions": 7,
+      "imageQuestions": 0,
+      "correctAnswerLongest": 3,
+      "objectives": [
+        "Describe the levels from a cell up to the whole body",
+        "Give an example of a cell whose shape fits its job",
+        "Name the four main tissue types and one job of each"
+      ],
+      "images": [
+        "images/lessons/organization-01-levels.svg",
+        "images/lessons/organization-01-tissues.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "organization-02-organs-and-systems",
+      "title": "Organs and systems",
+      "unit": "organization",
+      "file": "content/lessons/organization-02-organs-and-systems.md",
+      "proseWords": 266,
+      "bodyWordsWithHeadingsAndCaptions": 296,
+      "quizCount": 7,
+      "textQuestions": 7,
+      "imageQuestions": 0,
+      "correctAnswerLongest": 5,
+      "objectives": [
+        "Explain how an organ is different from a tissue",
+        "Name several major organs and the system each belongs to",
+        "State why this course leaves reproductive organs for later study"
+      ],
+      "images": [
+        "images/lessons/organization-02-organ-from-tissues.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "organization-03-working-together",
+      "title": "Working together",
+      "unit": "organization",
+      "file": "content/lessons/organization-03-working-together.md",
+      "proseWords": 239,
+      "bodyWordsWithHeadingsAndCaptions": 269,
+      "quizCount": 7,
+      "textQuestions": 7,
+      "imageQuestions": 0,
+      "correctAnswerLongest": 6,
+      "objectives": [
+        "Explain why no organ system works alone",
+        "Trace a simple action, such as walking, across more than one system",
+        "Predict which later units will explain oxygen, fuel, and control"
+      ],
+      "images": [
+        "images/lessons/organization-03-systems-link.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "support-01-bones-and-joints",
+      "title": "Bones and joints",
+      "unit": "support",
+      "file": "content/lessons/support-01-bones-and-joints.md",
+      "proseWords": 245,
+      "bodyWordsWithHeadingsAndCaptions": 310,
+      "quizCount": 8,
+      "textQuestions": 5,
+      "imageQuestions": 3,
+      "correctAnswerLongest": 1,
+      "objectives": [
+        "List the main jobs of the skeleton, including jobs that are easy to overlook",
+        "Compare a fixed joint with a movable joint",
+        "Recognize the skull, rib cage, and spine by their shapes"
+      ],
+      "images": [
+        "images/lessons/support-01-skeleton-jobs.svg",
+        "images/lessons/sourced-skeleton.svg",
+        "images/lessons/sourced-bone-growth.jpg",
+        "images/lessons/support-01-joint-types.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "support-02-muscles-and-movement",
+      "title": "Muscles and movement",
+      "unit": "support",
+      "file": "content/lessons/support-02-muscles-and-movement.md",
+      "proseWords": 151,
+      "bodyWordsWithHeadingsAndCaptions": 195,
+      "quizCount": 8,
+      "textQuestions": 6,
+      "imageQuestions": 2,
+      "correctAnswerLongest": 3,
+      "objectives": [
+        "Distinguish skeletal, cardiac, and smooth muscle",
+        "Explain why a skeletal muscle pulls and does not push",
+        "Recognize skeletal muscle attached to a bone"
+      ],
+      "images": [
+        "images/lessons/support-02-muscle-types.svg",
+        "images/lessons/sourced-muscle-tissues.jpg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "support-03-skeleton-and-muscles-together",
+      "title": "Skeleton and muscles together",
+      "unit": "support",
+      "file": "content/lessons/support-03-skeleton-and-muscles-together.md",
+      "proseWords": 195,
+      "bodyWordsWithHeadingsAndCaptions": 248,
+      "quizCount": 8,
+      "textQuestions": 6,
+      "imageQuestions": 2,
+      "correctAnswerLongest": 5,
+      "objectives": [
+        "Explain how a muscle pair moves a joint in two directions",
+        "Contrast a tendon with a ligament",
+        "Connect movement to the need for oxygen and fuel"
+      ],
+      "images": [
+        "images/lessons/support-03-muscle-pairs.svg",
+        "images/lessons/sourced-muscle-structure.jpg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "circulation-01-the-heart-and-blood",
+      "title": "The heart and blood",
+      "unit": "circulation",
+      "file": "content/lessons/circulation-01-the-heart-and-blood.md",
+      "proseWords": 199,
+      "bodyWordsWithHeadingsAndCaptions": 245,
+      "quizCount": 8,
+      "textQuestions": 6,
+      "imageQuestions": 2,
+      "correctAnswerLongest": 6,
+      "objectives": [
+        "Trace blood through the right side of the heart, the lungs, and the left side",
+        "Name the main parts of blood and one job of each",
+        "Recognize the heart as a muscular pump"
+      ],
+      "images": [
+        "images/lessons/circulation-01-heart-path.svg",
+        "images/lessons/sourced-heart-flow.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "circulation-02-blood-vessels-and-exchange",
+      "title": "Blood vessels and exchange",
+      "unit": "circulation",
+      "file": "content/lessons/circulation-02-blood-vessels-and-exchange.md",
+      "proseWords": 202,
+      "bodyWordsWithHeadingsAndCaptions": 218,
+      "quizCount": 8,
+      "textQuestions": 6,
+      "imageQuestions": 2,
+      "correctAnswerLongest": 5,
+      "objectives": [
+        "Tell arteries, veins, and capillaries apart by the direction or job of the blood",
+        "Explain where oxygen and nutrients leave the blood",
+        "Recognize a branching vessel pattern"
+      ],
+      "images": [
+        "images/lessons/circulation-02-three-vessels.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "circulation-03-lungs-and-breathing",
+      "title": "Lungs and breathing",
+      "unit": "circulation",
+      "file": "content/lessons/circulation-03-lungs-and-breathing.md",
+      "proseWords": 213,
+      "bodyWordsWithHeadingsAndCaptions": 290,
+      "quizCount": 8,
+      "textQuestions": 5,
+      "imageQuestions": 3,
+      "correctAnswerLongest": 5,
+      "objectives": [
+        "Trace inhaled air from the nose or mouth to the alveoli",
+        "Explain gas exchange between an alveolus and a capillary",
+        "Recognize the lungs and the diaphragm"
+      ],
+      "images": [
+        "images/lessons/circulation-03-air-path.svg",
+        "images/lessons/sourced-respiratory.svg",
+        "images/lessons/circulation-03-gas-exchange.svg",
+        "images/lessons/sourced-alveoli.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "fuel-01-digestion-from-mouth-to-stomach",
+      "title": "Digestion from mouth to stomach",
+      "unit": "fuel",
+      "file": "content/lessons/fuel-01-digestion-from-mouth-to-stomach.md",
+      "proseWords": 219,
+      "bodyWordsWithHeadingsAndCaptions": 265,
+      "quizCount": 8,
+      "textQuestions": 6,
+      "imageQuestions": 2,
+      "correctAnswerLongest": 5,
+      "objectives": [
+        "Distinguish mechanical digestion from chemical digestion",
+        "Trace food from the mouth through the esophagus to the stomach",
+        "Recognize the stomach"
+      ],
+      "images": [
+        "images/lessons/fuel-01-sandwich-path.svg",
+        "images/lessons/sourced-digestive.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "fuel-02-small-intestine-and-absorption",
+      "title": "Small intestine and absorption",
+      "unit": "fuel",
+      "file": "content/lessons/fuel-02-small-intestine-and-absorption.md",
+      "proseWords": 245,
+      "bodyWordsWithHeadingsAndCaptions": 284,
+      "quizCount": 8,
+      "textQuestions": 5,
+      "imageQuestions": 3,
+      "correctAnswerLongest": 5,
+      "objectives": [
+        "Explain what bile, pancreatic enzymes, and bicarbonate do",
+        "Contrast the small intestine with the large intestine",
+        "Recognize the liver, pancreas, small intestine, and large intestine"
+      ],
+      "images": [
+        "images/lessons/fuel-02-absorption.svg",
+        "images/lessons/sourced-intestines.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "fuel-03-kidneys-and-urine",
+      "title": "Kidneys and urine",
+      "unit": "fuel",
+      "file": "content/lessons/fuel-03-kidneys-and-urine.md",
+      "proseWords": 164,
+      "bodyWordsWithHeadingsAndCaptions": 224,
+      "quizCount": 8,
+      "textQuestions": 6,
+      "imageQuestions": 2,
+      "correctAnswerLongest": 5,
+      "objectives": [
+        "Describe kidneys as filters that also keep useful substances",
+        "Trace urine from the kidney to the outside of the body",
+        "Recognize the kidneys and note that reproductive anatomy is a separate topic"
+      ],
+      "images": [
+        "images/lessons/fuel-03-kidney-filter.svg",
+        "images/lessons/sourced-urinary.jpg",
+        "images/lessons/sourced-nephron.png"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "control-01-brain-and-nerves",
+      "title": "Brain and nerves",
+      "unit": "control",
+      "file": "content/lessons/control-01-brain-and-nerves.md",
+      "proseWords": 194,
+      "bodyWordsWithHeadingsAndCaptions": 258,
+      "quizCount": 8,
+      "textQuestions": 5,
+      "imageQuestions": 3,
+      "correctAnswerLongest": 3,
+      "objectives": [
+        "Contrast the central and peripheral nervous systems",
+        "Name the cerebrum, cerebellum, and brainstem with one job each",
+        "Recognize the brain and the spinal cord"
+      ],
+      "images": [
+        "images/lessons/control-01-nerve-signal.svg",
+        "images/lessons/sourced-neuron.svg",
+        "images/lessons/sourced-brain.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "control-02-hormones-and-glands",
+      "title": "Hormones and glands",
+      "unit": "control",
+      "file": "content/lessons/control-02-hormones-and-glands.md",
+      "proseWords": 177,
+      "bodyWordsWithHeadingsAndCaptions": 272,
+      "quizCount": 8,
+      "textQuestions": 5,
+      "imageQuestions": 3,
+      "correctAnswerLongest": 3,
+      "objectives": [
+        "Contrast a hormone message with a nerve signal",
+        "Match insulin, adrenaline, and growth-related hormones to simple effects",
+        "Recognize the thyroid and pituitary region and the adrenal glands"
+      ],
+      "images": [
+        "images/lessons/control-02-hormone-message.svg",
+        "images/lessons/sourced-endocrine.jpg",
+        "images/lessons/sourced-pituitary.jpg",
+        "images/lessons/sourced-thyroid.jpg",
+        "images/lessons/sourced-adrenal.jpg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "control-03-homeostasis",
+      "title": "Homeostasis",
+      "unit": "control",
+      "file": "content/lessons/control-03-homeostasis.md",
+      "proseWords": 244,
+      "bodyWordsWithHeadingsAndCaptions": 262,
+      "quizCount": 7,
+      "textQuestions": 7,
+      "imageQuestions": 0,
+      "correctAnswerLongest": 7,
+      "objectives": [
+        "Define homeostasis as a steady range, not a frozen number",
+        "Put sensor, control center, and effector in order",
+        "Explain negative feedback with temperature or blood sugar"
+      ],
+      "images": [
+        "images/lessons/control-03-feedback-loop.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "protection-01-skin-and-its-jobs",
+      "title": "Skin and its jobs",
+      "unit": "protection",
+      "file": "content/lessons/protection-01-skin-and-its-jobs.md",
+      "proseWords": 182,
+      "bodyWordsWithHeadingsAndCaptions": 225,
+      "quizCount": 8,
+      "textQuestions": 6,
+      "imageQuestions": 2,
+      "correctAnswerLongest": 4,
+      "objectives": [
+        "Distinguish the epidermis from the dermis",
+        "List everyday jobs of the skin besides \"covering the body\"",
+        "Recognize a simple skin cross-section"
+      ],
+      "images": [
+        "images/lessons/protection-01-skin-jobs.svg",
+        "images/lessons/sourced-skin-layers.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "protection-02-immune-cells-and-lymph",
+      "title": "Immune cells and lymph",
+      "unit": "protection",
+      "file": "content/lessons/protection-02-immune-cells-and-lymph.md",
+      "proseWords": 217,
+      "bodyWordsWithHeadingsAndCaptions": 277,
+      "quizCount": 8,
+      "textQuestions": 5,
+      "imageQuestions": 3,
+      "correctAnswerLongest": 4,
+      "objectives": [
+        "Describe white blood cells and antibodies in plain language",
+        "Explain what lymph is and what a lymph node filters",
+        "Recognize lymph nodes and the spleen"
+      ],
+      "images": [
+        "images/lessons/protection-02-immune-team.svg",
+        "images/lessons/sourced-lymphatic.jpg",
+        "images/lessons/sourced-lymph-node.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "protection-03-barriers-and-responses",
+      "title": "Barriers and responses",
+      "unit": "protection",
+      "file": "content/lessons/protection-03-barriers-and-responses.md",
+      "proseWords": 220,
+      "bodyWordsWithHeadingsAndCaptions": 241,
+      "quizCount": 8,
+      "textQuestions": 6,
+      "imageQuestions": 2,
+      "correctAnswerLongest": 5,
+      "objectives": [
+        "Sort skin, mucus, stomach acid, and white blood cells into first or second line",
+        "Describe how a small cut is answered by clotting and immune cells",
+        "Explain how skin, blood, and lymph cooperate"
+      ],
+      "images": [
+        "images/lessons/protection-03-two-defenses.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "together-01-exercise-and-energy",
+      "title": "Exercise and energy",
+      "unit": "together",
+      "file": "content/lessons/together-01-exercise-and-energy.md",
+      "proseWords": 198,
+      "bodyWordsWithHeadingsAndCaptions": 212,
+      "quizCount": 7,
+      "textQuestions": 7,
+      "imageQuestions": 0,
+      "correctAnswerLongest": 5,
+      "objectives": [
+        "Trace the demands of exercise across several systems",
+        "Explain why heart rate, breathing, and sweating rise together",
+        "Connect the scene to earlier lessons without adding new organs"
+      ],
+      "images": [
+        "images/lessons/together-01-exercise-chain.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "together-02-eating-and-recovery",
+      "title": "Eating and recovery",
+      "unit": "together",
+      "file": "content/lessons/together-02-eating-and-recovery.md",
+      "proseWords": 224,
+      "bodyWordsWithHeadingsAndCaptions": 241,
+      "quizCount": 7,
+      "textQuestions": 7,
+      "imageQuestions": 0,
+      "correctAnswerLongest": 6,
+      "objectives": [
+        "Trace a meal from digestion to blood sugar balance",
+        "Explain the kidney's role after the blood has carried nutrients and wastes",
+        "Describe the systems that answer a small cut"
+      ],
+      "images": [
+        "images/lessons/together-02-meal-chain.svg"
+      ],
+      "reviewedBy": "body-school"
+    },
+    {
+      "id": "together-03-final-connections",
+      "title": "Final connections",
+      "unit": "together",
+      "file": "content/lessons/together-03-final-connections.md",
+      "proseWords": 280,
+      "bodyWordsWithHeadingsAndCaptions": 311,
+      "quizCount": 7,
+      "textQuestions": 7,
+      "imageQuestions": 0,
+      "correctAnswerLongest": 6,
+      "objectives": [
+        "Put the levels of organization back together with real systems",
+        "Use negative feedback to explain temperature, oxygen, sugar, or water",
+        "Explain how careful observation carries into any later study of the body"
+      ],
+      "images": [
+        "images/lessons/together-03-connections.svg"
+      ],
+      "reviewedBy": "body-school"
+    }
+  ],
+  "images": [
+    {
+      "file": "public/images/organs/adrenal-glands-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:adrenal-glands"
+      ]
+    },
+    {
+      "file": "public/images/organs/adrenal-glands-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:adrenal-glands"
+      ]
+    },
+    {
+      "file": "public/images/organs/blood-vessels-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:blood-vessels"
+      ]
+    },
+    {
+      "file": "public/images/organs/blood-vessels-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:blood-vessels"
+      ]
+    },
+    {
+      "file": "public/images/organs/brain-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:brain"
+      ]
+    },
+    {
+      "file": "public/images/organs/brain-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:brain"
+      ]
+    },
+    {
+      "file": "public/images/organs/diaphragm-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:diaphragm"
+      ]
+    },
+    {
+      "file": "public/images/organs/diaphragm-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:diaphragm"
+      ]
+    },
+    {
+      "file": "public/images/organs/heart-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:heart"
+      ]
+    },
+    {
+      "file": "public/images/organs/heart-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:heart"
+      ]
+    },
+    {
+      "file": "public/images/organs/kidneys-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:kidneys"
+      ]
+    },
+    {
+      "file": "public/images/organs/kidneys-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:kidneys"
+      ]
+    },
+    {
+      "file": "public/images/organs/large-intestine-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:large-intestine"
+      ]
+    },
+    {
+      "file": "public/images/organs/large-intestine-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:large-intestine"
+      ]
+    },
+    {
+      "file": "public/images/organs/liver-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:liver"
+      ]
+    },
+    {
+      "file": "public/images/organs/liver-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:liver"
+      ]
+    },
+    {
+      "file": "public/images/organs/lungs-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:lungs"
+      ]
+    },
+    {
+      "file": "public/images/organs/lungs-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:lungs"
+      ]
+    },
+    {
+      "file": "public/images/organs/lymph-nodes-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:lymph-nodes"
+      ]
+    },
+    {
+      "file": "public/images/organs/lymph-nodes-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:lymph-nodes"
+      ]
+    },
+    {
+      "file": "public/images/organs/pancreas-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:pancreas"
+      ]
+    },
+    {
+      "file": "public/images/organs/pancreas-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:pancreas"
+      ]
+    },
+    {
+      "file": "public/images/organs/rib-cage-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:rib-cage"
+      ]
+    },
+    {
+      "file": "public/images/organs/rib-cage-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:rib-cage"
+      ]
+    },
+    {
+      "file": "public/images/organs/skeletal-muscle-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:skeletal-muscle"
+      ]
+    },
+    {
+      "file": "public/images/organs/skeletal-muscle-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:skeletal-muscle"
+      ]
+    },
+    {
+      "file": "public/images/organs/skin-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:skin"
+      ]
+    },
+    {
+      "file": "public/images/organs/skin-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:skin"
+      ]
+    },
+    {
+      "file": "public/images/organs/skull-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:skull"
+      ]
+    },
+    {
+      "file": "public/images/organs/skull-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:skull"
+      ]
+    },
+    {
+      "file": "public/images/organs/small-intestine-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:small-intestine"
+      ]
+    },
+    {
+      "file": "public/images/organs/small-intestine-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:small-intestine"
+      ]
+    },
+    {
+      "file": "public/images/organs/spinal-cord-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:spinal-cord"
+      ]
+    },
+    {
+      "file": "public/images/organs/spinal-cord-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:spinal-cord"
+      ]
+    },
+    {
+      "file": "public/images/organs/spine-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:spine"
+      ]
+    },
+    {
+      "file": "public/images/organs/spine-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:spine"
+      ]
+    },
+    {
+      "file": "public/images/organs/spleen-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:spleen"
+      ]
+    },
+    {
+      "file": "public/images/organs/spleen-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:spleen"
+      ]
+    },
+    {
+      "file": "public/images/organs/stomach-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:stomach"
+      ]
+    },
+    {
+      "file": "public/images/organs/stomach-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:stomach"
+      ]
+    },
+    {
+      "file": "public/images/organs/thyroid-gland-context.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:thyroid-gland"
+      ]
+    },
+    {
+      "file": "public/images/organs/thyroid-gland-diagram.svg",
+      "kind": "catalog",
+      "usedBy": [
+        "catalog:thyroid-gland"
+      ]
+    },
+    {
+      "file": "public/images/lessons/circulation-01-heart-path.svg",
+      "kind": "original",
+      "usedBy": [
+        "circulation-01-the-heart-and-blood"
+      ]
+    },
+    {
+      "file": "public/images/lessons/circulation-02-three-vessels.svg",
+      "kind": "original",
+      "usedBy": [
+        "circulation-02-blood-vessels-and-exchange"
+      ]
+    },
+    {
+      "file": "public/images/lessons/circulation-03-air-path.svg",
+      "kind": "original",
+      "usedBy": [
+        "circulation-03-lungs-and-breathing"
+      ]
+    },
+    {
+      "file": "public/images/lessons/circulation-03-gas-exchange.svg",
+      "kind": "original",
+      "usedBy": [
+        "circulation-03-lungs-and-breathing"
+      ]
+    },
+    {
+      "file": "public/images/lessons/control-01-nerve-signal.svg",
+      "kind": "original",
+      "usedBy": [
+        "control-01-brain-and-nerves"
+      ]
+    },
+    {
+      "file": "public/images/lessons/control-02-hormone-message.svg",
+      "kind": "original",
+      "usedBy": [
+        "control-02-hormones-and-glands"
+      ]
+    },
+    {
+      "file": "public/images/lessons/control-03-feedback-loop.svg",
+      "kind": "original",
+      "usedBy": [
+        "control-03-homeostasis"
+      ]
+    },
+    {
+      "file": "public/images/lessons/fuel-01-sandwich-path.svg",
+      "kind": "original",
+      "usedBy": [
+        "fuel-01-digestion-from-mouth-to-stomach"
+      ]
+    },
+    {
+      "file": "public/images/lessons/fuel-02-absorption.svg",
+      "kind": "original",
+      "usedBy": [
+        "fuel-02-small-intestine-and-absorption"
+      ]
+    },
+    {
+      "file": "public/images/lessons/fuel-03-kidney-filter.svg",
+      "kind": "original",
+      "usedBy": [
+        "fuel-03-kidneys-and-urine"
+      ]
+    },
+    {
+      "file": "public/images/lessons/organization-01-levels.svg",
+      "kind": "original",
+      "usedBy": [
+        "organization-01-cells-and-tissues"
+      ]
+    },
+    {
+      "file": "public/images/lessons/organization-01-tissues.svg",
+      "kind": "original",
+      "usedBy": [
+        "organization-01-cells-and-tissues"
+      ]
+    },
+    {
+      "file": "public/images/lessons/organization-02-organ-from-tissues.svg",
+      "kind": "original",
+      "usedBy": [
+        "organization-02-organs-and-systems"
+      ]
+    },
+    {
+      "file": "public/images/lessons/organization-03-systems-link.svg",
+      "kind": "original",
+      "usedBy": [
+        "organization-03-working-together"
+      ]
+    },
+    {
+      "file": "public/images/lessons/protection-01-skin-jobs.svg",
+      "kind": "original",
+      "usedBy": [
+        "protection-01-skin-and-its-jobs"
+      ]
+    },
+    {
+      "file": "public/images/lessons/protection-02-immune-team.svg",
+      "kind": "original",
+      "usedBy": [
+        "protection-02-immune-cells-and-lymph"
+      ]
+    },
+    {
+      "file": "public/images/lessons/protection-03-two-defenses.svg",
+      "kind": "original",
+      "usedBy": [
+        "protection-03-barriers-and-responses"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-adrenal.jpg",
+      "kind": "sourced",
+      "usedBy": [
+        "control-02-hormones-and-glands"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-alveoli.svg",
+      "kind": "sourced",
+      "usedBy": [
+        "circulation-03-lungs-and-breathing"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-bone-growth.jpg",
+      "kind": "sourced",
+      "usedBy": [
+        "support-01-bones-and-joints"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-brain.svg",
+      "kind": "sourced",
+      "usedBy": [
+        "control-01-brain-and-nerves"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-digestive.svg",
+      "kind": "sourced",
+      "usedBy": [
+        "fuel-01-digestion-from-mouth-to-stomach"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-endocrine.jpg",
+      "kind": "sourced",
+      "usedBy": [
+        "control-02-hormones-and-glands"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-heart-flow.svg",
+      "kind": "sourced",
+      "usedBy": [
+        "circulation-01-the-heart-and-blood"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-intestines.svg",
+      "kind": "sourced",
+      "usedBy": [
+        "fuel-02-small-intestine-and-absorption"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-lymph-node.svg",
+      "kind": "sourced",
+      "usedBy": [
+        "protection-02-immune-cells-and-lymph"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-lymphatic.jpg",
+      "kind": "sourced",
+      "usedBy": [
+        "protection-02-immune-cells-and-lymph"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-muscle-structure.jpg",
+      "kind": "sourced",
+      "usedBy": [
+        "support-03-skeleton-and-muscles-together"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-muscle-tissues.jpg",
+      "kind": "sourced",
+      "usedBy": [
+        "support-02-muscles-and-movement"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-nephron.png",
+      "kind": "sourced",
+      "usedBy": [
+        "fuel-03-kidneys-and-urine"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-neuron.svg",
+      "kind": "sourced",
+      "usedBy": [
+        "control-01-brain-and-nerves"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-pituitary.jpg",
+      "kind": "sourced",
+      "usedBy": [
+        "control-02-hormones-and-glands"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-respiratory.svg",
+      "kind": "sourced",
+      "usedBy": [
+        "circulation-03-lungs-and-breathing"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-skeleton.svg",
+      "kind": "sourced",
+      "usedBy": [
+        "support-01-bones-and-joints"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-skin-layers.svg",
+      "kind": "sourced",
+      "usedBy": [
+        "protection-01-skin-and-its-jobs"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-thyroid.jpg",
+      "kind": "sourced",
+      "usedBy": [
+        "control-02-hormones-and-glands"
+      ]
+    },
+    {
+      "file": "public/images/lessons/sourced-urinary.jpg",
+      "kind": "sourced",
+      "usedBy": [
+        "fuel-03-kidneys-and-urine"
+      ]
+    },
+    {
+      "file": "public/images/lessons/support-01-joint-types.svg",
+      "kind": "original",
+      "usedBy": [
+        "support-01-bones-and-joints"
+      ]
+    },
+    {
+      "file": "public/images/lessons/support-01-skeleton-jobs.svg",
+      "kind": "original",
+      "usedBy": [
+        "support-01-bones-and-joints"
+      ]
+    },
+    {
+      "file": "public/images/lessons/support-02-muscle-types.svg",
+      "kind": "original",
+      "usedBy": [
+        "support-02-muscles-and-movement"
+      ]
+    },
+    {
+      "file": "public/images/lessons/support-03-muscle-pairs.svg",
+      "kind": "original",
+      "usedBy": [
+        "support-03-skeleton-and-muscles-together"
+      ]
+    },
+    {
+      "file": "public/images/lessons/together-01-exercise-chain.svg",
+      "kind": "original",
+      "usedBy": [
+        "together-01-exercise-and-energy"
+      ]
+    },
+    {
+      "file": "public/images/lessons/together-02-meal-chain.svg",
+      "kind": "original",
+      "usedBy": [
+        "together-02-eating-and-recovery"
+      ]
+    },
+    {
+      "file": "public/images/lessons/together-03-connections.svg",
+      "kind": "original",
+      "usedBy": [
+        "together-03-final-connections"
+      ]
+    }
+  ]
+}

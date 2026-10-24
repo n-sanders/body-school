@@ -1,20 +1,18 @@
 ---
 id: support-01-bones-and-joints
-title: Bones and joints
+title: Living bones and joints
 unit: support
-summary: Bones support and protect the body, and joints decide how much neighboring bones can move.
+summary: Bones provide support and protection; joint structure affects movement.
 prerequisites:
-  - organization-03-working-together
+  - support-intro
 objectives:
-  - List the main jobs of the skeleton, including jobs that are easy to overlook
-  - Compare a fixed joint with a movable joint
-  - Recognize the skull, rib cage, and spine by their shapes
+  - Bones provide support and protection; joint structure affects movement.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - skull
   - rib-cage
   - spine
-compare:
-  - [skull, rib-cage]
+compare: []
 sources:
   - id: openstax-skeleton
     title: "OpenStax Anatomy and Physiology 2e: Functions of the Skeletal System"
@@ -23,59 +21,55 @@ sources:
     title: "Wikipedia: Human skeleton"
     url: https://en.wikipedia.org/wiki/Human_skeleton
 quiz:
-  - type: identify
-    item: skull
-  - type: identify
-    item: rib-cage
-  - type: find
-    item: spine
   - type: question
-    prompt: Which job of bone is easy to overlook because it happens inside the bone?
+    prompt: Why is a bone considered living?
     choices:
-      - Bone marrow makes blood cells
-      - Bone reflects light so the body can see
-      - Bone pumps air into the lungs
-    answer: Bone marrow makes blood cells
-    explanation: Long bones and some others contain marrow that produces blood cells. Bones also store calcium.
+      - It contains cells and receives a blood supply
+      - It keeps exactly the same structure throughout life
+      - Its only role is to hold other tissues in place
+    answer: It contains cells and receives a blood supply
+    explanation: Living bone can grow, repair, and respond to demands.
   - type: question
-    prompt: What do the skull and the rib cage have in common?
+    prompt: Why can a shoulder move in more directions than an elbow?
     choices:
-      - Both protect soft organs
-      - Both are hinge joints in the knee
-      - Both produce urine
-    answer: Both protect soft organs
-    explanation: The skull protects the brain. The rib cage protects the heart and lungs.
+      - Their joints have different structures
+      - The shoulder has stronger muscles, so its joint shape is irrelevant
+      - All joints allow the same motions if enough force is used
+    answer: Their joints have different structures
+    explanation: Joint shape helps determine the allowed directions of movement.
   - type: question
-    prompt: Which joint allows a wide range of movement?
+    prompt: What problem would damage to smooth joint cartilage most directly cause?
     choices:
-      - The shoulder, a ball-and-socket joint
-      - A suture between skull bones
-      - A seam that is meant to stay locked
-    answer: The shoulder, a ball-and-socket joint
-    explanation: Skull sutures barely move. The shoulder and hip are built to swing in many directions.
+      - More friction where bones meet
+      - No change, because cartilage is only decorative
+      - A greater range of movement with less need for control
+    answer: More friction where bones meet
+    explanation: Cartilage helps joint surfaces move smoothly.
   - type: question
-    prompt: What is cartilage doing in many joints?
+    prompt: Why does the rib cage matter when someone is resting?
     choices:
-      - It cushions the ends of bones
-      - It carries nerve signals to the brain
-      - It replaces the heart during rest
-    answer: It cushions the ends of bones
-    explanation: Smooth cartilage and a little fluid keep bone from grinding on bone.
+      - It still helps protect the heart and lungs
+      - Its protective role stops when the person stops moving
+      - Protection is supplied only by the skin over the ribs
+    answer: It still helps protect the heart and lungs
+    explanation: Protection continues even without large body movements.
   - type: question
-    prompt: Ligaments are best described as what?
+    prompt: Why is a skeleton model made of solid plastic incomplete?
     choices:
-      - Tough bands that connect bone to bone at a joint
-      - Tubes that carry urine
-      - The air sacs in the lungs
-    answer: Tough bands that connect bone to bone at a joint
-    explanation: Ligaments hold the joint together. Tendons, in the next lesson, connect muscle to bone.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Real bones also contain living tissue and marrow
+      - Real bones have the same solid material all the way through
+      - Real bones remain unchanged after reaching adult size
+    answer: Real bones also contain living tissue and marrow
+    explanation: A model can show shape while leaving out living functions.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+passMark: 0.8
 ---
 
 ## More than a frame
 
-Stand up, throw a ball, or take a breath. Bones are involved every time, and not only as a frame to hang muscles on. The **skeletal system** is bones, cartilage, and ligaments. Its jobs are easy to list and easy to underestimate:
+Stand up, throw a ball, or take a breath. Bones are involved every time, and not only as a frame to hang muscles on. Bones contain living cells and blood vessels, allowing growth, maintenance, and repair. The **skeletal system** is bones, cartilage, and ligaments. Its jobs are easy to list and easy to underestimate:
 
 - **Support** the body and give it shape.
 - **Protect** soft organs. The skull protects the brain. The rib cage protects the heart and lungs.
@@ -83,21 +77,14 @@ Stand up, throw a ball, or take a breath. Bones are involved every time, and not
 - **Store minerals**, especially calcium.
 - **Make blood cells** in bone marrow.
 
-![A list of the skeleton's jobs](images/lessons/support-01-skeleton-jobs.svg)
-
-*Shape, protection, anchors, minerals, and blood cells. (Diagram made for Body School.)*
-
 You do not need every bone's name. Three structures are enough to start recognizing: the **skull**, the **rib cage**, and the **spine**. The spine is a stack of vertebrae with cartilage pads between them. A tunnel inside that stack protects the spinal cord.
-
-![Front view of the human skeleton](images/lessons/sourced-skeleton.svg)
-
-*A full skeleton, for context around the skull, ribs, and spine. (Mariana Ruiz Villarreal, public domain, via Wikimedia Commons.)*
 
 Long bones grow in length at cartilage plates near their ends. That is one reason a child's bones are not finished copies of an adult's.
 
-![Bone growing in length](images/lessons/sourced-bone-growth.jpg)
 
-*A long bone adds length near its ends. (OpenStax College, CC BY 4.0, via Wikimedia Commons.)*
+![A labelled skeleton. Focus on the skull, rib cage, spine, and joints rather than memorizing every label.](images/lessons/sourced-skeleton.svg)
+
+*A labelled skeleton. Focus on the skull, rib cage, spine, and joints rather than memorizing every label. [Source and license](#/credits).*
 
 ## Joints
 
@@ -107,10 +94,9 @@ Bones meet at **joints**. They do not all move the same amount.
 - **Hinge joints**, such as the knee and elbow, mostly bend and straighten.
 - **Ball-and-socket joints**, such as the shoulder and hip, swing in many directions.
 
-**Cartilage** cushions many of the movable joints. **Ligaments** are the tough bands that connect bone to bone and keep the joint from falling apart.
-
-![Fixed, hinge, and ball-and-socket joints](images/lessons/support-01-joint-types.svg)
-
-*Same building material, different amounts of movement. (Diagram made for Body School.)*
+**Cartilage** cushions many movable joints and provides smooth surfaces that reduce friction. **Ligaments** are the tough bands that connect bone to bone and help stabilize the joint.
 
 Bones can support you, but they cannot move you by themselves. That is the muscle's job, and it comes next.
+
+
+**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

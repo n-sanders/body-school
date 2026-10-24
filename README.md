@@ -1,40 +1,29 @@
 # Body School
 
-A middle-school course on human anatomy and physiology, built on the StudyKit skeleton. Learners move through seven units, from cells and tissues to the way organ systems work together. Reproductive systems are intentionally left out.
+A middle-school foundation in major organs and body systems for learners around 11–13. Built on StudyKit. Reproductive organs and systems are outside scope.
 
-The site includes:
+The curriculum has **42 short lessons in seven units**: 28 focused core lessons, seven introductions, and seven reviews. Each targets **about 10 minutes**, including an explain-aloud prompt and five concept questions. Pacing is an estimate to check with learners; there is no long vocabulary memorization requirement.
 
-- a **curriculum** of 21 lessons, unlocked one after another by prerequisites
-- **lesson quizzes** with a pass mark
-- a **catalog** of major organs and structures, with unlabeled diagrams for recognition questions
-- **Practice** and **Review** (Leitner spaced repetition) over the catalog and the text questions
-- progress stored only in this browser
+The structure catalog is optional reference reading with credited educational artwork. Practice and spaced Review focus on lesson concepts. Browser-local progress is retained by the existing app.
 
-The planning notes that started the course are in `README-starting-point.md`, `proposed-curriculum.yaml`, and `Unit-1-Plan.txt` through `Unit-7-Plan.txt`.
+See [the revision notes](docs/CURRICULUM-REVISION.md) for pacing, coverage, assessment choices, and existing-progress considerations; [the image backlog](docs/IMAGE-BACKLOG.md) for figures to improve later; and [image credits](IMAGE_CREDITS.md) for every current asset.
 
-## Running it
+## Run and check
 
 ```sh
 npm install
-npm run dev          # http://localhost:5173
-npm run build        # static site in dist/
-npm test             # unit tests
-npm run validate     # check content, including source URLs
+npm run dev
+npm run build
+npm test
 npm run validate:offline
-npm run audit        # write docs/audit/content-report.md
-npm run deploy       # build and deploy to Cloudflare
+npm run validate
+npm run audit
 ```
 
-Regenerate the original diagrams with `python scripts/make-body-images.py`. Download the open-licensed reference figures with `python scripts/download-sourced-images.py`. Credits for every figure are in `IMAGE_CREDITS.md`.
+`content/curriculum.yaml` defines sequence and units. Lesson files are in `content/lessons/`; optional structure references are in `content/items/`. Found artwork lives in `public/images/servier/` and `public/images/lessons/`. `docs/image-manifest.json` records original Servier download URLs and licenses.
 
-## Content layout
+The old `scripts/make-body-images.py` is retired and exits without generating placeholder art. The historical `scripts/download-sourced-images.py` describes the first-pass Commons collection; do not run it to restore removed figures. Use the current manifest and credits when maintaining the selected artwork.
 
-```
-content/curriculum.yaml          seven units and the lesson order
-content/items/<slug>.yaml        one catalog file per organ or structure
-content/lessons/<id>.md          YAML frontmatter plus the lesson text
-public/images/organs/            unlabeled diagrams used for recognition
-public/images/lessons/           labeled lesson diagrams and sourced figures
-```
+The numbered original planning files remain historical drafts. The current lesson sequence is `content/curriculum.yaml`; the revision notes supersede the earlier pacing and image-generation approach. The archived independent audit describes the first pass, not current content.
 
-Progress is stored under `body-school.progress.v2`.
+Progress remains under `body-school.progress.v2`; no learner data was reset. Deployment is separate from local content work.

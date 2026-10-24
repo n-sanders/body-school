@@ -11,9 +11,12 @@ traits:
     source: openstax-stomach
   - text: A mucus lining protects the stomach wall from its own acid.
     source: wikipedia-stomach
-  - text: Food usually stays here for a few hours before moving into the small intestine as a soupy mix.
+  - text: The stomach gradually releases a soupy mixture into the small intestine; timing depends on the meal.
     source: openstax-stomach
-lookAlikes: [liver, pancreas, kidneys]
+lookAlikes:
+  - liver
+  - pancreas
+  - kidneys
 sources:
   - id: openstax-stomach
     title: "OpenStax Anatomy and Physiology 2e: The Stomach"
@@ -22,11 +25,8 @@ sources:
     title: "Wikipedia: Stomach"
     url: https://en.wikipedia.org/wiki/Stomach
 images:
-  - url: images/organs/stomach-diagram.svg
-    note: Unlabeled J-shaped stomach under a short tube.
+  - url: images/servier/stomach.png
+    note: "Cutaway stomach: the wall surrounds the space where food mixes."
     reviewed: true
-  - url: images/organs/stomach-context.svg
-    note: Stomach in the upper abdomen of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

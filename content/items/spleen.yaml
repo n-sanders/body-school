@@ -13,7 +13,10 @@ traits:
     source: wikipedia-spleen
   - text: Immune cells in the spleen watch the blood for invaders.
     source: openstax-lymph
-lookAlikes: [kidneys, stomach, lymph-nodes]
+lookAlikes:
+  - kidneys
+  - stomach
+  - lymph-nodes
 sources:
   - id: openstax-lymph
     title: "OpenStax Anatomy and Physiology 2e: Anatomy of the Lymphatic and Immune Systems"
@@ -22,11 +25,8 @@ sources:
     title: "Wikipedia: Spleen"
     url: https://en.wikipedia.org/wiki/Spleen
 images:
-  - url: images/organs/spleen-diagram.svg
-    note: Unlabeled purple spleen beside a pale stomach.
+  - url: images/servier/spleen.png
+    note: Exterior view of a spleen; it monitors blood and helps remove old blood cells.
     reviewed: true
-  - url: images/organs/spleen-context.svg
-    note: Spleen in the upper left abdomen of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

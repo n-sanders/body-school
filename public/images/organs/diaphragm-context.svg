@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns='http://www.w3.org/2000/svg' width='480' height='360' viewBox='0 0 480 360' role='img'>
-<title>Diaphragm in the body</title><desc>Where this structure sits: Dome-shaped muscle under the lungs.</desc>
-<rect width='100%' height='100%' fill='#fbf6ef'/>
-<g fill='none' stroke='#d9cfc4' stroke-width='4' stroke-linejoin='round'><circle cx='240' cy='46' r='26'/><path d='M228 70 v22 h-78 l-8 78 18 8 28-70 v150 l18 28 h64 l18-28 v-150 l28 70 18-8 -8-78 h-78 v-22'/></g><g transform='translate(240 200)'><g transform='translate(-78 -120) scale(0.75)'><path d='M30 70 Q55 40 95 78 Q70 110 30 100 Z' fill='#f4c3cb' stroke='#e294a2' stroke-width='2' /><path d='M110 74 Q150 40 176 78 Q150 108 112 98 Z' fill='#f4c3cb' stroke='#e294a2' stroke-width='2' /><path d='M16 108 Q100 168 184 108 Q160 132 100 138 Q40 132 16 108 Z' fill='#d4534e' stroke='#a33b3b' stroke-width='3' /><path d='M24 96 Q16 140 28 150 M176 96 Q186 140 172 150' fill='none' stroke='#c4ae8e' stroke-width='4' /></g></g>
-</svg>

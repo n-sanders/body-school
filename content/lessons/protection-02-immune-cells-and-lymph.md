@@ -1,19 +1,17 @@
 ---
 id: protection-02-immune-cells-and-lymph
-title: Immune cells and lymph
+title: Immune cells and lymph routes
 unit: protection
-summary: White blood cells, lymph nodes, and the spleen respond when a barrier is crossed.
+summary: Lymph transport returns tissue fluid and brings carried material near immune cells.
 prerequisites:
   - protection-01-skin-and-its-jobs
 objectives:
-  - Describe white blood cells and antibodies in plain language
-  - Explain what lymph is and what a lymph node filters
-  - Recognize lymph nodes and the spleen
+  - Lymph transport returns tissue fluid and brings carried material near immune cells.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - lymph-nodes
   - spleen
-compare:
-  - [lymph-nodes, spleen]
+compare: []
 sources:
   - id: openstax-lymph
     title: "OpenStax Anatomy and Physiology 2e: Anatomy of the Lymphatic and Immune Systems"
@@ -22,78 +20,67 @@ sources:
     title: "Wikipedia: Lymphatic system"
     url: https://en.wikipedia.org/wiki/Lymphatic_system
 quiz:
-  - type: identify
-    item: lymph-nodes
-  - type: identify
-    item: spleen
-  - type: find
-    item: lymph-nodes
   - type: question
-    prompt: What is lymph?
+    prompt: When is tissue fluid called lymph?
     choices:
-      - Fluid that has leaked from blood vessels and is collected by lymph vessels
-      - Air in the alveoli
-      - The hard outer part of a bone
-    answer: Fluid that has leaked from blood vessels and is collected by lymph vessels
-    explanation: Lymph vessels return that fluid toward the blood and carry immune cells.
+      - After entering lymph vessels
+      - While it is still inside a blood vessel
+      - Only after it has returned to the heart
+    answer: After entering lymph vessels
+    explanation: The term identifies fluid inside the lymphatic route.
   - type: question
-    prompt: What do lymph nodes do to lymph?
+    prompt: What could happen if excess tissue fluid were not returned effectively?
     choices:
-      - They filter it and house white blood cells
-      - They pump it like the left ventricle
-      - They turn it into bile
-    answer: They filter it and house white blood cells
-    explanation: Nodes are the bean-shaped stations along the vessels. They often swell when immune cells are busy.
+      - Fluid could accumulate in tissues
+      - Blood would no longer need to exchange with tissues
+      - Extra fluid would automatically leave through the digestive tract
+    answer: Fluid could accumulate in tissues
+    explanation: Fluid return is an important lymphatic job.
   - type: question
-    prompt: Antibodies are best described as what?
+    prompt: Why are lymph nodes useful meeting places?
     choices:
-      - Proteins that mark invaders so they can be destroyed
-      - Bones in the wrist
-      - The valves in veins
-    answer: Proteins that mark invaders so they can be destroyed
-    explanation: Some white blood cells make antibodies. The mark helps other defenders find the target.
+      - Carried material can encounter immune cells there
+      - They prevent all material from entering lymph vessels
+      - They replace all immune activity in other tissues
+    answer: Carried material can encounter immune cells there
+    explanation: Nodes support encounters and coordinated immune responses.
   - type: question
-    prompt: How is the spleen different from a lymph node?
+    prompt: How does the spleen differ from a lymph node?
     choices:
-      - The spleen filters blood, while lymph nodes filter lymph
-      - The spleen is a bone and the node is a muscle
-      - They are two names for the diaphragm
-    answer: The spleen filters blood, while lymph nodes filter lymph
-    explanation: The spleen also removes worn-out red blood cells and holds immune cells that watch the blood.
+      - It monitors blood rather than lymph flowing through a node
+      - It examines the same lymph route as every node
+      - It is the central pump that drives lymph circulation
+    answer: It monitors blood rather than lymph flowing through a node
+    explanation: Immune-related organs can examine different transport routes.
   - type: question
-    prompt: Why does a swollen node during a cold make sense?
+    prompt: Why is lymph movement unlike blood pumping by the heart?
     choices:
-      - Immune cells there are multiplying as they respond to the infection
-      - The node is filling with inhaled sand
-      - Bone marrow has moved into the neck
-    answer: Immune cells there are multiplying as they respond to the infection
-    explanation: Swelling is a clue that the filter station is busy, not proof of a new organ.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - It has no single central heart-like pump
+      - Every node supplies the same pumping pressure as a heart
+      - No valves or body movements can affect lymph flow
+    answer: It has no single central heart-like pump
+    explanation: Valves, movement, and vessel activity help lymph travel.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+passMark: 0.8
 ---
 
-## When the wall is crossed
+## Fluid between cells
+Materials cross small blood-vessel walls to reach tissues. Some fluid remains in the spaces around cells. Lymph vessels collect excess tissue fluid, helping return it toward the blood instead of allowing it all to accumulate.
 
-Skin, mucus, and stomach acid stop a lot of germs. They do not stop all of them. The **immune system** is the defense force that responds. The **lymphatic system** is its plumbing.
+Once inside lymph vessels, the fluid is called **lymph**. Its movement depends on features such as valves, body movement, and vessel activity. It does not have a single central pump like the heart.
 
-**Lymph** is fluid that leaks out of blood capillaries and bathes the tissues. Lymph vessels collect it and return it to the blood. Along the way, **lymph nodes** filter it. Nodes are small beans packed with **white blood cells**. You have clusters of them in the neck, armpits, and groin. A node can swell when those cells multiply during an infection.
 
-Some white blood cells attack invaders directly. Some make **antibodies**, proteins that mark an invader so other cells can destroy it.
+![Lymph vessels connect with a lymph node. This exterior overview shows connections, not the detailed cells inside.](images/servier/lymph-node.png)
 
-![White cells, antibodies, nodes, and the spleen](images/lessons/protection-02-immune-team.svg)
+*Lymph vessels connect with a lymph node. This exterior overview shows connections, not the detailed cells inside. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
-*A small cast of defenders is enough for this course. (Diagram made for Body School.)*
+## Nodes are meeting places
+**Lymph nodes** lie along lymph vessels. Immune cells there can encounter material carried from tissues and help organize responses. A node is not simply a bag that traps every harmful particle automatically.
 
-## Spleen and thymus
+Immune cells also work in blood and tissues. Some take in and break down microbes or damaged material; others recognize particular threats or help coordinate responses.
 
-The **spleen**, in the upper left abdomen, filters **blood** rather than lymph. It removes old red blood cells and lets immune cells inspect the blood. The **thymus**, in the chest, helps some white blood cells mature. You do not need the full family tree of immune cells. You need the idea: cells recognize what is foreign, mark it or attack it, and the lymph vessels give them a route.
+The spleen is another immune-related organ. It checks material in blood rather than serving as a lymph node on a lymph-vessel route. It also helps remove old blood cells.
 
-![Lymphatic system](images/lessons/sourced-lymphatic.jpg)
-
-*Vessels and nodes return fluid and carry immune cells. (National Cancer Institute, public domain, via Wikimedia Commons.)*
-
-![Inside a lymph node](images/lessons/sourced-lymph-node.svg)
-
-*Lymph enters, immune cells meet it, and filtered lymph leaves. (Cancer Research UK, CC BY-SA 4.0, via Wikimedia Commons.)*
-
-The circulatory system is the other highway. White blood cells ride in the blood as well as in the lymph. The next lesson puts the barrier and this cellular defense in the right order.
+**Explain aloud:** Why can the lymph system matter both for fluid balance and defense? Include what is transported and where immune cells can encounter it.

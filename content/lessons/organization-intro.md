@@ -1,0 +1,82 @@
+---
+id: organization-intro
+title: "Start here: A body made of working parts"
+unit: organization
+summary: Preview the unit’s main questions and connect them to everyday experiences.
+prerequisites: []
+objectives:
+  - Preview the unit’s main questions and connect them to everyday experiences.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
+items: []
+images: []
+compare: []
+sources:
+  - id: openstax-organization
+    title: "OpenStax Anatomy and Physiology 2e: Structural Organization of the Human Body"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/1-2-structural-organization-of-the-human-body
+  - id: openstax-tissues
+    title: "OpenStax Anatomy and Physiology 2e: Types of Tissues"
+    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/4-1-types-of-tissues
+  - id: medlineplus-anatomy
+    title: "MedlinePlus: Anatomy"
+    url: https://medlineplus.gov/anatomy.html
+quiz:
+  - type: question
+    prompt: A learner says the heart alone lets you run. What would improve that explanation?
+    choices:
+      - Connect the heart with lungs, blood, and muscles
+      - List more names for parts of the heart
+      - Assume organs work independently
+    answer: Connect the heart with lungs, blood, and muscles
+    explanation: "Running depends on connected jobs: gas exchange, transport, and muscle activity."
+  - type: question
+    prompt: What makes an explanation stronger?
+    choices:
+      - Saying how one part helps another do its job
+      - Using the longest possible words
+      - Naming a part without describing its job
+    answer: Saying how one part helps another do its job
+    explanation: Connections explain a process rather than only identify parts.
+  - type: question
+    prompt: You do not recognize a scientific word. What is a useful first step?
+    choices:
+      - Connect its definition to the example in the lesson
+      - Memorize its spelling before considering its job
+      - Skip every sentence containing it
+    answer: Connect its definition to the example in the lesson
+    explanation: A job and example give a new word meaning.
+  - type: question
+    prompt: Which observation could later lessons help explain?
+    choices:
+      - Breathing and pulse often rise when activity increases
+      - An organ must work alone because it has its own name
+      - The pulse can change without any connection to other systems
+    answer: Breathing and pulse often rise when activity increases
+    explanation: Changes in breathing and pulse are evidence of systems coordinating.
+  - type: question
+    prompt: Why do the course reviews return to everyday examples?
+    choices:
+      - To use several ideas together in a new situation
+      - To replace explanations with longer word lists
+      - To show that earlier ideas no longer matter
+    answer: To use several ideas together in a new situation
+    explanation: Applying ideas helps you build a useful model of the body.
+passMark: 0.8
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+---
+
+## A question to carry through the course
+How can one body sense a sound, run across a room, and recover afterward? No organ does all of that alone. Body School follows the parts and, more importantly, the connections between them.
+
+Each lesson is planned for about **10 minutes**: roughly three minutes to read and inspect an example, two minutes to explain an idea aloud, and five minutes for five questions and feedback. Take longer when you need it. The structure guide is optional reference reading.
+
+## Build explanations, not word lists
+You will meet scientific names because they help people describe the same thing clearly. Each name comes with a job or example. The questions ask you to follow a process, predict a change, or choose evidence—not spell long names.
+
+For example, “lungs take in oxygen” is a start. “Oxygen crosses from tiny air sacs into blood, which carries it to cells” explains a connection.
+
+## Before you begin
+Think about walking upstairs. What changes in your breathing, pulse, and muscles? Keep those observations in mind; later units will help you explain them. You do not need to exercise to do the lesson.
+
+**Explain aloud:** Why might studying only the heart leave part of the upstairs story unexplained?

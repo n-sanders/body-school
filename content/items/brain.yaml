@@ -13,7 +13,9 @@ traits:
     source: openstax-cns
   - text: The brainstem keeps basic jobs going, including breathing rate and heart rate.
     source: wikipedia-brain
-lookAlikes: [spinal-cord, skull]
+lookAlikes:
+  - spinal-cord
+  - skull
 sources:
   - id: openstax-cns
     title: "OpenStax Anatomy and Physiology 2e: The Central Nervous System"
@@ -22,11 +24,8 @@ sources:
     title: "Wikipedia: Human brain"
     url: https://en.wikipedia.org/wiki/Human_brain
 images:
-  - url: images/organs/brain-diagram.svg
-    note: Unlabeled brain with cerebrum, cerebellum, and brainstem.
+  - url: images/servier/brain.png
+    note: Side view of the brain; colors mark regions rather than separate organs.
     reviewed: true
-  - url: images/organs/brain-context.svg
-    note: Brain inside the head of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

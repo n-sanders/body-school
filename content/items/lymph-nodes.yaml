@@ -7,13 +7,16 @@ attributes:
   role: Filter lymph and house immune cells
 summary: Small bean-shaped stations that filter lymph and give immune cells a place to meet invaders.
 traits:
-  - text: Lymph is fluid that leaks out of blood capillaries. Lymph vessels return it toward the blood.
+  - text: Some fluid leaves blood capillaries and surrounds tissue cells. Once collected inside lymph vessels, it is called lymph and travels toward return to blood.
     source: openstax-lymph
   - text: Lymph nodes filter that fluid and are packed with white blood cells.
     source: openstax-lymph
   - text: Nodes often swell when immune cells multiply during an infection.
     source: wikipedia-node
-lookAlikes: [spleen, thyroid-gland, blood-vessels]
+lookAlikes:
+  - spleen
+  - thyroid-gland
+  - blood-vessels
 sources:
   - id: openstax-lymph
     title: "OpenStax Anatomy and Physiology 2e: Anatomy of the Lymphatic and Immune Systems"
@@ -22,11 +25,8 @@ sources:
     title: "Wikipedia: Lymph node"
     url: https://en.wikipedia.org/wiki/Lymph_node
 images:
-  - url: images/organs/lymph-nodes-diagram.svg
-    note: Unlabeled bean-shaped nodes along thin vessels.
+  - url: images/servier/lymph-node.png
+    note: A lymph node connected to lymph vessels; this view does not show its internal immune cells.
     reviewed: true
-  - url: images/organs/lymph-nodes-context.svg
-    note: Lymph nodes placed along a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

@@ -1,14 +1,13 @@
 ---
 id: circulation-01-the-heart-and-blood
-title: The heart and blood
+title: "The heart: Two connected loops"
 unit: circulation
-summary: The heart is a four-chamber pump, and blood is the delivery fluid it pushes.
+summary: The heart sends blood to the lungs and then to the rest of the body.
 prerequisites:
-  - support-03-skeleton-and-muscles-together
+  - circulation-intro
 objectives:
-  - Trace blood through the right side of the heart, the lungs, and the left side
-  - Name the main parts of blood and one job of each
-  - Recognize the heart as a muscular pump
+  - The heart sends blood to the lungs and then to the rest of the body.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - heart
 sources:
@@ -19,65 +18,56 @@ sources:
     title: "National Heart, Lung, and Blood Institute: The Heart"
     url: https://www.nhlbi.nih.gov/health/heart
 quiz:
-  - type: identify
-    item: heart
-  - type: find
-    item: heart
   - type: question
-    prompt: Which path does a drop of blood take through the heart?
+    prompt: Why does blood travel through the lungs before going back out to the body?
     choices:
-      - Body, right side, lungs, left side, body
-      - Body, left side, stomach, right side, body
-      - Lungs, kidneys, left side, right side, skin
-    answer: Body, right side, lungs, left side, body
-    explanation: The right side sends blood to the lungs to pick up oxygen. The left side sends that blood out to the body.
+      - It can gain oxygen and release carbon dioxide
+      - It needs the lungs to absorb digested food
+      - It loses oxygen at the lungs before returning to the body
+    answer: It can gain oxygen and release carbon dioxide
+    explanation: The lung loop refreshes the gases carried by blood.
   - type: question
-    prompt: What are the two upper chambers called?
+    prompt: What helps keep blood moving in the intended direction through the heart?
     choices:
-      - Atria
-      - Alveoli
-      - Ureters
-    answer: Atria
-    explanation: Atria receive blood. Ventricles, the lower chambers, pump it onward.
+      - Valves open and close with pressure changes
+      - All chambers remain open to each other all the time
+      - The blood supply always flows correctly without pressure changes
+    answer: Valves open and close with pressure changes
+    explanation: Valves help prevent backward flow.
   - type: question
-    prompt: Which blood cell carries most of the oxygen?
+    prompt: Which route correctly connects the two loops?
     choices:
-      - Red blood cells
-      - Platelets
-      - Skin cells
-    answer: Red blood cells
-    explanation: Red blood cells are specialized for oxygen transport. White blood cells fight infection. Platelets help clotting.
+      - Body → right side of heart → lungs → left side of heart → body
+      - Body → left side of heart → lungs → right side of heart → body
+      - Body → right side of heart → body, without passing the lungs
+    answer: Body → right side of heart → lungs → left side of heart → body
+    explanation: The right side sends blood to lungs and the left side sends it to the body.
   - type: question
-    prompt: Why is heart muscle called cardiac muscle?
+    prompt: Why is a heartbeat useful to transport?
     choices:
-      - It is the muscle of the heart, and it contracts automatically
-      - It is attached to the skull by a tendon
-      - It only works when you hold your breath
-    answer: It is the muscle of the heart, and it contracts automatically
-    explanation: You do not decide each heartbeat. Cardiac muscle keeps its own rhythm and can speed up when the body needs more blood.
+      - Contraction creates pressure that moves blood
+      - It transfers gases across the air-sac wall itself
+      - It creates nutrients inside the blood
+    answer: Contraction creates pressure that moves blood
+    explanation: The heart supplies the pressure for circulation.
   - type: question
-    prompt: What is plasma?
+    prompt: What would happen if the body loop worked but the lung loop stopped?
     choices:
-      - The liquid part of blood that carries cells, nutrients, hormones, and wastes
-      - A bone in the rib cage
-      - The air inside an alveolus
-    answer: The liquid part of blood that carries cells, nutrients, hormones, and wastes
-    explanation: Cells float in plasma. Many dissolved supplies and wastes travel in it too.
-  - type: question
-    prompt: The heart and lungs must both work because...
-    choices:
-      - The heart sends blood to the lungs for oxygen, then sends that blood to the body
-      - The lungs pump blood and the heart stores air
-      - Oxygen is made inside the stomach
-    answer: The heart sends blood to the lungs for oxygen, then sends that blood to the body
-    explanation: The two systems are one delivery route. Neither half of the route is enough alone.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Blood would not keep receiving fresh oxygen normally
+      - The body loop could keep delivery normal indefinitely
+      - Blood could gain enough new oxygen in the heart chambers
+    answer: Blood would not keep receiving fresh oxygen normally
+    explanation: The two loops depend on each other.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+compare: []
+passMark: 0.8
 ---
 
 ## Feel the pump
 
-Put a hand on the center of your chest after a short run. The thump is the **heart**, a muscular pump slightly left of center. It is cardiac muscle, so it beats without you deciding to flex it. It does speed up when cells need more oxygen.
+Picture a heartbeat: the **heart** is a muscular pump in the chest, between the lungs, with much of it slightly left of center. It is cardiac muscle, so it beats without you deciding to flex it. It does speed up when cells need more oxygen.
 
 The heart has four chambers:
 
@@ -92,21 +82,15 @@ Follow one drop:
 4. It returns to the **left** side.
 5. The left ventricle pumps it out to the body.
 
-![Steps of blood flow through the heart](images/lessons/circulation-01-heart-path.svg)
 
-*Right side to the lungs, left side to the body. (Diagram made for Body School.)*
+![Follow arrows through the lung loop and body loop. Red and blue indicate relative oxygen levels; blood is always a shade of red.](images/lessons/sourced-heart-flow.svg)
 
-![Heart with the path of blood labeled](images/lessons/sourced-heart-flow.svg)
+*Follow arrows through the lung loop and body loop. Red and blue indicate relative oxygen levels; blood is always a shade of red. [Source and license](#/credits).*
 
-*A labeled teaching diagram of the same loop. Quiz pictures of the heart stay unlabeled. (ZooFari, CC BY-SA 3.0, via Wikimedia Commons.)*
+## A pump needs connected routes
 
-## What the blood is carrying
+The heart does not make oxygen or nutrients. It creates pressure that moves blood carrying these materials. Valves help prevent backward flow as chambers fill and contract.
 
-Blood is not just red liquid. It is a mix:
+The two loops connect: blood returning from the body goes toward the lungs, then blood returning from the lungs goes toward the body. Neither loop can keep supplying tissues normally if the other stops.
 
-- **Red blood cells** carry most of the oxygen.
-- **White blood cells** help fight infection.
-- **Platelets** help the blood clot when a vessel is cut.
-- **Plasma** is the liquid that carries the cells plus nutrients, hormones, and wastes.
-
-The nutrients in that plasma came from food. The oxygen came from the lungs. The heart's job is to keep the mixture moving, day and night. The tubes it moves through are the next lesson.
+**Trace aloud:** Follow a drop from a body tissue through both loops and back to that tissue. Name where gas exchange happens and where pumping happens.

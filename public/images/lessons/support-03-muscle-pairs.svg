@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns='http://www.w3.org/2000/svg' width='800' height='380' viewBox='0 0 800 380' role='img'>
-<title>Muscle pairs</title><desc>One muscle shortens while its partner lengthens.</desc>
-<rect width='100%' height='100%' fill='#fbf6ef'/>
-<text x='400' y='40' text-anchor='middle' font-size='22' fill='#2c2825' font-weight='700' font-family='Segoe UI, system-ui, sans-serif'>Muscles pull in pairs</text><rect x='370' y='90' width='28' height='240' rx='10' fill='#ead9bc' stroke='#c4ae8e' stroke-width='3'/><path d='M250 140 Q330 180 378 150' fill='#d4534e' stroke='#a33b3b' stroke-width='3' /><path d='M430 200 Q500 240 398 250' fill='#e07a6a' stroke='#a33b3b' stroke-width='3' /><text x='230' y='130' text-anchor='start' font-size='16' fill='#2c2825' font-family='Segoe UI, system-ui, sans-serif'>One shortens</text><text x='520' y='300' text-anchor='middle' font-size='16' fill='#2c2825' font-family='Segoe UI, system-ui, sans-serif'>The other lengthens</text><line x1='300' y1='200' x2='300' y2='250' stroke='#d4534e' stroke-width='3.5' stroke-linecap='round'/><polygon points='300.0,250.0 295.2,240.1 304.8,240.1' fill='#d4534e'/><text x='400' y='360' text-anchor='middle' font-size='18' fill='#2c2825' font-weight='700' font-family='Segoe UI, system-ui, sans-serif'>Muscles pull. They never push.</text>
-</svg>

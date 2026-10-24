@@ -13,7 +13,9 @@ traits:
     source: openstax-vessels
   - text: Many veins have valves that keep blood from sliding backward on its way to the heart.
     source: wikipedia-vessel
-lookAlikes: [spinal-cord, lungs]
+lookAlikes:
+  - spinal-cord
+  - lungs
 sources:
   - id: openstax-vessels
     title: "OpenStax Anatomy and Physiology 2e: Structure and Function of Blood Vessels"
@@ -22,11 +24,8 @@ sources:
     title: "Wikipedia: Blood vessel"
     url: https://en.wikipedia.org/wiki/Blood_vessel
 images:
-  - url: images/organs/blood-vessels-diagram.svg
-    note: Unlabeled branching red and blue vessels.
+  - url: images/servier/vessels.png
+    note: Red and blue blood-vessel routes connect through capillaries; the separate green branches represent lymph vessels. Blood itself is always a shade of red.
     reviewed: true
-  - url: images/organs/blood-vessels-context.svg
-    note: Branching vessels across a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

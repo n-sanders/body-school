@@ -1,14 +1,13 @@
 ---
 id: control-03-homeostasis
-title: Homeostasis
+title: "Feedback: Keeping conditions workable"
 unit: control
-summary: Nerves and hormones work as a team to keep conditions such as temperature and blood sugar in a steady range.
+summary: Feedback adjusts responses as internal conditions change.
 prerequisites:
   - control-02-hormones-and-glands
 objectives:
-  - Define homeostasis as a steady range, not a frozen number
-  - Put sensor, control center, and effector in order
-  - Explain negative feedback with temperature or blood sugar
+  - Feedback adjusts responses as internal conditions change.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 sources:
   - id: openstax-organization
     title: "OpenStax Anatomy and Physiology 2e: Structural Organization of the Human Body"
@@ -18,85 +17,64 @@ sources:
     url: https://openstax.org/books/anatomy-and-physiology-2e/pages/17-1-an-overview-of-the-endocrine-system
 quiz:
   - type: question
-    prompt: What does homeostasis mean in this course?
+    prompt: Why does a cooling response usually decrease after excess warmth falls?
     choices:
-      - Keeping internal conditions in a workable range
-      - Stopping every organ so nothing can change
-      - Making the body as hot as possible
-    answer: Keeping internal conditions in a workable range
-    explanation: Temperature, blood sugar, water, and oxygen are allowed to wobble a little. The body pushes back when they drift too far.
+      - The changed condition reduces the signal for cooling
+      - Cooling must continue at full strength after conditions return
+      - Sensors stop providing information after the first response
+    answer: The changed condition reduces the signal for cooling
+    explanation: Feedback adjusts the response as the original disturbance changes.
   - type: question
-    prompt: Which order matches a feedback loop?
+    prompt: What does negative feedback mean?
     choices:
-      - Sensor, control center, effector
-      - Effector, bone, feces
-      - Alveolus, tendon, suture
-    answer: Sensor, control center, effector
-    explanation: Something detects the change, a control center (often in the brain) chooses a response, and muscles or glands carry it out.
+      - The response tends to reduce the original change
+      - The response always increases the original change
+      - The word means the response must harm the body
+    answer: The response tends to reduce the original change
+    explanation: Negative describes an opposing effect on the disturbance.
   - type: question
-    prompt: Why is sweating after exercise called negative feedback?
+    prompt: Why is a workable range more accurate than one exact value?
     choices:
-      - The response reverses the rise in temperature
-      - Sweat makes the body hotter on purpose
-      - Negative means the nerves have stopped
-    answer: The response reverses the rise in temperature
-    explanation: Negative feedback opposes the change. It brings the condition back toward the usual range.
+      - Internal conditions can vary while remaining suitable for cells
+      - Any change means control has completely failed
+      - Internal conditions never move even slightly
+    answer: Internal conditions can vary while remaining suitable for cells
+    explanation: Homeostasis allows controlled variation.
   - type: question
-    prompt: Blood sugar rises after a meal. Which response fits homeostasis?
+    prompt: What actually helps sweat remove heat?
     choices:
-      - The pancreas releases insulin so cells take glucose in and the level falls
-      - The skull sutures open
-      - Bile replaces the blood
-    answer: The pancreas releases insulin so cells take glucose in and the level falls
-    explanation: If sugar falls too far, glucagon helps raise it. The pair keeps a range, not a single frozen number.
+      - Water evaporating from the skin
+      - Sweat staying on skin without evaporating
+      - The sweat gland alone changing the core temperature instantly
+    answer: Water evaporating from the skin
+    explanation: Evaporation transfers heat away.
   - type: question
-    prompt: How do nerves and hormones share the work of homeostasis?
+    prompt: Why can a feedback system fail to restore a condition?
     choices:
-      - Nerves handle fast adjustments, and hormones handle slower, wider ones
-      - Hormones only move bones, and nerves only digest fat
-      - They never affect the same organ
-    answer: Nerves handle fast adjustments, and hormones handle slower, wider ones
-    explanation: A shiver can start quickly. A hormone change in metabolism takes longer. Both can serve the same balance.
-  - type: question
-    prompt: Which list is a set of conditions homeostasis watches?
-    choices:
-      - Temperature, blood sugar, water balance, and oxygen
-      - Favorite color, shoe size, and handwriting
-      - Only the names of the skull bones
-    answer: Temperature, blood sugar, water balance, and oxygen
-    explanation: Those are internal conditions cells need. The outside world can change without the inside copying every change.
-  - type: question
-    prompt: The next unit is about protection. How does that connect to control?
-    choices:
-      - Skin sensors and immune responses still depend on signals and on a body kept in a livable range
-      - Protection replaces the brain
-      - Homeostasis ends once the skin is mentioned
-    answer: Skin sensors and immune responses still depend on signals and on a body kept in a livable range
-    explanation: Defense is another job that uses nerves, blood, and chemical messages.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Its response has limits or conditions prevent it working effectively
+      - Starting a response guarantees complete correction
+      - Detecting the change immediately removes every disturbance
+    answer: Its response has limits or conditions prevent it working effectively
+    explanation: Control mechanisms have practical limits.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+items: []
+images: []
+compare: []
+passMark: 0.8
 ---
 
-## A comfortable range
+## Stable does not mean motionless
+Body cells work best within certain ranges of temperature, water balance, and other conditions. **Homeostasis** means maintaining workable internal conditions despite changes inside and outside the body. It does not mean every measurement stays at one exact number.
 
-**Homeostasis** means the body keeps important conditions in a **workable range**. Not a single frozen number. Temperature, blood sugar, water, salts, and oxygen are allowed to drift a little. If they drift too far, something pushes back.
+A feedback process connects detection, control, and response. Sensors detect a change. Control signals influence responding tissues. The response changes the original condition, which affects later signals.
 
-The usual loop has three jobs:
+## A cooling example
+When the body becomes too warm, sweating can increase. Evaporation of sweat transfers heat away. Blood flow near the skin can also increase, helping heat reach the surface. As conditions return toward the usual range, the cooling response can decrease.
 
-1. A **sensor** notices the change.
-2. A **control center**, often in the brain, decides what to do.
-3. An **effector** — a muscle, a gland, or an organ — carries out the response.
+This is **negative feedback**: the response reduces the original disturbance. “Negative” describes the direction of the feedback, not something harmful.
 
-When the response **reverses** the change, the loop is **negative feedback**. That is the common pattern. You get hot, you sweat, you cool down. You are not trying to get hotter.
+## Limits matter
+Responses have limits and depend on conditions. Sweat cools best when it can evaporate; producing sweat alone does not guarantee enough cooling. A control system can also be overwhelmed.
 
-![Sensor, control center, effector, and the reversal](images/lessons/control-03-feedback-loop.svg)
-
-*The response works against the original change. (Diagram made for Body School.)*
-
-## Two familiar loops
-
-**Temperature.** Sensors in the skin and deeper in the body report the change. If you are cold, nerves trigger shivering. Skeletal muscles contract and make heat. Blood flow to the skin may drop so less heat escapes. Hormones can support a longer adjustment. If you are hot, sweat and more blood in the skin do the opposite.
-
-**Blood sugar.** After a meal, sugar rises. The pancreas releases insulin, cells take glucose in, and the level falls. If sugar drops too low, glucagon helps raise it. Nerves may add hunger or shakiness as faster warnings.
-
-The two message systems from this unit are doing the same kind of work at different speeds. The next unit asks what happens when the threat is not heat or sugar but a scrape, a germ, or the outside world pressing on the skin.
+**Trace aloud:** More warmth → detection and signals → cooling responses → less excess warmth → reduced cooling response.

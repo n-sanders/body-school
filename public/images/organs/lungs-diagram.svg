@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns='http://www.w3.org/2000/svg' width='480' height='360' viewBox='0 0 480 360' role='img'>
-<title>Lungs</title><desc>Windpipe splitting into two spongy lungs.</desc>
-<rect width='100%' height='100%' fill='#fbf6ef'/>
-<g transform='translate(240 188) scale(1.35) translate(-100 -100)'><rect x='92' y='8' width='16' height='36' rx='6' fill='#f7e7ea' stroke='#e294a2' stroke-width='3'/><path d='M100 40 L70 70' fill='none' stroke='#e294a2' stroke-width='5' /><path d='M100 40 L132 68' fill='none' stroke='#e294a2' stroke-width='5' /><path d='M18 78 Q18 170 78 176 Q104 150 96 78 Q60 60 18 78 Z' fill='#f4c3cb' stroke='#e294a2' stroke-width='3' /><path d='M112 74 Q150 58 184 84 Q190 168 124 176 Q100 148 112 74 Z' fill='#f4c3cb' stroke='#e294a2' stroke-width='3' /><path d='M40 100 Q60 120 48 150 M150 100 Q168 124 156 150' fill='none' stroke='#fff' stroke-width='2' /></g>
-</svg>

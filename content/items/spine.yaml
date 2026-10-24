@@ -13,7 +13,9 @@ traits:
     source: openstax-skeleton
   - text: A tunnel inside the vertebrae protects the spinal cord.
     source: wikipedia-spine
-lookAlikes: [rib-cage, spinal-cord]
+lookAlikes:
+  - rib-cage
+  - spinal-cord
 sources:
   - id: openstax-skeleton
     title: "OpenStax Anatomy and Physiology 2e: Functions of the Skeletal System"
@@ -22,11 +24,8 @@ sources:
     title: "Wikipedia: Vertebral column"
     url: https://en.wikipedia.org/wiki/Vertebral_column
 images:
-  - url: images/organs/spine-diagram.svg
-    note: Unlabeled stack of vertebrae with a gentle curve.
+  - url: images/servier/spine.png
+    note: "Vertebral column: stacked bones protect and support the spinal cord."
     reviewed: true
-  - url: images/organs/spine-context.svg
-    note: Spine running down the back of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

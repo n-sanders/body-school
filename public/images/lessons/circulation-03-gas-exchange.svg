@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns='http://www.w3.org/2000/svg' width='800' height='380' viewBox='0 0 800 380' role='img'>
-<title>Gas exchange</title><desc>Oxygen enters blood and carbon dioxide leaves.</desc>
-<rect width='100%' height='100%' fill='#fbf6ef'/>
-<text x='400' y='40' text-anchor='middle' font-size='22' fill='#2c2825' font-weight='700' font-family='Segoe UI, system-ui, sans-serif'>Gas exchange in an air sac</text><circle cx='250' cy='190' r='80' fill='#fde8ec' stroke='#e294a2' stroke-width='3'/><text x='250' y='186' text-anchor='middle' font-size='16' fill='#2c2825' font-family='Segoe UI, system-ui, sans-serif'>air sac</text><path d='M360 120 Q470 190 360 270' fill='none' stroke='#d64545' stroke-width='16'/><line x1='430' y1='150' x2='330' y2='170' stroke='#d64545' stroke-width='3.5' stroke-linecap='round'/><polygon points='330.0,170.0 338.8,163.4 340.7,172.7' fill='#d64545'/><text x='560' y='150' text-anchor='start' font-size='16' fill='#d64545' font-family='Segoe UI, system-ui, sans-serif'>Oxygen in</text><text x='560' y='250' text-anchor='start' font-size='16' fill='#3e6ea5' font-family='Segoe UI, system-ui, sans-serif'>Carbon dioxide out</text>
-</svg>

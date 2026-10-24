@@ -1,20 +1,18 @@
 ---
 id: control-02-hormones-and-glands
-title: Hormones and glands
+title: "Hormones: Messages carried in blood"
 unit: control
-summary: Hormones are slower chemical messages that travel in the blood and can affect many cells at once.
+summary: Hormones affect target cells with matching receptors.
 prerequisites:
-  - control-01-brain-and-nerves
+  - control-ears-and-balance
 objectives:
-  - Contrast a hormone message with a nerve signal
-  - Match insulin, adrenaline, and growth-related hormones to simple effects
-  - Recognize the thyroid and pituitary region and the adrenal glands
+  - Hormones affect target cells with matching receptors.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - thyroid-gland
   - adrenal-glands
   - pancreas
-compare:
-  - [thyroid-gland, adrenal-glands]
+compare: []
 sources:
   - id: openstax-endocrine
     title: "OpenStax Anatomy and Physiology 2e: An Overview of the Endocrine System"
@@ -26,91 +24,68 @@ sources:
     title: "OpenStax Anatomy and Physiology 2e: The Adrenal Glands"
     url: https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands
 quiz:
-  - type: identify
-    item: adrenal-glands
-  - type: identify
-    item: thyroid-gland
-  - type: find
-    item: pancreas
   - type: question
-    prompt: How is a hormone different from a nerve signal?
+    prompt: Why do only certain cells respond to a particular hormone?
     choices:
-      - A hormone travels in the blood, reaches many cells, and usually acts more slowly
-      - A hormone is always faster than any reflex
-      - A hormone only travels inside a tendon
-    answer: A hormone travels in the blood, reaches many cells, and usually acts more slowly
-    explanation: Nerves are the direct line. Hormones are the broadcast.
+      - They have receptors that can recognize it
+      - The first cells reached always absorb the entire message
+      - Every cell must respond identically to the same blood
+    answer: They have receptors that can recognize it
+    explanation: Matching receptors help determine which cells respond.
   - type: question
-    prompt: Which gland is often called the master gland because it directs others?
+    prompt: How does an endocrine hormone reach distant target cells?
     choices:
-      - The pituitary
-      - The gallbladder
-      - A lymph node
-    answer: The pituitary
-    explanation: The pituitary sits at the base of the brain and releases hormones that tell other glands what to do.
+      - It travels in blood
+      - It moves along a digestive duct to every target
+      - It travels only down a connected motor nerve
+    answer: It travels in blood
+    explanation: Endocrine messages use the circulation route.
   - type: question
-    prompt: What does insulin do to blood sugar?
+    prompt: Which comparison of nerves and hormones is most useful?
     choices:
-      - It helps lower blood sugar
-      - It turns blood into bile
-      - It covers the body like skin
-    answer: It helps lower blood sugar
-    explanation: Insulin comes from the pancreas. Glucagon, also from the pancreas, helps raise blood sugar.
+      - They use different routes and can act over different time scales
+      - All hormone effects are slow and all nerve effects are instant
+      - Hormones and nerves always have identical targets and timing
+    answer: They use different routes and can act over different time scales
+    explanation: Routes and response patterns are more useful than an absolute fast/slow rule.
   - type: question
-    prompt: Adrenaline prepares the body for sudden action. Which gland releases it?
+    prompt: Why is the pancreas discussed in both digestion and control?
     choices:
-      - The adrenal glands, on top of the kidneys
-      - The alveoli
-      - The large intestine
-    answer: The adrenal glands, on top of the kidneys
-    explanation: Heart rate and breathing pick up. That is a hormone effect you can feel.
+      - It sends digestive secretions into ducts and hormones into blood
+      - Its digestive secretions and hormones always take the same route
+      - Its hormone role means it can no longer aid digestion
+    answer: It sends digestive secretions into ducts and hormones into blood
+    explanation: An organ can contribute different products to different systems.
   - type: question
-    prompt: The thyroid's hormones mainly affect what?
+    prompt: Why is calling one gland the sole boss misleading?
     choices:
-      - The pace of metabolism, or how fast cells use fuel
-      - The color of bile
-      - The number of skull sutures
-    answer: The pace of metabolism, or how fast cells use fuel
-    explanation: The thyroid is the butterfly-shaped gland on the windpipe. It does not send the fast "move your hand" signal. Nerves do that.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Glands are influenced by signals and feedback from other parts
+      - The gland always acts without information from elsewhere
+      - Feedback affects muscles but never glands
+    answer: Glands are influenced by signals and feedback from other parts
+    explanation: Control is a network rather than a single independent command center.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+passMark: 0.8
 ---
 
-## The slower broadcast
+## A message can travel widely
+An endocrine gland releases **hormones**, chemical messages, into blood. Blood carries a hormone around the body, but not every cell responds. A target cell needs a matching **receptor**, a structure able to recognize that message.
 
-Feeling hungry or sleepy is not the same kind of message as yanking a hand off a hot pan. Those slower changes often involve **hormones**, chemical messengers released into the blood by **glands**.
+This helps explain how the same blood can carry many messages without every cell doing the same thing.
 
-A nerve signal is a direct call. A hormone is more like a broadcast. It takes longer to arrive, it can reach many cells, and its effect can last longer.
 
-![A gland releasing a message into the blood](images/lessons/control-02-hormone-message.svg)
+![The thyroid sits in the neck beside the windpipe. The pituitary is a separate gland at the base of the brain and is not shown here.](images/servier/thyroid.png)
 
-*One release, many listeners. (Diagram made for Body School.)*
+*The thyroid sits in the neck beside the windpipe. The pituitary is a separate gland at the base of the brain and is not shown here. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
-## A small set of glands
+## Different roles and time scales
+The thyroid, in the neck, releases hormones that help regulate how the body uses energy. The pancreas releases insulin, which helps many cells take up glucose from blood and helps coordinate storage after a meal. Small adrenal glands above the kidneys release several hormones, including ones involved in stress responses and salt balance.
 
-| Gland | Where it sits | One effect to remember |
-| --- | --- | --- |
-| Pituitary | Base of the brain | Directs other glands; growth hormone influences growth |
-| Thyroid | Front of the neck, on the windpipe | Sets much of the pace of metabolism |
-| Adrenal glands | On top of each kidney | Adrenaline prepares you for sudden action |
-| Pancreas | Behind the stomach | Insulin lowers blood sugar; glucagon raises it |
+Some hormone effects take time to develop; others can be rapid. Nerve pathways often allow very fast, targeted signals, but “all hormones are slow” is too simple.
 
-You already met the pancreas as a digestive helper. The hormone job is the other half of the same organ.
+## Connected control
+The pituitary, at the base of the brain, influences several other glands. It is itself controlled by signals and feedback. No single gland makes every decision alone.
 
-![Endocrine glands](images/lessons/sourced-endocrine.jpg)
-
-*A map of the hormone-making glands. Reproductive glands on general diagrams are not part of this course. (National Cancer Institute, public domain, via Wikimedia Commons.)*
-
-![Pituitary and pineal glands](images/lessons/sourced-pituitary.jpg)
-
-*The pituitary hangs from the base of the brain. (National Cancer Institute, public domain, via Wikimedia Commons.)*
-
-![Thyroid on the windpipe](images/lessons/sourced-thyroid.jpg)
-
-*The thyroid's two lobes and the small parathyroid glands behind them. (National Cancer Institute, public domain, via Wikimedia Commons.)*
-
-![Adrenal gland on a kidney](images/lessons/sourced-adrenal.jpg)
-
-*The cap on the kidney is the adrenal gland. (National Cancer Institute, public domain, via Wikimedia Commons.)*
-
-The brain can tell glands to release hormones, and hormones can affect the brain. The next lesson is the name for the result they are both chasing: a body that stays in a workable range.
+**Explain aloud:** Why can a hormone pass many cells in blood while affecting only certain ones?

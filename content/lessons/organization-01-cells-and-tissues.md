@@ -2,12 +2,12 @@
 id: organization-01-cells-and-tissues
 title: Cells and tissues
 unit: organization
-summary: The body is built from cells, and similar cells group into four main kinds of tissue.
-prerequisites: []
+summary: Different cell structures support different jobs; tissues are groups of cells working together.
+prerequisites:
+  - organization-intro
 objectives:
-  - Describe the levels from a cell up to the whole body
-  - Give an example of a cell whose shape fits its job
-  - Name the four main tissue types and one job of each
+  - Different cell structures support different jobs; tissues are groups of cells working together.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 sources:
   - id: openstax-organization
     title: "OpenStax Anatomy and Physiology 2e: Structural Organization of the Human Body"
@@ -17,63 +17,51 @@ sources:
     url: https://openstax.org/books/anatomy-and-physiology-2e/pages/4-1-types-of-tissues
 quiz:
   - type: question
-    prompt: What is the basic living unit of the body?
+    prompt: Why does a nerve cell’s long shape help it?
     choices:
-      - A cell
-      - An organ system
-      - A bone
-    answer: A cell
-    explanation: Cells are the smallest living units. Tissues, organs, and systems are built from them.
+      - It can carry a signal between distant places
+      - Its main job is to create a tight surface barrier
+      - Its main job is to store minerals for support
+    answer: It can carry a signal between distant places
+    explanation: "Structure supports function: long extensions help nerve cells communicate."
   - type: question
-    prompt: Which sequence lists the levels from smallest to largest?
+    prompt: A lining is damaged and no longer forms a good barrier. Which job is most directly affected?
     choices:
-      - Cell, tissue, organ, organ system, organism
-      - Organ, cell, tissue, organism, organ system
-      - Tissue, organ system, cell, organ, organism
-    answer: Cell, tissue, organ, organ system, organism
-    explanation: Similar cells make a tissue, tissues make an organ, organs make a system, and the systems make the whole person.
+      - Separating and protecting surfaces
+      - Carrying commands quickly over a long distance
+      - Holding a joint at a fixed angle
+    answer: Separating and protecting surfaces
+    explanation: Covering and lining tissue helps form barriers.
   - type: question
-    prompt: Which tissue covers and lines surfaces?
+    prompt: Why can a tissue contain many cells?
     choices:
-      - Epithelial tissue
-      - Nervous tissue
-      - Connective tissue
-    answer: Epithelial tissue
-    explanation: Epithelial tissue is the covering and lining tissue, such as the outer layer of skin and the lining of the stomach.
+      - Cells cooperate on a shared job
+      - Every cell has to do a separate unrelated job
+      - Cells have become one single much larger cell
+    answer: Cells cooperate on a shared job
+    explanation: Tissues are organized groups of cells working together.
   - type: question
-    prompt: What is the main job of muscle tissue?
+    prompt: What do a heart muscle cell and an arm muscle cell have in common?
     choices:
-      - It shortens to produce movement
-      - It stores memories in the skull
-      - It only covers the outside of the body
-    answer: It shortens to produce movement
-    explanation: Muscle cells are built to contract. That shortening is what moves bones, pumps blood, and squeezes food along.
+      - Both can develop tension
+      - Both must be activated by a conscious choice each time
+      - Both mainly carry sensory messages
+    answer: Both can develop tension
+    explanation: Muscle cells develop tension; their roles differ with their location.
   - type: question
-    prompt: Which example matches the cell to its job?
+    prompt: A cell’s shape changes in a way that prevents its usual job. What can happen next?
     choices:
-      - A nerve cell carries signals, and a muscle cell contracts
-      - A nerve cell stores calcium, and a muscle cell covers the skin
-      - Every cell in the body has the same shape and the same job
-    answer: A nerve cell carries signals, and a muscle cell contracts
-    explanation: Cell shape follows the job. A long nerve cell can reach far. A muscle cell can shorten.
-  - type: question
-    prompt: Nervous tissue is specialized to do what?
-    choices:
-      - Carry signals
-      - Cushion joints
-      - Grind food
-    answer: Carry signals
-    explanation: Nervous tissue sends messages quickly so the body can sense and respond.
-  - type: question
-    prompt: A wall of bricks is most like which level?
-    choices:
-      - A tissue, because similar cells work together
-      - An organ system, because it includes every organ
-      - A whole organism, because a wall can live on its own
-    answer: A tissue, because similar cells work together
-    explanation: One brick is like a cell. A wall of similar bricks is like a tissue. A house built from different walls is more like an organ.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - The tissue it belongs to may work less effectively
+      - The larger tissue must work normally regardless
+      - Only the cell’s name changes, not what it can do
+    answer: The tissue it belongs to may work less effectively
+    explanation: A problem at the cell level can affect the larger tissue.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+items: []
+images: []
+compare: []
+passMark: 0.8
 ---
 
 ## Start with something you can picture
@@ -84,29 +72,24 @@ Think of a brick, then a wall, then a house, then a neighborhood. A body is orga
 
 A **cell** is the basic living unit. Cells are tiny, but they are not all copies of one shape.
 
-- A **muscle cell** is built to shorten, which is how you move.
+- A **muscle cell** develops tension. It can shorten to create movement or hold steady to maintain a position.
 - A **nerve cell** has long branches so it can carry a signal from one place to another.
 - A **red blood cell** is a small disk that travels easily through narrow vessels.
 
 The shape is a clue to the job.
 
-![Five steps from a single cell to the whole body](images/lessons/organization-01-levels.svg)
-
-*Cells group into tissues, tissues into organs, organs into systems, and systems into the whole body. (Diagram made for Body School.)*
-
 ## Tissues
 
-A **tissue** is a group of similar cells working on the same job. You only need four names to start:
+A **tissue** is a group of similar cells working on the same job. Four broad tissue types provide a useful starting model:
 
 | Tissue | What it does | A place you will meet it |
 | --- | --- | --- |
 | Epithelial | Covers and lines surfaces | Skin surface, lining of the mouth and stomach |
 | Connective | Supports and connects | Bone, blood, tendons |
-| Muscle | Contracts to produce movement | Muscles that move bones, the heart |
+| Muscle | Develops tension; moves or holds body parts | Muscles that move bones, the heart |
 | Nervous | Carries signals | Brain, spinal cord, nerves |
 
-![Four panels introducing epithelial, connective, muscle, and nervous tissue](images/lessons/organization-01-tissues.svg)
-
-*Covering, connecting, shortening, and signaling: the four tissue types used all through this course. (Diagram made for Body School.)*
-
 Later units will not ask you to memorize long lists of rare cell names. They will keep coming back to these four tissues and to the idea that **parts work together**.
+
+
+**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

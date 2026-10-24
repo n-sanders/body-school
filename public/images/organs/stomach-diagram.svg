@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns='http://www.w3.org/2000/svg' width='480' height='360' viewBox='0 0 480 360' role='img'>
-<title>Stomach</title><desc>J-shaped sac under a short tube.</desc>
-<rect width='100%' height='100%' fill='#fbf6ef'/>
-<g transform='translate(240 188) scale(1.35) translate(-100 -100)'><path d='M70 30 Q60 70 78 100 Q40 150 86 168 Q150 184 160 120 Q168 60 120 48 Q90 40 70 30 Z' fill='#e2b27a' stroke='#b8884e' stroke-width='3' /><path d='M92 78 Q110 100 96 130' fill='none' stroke='#f6e2c4' stroke-width='3' /><rect x='78' y='12' width='12' height='28' rx='4' fill='#f3d7b0' stroke='#b8884e' stroke-width='2'/></g>
-</svg>

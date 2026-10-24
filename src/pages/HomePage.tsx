@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 import { content } from "../content/loader";
 import { useProgress } from "../hooks/useProgress";
-import { completedCount, knownDueCards, nextLessonId, studiedCards, studiedItems } from "../lib/learning";
+import { completedCount, knownDueCards, nextLessonId, studiedCards, studiedItems, practiceCardEnabled } from "../lib/learning";
 import { noun, site } from "../lib/site";
 
 export function HomePage() {
@@ -10,9 +10,9 @@ export function HomePage() {
   const total = content.lessonOrder.length;
   const next = nextLessonId(content, progress);
   const nextLesson = next ? content.lessons.get(next) : undefined;
-  const studied = site.catalog.enabled
+  const studied = site.catalog.enabled && site.catalog.practice !== false
     ? { count: studiedItems(content, progress).length, label: `${noun.many} studied` }
-    : { count: studiedCards(content, progress).length, label: "questions studied" };
+    : { count: studiedCards(content, progress).filter(practiceCardEnabled).length, label: "questions studied" };
   const due = knownDueCards(content, progress).length;
 
   return (
@@ -65,6 +65,8 @@ export function HomePage() {
             <strong>Review.</strong> Questions you miss come back sooner, so you spend time where you need it.
           </li>
         </ol>
+        <p>Plan about 10 minutes: read a short explanation, study a picture or example, and answer five concept questions.
+          Take longer if you want to discuss an idea. New scientific words are explained as you meet them.</p>
         <p className="muted">
           Lost your progress? Open any lesson or the <Link to="/progress">Progress</Link> page and use{" "}
           <em>Mark completed</em>.

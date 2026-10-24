@@ -1,14 +1,13 @@
 ---
 id: protection-01-skin-and-its-jobs
-title: Skin and its jobs
+title: "Skin: Barrier, sensing, temperature"
 unit: protection
-summary: Skin is a barrier, a sensor, a cooling system, and a vitamin D factory.
+summary: Skin combines several tissues and supports more than one protective job.
 prerequisites:
-  - control-03-homeostasis
+  - protection-intro
 objectives:
-  - Distinguish the epidermis from the dermis
-  - List everyday jobs of the skin besides "covering the body"
-  - Recognize a simple skin cross-section
+  - Skin combines several tissues and supports more than one protective job.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - skin
 sources:
@@ -19,78 +18,66 @@ sources:
     title: "Wikipedia: Human skin"
     url: https://en.wikipedia.org/wiki/Human_skin
 quiz:
-  - type: identify
-    item: skin
-  - type: find
-    item: skin
   - type: question
-    prompt: Which layer is the outer barrier that replaces itself?
+    prompt: Why can damaged skin increase the challenge to internal defenses?
     choices:
-      - The epidermis
-      - The marrow inside a bone
-      - The left ventricle
-    answer: The epidermis
-    explanation: New cells form deeper in the epidermis and move outward. The dermis is the thicker layer under it.
+      - A barrier has been opened
+      - A break in skin prevents any internal response
+      - An open barrier guarantees one particular disease
+    answer: A barrier has been opened
+    explanation: Intact skin helps limit entry.
   - type: question
-    prompt: Which structures live mainly in the dermis?
+    prompt: How does skin help temperature control?
     choices:
-      - Blood vessels, nerves, and sweat glands
-      - Alveoli and the trachea
-      - The four chambers of the heart
-    answer: Blood vessels, nerves, and sweat glands
-    explanation: The dermis is the living support layer under the tougher outer epidermis.
+      - Sweat evaporation and changing skin blood flow can affect heat loss
+      - Sweating cools equally well whether or not it evaporates
+      - Skin controls temperature only by making a physical barrier
+    answer: Sweat evaporation and changing skin blood flow can affect heat loss
+    explanation: Skin connects barrier functions with cooling responses.
   - type: question
-    prompt: How does skin help when you are hot?
+    prompt: Why does skin need sensory endings?
     choices:
-      - Sweat evaporates and blood flow in the skin can increase
-      - The epidermis makes bile
-      - Hair follicles pump air like lungs
-    answer: Sweat evaporates and blood flow in the skin can increase
-    explanation: Both moves dump heat. In the cold, less blood in the skin saves heat.
+      - Information about touch and harmful conditions can guide responses
+      - Sensing replaces the need for a physical barrier
+      - Touch information can never affect muscle responses
+    answer: Information about touch and harmful conditions can guide responses
+    explanation: Sensing can help a person respond to potential injury.
   - type: question
-    prompt: Vitamin D production in the skin needs what?
+    prompt: Why is skin an organ rather than one simple covering tissue?
     choices:
-      - Sunlight
-      - Stomach acid
-      - A tendon
-    answer: Sunlight
-    explanation: Skin helps make vitamin D when it is exposed to sun. That is a job beyond being a cover.
+      - Different tissues cooperate in its several jobs
+      - All skin cells do exactly one identical job
+      - Only its large surface area makes it an organ
+    answer: Different tissues cooperate in its several jobs
+    explanation: Organs combine tissues with related functions.
   - type: question
-    prompt: Hair and nails are best described as what?
+    prompt: Why is sweating alone not proof that enough cooling is occurring?
     choices:
-      - Structures made from skin material that add protection
-      - Extra kidneys
-      - Chambers of the heart
-    answer: Structures made from skin material that add protection
-    explanation: They are part of the integumentary system, not separate organs with new jobs unrelated to skin.
-  - type: question
-    prompt: A scrape hurts and you feel the breeze on it because...
-    choices:
-      - Nerve endings in the skin sense touch, temperature, and pain
-      - The skull is inside the scrape
-      - Platelets are sense organs
-    answer: Nerve endings in the skin sense touch, temperature, and pain
-    explanation: Skin is a sense organ as well as a wall. Those signals travel through the nervous system.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Cooling depends partly on evaporation and conditions
+      - Sweat amount directly measures all heat removed
+      - Producing any sweat guarantees complete cooling
+    answer: Cooling depends partly on evaporation and conditions
+    explanation: The effectiveness of a response depends on conditions.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+compare: []
+passMark: 0.8
 ---
 
 ## The wall you live in
 
-A scrape, a shiver, or a runny nose all start at a boundary. The **integumentary system** is the skin plus hair, nails, and the sweat and oil glands. Skin is the first physical barrier between you and the world.
+A scrape shows why a body boundary matters. The **integumentary system** is the skin plus hair, nails, and the sweat and oil glands. Skin is the first physical barrier between you and the world.
 
 It has layers:
 
 - The **epidermis** is the outer layer. It blocks a lot of germs and water loss, and it keeps making new cells.
 - The **dermis** is deeper. Blood vessels, nerves, sweat glands, and oil glands live there.
 
-![Jobs of the skin](images/lessons/protection-01-skin-jobs.svg)
 
-*Barrier, water, touch, cooling, and vitamin D. (Diagram made for Body School.)*
+![A section through intact skin shows layers and a blood supply beneath the surface. This figure does not label every skin structure.](images/servier/skin.png)
 
-![Skin layers](images/lessons/sourced-skin-layers.svg)
-
-*Epidermis on top, dermis underneath, with glands and a hair follicle. (Madhero88 and M.Komorniczak, CC BY-SA 3.0, via Wikimedia Commons.)*
+*A section through intact skin shows layers and a blood supply beneath the surface. This figure does not label every skin structure. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
 ## More than a cover
 
@@ -99,7 +86,10 @@ Skin has several jobs that are easy to miss if you only think "it holds me in":
 - It protects against injury and many germs.
 - It helps hold water in.
 - It senses touch, temperature, and pain. Those signals are nervous-system messages.
-- It helps control temperature. Sweat cools you. Blood flow in the skin rises when you need to lose heat and falls when you need to save it.
+- It helps control temperature. Evaporating sweat helps cool you. Blood flow in the skin rises when you need to lose heat and falls when you need to save it.
 - It helps make **vitamin D** when sunlight reaches it.
 
 Hair and nails are skin structures that add protection. A scrape that breaks the epidermis is the moment the next lesson's defenders matter, because the barrier has a gap.
+
+
+**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

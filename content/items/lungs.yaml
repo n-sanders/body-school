@@ -5,7 +5,7 @@ attributes:
   system: Respiratory
   location: Chest, one on each side
   role: Exchange oxygen and carbon dioxide
-summary: Two spongy organs where inhaled air meets blood in tiny air sacs.
+summary: Two spongy organs where gases cross a thin barrier between air sacs and nearby blood.
 traits:
   - text: Air reaches the lungs through the windpipe, which splits into bronchi.
     source: openstax-lungs
@@ -13,7 +13,9 @@ traits:
     source: openstax-lungs
   - text: The right lung is usually a bit larger and has three lobes; the left has two, leaving room for the heart.
     source: wikipedia-lung
-lookAlikes: [heart, diaphragm]
+lookAlikes:
+  - heart
+  - diaphragm
 sources:
   - id: openstax-lungs
     title: "OpenStax Anatomy and Physiology 2e: Organs and Structures of the Respiratory System"
@@ -22,11 +24,8 @@ sources:
     title: "Wikipedia: Lung"
     url: https://en.wikipedia.org/wiki/Lung
 images:
-  - url: images/organs/lungs-diagram.svg
-    note: Unlabeled windpipe splitting into two lungs.
+  - url: images/servier/lungs.png
+    note: Branching airways enter the two lungs.
     reviewed: true
-  - url: images/organs/lungs-context.svg
-    note: Lungs filling the chest of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

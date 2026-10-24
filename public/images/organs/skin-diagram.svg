@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns='http://www.w3.org/2000/svg' width='480' height='360' viewBox='0 0 480 360' role='img'>
-<title>Skin</title><desc>Layered skin with a hair and a gland.</desc>
-<rect width='100%' height='100%' fill='#fbf6ef'/>
-<g transform='translate(240 188) scale(1.35) translate(-100 -100)'><rect x='16' y='36' width='168' height='28' rx='4' fill='#f3c49a' stroke='#c99262' stroke-width='2'/><rect x='16' y='64' width='168' height='70' rx='4' fill='#f6d7b8' stroke='#e2b48a' stroke-width='2'/><rect x='16' y='134' width='168' height='36' rx='4' fill='#f7e7d4' stroke='#e2c8aa' stroke-width='2'/><path d='M70 20 v18 Q70 80 86 110' fill='none' stroke='#6b5344' stroke-width='4' /><circle cx='70' cy='18' r='6' fill='#6b5344' stroke='none' stroke-width='0'/><path d='M120 100 Q132 124 120 146' fill='none' stroke='#3e6ea5' stroke-width='3' /><circle cx='148' cy='96' r='8' fill='#f7d2d2' stroke='#d64545' stroke-width='2'/></g>
-</svg>

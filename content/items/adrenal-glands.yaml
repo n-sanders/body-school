@@ -13,7 +13,9 @@ traits:
     source: openstax-adrenal
   - text: Other adrenal hormones help manage salt, water, and longer-lasting stress responses.
     source: wikipedia-adrenal
-lookAlikes: [kidneys, thyroid-gland]
+lookAlikes:
+  - kidneys
+  - thyroid-gland
 sources:
   - id: openstax-adrenal
     title: "OpenStax Anatomy and Physiology 2e: The Adrenal Glands"
@@ -22,11 +24,8 @@ sources:
     title: "Wikipedia: Adrenal gland"
     url: https://en.wikipedia.org/wiki/Adrenal_gland
 images:
-  - url: images/organs/adrenal-glands-diagram.svg
-    note: Unlabeled caps sitting on a pair of kidneys.
+  - url: images/servier/adrenal.png
+    note: One adrenal gland caps a kidney. The cap is the gland; the larger dark structure is the kidney.
     reviewed: true
-  - url: images/organs/adrenal-glands-context.svg
-    note: Adrenal glands above the kidneys in a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

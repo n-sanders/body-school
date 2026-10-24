@@ -13,7 +13,10 @@ traits:
     source: openstax-nerves
   - text: Some quick reflexes are routed through the spinal cord before you have time to think.
     source: wikipedia-cord
-lookAlikes: [brain, spine, blood-vessels]
+lookAlikes:
+  - brain
+  - spine
+  - blood-vessels
 sources:
   - id: openstax-cns
     title: "OpenStax Anatomy and Physiology 2e: The Central Nervous System"
@@ -25,11 +28,8 @@ sources:
     title: "Wikipedia: Spinal cord"
     url: https://en.wikipedia.org/wiki/Spinal_cord
 images:
-  - url: images/organs/spinal-cord-diagram.svg
-    note: Unlabeled cord inside vertebrae with side branches.
+  - url: images/servier/nervous-system.png
+    note: "Nervous-system overview: the spinal cord runs down from the brain; nerves branch into the body."
     reviewed: true
-  - url: images/organs/spinal-cord-context.svg
-    note: Spinal cord down the back of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

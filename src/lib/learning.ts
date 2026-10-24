@@ -45,7 +45,12 @@ export function allCards(content: Content): string[] {
 
 /** Due cards that still exist in the content (old progress may mention removed lessons or items). */
 export function knownDueCards(content: Content, progress: Progress, now?: Date): string[] {
-  return dueCards(progress, now).filter((c) => cardExists(content, c));
+  return dueCards(progress, now).filter((c) => cardExists(content, c) && practiceCardEnabled(c));
+}
+
+/** Reference images may be useful even when image-name drills are disabled. */
+export function practiceCardEnabled(card: string): boolean {
+  return site.catalog.practice !== false || parseCard(card)?.kind === "question";
 }
 
 export type PracticeMode = "identify" | "find" | "mixed" | "questions" | "all";

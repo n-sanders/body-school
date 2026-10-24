@@ -46,7 +46,10 @@ export function ItemCard({ item, showImages = true }: { item: Item; showImages?:
       {showImages && (
         <div className="gallery">
           {item.images.map((img, i) => (
-            <ItemImage key={img.url} src={img.url} alt={`${item.name}, example image ${i + 1}`} />
+            <div key={img.url}>
+              <ItemImage src={img.url} alt={`${item.name}: ${img.note || `example image ${i + 1}`}`} />
+              {img.note && <p className="muted small">{img.note}</p>}
+            </div>
           ))}
         </div>
       )}

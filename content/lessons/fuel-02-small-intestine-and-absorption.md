@@ -1,102 +1,83 @@
 ---
 id: fuel-02-small-intestine-and-absorption
-title: Small intestine and absorption
+title: Absorption and the large intestine
 unit: fuel
-summary: The liver, gallbladder, and pancreas help the small intestine finish digestion and absorb nutrients.
+summary: The intestinal lining transfers nutrients into transport routes; the large intestine recovers remaining water.
 prerequisites:
-  - fuel-01-digestion-from-mouth-to-stomach
+  - fuel-accessory-organs
 objectives:
-  - Explain what bile, pancreatic enzymes, and bicarbonate do
-  - Contrast the small intestine with the large intestine
-  - Recognize the liver, pancreas, small intestine, and large intestine
+  - The intestinal lining transfers nutrients into transport routes; the large intestine recovers remaining water.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - liver
   - pancreas
   - small-intestine
   - large-intestine
-compare:
-  - [small-intestine, large-intestine]
-  - [liver, pancreas]
+compare: []
 sources:
-  - id: openstax-intestine
-    title: "OpenStax Anatomy and Physiology 2e: The Small and Large Intestines"
-    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines
-  - id: openstax-accessory
-    title: "OpenStax Anatomy and Physiology 2e: The Liver, Pancreas, and Gallbladder"
-    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder
+  - id: primary-reference
+    title: "NIDDK: Your Digestive System and How It Works"
+    url: https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works
 quiz:
-  - type: identify
-    item: small-intestine
-  - type: identify
-    item: liver
-  - type: find
-    item: large-intestine
   - type: question
-    prompt: What is bile for?
+    prompt: Why do folds and villi help absorption?
     choices:
-      - It helps digest fats by breaking them into smaller droplets
-      - It carries oxygen in red blood cells
-      - It connects muscle to bone
-    answer: It helps digest fats by breaking them into smaller droplets
-    explanation: The liver makes bile. The gallbladder stores it and releases it into the small intestine.
+      - They increase the available surface for crossing
+      - They make the barrier thicker to speed crossing
+      - They keep nutrients inside the food tube longer without crossing
+    answer: They increase the available surface for crossing
+    explanation: A large thin surface supports exchange.
   - type: question
-    prompt: What does the pancreas add besides digestive enzymes?
+    prompt: What does absorption add after digestion?
     choices:
-      - Bicarbonate, which neutralizes stomach acid
-      - Bone marrow
-      - Adrenaline only
-    answer: Bicarbonate, which neutralizes stomach acid
-    explanation: The acid was useful in the stomach. The small intestine needs a milder mix so its enzymes can work.
+      - Small substances cross the intestinal lining into transport routes
+      - The stomach mixes food into smaller physical pieces
+      - Digestive enzymes start breaking down food in the mouth
+    answer: Small substances cross the intestinal lining into transport routes
+    explanation: Breaking down and crossing the lining are different steps.
   - type: question
-    prompt: Why does the small intestine have villi?
+    prompt: Why do vessels close to the lining help?
     choices:
-      - The tiny projections add surface area for absorption
-      - They pump blood like ventricles
-      - They store urine
-    answer: The tiny projections add surface area for absorption
-    explanation: Most nutrients cross the villi into blood or lymph.
+      - They carry absorbed materials away toward other tissues
+      - They digest all large food molecules before any crossing
+      - They make transport to distant tissues unnecessary
+    answer: They carry absorbed materials away toward other tissues
+    explanation: Transport supports continuing absorption and delivery.
   - type: question
-    prompt: Which job belongs to the large intestine?
+    prompt: Which statement about water absorption is accurate?
     choices:
-      - Absorb water and form feces
-      - Pump blood to the lungs
-      - Exchange oxygen in alveoli
-    answer: Absorb water and form feces
-    explanation: The large intestine is wider and frames the coils of the small intestine. Undigested leftovers leave as waste.
+      - Both small and large intestines absorb water
+      - Only the large intestine absorbs any water
+      - All water stays inside the digestive tube until it leaves
+    answer: Both small and large intestines absorb water
+    explanation: The small intestine absorbs much water; the large intestine recovers more.
   - type: question
-    prompt: The pancreas also releases insulin. What does insulin do?
+    prompt: What could happen if intestinal surface area were greatly reduced?
     choices:
-      - It helps lower blood sugar by letting cells take glucose in
-      - It cushions the knee
-      - It is the pigment in skin
-    answer: It helps lower blood sugar by letting cells take glucose in
-    explanation: The same organ helps digestion and helps control blood sugar. Glucagon from the pancreas raises blood sugar.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Less efficient absorption even when food is broken down
+      - Absorption must remain unchanged if digestion still works
+      - Less surface automatically makes the lining more permeable
+    answer: Less efficient absorption even when food is broken down
+    explanation: Structure affects the rate and capacity of exchange.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+passMark: 0.8
 ---
 
-## Helpers around the coil
+## Crossing into the body’s transport routes
+Most nutrient absorption happens in the **small intestine**. Its inner surface has folds and many tiny fingerlike projections called **villi**. These provide a large total surface for substances to cross.
 
-The soupy mix leaving the stomach is not finished. The **small intestine** is where most chemical digestion and almost all nutrient absorption happen. It does not work alone.
+The lining is thin, and transport vessels are close by. Many absorbed nutrients enter blood vessels. Many products of fat digestion first enter small lymph vessels and later reach blood. You do not need to memorize those vessel names to explain the main idea: digestion must be followed by crossing and transport.
 
-- The **liver** makes **bile**. Bile does not work like an enzyme that cuts molecules apart. It breaks fats into tiny droplets so enzymes can reach them.
-- The **gallbladder** stores bile and squeezes it in when fat arrives.
-- The **pancreas** adds digestive enzymes and **bicarbonate**. Bicarbonate neutralizes the acid from the stomach so the intestinal lining is not burned and the enzymes can work.
 
-The pancreas has a second job you will meet again in the control unit. It releases **insulin** and **glucagon** into the blood to manage blood sugar.
+![Fingerlike villi increase surface area. Blood vessels and a central lymph vessel provide routes away from the lining.](images/servier/villi.png)
 
-![Liver helpers beside the coiled small intestine](images/lessons/fuel-02-absorption.svg)
+*Fingerlike villi increase surface area. Blood vessels and a central lymph vessel provide routes away from the lining. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
-*Bile and enzymes finish the chemistry. The coils do the absorbing. (Diagram made for Body School.)*
+## Water and leftovers
+The small intestine also absorbs much of the water entering the digestive tract. The **large intestine** absorbs additional water and salts from what remains. Microbes live there too, processing some materials the body did not digest.
 
-## Across the villi
+Remaining material becomes stool and leaves through the end of the digestive tract. Stool is not the same as urine, which the kidneys produce from materials processed out of blood.
 
-The lining of the small intestine is folded into tiny projections called **villi**. They create a huge surface. Sugars, amino acids, fatty acids, vitamins, minerals, and water cross into blood or lymph. The blood then carries many of those nutrients to the liver before they travel on to the rest of the body.
-
-The **large intestine** is shorter and wider. It frames the small intestine. Its main jobs are to absorb water and to form feces from what could not be digested. That waste leaves the body. It is not the same as the wastes the kidneys remove from the blood.
-
-![Small intestine framed by the large intestine](images/lessons/sourced-intestines.svg)
-
-*Coils in the middle, wider tube around them. (Indolences and Medium69, public domain, via Wikimedia Commons.)*
-
-Nutrients are now in the blood. Cells will use them and make other wastes. The kidneys are the filters that deal with much of that leftover chemistry.
+**Use the structure:** If an intestinal lining lost much of its folded surface, why might absorption become less effective even if food breakdown continued?

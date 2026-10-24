@@ -1,111 +1,84 @@
 ---
 id: circulation-03-lungs-and-breathing
-title: Lungs and breathing
+title: "Lungs: Exchanging gases"
 unit: circulation
-summary: Air travels to tiny sacs in the lungs, and the diaphragm keeps the air moving.
+summary: Oxygen enters blood and carbon dioxide leaves it across thin air-sac walls.
 prerequisites:
-  - circulation-02-blood-vessels-and-exchange
+  - circulation-breathing-mechanics
 objectives:
-  - Trace inhaled air from the nose or mouth to the alveoli
-  - Explain gas exchange between an alveolus and a capillary
-  - Recognize the lungs and the diaphragm
+  - Oxygen enters blood and carbon dioxide leaves it across thin air-sac walls.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - lungs
   - diaphragm
-compare:
-  - [lungs, diaphragm]
+compare: []
 sources:
-  - id: openstax-lungs
-    title: "OpenStax Anatomy and Physiology 2e: Organs and Structures of the Respiratory System"
-    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system
-  - id: openstax-breathing
-    title: "OpenStax Anatomy and Physiology 2e: The Process of Breathing"
-    url: https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing
+  - id: primary-reference
+    title: "NHLBI: How the Lungs Work"
+    url: https://www.nhlbi.nih.gov/health/lungs
 quiz:
-  - type: identify
-    item: lungs
-  - type: identify
-    item: diaphragm
-  - type: find
-    item: lungs
   - type: question
-    prompt: Which path does inhaled air follow?
+    prompt: Which direction does oxygen move at the lungs?
     choices:
-      - Nose or mouth, trachea, bronchi, lungs, alveoli
-      - Nose, stomach, ureter, bladder
-      - Mouth, tendon, marrow, skull
-    answer: Nose or mouth, trachea, bronchi, lungs, alveoli
-    explanation: The windpipe is the trachea. It splits into bronchi that enter the lungs and end at air sacs.
+      - From air sacs into blood
+      - From blood into air sacs as the main incoming supply
+      - From air sacs directly to muscles without blood transport
+    answer: From air sacs into blood
+    explanation: Fresh air supplies oxygen that crosses into blood.
   - type: question
-    prompt: What happens at an alveolus?
+    prompt: Why do many tiny air sacs help?
     choices:
-      - Oxygen enters the blood and carbon dioxide leaves it
-      - Food is absorbed into villi
-      - Bone marrow makes platelets
-    answer: Oxygen enters the blood and carbon dioxide leaves it
-    explanation: Each alveolus is wrapped in capillaries. The gases move between the air and the blood there.
+      - They provide a large total exchange surface
+      - They increase the thickness of the barrier
+      - They reduce the need to bring blood near the air
+    answer: They provide a large total exchange surface
+    explanation: A larger surface allows more gas exchange.
   - type: question
-    prompt: How does the diaphragm help you inhale?
+    prompt: Why must blood keep moving past the air sacs?
     choices:
-      - It contracts and flattens, making the chest larger so air is pulled in
-      - It pumps blood into the arteries
-      - It filters urine
-    answer: It contracts and flattens, making the chest larger so air is pulled in
-    explanation: Rib muscles help too. When the diaphragm relaxes and domes upward, the chest gets smaller and air leaves.
+      - It carries exchanged gases away and brings more blood to exchange
+      - A fixed amount of blood can keep supplying all tissues forever
+      - Blood flow matters only before the first breath
+    answer: It carries exchanged gases away and brings more blood to exchange
+    explanation: Continuous transport supports continuing exchange.
   - type: question
-    prompt: Why do you breathe harder after running?
+    prompt: What does carbon dioxide do at the lungs?
     choices:
-      - Working cells need more oxygen and make more carbon dioxide
-      - The skull sutures open to let in extra air
-      - The stomach can only digest food while you gasp
-    answer: Working cells need more oxygen and make more carbon dioxide
-    explanation: Breathing rate and heart rate rise together. The two systems are answering the same demand.
+      - Moves from blood to air sacs and can be breathed out
+      - It mainly moves from fresh air into blood as a nutrient
+      - It stays in the airways and never comes from body cells
+    answer: Moves from blood to air sacs and can be breathed out
+    explanation: The lungs remove carbon dioxide carried from tissues.
   - type: question
-    prompt: Which sentence links the heart and the lungs correctly?
+    prompt: What would thicker exchange walls tend to do?
     choices:
-      - Blood that unloaded carbon dioxide and loaded oxygen in the lungs is pumped to the body
-      - The lungs pump blood and the heart stores air
-      - Oxygen moves through tendons instead of blood
-    answer: Blood that unloaded carbon dioxide and loaded oxygen in the lungs is pumped to the body
-    explanation: The right heart sends blood to the lungs. The left heart sends the refreshed blood onward.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Make crossing the barrier more difficult
+      - Make crossing easier because the barrier is larger
+      - Have no effect as long as air is present
+    answer: Make crossing the barrier more difficult
+    explanation: Thin barriers reduce the distance gases must cross.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+passMark: 0.8
 ---
 
-## Follow a breath
+## Follow the air
+Air passes through the nose or mouth, down the windpipe, and through smaller branching airways. At their ends are tiny air sacs called **alveoli**. Their many small surfaces together provide a large area for gas exchange.
 
-After a run you feel two things at once: a hard heartbeat and a strong need to breathe. They are one delivery problem. Cells used oxygen and made carbon dioxide. The **lungs** are where the blood fixes both.
+Tiny blood vessels wrap around the air sacs. The air-sac and vessel walls are very thin, so gases have a short distance to cross. Oxygen moves from air into blood. Carbon dioxide moves from blood into the air sacs and can leave in a breath out.
 
-Follow the air:
 
-1. Nose or mouth
-2. **Trachea**, the windpipe
-3. **Bronchi**, the two branches into the lungs
-4. Smaller and smaller tubes
-5. **Alveoli**, the tiny air sacs
+![Follow the arrows: oxygen moves from the air sac into blood; carbon dioxide moves from blood into the air sac. Blood passes beside the sac.](images/lessons/sourced-alveoli.svg)
 
-![Five steps from the nose to the air sacs](images/lessons/circulation-03-air-path.svg)
+*Follow the arrows: oxygen moves from the air sac into blood; carbon dioxide moves from blood into the air sac. Blood passes beside the sac. helix84, CC BY 2.5. [Source and license](#/credits).*
 
-*The tubes exist to get fresh air to the sacs and used air back out. (Diagram made for Body School.)*
+## Why direction matters
+Gases spread from where their concentration is higher toward where it is lower. At the lungs, incoming blood has less oxygen than the fresh air in the air sacs. At working body tissues, oxygen instead moves out of blood toward cells using it.
 
-![The respiratory organs from nose to lungs](images/lessons/sourced-respiratory.svg)
+The blood and air stay on opposite sides of the thin exchange barrier. Whole blood cells do not normally pour into the air spaces.
 
-*A full respiratory diagram for the path you just followed. (Mariana Ruiz Villarreal, public domain, via Wikimedia Commons.)*
+## Connect two jobs
+Breathing replaces air; circulation replaces blood beside the air sacs. Both are needed to keep exchange going effectively.
 
-## The meeting place
-
-Each alveolus is wrapped in capillaries. **Oxygen moves into the blood. Carbon dioxide moves out.** That is the whole point of the sac. The heart then pumps the oxygen-rich blood to the rest of the body and sends used blood back for another exchange.
-
-![Oxygen entering blood beside an air sac](images/lessons/circulation-03-gas-exchange.svg)
-
-*The two systems meet at the air sac. (Diagram made for Body School.)*
-
-![Alveoli wrapped by capillaries](images/lessons/sourced-alveoli.svg)
-
-*A closer view of the same meeting place. (helix84, CC BY 2.5, via Wikimedia Commons.)*
-
-## What moves the air
-
-The **diaphragm** is a dome of muscle under the lungs. When it contracts, it flattens, the chest gets roomier, and air is pulled in. When it relaxes, the dome rises and air leaves. Rib muscles help lift and lower the cage. You can take a breath on purpose, but most breathing runs on its own and speeds up when cells are working hard.
-
-The blood leaving the lungs is carrying oxygen. It is also the highway for nutrients. Those nutrients enter in the digestive system, which is next. The kidneys, later in that unit, clean wastes out of the same blood.
+**Explain aloud:** Why would having fresh air in the lungs be insufficient if blood stopped moving past the air sacs?

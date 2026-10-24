@@ -12,6 +12,8 @@ export interface Category {
 export interface CatalogConfig {
   /** Turn off for courses with no items to recognize; lessons then use text questions only. */
   enabled: boolean;
+  /** Offer image-name drills in addition to the reference guide. */
+  practice?: boolean;
   /** What one catalog entry is called, in lower case ("rocket", "breed"). */
   singular: string;
   plural: string;
@@ -53,13 +55,14 @@ const config: SiteConfig = {
   emoji: "🫀",
   tagline: "Explore how the human body is built and how its systems work together",
   description:
-    "Work through seven units from cells and tissues to major organ systems, practice identifying key organs and structures, and see how your body stays in balance.",
+    "Explore the body's major organs and systems in short lessons designed for about 10 minutes. Build a middle-school foundation by explaining how parts work together, with an introduction and review in every unit.",
   footer:
-    "Body School — a middle-school course on human anatomy and physiology. Diagrams from OpenStax, Wikimedia Commons, and Body School contributors (see IMAGE_CREDITS.md). Progress is saved only in this browser.",
+    "Body School — a middle-school foundation in human anatomy and physiology. [Image credits](#/credits). Progress is saved only in this browser.",
   catalog: {
     enabled: true,
-    singular: "organ",
-    plural: "organs",
+    practice: false,
+    singular: "structure",
+    plural: "structures",
     categoryLabel: "Body System",
     categories: [
       { id: "support", label: "Skeletal & Muscular" },
@@ -75,7 +78,9 @@ const config: SiteConfig = {
     ],
   },
   images: { provider: "pinned" },
-  imageCredit: (url) => (url.startsWith("images/") ? "This site" : new URL(url).hostname),
+  imageCredit: (url) => url.startsWith("images/servier/")
+    ? "Servier Medical Art · CC BY 4.0"
+    : url.startsWith("images/") ? "Source and license in image credits" : new URL(url).hostname,
 };
 
 export default config;

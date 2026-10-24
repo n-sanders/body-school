@@ -1,14 +1,13 @@
 ---
 id: organization-03-working-together
-title: Working together
+title: Following connections
 unit: organization
-summary: Organs and systems depend on one another, even when a lesson studies them one at a time.
+summary: Body systems exchange materials and information so cells can keep working.
 prerequisites:
   - organization-02-organs-and-systems
 objectives:
-  - Explain why no organ system works alone
-  - Trace a simple action, such as walking, across more than one system
-  - Predict which later units will explain oxygen, fuel, and control
+  - Body systems exchange materials and information so cells can keep working.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 sources:
   - id: openstax-organization
     title: "OpenStax Anatomy and Physiology 2e: Structural Organization of the Human Body"
@@ -18,82 +17,66 @@ sources:
     url: https://medlineplus.gov/anatomy.html
 quiz:
   - type: question
-    prompt: Why do skeletal muscles depend on the circulatory and respiratory systems?
+    prompt: Food nutrients enter blood, which carries them to muscle cells. Which connection is shown?
     choices:
-      - Working muscle cells need oxygen and fuel delivered by the blood, and the lungs supply that oxygen
-      - Muscles can only move if the stomach is empty
-      - Bones make oxygen inside the marrow and send it through nerves
-    answer: Working muscle cells need oxygen and fuel delivered by the blood, and the lungs supply that oxygen
-    explanation: Movement uses energy. Blood brings oxygen from the lungs and nutrients from digestion.
+      - Digestion supplies materials that circulation transports
+      - The intestine delivers nutrients to every muscle without transport
+      - Nutrients are absorbed only after reaching muscle cells
+    answer: Digestion supplies materials that circulation transports
+    explanation: Absorption and transport connect digestion with the needs of cells.
   - type: question
-    prompt: Which statement fits the idea that systems work together?
+    prompt: Why do cells need a way to remove wastes?
     choices:
-      - The heart needs oxygen from the lungs, and the lungs need blood flow from the heart
-      - Each system shuts down whenever another system is active
-      - Only the brain uses oxygen
-    answer: The heart needs oxygen from the lungs, and the lungs need blood flow from the heart
-    explanation: The two systems meet in the lungs and keep each other supplied.
+      - Cell processes make products that must be carried away
+      - Transport is needed only for bringing materials in
+      - Removing wastes is unnecessary if supplies keep arriving
+    answer: Cell processes make products that must be carried away
+    explanation: "Cells need exchange in both directions: supplies in and wastes out."
   - type: question
-    prompt: You stand up and walk across a room. Which list is a reasonable chain?
+    prompt: A nerve signals a muscle to contract. What is being exchanged?
     choices:
-      - Nerves signal muscles, muscles pull bones, and the heart and lungs supply the working cells
-      - Only the skin is involved, because walking happens outside the body
-      - The kidneys pull the leg bones forward
-    answer: Nerves signal muscles, muscles pull bones, and the heart and lungs supply the working cells
-    explanation: A simple walk already uses control, movement, circulation, and breathing.
+      - Information that changes what the muscle does
+      - The nerve must deliver a supply of fuel for each contraction
+      - The muscle must move before any signal can reach it
+    answer: Information that changes what the muscle does
+    explanation: Some system connections carry information rather than nutrients or gases.
   - type: question
-    prompt: What is the point of studying systems one at a time?
+    prompt: What would best help explain a system connection?
     choices:
-      - To see each job clearly, then connect it back to the whole body
-      - To prove that organs never interact
-      - To skip the organs and memorize only cell names
-    answer: To see each job clearly, then connect it back to the whole body
-    explanation: The units separate the topics so they are easier to learn. The body itself does not separate them.
+      - Trace what moves, where it goes, and what happens next
+      - Give the same job to every part in the route
+      - List the parts but leave their connections unexplained
+    answer: Trace what moves, where it goes, and what happens next
+    explanation: Tracing a material or signal reveals how the parts interact.
   - type: question
-    prompt: Which later topic explains where the nutrients in the blood come from?
+    prompt: Why can a lung problem affect muscles?
     choices:
-      - The digestive system
-      - The seams between skull bones
-      - Hair and nails only
-    answer: The digestive system
-    explanation: Digestion breaks food into molecules that the blood can carry. That unit comes after circulation and breathing.
-  - type: question
-    prompt: If one system fails, what is the usual result?
-    choices:
-      - Other systems are affected, because they depend on shared supplies and signals
-      - The rest of the body ignores the change
-      - Only epithelial tissue notices
-    answer: Other systems are affected, because they depend on shared supplies and signals
-    explanation: Oxygen, nutrients, wastes, and messages cross system boundaries all day.
-  - type: question
-    prompt: Which sentence best previews the rest of Body School?
-    choices:
-      - Each unit examines one set of systems and keeps asking how that set serves the whole body
-      - The course is a list of organs with no connections
-      - Only Unit 1 is about the body as a whole
-    answer: Each unit examines one set of systems and keeps asking how that set serves the whole body
-    explanation: Unit 7 will gather the connections, but the connections start here.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Muscles depend on oxygen that lungs transfer to blood
+      - Muscles get all their oxygen directly through skin
+      - Once blood leaves the heart, lung function cannot affect it
+    answer: Muscles depend on oxygen that lungs transfer to blood
+    explanation: Connected systems allow a problem in one place to affect another.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+items: []
+images: []
+compare: []
+passMark: 0.8
 ---
 
 ## No system is an island
 
 It is useful to study bones, then the heart, then the stomach. That is not how the body runs. **Each system depends on the others.**
 
-A muscle can pull on a bone only if its cells have oxygen and fuel. The blood brings both. The lungs load the blood with oxygen. The digestive system is the source of the fuel. Nerves tell the muscle when to pull. Skin and sweat may cool you if the work lasts.
-
-![A chain from muscles to blood to lungs to food](images/lessons/organization-03-systems-link.svg)
-
-*A simple movement already asks several systems for help. (Diagram made for Body School.)*
+Muscle activity requires energy. Blood brings supplies, including oxygen and nutrients, that support the processes releasing that energy. The blood brings both. The lungs load the blood with oxygen. The digestive system is the source of the fuel. Nerves tell the muscle when to pull. Skin and sweat may cool you if the work lasts.
 
 ## Follow one ordinary action
 
-Stand up from a chair and walk to the door.
+Imagine standing up from a chair and walking to the door.
 
 1. **Nervous system.** Your brain and nerves plan the movement and send the signal.
 2. **Muscular and skeletal systems.** Muscles pull on bones at the hips, knees, and ankles.
-3. **Circulatory and respiratory systems.** Breathing and heart rate rise a little so working cells get oxygen.
+3. **Circulatory and respiratory systems.** Breathing and circulation continue supplying oxygen; they can increase as activity demands rise.
 4. **Digestive system, earlier.** The fuel those cells burn came from food you already ate.
 
 None of those steps is optional for long. If the signal, the pull, the oxygen, or the fuel is missing, the walk changes or stops.
@@ -108,4 +91,7 @@ The next units take the systems in turn:
 - control and coordination
 - protection and defense
 
-Each unit ends by pointing toward the next dependency. The last unit puts the pieces back into everyday scenes: exercise, a meal, cold, and a small injury. The question to keep is always the same. **How does this part serve the whole body?**
+Each unit ends by pointing toward the next dependency. The last unit puts the pieces back into everyday scenes: activity, a meal, recovery, and responding to a warning. The question to keep is always the same. **How does this part serve the whole body?**
+
+
+**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

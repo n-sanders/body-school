@@ -11,6 +11,7 @@ import { existsSync } from "node:fs";
 import { join } from "node:path";
 import site from "../site.config";
 import { checkIntegrity } from "../src/content/parse";
+import { markdownImageUrls } from "../src/content/markdown-images";
 import { PUBLIC_DIR, readAllContent } from "./lib/content";
 
 const offline = process.argv.includes("--offline");
@@ -31,6 +32,7 @@ if (unreviewedLessons) warnings.push(`${unreviewedLessons} lesson(s) without rev
 const imageUrls = new Set<string>([
   ...items.flatMap((b) => b.images.map((i) => i.url)),
   ...lessons.flatMap((l) => l.images.map((i) => i.url)),
+  ...lessons.flatMap((l) => markdownImageUrls(l.body)),
   ...lessons.flatMap((l) => l.quiz.flatMap((q) => (q.type === "identify" && q.image ? [q.image] : []))),
 ]);
 const localImages = [...imageUrls].filter((u) => !u.startsWith("https://"));

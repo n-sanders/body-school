@@ -1,19 +1,17 @@
 ---
 id: circulation-02-blood-vessels-and-exchange
-title: Blood vessels and exchange
+title: Vessels and exchange
 unit: circulation
-summary: Arteries, capillaries, and veins are three kinds of tubes, and the real exchange happens in the tiniest ones.
+summary: Arteries and veins connect routes; capillaries bring exchange close to cells.
 prerequisites:
-  - circulation-01-the-heart-and-blood
+  - circulation-blood-deliveries
 objectives:
-  - Tell arteries, veins, and capillaries apart by the direction or job of the blood
-  - Explain where oxygen and nutrients leave the blood
-  - Recognize a branching vessel pattern
+  - Arteries and veins connect routes; capillaries bring exchange close to cells.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - heart
   - blood-vessels
-compare:
-  - [heart, blood-vessels]
+compare: []
 sources:
   - id: openstax-vessels
     title: "OpenStax Anatomy and Physiology 2e: Structure and Function of Blood Vessels"
@@ -22,60 +20,50 @@ sources:
     title: "Wikipedia: Blood vessel"
     url: https://en.wikipedia.org/wiki/Blood_vessel
 quiz:
-  - type: identify
-    item: blood-vessels
-  - type: find
-    item: heart
   - type: question
-    prompt: Which vessel carries blood away from the heart?
+    prompt: What defines an artery?
     choices:
-      - An artery
-      - A vein
-      - An alveolus
-    answer: An artery
-    explanation: Arteries leave the heart. Veins return blood to it. Capillaries sit between them.
+      - It carries blood away from the heart
+      - It must carry oxygen-rich blood in every loop
+      - It carries blood toward the heart
+    answer: It carries blood away from the heart
+    explanation: Direction relative to the heart defines an artery, including the artery going to the lungs.
   - type: question
-    prompt: Where does most exchange of oxygen, nutrients, and wastes happen?
+    prompt: Why are thin capillary walls useful?
     choices:
-      - In capillaries
-      - Inside the skull sutures
-      - In a tendon
-    answer: In capillaries
-    explanation: Capillary walls are thin enough for materials to cross into the fluid around cells.
+      - They allow materials to cross between blood and nearby tissues
+      - They store supplies without allowing them to leave
+      - They provide the main pressure that drives the entire circulation
+    answer: They allow materials to cross between blood and nearby tissues
+    explanation: Short crossing distances help exchange.
   - type: question
-    prompt: What do many veins have that keeps blood from flowing backward?
+    prompt: Why does a tissue need many small vessels rather than only one distant large vessel?
     choices:
-      - Valves
-      - Alveoli
-      - Bile
-    answer: Valves
-    explanation: Blood in veins is often moving against gravity. Valves snap shut if it slips backward.
+      - Small vessels bring exchange close to more cells
+      - Only large vessels can exchange materials with cells
+      - A single distant exchange point serves every cell equally well
+    answer: Small vessels bring exchange close to more cells
+    explanation: A network of capillaries reduces the distance materials must cross.
   - type: question
-    prompt: Why are capillary walls so thin?
+    prompt: What generally moves from working body cells toward blood?
     choices:
-      - So oxygen, nutrients, and wastes can cross quickly
-      - So they can store calcium like bone
-      - So they can pump harder than the heart
-    answer: So oxygen, nutrients, and wastes can cross quickly
-    explanation: Exchange is the capillary's whole job. Thick walls would block it.
+      - Carbon dioxide made during cell processes
+      - Oxygen that the cells have just made
+      - Nutrients that cells must send back before using them
+    answer: Carbon dioxide made during cell processes
+    explanation: Blood carries carbon dioxide away from tissues.
   - type: question
-    prompt: Which order matches the trip of a blood cell leaving the left side of the heart?
+    prompt: A vessel to a muscle is blocked. What is the main concern?
     choices:
-      - Artery, capillary, vein, back to the heart
-      - Vein, bone marrow, artery, stomach
-      - Capillary, ligament, artery, lung
-    answer: Artery, capillary, vein, back to the heart
-    explanation: Big tubes carry blood out and back. The tiny middle tubes are where the delivery happens.
-  - type: question
-    prompt: Blood also carries nutrients. Where did those nutrients enter the blood?
-    choices:
-      - Mostly from the digestive system, which is the next unit
-      - From the sutures of the skull
-      - From hair follicles only
-    answer: Mostly from the digestive system, which is the next unit
-    explanation: This lesson follows oxygen and wastes. Food molecules join the same bloodstream after they are absorbed.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Supplies and waste removal may be interrupted
+      - Normal heart contraction guarantees delivery past any blockage
+      - Only waste removal changes; incoming supplies are unaffected
+    answer: Supplies and waste removal may be interrupted
+    explanation: Open routes are necessary for adequate circulation.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+passMark: 0.8
 ---
 
 ## Three kinds of tube
@@ -88,14 +76,13 @@ The heart is the pump. **Blood vessels** are the roads. Learning three names cov
 
 You do not need the name of every artery. You need the direction and the job.
 
-![Artery, capillary, and vein](images/lessons/circulation-02-three-vessels.svg)
-
-*Away, exchange, and back. (Diagram made for Body School.)*
-
 ## A drop's errand
 
 Leave the left ventricle in an artery. Branch after branch, the tube gets smaller until you are in a capillary beside a working muscle cell. Oxygen and nutrients slip out. Carbon dioxide and other wastes slip in. Then the capillary joins small veins, the veins join larger ones, and the blood returns to the right side of the heart.
 
 That same blood will be sent to the lungs next, because the oxygen it just gave away has to be replaced. The lungs and the diaphragm are the rest of this unit.
 
-The nutrients in the drop are a preview of Unit 4. Digestion is what put them into the blood in the first place. Circulation only delivers them.
+The nutrients in the drop are a preview of Unit 4. Digestion breaks food down, and absorption transfers nutrients across the intestinal lining into transport routes. Circulation only delivers them.
+
+
+**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns='http://www.w3.org/2000/svg' width='480' height='360' viewBox='0 0 480 360' role='img'>
-<title>Diaphragm</title><desc>Dome-shaped muscle under the lungs.</desc>
-<rect width='100%' height='100%' fill='#fbf6ef'/>
-<g transform='translate(240 188) scale(1.35) translate(-100 -100)'><path d='M30 70 Q55 40 95 78 Q70 110 30 100 Z' fill='#f4c3cb' stroke='#e294a2' stroke-width='2' /><path d='M110 74 Q150 40 176 78 Q150 108 112 98 Z' fill='#f4c3cb' stroke='#e294a2' stroke-width='2' /><path d='M16 108 Q100 168 184 108 Q160 132 100 138 Q40 132 16 108 Z' fill='#d4534e' stroke='#a33b3b' stroke-width='3' /><path d='M24 96 Q16 140 28 150 M176 96 Q186 140 172 150' fill='none' stroke='#c4ae8e' stroke-width='4' /></g>
-</svg>

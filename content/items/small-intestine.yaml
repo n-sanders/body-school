@@ -13,7 +13,9 @@ traits:
     source: openstax-intestine
   - text: Sugars, amino acids, fats, vitamins, minerals, and water cross into blood or lymph here.
     source: wikipedia-small
-lookAlikes: [large-intestine, stomach]
+lookAlikes:
+  - large-intestine
+  - stomach
 sources:
   - id: openstax-intestine
     title: "OpenStax Anatomy and Physiology 2e: The Small and Large Intestines"
@@ -22,11 +24,8 @@ sources:
     title: "Wikipedia: Small intestine"
     url: https://en.wikipedia.org/wiki/Small_intestine
 images:
-  - url: images/organs/small-intestine-diagram.svg
-    note: Unlabeled coils of a narrow tube.
+  - url: images/servier/digestive.png
+    note: "Digestive overview: focus on the narrow coiled tube inside the larger intestinal frame."
     reviewed: true
-  - url: images/organs/small-intestine-context.svg
-    note: Coiled small intestine in the abdomen of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

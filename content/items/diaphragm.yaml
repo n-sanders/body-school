@@ -5,15 +5,18 @@ attributes:
   system: Respiratory
   location: Under the lungs
   role: Pulls air into the lungs
-summary: A dome-shaped sheet of muscle that flattens to draw air in and relaxes to push air out.
+summary: A broad breathing muscle below the lungs; its contraction helps enlarge chest space during inhalation.
 traits:
   - text: The diaphragm sits under both lungs and separates the chest from the abdomen.
     source: wikipedia-diaphragm
-  - text: When it contracts it flattens, the chest gets larger, and air is pulled in.
+  - text: When it contracts and moves downward, chest space increases and pressure in the lungs falls slightly, allowing air in.
     source: openstax-breathing
-  - text: Breathing rate rises during exercise because working cells need more oxygen.
+  - text: During activity, breathing can become faster, deeper, or both to support gas exchange as tissue demands change.
     source: openstax-breathing
-lookAlikes: [lungs, liver, stomach]
+lookAlikes:
+  - lungs
+  - liver
+  - stomach
 sources:
   - id: openstax-breathing
     title: "OpenStax Anatomy and Physiology 2e: The Process of Breathing"
@@ -22,11 +25,8 @@ sources:
     title: "Wikipedia: Thoracic diaphragm"
     url: https://en.wikipedia.org/wiki/Thoracic_diaphragm
 images:
-  - url: images/organs/diaphragm-diagram.svg
-    note: Unlabeled dome of muscle beneath two lungs.
+  - url: images/lessons/sourced-respiratory.svg
+    note: "Labelled respiratory overview: find the diaphragm below the lungs."
     reviewed: true
-  - url: images/organs/diaphragm-context.svg
-    note: Diaphragm drawn under the chest of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

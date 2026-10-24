@@ -1,65 +1,73 @@
-# Curriculum structure for Body School (middle-school level)
-# Units and lessons appear to learners in this order.
-# Each lesson id must match a file in content/lessons/.
-# Reproductive organs and systems are intentionally outside the scope.
-
 title: Body School
-intro: |
-  Welcome to **Body School**! Work through the units in order to learn how the human body is organized, what the major organs do, and how the body systems work together. Each lesson unlocks when you pass the quiz of the lesson before it. Reproductive systems are left for later study.
-
+intro: Build a middle-school foundation in how major organs and body systems work together. Each lesson is planned for about 10 minutes, including five concept questions. Start each unit with a preview and finish with a review. Scientific terms are explained in context; clear reasoning matters more than memorizing names. Reproductive anatomy and systems are outside this course’s scope.
 units:
   - id: organization
     title: "Unit 1: From Cells to Systems"
-    description: Learn the levels of organization from cells to the whole body, the four main tissue types, and how organs and systems fit together.
+    description: Build a model of cells, tissues, organs, and systems that will support every later unit.
     lessons:
+      - organization-intro
       - organization-01-cells-and-tissues
       - organization-02-organs-and-systems
       - organization-03-working-together
-
+      - organization-review
   - id: support
     title: "Unit 2: Support and Movement"
-    description: Explore how bones protect and support the body and how muscles pull on bones to create movement.
+    description: Explain how living bones, joints, and muscles cooperate to support and move the body.
     lessons:
+      - support-intro
       - support-01-bones-and-joints
       - support-02-muscles-and-movement
       - support-03-skeleton-and-muscles-together
-
+      - support-review
   - id: circulation
     title: "Unit 3: Circulation and Breathing"
-    description: Follow blood through the heart and vessels and air through the lungs to see how oxygen and carbon dioxide are exchanged.
+    description: Follow the pump, transport routes, blood components, and gas exchange as separate short lessons.
     lessons:
+      - circulation-intro
       - circulation-01-the-heart-and-blood
+      - circulation-blood-deliveries
       - circulation-02-blood-vessels-and-exchange
+      - circulation-breathing-mechanics
       - circulation-03-lungs-and-breathing
-
+      - circulation-review
   - id: fuel
     title: "Unit 4: Fuel and Waste"
-    description: Trace food through the digestive system and see how the kidneys filter the blood and remove wastes.
+    description: Separate food breakdown, absorption, digestive helpers, kidney filtering, and water balance.
     lessons:
+      - fuel-intro
       - fuel-01-digestion-from-mouth-to-stomach
+      - fuel-accessory-organs
       - fuel-02-small-intestine-and-absorption
       - fuel-03-kidneys-and-urine
-
+      - fuel-water-balance
+      - fuel-review
   - id: control
     title: "Unit 5: Control and Coordination"
-    description: Compare fast nerve signals with slower hormone messages and see how the two systems help keep the body stable.
+    description: Connect sensory information, nerve responses, hormone messages, and feedback.
     lessons:
+      - control-intro
       - control-01-brain-and-nerves
+      - control-reflexes
+      - control-eyes-and-vision
+      - control-ears-and-balance
       - control-02-hormones-and-glands
       - control-03-homeostasis
-
+      - control-review
   - id: protection
     title: "Unit 6: Protection and Defense"
-    description: Examine the skin as a barrier and the immune and lymphatic systems as the body's defense force.
+    description: Distinguish barriers, early defense, immune memory, and lymph transport.
     lessons:
+      - protection-intro
       - protection-01-skin-and-its-jobs
       - protection-02-immune-cells-and-lymph
       - protection-03-barriers-and-responses
-
+      - protection-review
   - id: together
     title: "Unit 7: Systems Working Together"
-    description: Watch multiple systems cooperate during everyday activities and see how the body maintains stable internal conditions.
+    description: Apply the course model to activity, meals, recovery, and new situations.
     lessons:
+      - together-intro
       - together-01-exercise-and-energy
       - together-02-eating-and-recovery
       - together-03-final-connections
+      - together-review

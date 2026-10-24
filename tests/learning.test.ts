@@ -56,6 +56,14 @@ describe("practice modes", () => {
 });
 
 describe("text-only course", () => {
+  it("does not return legacy image cards when catalog practice is disabled", () => {
+    const { content } = catalogCourse();
+    const store = new ProgressStore(memoryStorage());
+    store.recordAnswer("item:aa", false);
+    store.recordAnswer("q:one-01:3", false);
+    expect(knownDueCards(content, store.getSnapshot())).toEqual(["q:one-01:3"]);
+  });
+
   it("feeds text questions into review", () => {
     const { content } = textOnlyCourse();
     const store = new ProgressStore(memoryStorage());

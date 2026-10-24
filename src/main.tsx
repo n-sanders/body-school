@@ -9,6 +9,7 @@ import { PracticePage } from "./pages/PracticePage";
 import { ReviewPage } from "./pages/ReviewPage";
 import { ProgressPage } from "./pages/ProgressPage";
 import { ItemsPage } from "./pages/ItemsPage";
+import { CreditsPage } from "./pages/CreditsPage";
 import { NotFoundPage } from "./pages/NotFoundPage";
 import { site } from "./lib/site";
 import "./styles.css";
@@ -25,6 +26,7 @@ createRoot(document.getElementById("root")!).render(
           <Route path="review" element={<ReviewPage />} />
           {site.catalog.enabled && <Route path="catalog" element={<ItemsPage />} />}
           <Route path="progress" element={<ProgressPage />} />
+          <Route path="credits" element={<CreditsPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Route>
       </Routes>

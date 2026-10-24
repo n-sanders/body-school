@@ -1,14 +1,13 @@
 ---
 id: protection-03-barriers-and-responses
-title: Barriers and responses
+title: Early responses and immune memory
 unit: protection
-summary: Barriers are the first defense, and the immune response is what happens after they are crossed.
+summary: Broad early defenses cooperate with targeted responses that can remember a threat.
 prerequisites:
   - protection-02-immune-cells-and-lymph
 objectives:
-  - Sort skin, mucus, stomach acid, and white blood cells into first or second line
-  - Describe how a small cut is answered by clotting and immune cells
-  - Explain how skin, blood, and lymph cooperate
+  - Broad early defenses cooperate with targeted responses that can remember a threat.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - skin
   - lymph-nodes
@@ -20,83 +19,64 @@ sources:
     title: "OpenStax Anatomy and Physiology 2e: Layers of the Skin"
     url: https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin
 quiz:
-  - type: identify
-    item: skin
-  - type: find
-    item: lymph-nodes
   - type: question
-    prompt: Which list is a first-line barrier?
+    prompt: What is one role of inflammation?
     choices:
-      - Skin, mucus, and stomach acid
-      - Antibodies and a swollen spleen only
-      - The left ventricle and the aorta
-    answer: Skin, mucus, and stomach acid
-    explanation: Barriers try to keep invaders out. The immune response starts in earnest when they get through.
+      - Help defense cells and materials reach a troubled area
+      - Identify the exact cause from redness alone
+      - Prevent any defense cells from leaving blood
+    answer: Help defense cells and materials reach a troubled area
+    explanation: Local changes can support defense and repair, but are not a diagnosis.
   - type: question
-    prompt: A runny nose during a cold is most like what?
+    prompt: How can immune memory help during a later exposure?
     choices:
-      - Mucus doing barrier work while immune cells respond
-      - A bone making extra calcium
-      - The diaphragm failing
-    answer: Mucus doing barrier work while immune cells respond
-    explanation: Mucus traps material. Immune cells and inflammation are the next layer of the response.
+      - A response to the same target can start more effectively
+      - It guarantees no symptoms can ever occur again
+      - It changes skin into a completely sealed barrier
+    answer: A response to the same target can start more effectively
+    explanation: Memory changes the response to a recognized target.
   - type: question
-    prompt: Right after a small cut, what does the blood contribute?
+    prompt: How do broad early and targeted defenses relate?
     choices:
-      - Platelets help a clot form, and white blood cells arrive
-      - Bile seals the cut
-      - Alveoli grow across the skin
-    answer: Platelets help a clot form, and white blood cells arrive
-    explanation: Clotting limits blood loss. Immune cells deal with germs that entered the gap.
+      - They cooperate and influence each other
+      - They work independently without influencing each other
+      - Targeted responses remove the need for barriers
+    answer: They cooperate and influence each other
+    explanation: Innate and adaptive responses are connected.
   - type: question
-    prompt: Why is the immune response called a second line?
+    prompt: What is the general purpose of vaccination in this model?
     choices:
-      - It acts after a barrier has been crossed or has missed something
-      - It replaces the skin permanently
-      - It only works inside bones
-    answer: It acts after a barrier has been crossed or has missed something
-    explanation: Order matters. Walls first. Cellular defense when the wall fails.
+      - Prepare targeted defenses without the full disease experience
+      - Replace every later response with an impenetrable physical wall
+      - Guarantee all future exposures have exactly the same effect
+    answer: Prepare targeted defenses without the full disease experience
+    explanation: Exposure to selected targets or instructions can prepare protection.
   - type: question
-    prompt: Some immune cells remember a germ. Why does that matter?
+    prompt: Why can swelling not identify a particular infection by itself?
     choices:
-      - A later meeting with the same germ can be answered faster
-      - The stomach no longer needs acid
-      - Bones stop needing calcium
-    answer: A later meeting with the same germ can be answered faster
-    explanation: Memory is a later part of the immune response. This course only needs the idea, not the cell names.
-  - type: question
-    prompt: Which sentence connects this unit to the last unit of the course?
-    choices:
-      - Healing a cut uses skin, blood, lymph, and signals together
-      - Protection is the only system that never touches another system
-      - Homeostasis ends before the skin is involved
-    answer: Healing a cut uses skin, blood, lymph, and signals together
-    explanation: Unit 7 watches several systems share one scene. A cut is one of those scenes.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Different injuries and conditions can produce inflammation
+      - Every inflammatory response has the same cause
+      - Swelling identifies a specific target without other evidence
+    answer: Different injuries and conditions can produce inflammation
+    explanation: A shared response is not a unique diagnosis.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+compare: []
+passMark: 0.8
 ---
 
-## First the wall, then the cells
+## Defense has layers
+Barriers such as skin and mucus reduce entry. If microbes cross them, **innate defenses** can respond quickly to general signs of trouble. Some cells take in microbes and debris. Inflammation changes local blood flow and vessel leakage, helping defense cells and materials reach an affected area.
 
-Defenses come in an order.
+Redness and swelling can be part of that response. They are not proof of one specific cause, and inflammation can also occur after injury without infection.
 
-**First line: barriers.** Intact skin. Mucus and the tiny hairs that sweep it in the airways. Tears. Stomach acid. These are not thinking defenders. They make entry hard.
+## A more targeted response
+**Adaptive defenses** recognize particular targets. Some cells help make antibodies, proteins that bind particular targets. Others help coordinate responses or act against infected cells.
 
-**Second line: the immune response.** If a germ gets through, white blood cells recognize it, attack it, or mark it with antibodies. Lymph nodes and the spleen are meeting places for that work. Later, some cells **remember** the germ so the next meeting can be faster. You do not need the long list of cell types to use that idea.
+After some encounters, memory cells remain. A later response to the same target can therefore be faster and more effective. Vaccines introduce selected targets or instructions that help build protection without requiring the person to experience the full disease first.
 
-![Barriers first, immune cells second](images/lessons/protection-03-two-defenses.svg)
+## Cooperation, not a wall between teams
+Early defenses help shape targeted responses, and targeted responses can help other defense cells work. Memory is useful but does not guarantee that every future exposure causes no illness.
 
-*The order is the lesson. (Diagram made for Body School.)*
-
-## A scrape, told in systems
-
-You fall and scrape a knee.
-
-1. The epidermis is open. The barrier failed in one small spot.
-2. **Platelets** in the blood help a clot form. Bleeding slows.
-3. White blood cells arrive by blood and by lymph. They clean up invaders and damaged cells.
-4. The skin grows back across the gap. Nerves may keep reporting pain while that happens.
-
-That is circulation, immunity, skin, and nerves on one small injury. It is also a preview of the last unit, which watches the same kind of cooperation during exercise, a meal, cold, and recovery.
-
-Reproductive anatomy is still outside this course. Shared tubes in adults, if you meet them later, are a separate topic. Here the point is the partnership of barriers and cellular defense.
+**Explain aloud:** How does preventing entry differ from recognizing a target more quickly after a later exposure?

@@ -28,7 +28,7 @@ const MODE_LABELS: Record<PracticeMode, string> = {
 
 export function PracticePage() {
   const { progress } = useProgress();
-  const modes = availableModes(site.catalog.enabled);
+  const modes = availableModes(site.catalog.enabled && site.catalog.practice !== false);
   const [mode, setMode] = useState<PracticeMode>(modes[0]);
   const [scope, setScope] = useState<Scope>("studied");
   const [started, setStarted] = useState(false);

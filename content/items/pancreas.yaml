@@ -13,7 +13,10 @@ traits:
     source: openstax-pancreas
   - text: Glucagon from the pancreas has the opposite job and helps raise blood sugar.
     source: openstax-pancreas
-lookAlikes: [liver, stomach, thyroid-gland]
+lookAlikes:
+  - liver
+  - stomach
+  - thyroid-gland
 sources:
   - id: openstax-accessory
     title: "OpenStax Anatomy and Physiology 2e: The Liver, Pancreas, and Gallbladder"
@@ -22,11 +25,8 @@ sources:
     title: "OpenStax Anatomy and Physiology 2e: The Endocrine Pancreas"
     url: https://openstax.org/books/anatomy-and-physiology-2e/pages/17-9-the-endocrine-pancreas
 images:
-  - url: images/organs/pancreas-diagram.svg
-    note: Unlabeled long bumpy gland across a faint stomach.
+  - url: images/servier/pancreas-anatomy.png
+    note: Pancreas with branching digestive ducts; food does not pass through it.
     reviewed: true
-  - url: images/organs/pancreas-context.svg
-    note: Pancreas across the upper abdomen of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

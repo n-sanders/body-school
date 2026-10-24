@@ -13,7 +13,10 @@ traits:
     source: openstax-accessory
   - text: Blood from the intestines visits the liver before those nutrients travel on to the rest of the body.
     source: wikipedia-liver
-lookAlikes: [stomach, pancreas, diaphragm]
+lookAlikes:
+  - stomach
+  - pancreas
+  - diaphragm
 sources:
   - id: openstax-accessory
     title: "OpenStax Anatomy and Physiology 2e: The Liver, Pancreas, and Gallbladder"
@@ -22,11 +25,11 @@ sources:
     title: "Wikipedia: Liver"
     url: https://en.wikipedia.org/wiki/Liver
 images:
-  - url: images/organs/liver-diagram.svg
-    note: Unlabeled liver with a small green gallbladder.
+  - url: images/servier/liver-gallbladder.png
+    note: The large liver sits above the green gallbladder.
     reviewed: true
-  - url: images/organs/liver-context.svg
-    note: Liver in the upper right abdomen of a simple body outline.
+  - url: images/servier/liver.png
+    note: Exterior view of the liver, shown separately from the bile-storage gallbladder.
     reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

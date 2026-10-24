@@ -13,7 +13,10 @@ traits:
     source: openstax-heart
   - text: Heart muscle is cardiac muscle. It contracts on its own, without you deciding to flex it.
     source: wikipedia-heart
-lookAlikes: [lungs, stomach, skeletal-muscle]
+lookAlikes:
+  - lungs
+  - stomach
+  - skeletal-muscle
 sources:
   - id: openstax-heart
     title: "OpenStax Anatomy and Physiology 2e: Heart Anatomy"
@@ -22,11 +25,8 @@ sources:
     title: "Wikipedia: Heart"
     url: https://en.wikipedia.org/wiki/Heart
 images:
-  - url: images/organs/heart-diagram.svg
-    note: Unlabeled heart with chamber lines and an arching vessel.
+  - url: images/lessons/sourced-heart-flow.svg
+    note: "Labelled heart diagram: follow the arrows through the lung and body loops."
     reviewed: true
-  - url: images/organs/heart-context.svg
-    note: Heart placed in the chest of a simple body outline.
-    reviewed: true
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24

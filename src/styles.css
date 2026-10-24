@@ -394,6 +394,21 @@ table {
   margin: 1rem 0;
   font-size: 0.95rem;
 }
+
+.prose img {
+  display: block;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  max-height: 620px;
+  margin: 1.25rem auto 0.5rem;
+  object-fit: contain;
+}
+
+.prose { overflow-wrap: anywhere; }
+.prose table { display: block; overflow-x: auto; }
+.optional-exploration > summary { cursor: pointer; font-weight: 650; }
+.optional-exploration[open] > summary { margin-bottom: 1rem; }
 th,
 td {
   text-align: left;
@@ -437,7 +452,7 @@ td {
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: scale-down;
   object-position: center;
   display: block;
 }

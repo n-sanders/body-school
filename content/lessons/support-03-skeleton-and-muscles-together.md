@@ -1,19 +1,17 @@
 ---
 id: support-03-skeleton-and-muscles-together
-title: Skeleton and muscles together
+title: Movement needs connections
 unit: support
-summary: Bones are the levers, muscles are the ropes, and the two systems move the body only as a team.
+summary: Bones, joints, muscles, tendons, and control signals cooperate during movement.
 prerequisites:
   - support-02-muscles-and-movement
 objectives:
-  - Explain how a muscle pair moves a joint in two directions
-  - Contrast a tendon with a ligament
-  - Connect movement to the need for oxygen and fuel
+  - Bones, joints, muscles, tendons, and control signals cooperate during movement.
+  - Apply the lesson’s ideas to explain a familiar example or predict a change.
 items:
   - spine
   - skeletal-muscle
-compare:
-  - [spine, skeletal-muscle]
+compare: []
 sources:
   - id: openstax-muscle
     title: "OpenStax Anatomy and Physiology 2e: Skeletal Muscle"
@@ -22,60 +20,50 @@ sources:
     title: "OpenStax Anatomy and Physiology 2e: Functions of the Skeletal System"
     url: https://openstax.org/books/anatomy-and-physiology-2e/pages/6-1-the-functions-of-the-skeletal-system
 quiz:
-  - type: identify
-    item: skeletal-muscle
-  - type: find
-    item: spine
   - type: question
-    prompt: When you bend your elbow, what is the usual pattern?
+    prompt: A tendon tears while its muscle can still contract. What may happen?
     choices:
-      - One muscle shortens while its partner lengthens
-      - Both muscles push the bone at the same time
-      - The bone shortens and the muscle stays the same length
-    answer: One muscle shortens while its partner lengthens
-    explanation: Muscles only pull. The partner must give way so the joint can bend.
+      - The muscle’s pull may no longer move the bone normally
+      - Normal contraction always guarantees normal bone movement
+      - The tendon’s connection matters only while the muscle rests
+    answer: The muscle’s pull may no longer move the bone normally
+    explanation: A broken connection can interrupt an otherwise working movement system.
   - type: question
-    prompt: Which sentence uses tendon and ligament correctly?
+    prompt: Why is an elbow useful when lifting a cup?
     choices:
-      - A tendon joins muscle to bone, and a ligament joins bone to bone
-      - A tendon joins bone to bone, and a ligament carries blood
-      - Both words mean the cartilage inside the skull
-    answer: A tendon joins muscle to bone, and a ligament joins bone to bone
-    explanation: The names are easy to swap. Muscle-to-bone is the tendon. Bone-to-bone is the ligament.
+      - It allows the forearm to change angle
+      - It supplies the pulling force without muscle tension
+      - It decides which muscles should become active
+    answer: It allows the forearm to change angle
+    explanation: The joint permits the motion that muscles drive.
   - type: question
-    prompt: Why is a bone a useful partner for a muscle?
+    prompt: What best explains lowering a cup carefully?
     choices:
-      - It is a firm lever the muscle can pull against
-      - It can contract faster than muscle
-      - It makes oxygen
-    answer: It is a firm lever the muscle can pull against
-    explanation: Without a rigid bone, shortening muscle would only bunch up. The joint turns that pull into movement.
+      - Muscles control the motion rather than simply switching off
+      - The load can be controlled only when all muscles relax
+      - Controlled lowering requires no tension because gravity acts
+    answer: Muscles control the motion rather than simply switching off
+    explanation: Active muscles can resist a load as they lengthen.
   - type: question
-    prompt: A tent pole and its ropes are a fair model of what?
+    prompt: Which explanation connects control and movement?
     choices:
-      - Bones as the pole and muscles as the ropes that pull
-      - Lungs as the pole and kidneys as the ropes
-      - Skin as the only moving part
-    answer: Bones as the pole and muscles as the ropes that pull
-    explanation: The pole holds the shape. The ropes change the position by pulling, not by pushing.
+      - A nerve signal changes muscle tension, which pulls through a tendon
+      - A muscle moves first, then a nerve decides what happened
+      - A tendon carries the command that starts the contraction
+    answer: A nerve signal changes muscle tension, which pulls through a tendon
+    explanation: Movement depends on information as well as mechanical connections.
   - type: question
-    prompt: Why does the next unit turn to the heart and lungs?
+    prompt: Why would stronger muscles alone not fix a joint that cannot move?
     choices:
-      - Working muscles need oxygen and nutrients delivered by the blood
-      - Bones cannot be discussed until the stomach is empty
-      - Joints are made of air sacs
-    answer: Working muscles need oxygen and nutrients delivered by the blood
-    explanation: Movement is not free. Circulation and breathing keep the supply coming.
-  - type: question
-    prompt: Which pair is an antagonistic muscle pair?
-    choices:
-      - The biceps and triceps at the elbow
-      - The two lungs
-      - A kidney and its ureter
-    answer: The biceps and triceps at the elbow
-    explanation: They pull in opposite directions on the same joint. One bends the elbow and the other straightens it.
-reviewedBy: body-school
-reviewedOn: "2026-10-24"
+      - Movement depends on the joint as well as muscle force
+      - Enough muscle force makes joint structure irrelevant
+      - Only muscle size determines every possible movement
+    answer: Movement depends on the joint as well as muscle force
+    explanation: The whole chain must work, not only one strong part.
+reviewedBy: curriculum-editor (not a specialist medical review)
+reviewedOn: 2026-10-24
+images: []
+passMark: 0.8
 ---
 
 ## A lever and a rope
@@ -84,22 +72,22 @@ Bones without muscles are a statue. Muscles without bones are a pull with nothin
 
 Picture a tent. The pole is rigid. The ropes pull. They never push the canvas into place by shoving. Your skeleton is the set of poles. Skeletal muscles are the ropes. Joints are the places the poles can fold.
 
-![One muscle shortens while its partner lengthens](images/lessons/support-03-muscle-pairs.svg)
 
-*Bend the elbow and one muscle pulls. Straighten it and the partner pulls back. (Diagram made for Body School.)*
+![A cutaway elbow shows bones meeting at a joint. This picture shows joint structures, not the muscles that pull the arm.](images/servier/elbow.png)
+
+*A cutaway elbow shows bones meeting at a joint. This picture shows joint structures, not the muscles that pull the arm. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
 ## Names worth keeping straight
 
 - A **tendon** connects muscle to bone.
 - A **ligament** connects bone to bone.
-- An **antagonistic pair** is two skeletal muscles that pull a joint in opposite directions. At the elbow, the biceps and triceps are the familiar pair. One shortens while the other is stretched.
+- An **antagonistic pair** is two skeletal muscles that pull a joint in opposite directions. At the elbow, the biceps and triceps are the familiar pair. Their relative activity changes with the action; they can also work together to steady a joint.
 
 The spine is a good place to see the partnership. Vertebrae stack into a column. Muscles pull on that column to hold you upright or to bend you forward. Neither the bones nor the muscles could do that pose alone.
 
-![How a skeletal muscle is bundled](images/lessons/sourced-muscle-structure.jpg)
-
-*Muscle fibers are bundled, and the whole muscle reaches bone by a tendon. (National Cancer Institute, public domain, via Wikimedia Commons.)*
-
 ## The bill for movement
 
-Pulling costs fuel and oxygen. Bone marrow and calcium are jobs of the skeleton, but they do not power a sprint. The heart, the blood vessels, and the lungs do the delivery. That is the next unit: follow a drop of blood, then follow a breath of air.
+Muscle activity uses energy, and oxygen supports many of the processes that release it. Bone marrow and calcium are jobs of the skeleton, but they do not power a sprint. The heart, the blood vessels, and the lungs do the delivery. That is the next unit: follow a drop of blood, then follow a breath of air.
+
+
+**Explain aloud:** Choose one structure from this lesson. Explain how its structure supports its job and how another body part helps it work.

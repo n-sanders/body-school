@@ -21,7 +21,7 @@ export function ItemImage({ src, alt, hideSource, onError, className }: Props) {
         {hideSource ? (
           credit
         ) : (
-          <a href={src} target="_blank" rel="noreferrer">
+          <a href="#/credits">
             {credit}
           </a>
         )}
