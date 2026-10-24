@@ -63,10 +63,22 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## Start with something you can picture
 
 Think of a brick, then a wall, then a house, then a neighborhood. A body is organized in the same kind of way. The small pieces are alive, and each level has a bigger job than the one below it.
+
+### Read the pictures
+
+Compare the long extension of the nerve cell with the closely packed cells in the lining. How does each arrangement support a different job?
+
+![One nerve cell has a cell body, branches, and a long extension for carrying signals. The small internal parts are not vocabulary targets.](images/servier/neuron.png)
+
+*One nerve cell has a cell body, branches, and a long extension for carrying signals. The small internal parts are not vocabulary targets. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A row of closely packed cells forms a lining tissue. This is one example of lining tissue, not a picture of every tissue type. The two figures use different scales.](images/servier/lining-layer.png)
+
+*A row of closely packed cells forms a lining tissue. This is one example of lining tissue, not a picture of every tissue type. The two figures use different scales. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Cells
 

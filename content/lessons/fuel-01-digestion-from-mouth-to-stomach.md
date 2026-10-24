@@ -61,7 +61,6 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## Start with the sandwich
 
 Do not begin with a list of organs. Begin with lunch. You bite a sandwich. Two kinds of breakdown start at once.
@@ -70,6 +69,8 @@ Do not begin with a list of organs. Begin with lunch. You bite a sandwich. Two k
 
 **Chemical digestion** uses enzymes and, later, acid. Saliva is not just water. It has enzymes that start breaking starch. The food is still far from being fuel a cell can use.
 
+
+**Read the picture:** Locate the central stomach space and surrounding wall. Connect mixing with muscle in the wall and chemical digestion with substances released into the space.
 
 ![A cutaway stomach shows its thick wall and folded lining. Food mixes inside the central space.](images/servier/stomach.png)
 

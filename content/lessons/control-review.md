@@ -81,11 +81,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Compare the routes
 Light reaching the eye and sound reaching the ear are different inputs. Both must be converted into signals that the nervous system can use. Sensory information helps guide responses.
 
 A spinal withdrawal can begin before a conscious choice. A deliberate reach involves planned action. Both still require functioning pathways and muscles.
+
+### Read the pictures
+
+Compare the two message routes. Use the nerve map for a movement command, then use the thyroid to explain how a hormone can act at a distant target.
+
+![Nerve pathways connect sensors, control centers, and responding tissues. A reflex can begin through spinal connections while information also reaches the brain.](images/servier/nervous-system.png)
+
+*Nerve pathways connect sensors, control centers, and responding tissues. A reflex can begin through spinal connections while information also reaches the brain. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![An endocrine gland releases a chemical message into blood. Target-cell receptors, not shown here, determine which cells can respond.](images/servier/thyroid.png)
+
+*An endocrine gland releases a chemical message into blood. Target-cell receptors, not shown here, determine which cells can respond. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 Hormones use a different route: blood carries chemical messages to cells with matching receptors. A message can circulate widely while producing a selective response.
 

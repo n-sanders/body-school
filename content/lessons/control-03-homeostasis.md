@@ -63,11 +63,19 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## Stable does not mean motionless
 Body cells work best within certain ranges of temperature, water balance, and other conditions. **Homeostasis** means maintaining workable internal conditions despite changes inside and outside the body. It does not mean every measurement stays at one exact number.
 
 A feedback process connects detection, control, and response. Sensors detect a change. Control signals influence responding tissues. The response changes the original condition, which affects later signals.
+
+### Read the picture
+
+Find the green sweat gland and the red and blue blood vessels. Connect these structures with the cooling response, then consider why that response decreases as excess warmth falls.
+
+![The coiled sweat gland has a duct to the surface; vessels bring blood near skin tissues. This anatomy shows responding structures, not the complete feedback circuit.](images/servier/skin-detailed.png)
+
+*The coiled sweat gland has a duct to the surface; vessels bring blood near skin tissues. This anatomy shows responding structures, not the complete feedback circuit. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## A cooling example
 When the body becomes too warm, sweating can increase. Evaporation of sweat transfers heat away. Blood flow near the skin can also increase, helping heat reach the surface. As conditions return toward the usual range, the cooling response can decrease.

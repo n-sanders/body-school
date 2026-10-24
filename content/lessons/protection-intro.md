@@ -72,11 +72,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Start before an infection
 Protection is more than fighting microbes after they enter. Intact skin, mucus, and other barriers help keep harmful material out. If something crosses a barrier, internal responses can begin.
 
 The body has broad early defenses and more targeted responses that can develop memory. These overlap and cooperate; they are not two completely separate armies.
+
+### Read the pictures
+
+Start with the skin’s intact surface, then compare a defense cell. A barrier can reduce entry; an internal cell response helps when material gets past a barrier.
+
+![The upper skin layers form a physical boundary above living tissues, sensory structures, and blood vessels.](images/servier/skin-detailed.png)
+
+*The upper skin layers form a physical boundary above living tissues, sensory structures, and blood vessels. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![This is one type of white blood cell involved in early defense. It is shown at a much greater magnification than the skin section.](images/servier/white-cell.png)
+
+*This is one type of white blood cell involved in early defense. It is shown at a much greater magnification than the skin section. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Connect protection to transport
 Blood carries defense cells and signals. Some fluid moves from small blood vessels into spaces around tissue cells. Lymph vessels collect excess tissue fluid and eventually return it toward the blood. Fluid inside those vessels is called lymph.

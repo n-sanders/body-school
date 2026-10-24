@@ -69,11 +69,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Trace a movement
 Imagine lifting a water bottle from a table. A nerve signal changes muscle activity. A muscle develops tension. A tendon transfers that pull to a bone, and the bone moves at a joint.
 
 Now hold the bottle still. The joint angle stops changing, but muscle tension can continue. Carefully lowering the bottle also requires control.
+
+### Read the pictures
+
+Use the first picture to locate the meeting of bones. Use the second to connect a muscle’s internal structure with the tendon that transfers its pull.
+
+![A joint allows movement where bones meet. This view does not show the full muscles that control an elbow.](images/servier/elbow.png)
+
+*A joint allows movement where bones meet. This view does not show the full muscles that control an elbow. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A general muscle-structure diagram shows bundles and a tendon connection. It is not the same elbow pictured above.](images/lessons/sourced-muscle-structure.jpg)
+
+*A general muscle-structure diagram shows bundles and a tendon connection. It is not the same elbow pictured above. [Source and license](#/credits).*
+
 
 ## Compare two problems
 In one model, the muscle cannot develop enough tension. In another, the muscle contracts but its tendon cannot transfer the pull. Both models might produce weak movement, but the failed connection is different.

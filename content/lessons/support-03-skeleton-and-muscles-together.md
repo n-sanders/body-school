@@ -65,13 +65,14 @@ reviewedOn: 2026-10-24
 images: []
 passMark: 0.8
 ---
-
 ## A lever and a rope
 
 Bones without muscles are a statue. Muscles without bones are a pull with nothing firm to pull on. Movement is the two systems together.
 
 Picture a tent. The pole is rigid. The ropes pull. They never push the canvas into place by shoving. Your skeleton is the set of poles. Skeletal muscles are the ropes. Joints are the places the poles can fold.
 
+
+**Read the picture:** Find the bones meeting at the elbow. Identify what this cutaway leaves out: the muscle pull and control signal needed to move or steady the joint.
 
 ![A cutaway elbow shows bones meeting at a joint. This picture shows joint structures, not the muscles that pull the arm.](images/servier/elbow.png)
 

@@ -72,13 +72,25 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Your capstone explanation
 Choose one scenario:
 
 - A person walks upstairs and then rests.
 - A meal is digested and its materials reach working cells.
 - A warning sound helps someone stop a movement.
+
+### Read the pictures
+
+Choose one scenario from this review. Use the two maps to trace a material and a separate control signal; name the connection your explanation adds between the pictures.
+
+![Blood transports materials between organs and tissues. Use the map to support a route in your final explanation.](images/servier/bloodstream.png)
+
+*Blood transports materials between organs and tissues. Use the map to support a route in your final explanation. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![Nerves carry information between the body and control centers. Use this map to add a control signal without confusing it with a material in blood.](images/servier/nervous-system.png)
+
+*Nerves carry information between the body and control centers. Use this map to add a control signal without confusing it with a material in blood. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 Describe **three systems**, one moving material, and one control signal. Explain what each contributes and how the connections allow the event to happen. Aim for four or five clear sentences, not a long organ list.
 

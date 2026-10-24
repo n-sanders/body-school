@@ -63,11 +63,23 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## More work changes demand
 During more intense activity, muscle cells use energy faster. Many of their energy-releasing processes use oxygen and produce carbon dioxide and heat. Circulation and breathing help match delivery and removal to the changed demand.
 
 Heart rate usually rises, and the heart can pump more blood per minute. Blood flow is redistributed among tissues. Breathing often becomes faster, deeper, or both, supporting gas exchange.
+
+### Read the pictures
+
+Use the first figure to explain increased supply demand, then trace a delivery route in the second. The pictures show connected structures, not measurements of pulse or oxygen.
+
+![Muscle fibers develop tension and use energy. A still picture cannot tell whether they are lifting, holding, or lowering a load.](images/servier/muscle-fiber.png)
+
+*Muscle fibers develop tension and use energy. A still picture cannot tell whether they are lifting, holding, or lowering a load. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![The circulation map shows how the pump and routes connect to tissues. During activity, flow can change without arterial oxygen becoming unusually low.](images/servier/bloodstream.png)
+
+*The circulation map shows how the pump and routes connect to tissues. During activity, flow can change without arterial oxygen becoming unusually low. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Do not overread one observation
 A faster pulse does not automatically mean the blood in arteries has become low in oxygen. In a healthy person during ordinary exercise, coordinated breathing and circulation usually keep arterial oxygen levels close to their usual range. Demand and delivery can rise together.

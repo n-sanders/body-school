@@ -62,12 +62,13 @@ reviewedOn: 2026-10-24
 images: []
 passMark: 0.8
 ---
-
 ## Connected routes for information
 The **brain** and **spinal cord** form the central part of the nervous system. Nerves connect them with the rest of the body. Sensory pathways bring information inward; motor pathways carry commands toward muscles and other responding tissues.
 
 Nerve cells pass signals along their extensions and across small junctions between cells. A nerve is a bundle of many fibers, not one giant hollow pipe.
 
+
+**Read the picture:** Compare the large upper regions with the smaller gray region at the lower back and the pink connecting stalk. Use their positions to organize their cooperating jobs.
 
 ![Side view of a brain. Colors distinguish regions; the smaller gray region at the lower back helps coordinate movement.](images/servier/brain.png)
 

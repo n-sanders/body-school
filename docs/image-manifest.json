@@ -240,5 +240,93 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "changes": "None",
     "review": "Visually inspected for this curriculum; a specialist review is still welcome."
+  },
+  {
+    "name": "bloodstream",
+    "sourcePage": "https://smart.servier.com/smart_image/circulation/",
+    "downloadUrl": "https://smart.servier.com/wp-content/uploads/2016/10/circulation.png",
+    "file": "images/servier/bloodstream.png",
+    "creator": "Servier Medical Art",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None",
+    "review": "Visually inspected for the stated lesson use; source files are unmodified."
+  },
+  {
+    "name": "red-cell",
+    "sourcePage": "https://smart.servier.com/smart_image/erythrocyte-12/",
+    "downloadUrl": "https://smart.servier.com/wp-content/uploads/2016/10/Coag_07.png",
+    "file": "images/servier/red-cell.png",
+    "creator": "Servier Medical Art",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None",
+    "review": "Visually inspected for the stated lesson use; source files are unmodified."
+  },
+  {
+    "name": "platelet",
+    "sourcePage": "https://smart.servier.com/smart_image/platelet-view/",
+    "downloadUrl": "https://smart.servier.com/wp-content/uploads/2016/10/plaquette_05.png",
+    "file": "images/servier/platelet.png",
+    "creator": "Servier Medical Art",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None",
+    "review": "Visually inspected for the stated lesson use; source files are unmodified."
+  },
+  {
+    "name": "muscle-fiber",
+    "sourcePage": "https://smart.servier.com/smart_image/smart-muscles/",
+    "downloadUrl": "https://smart.servier.com/wp-content/uploads/2016/10/Muscleanat_2.png",
+    "file": "images/servier/muscle-fiber.png",
+    "creator": "Servier Medical Art",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None",
+    "review": "Visually inspected for the stated lesson use; source files are unmodified."
+  },
+  {
+    "name": "neuron",
+    "sourcePage": "https://smart.servier.com/smart_image/neuron/",
+    "downloadUrl": "https://smart.servier.com/wp-content/uploads/2016/10/neurone01.png",
+    "file": "images/servier/neuron.png",
+    "creator": "Servier Medical Art",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None",
+    "review": "Visually inspected for the stated lesson use; source files are unmodified."
+  },
+  {
+    "name": "skin-detailed",
+    "sourcePage": "https://smart.servier.com/smart_image/skin/",
+    "downloadUrl": "https://smart.servier.com/wp-content/uploads/2016/10/peau.png",
+    "file": "images/servier/skin-detailed.png",
+    "creator": "Servier Medical Art",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None",
+    "review": "Visually inspected for the stated lesson use; source files are unmodified."
+  },
+  {
+    "name": "white-cell",
+    "sourcePage": "https://smart.servier.com/smart_image/neutrophil-granulocyte/",
+    "downloadUrl": "https://smart.servier.com/wp-content/uploads/2016/10/neutrophile_01.png",
+    "file": "images/servier/white-cell.png",
+    "creator": "Servier Medical Art",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None",
+    "review": "Visually inspected for the stated lesson use; source files are unmodified."
+  },
+  {
+    "name": "lining-layer",
+    "sourcePage": "https://smart.servier.com/smart_image/simple-columnar-epithelium/",
+    "downloadUrl": "https://smart.servier.com/wp-content/uploads/2016/10/Epi_cylindrique_01.png",
+    "file": "images/servier/lining-layer.png",
+    "creator": "Servier Medical Art",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None",
+    "review": "Visually inspected for the stated lesson use; source files are unmodified."
   }
 ]

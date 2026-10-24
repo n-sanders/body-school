@@ -60,12 +60,13 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Start a response quickly
 Imagine touching an unexpectedly hot pan. Sensors in the skin detect a harmful stimulus. Sensory nerve signals enter the spinal cord, where connected nerve cells can activate motor pathways to muscles. Your hand begins to withdraw.
 
 This is a **reflex**: a relatively automatic response through a nerve pathway. The signal does not need to wait for a conscious decision before the spinal circuit starts the movement.
 
+
+**Read the picture:** Find the spinal cord below the brain, then a branching nerve route. Imagine a response beginning through spinal connections while another route carries information upward.
 
 ![The brain and spinal cord connect with branching nerves throughout the body. This overview does not show the detailed reflex circuit.](images/servier/nervous-system.png)
 

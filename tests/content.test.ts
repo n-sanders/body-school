@@ -4,8 +4,16 @@ import { content } from "../src/content/loader";
 import { checkIntegrity, parseItem, parseLesson } from "../src/content/parse";
 import type { Item, Lesson } from "../src/content/schema";
 import { catalogCourse, textOnlyCourse } from "./fixtures";
+import { markdownImageUrls } from "../src/content/markdown-images";
 
 describe("shipped content", () => {
+  it("includes teaching pictures in every lesson, including introductions and reviews", () => {
+    for (const lesson of content.lessons.values()) {
+      expect(lesson.images.length + markdownImageUrls(lesson.body).length, lesson.id).toBeGreaterThan(0);
+      expect(lesson.body, lesson.id).toMatch(/Read the picture/);
+    }
+  });
+
   it("loads every curriculum lesson", () => {
     expect(content.lessonOrder.length).toBe(content.lessons.size);
     for (const id of content.lessonOrder) expect(content.lessons.get(id)?.body.length).toBeGreaterThan(0);

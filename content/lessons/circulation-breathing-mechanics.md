@@ -60,12 +60,13 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Moving air is a mechanical job
 Your lungs do not pull air in by squeezing inward. During a quiet breath in, the **diaphragm**, a broad muscle below the lungs, contracts and moves downward. Muscles between the ribs also help expand the chest.
 
 As chest space increases, the lungs expand with it. Air pressure inside the lungs becomes slightly lower than outside pressure, so air flows inward through the airways.
 
+
+**Read the picture:** Follow the large airway into smaller branches. Air reaches these structures because chest movement changes pressure; the muscle action itself is not drawn here.
 
 ![Branching airways enter the lungs. This picture shows anatomy; chest muscles supply the changes in space that move air.](images/servier/lungs.png)
 

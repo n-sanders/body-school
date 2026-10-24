@@ -63,12 +63,13 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## A chain of vibrations
 Sound is a pressure wave moving through material such as air. The outer ear guides sound into the ear canal. Sound makes the eardrum vibrate. Three tiny middle-ear bones transfer vibrations toward the fluid-filled inner ear.
 
 Inside a coiled structure called the **cochlea**, movement affects sensory hair cells. These cells help turn the vibration pattern into nerve signals. The brain uses the signals to perceive sound. You do not need the individual bone names to explain this chain.
 
+
+**Read the picture:** Trace sound from the ear canal toward the coiled inner-ear structure. Contrast the coil’s hearing role with the nearby curved balance structures.
 
 ![A cutaway ear shows the canal, middle-ear structures, coiled hearing organ, and curved balance structures. Focus on the route, not every small part.](images/servier/ear.png)
 

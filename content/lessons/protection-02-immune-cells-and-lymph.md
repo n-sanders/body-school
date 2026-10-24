@@ -65,12 +65,13 @@ reviewedOn: 2026-10-24
 images: []
 passMark: 0.8
 ---
-
 ## Fluid between cells
 Materials cross small blood-vessel walls to reach tissues. Some fluid remains in the spaces around cells. Lymph vessels collect excess tissue fluid, helping return it toward the blood instead of allowing it all to accumulate.
 
 Once inside lymph vessels, the fluid is called **lymph**. Its movement depends on features such as valves, body movement, and vessel activity. It does not have a single central pump like the heart.
 
+
+**Read the picture:** Follow the vessels toward and away from the node. Distinguish the transport route pictured here from immune-cell encounters occurring inside the node.
 
 ![Lymph vessels connect with a lymph node. This exterior overview shows connections, not the detailed cells inside.](images/servier/lymph-node.png)
 

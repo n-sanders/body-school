@@ -62,12 +62,13 @@ reviewedOn: 2026-10-24
 images: []
 passMark: 0.8
 ---
-
 ## Follow the air
 Air passes through the nose or mouth, down the windpipe, and through smaller branching airways. At their ends are tiny air sacs called **alveoli**. Their many small surfaces together provide a large area for gas exchange.
 
 Tiny blood vessels wrap around the air sacs. The air-sac and vessel walls are very thin, so gases have a short distance to cross. Oxygen moves from air into blood. Carbon dioxide moves from blood into the air sacs and can leave in a breath out.
 
+
+**Read the picture:** Follow the oxygen and carbon-dioxide arrows separately. Then follow blood past the air sac without letting the blood route become the air route.
 
 ![Follow the arrows: oxygen moves from the air sac into blood; carbon dioxide moves from blood into the air sac. Blood passes beside the sac.](images/lessons/sourced-alveoli.svg)
 

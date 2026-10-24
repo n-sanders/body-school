@@ -60,11 +60,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## An adjustable loss
 Water enters through drinks and food. It leaves in urine, sweat, breath, and stool. The amounts change with activity, temperature, and other conditions.
 
 Kidneys help keep the amount and concentration of body fluids within a workable range. They do not always produce the same volume of urine. When the body needs to conserve water, signals can cause the kidneys to return more water to blood. Less water then remains in urine, which is usually more concentrated.
+
+### Read the pictures
+
+Compare the two views. Skin can lose water through sweat, while kidneys can adjust how much filtered water returns to blood. Which changes would help conserve water?
+
+![In this skin cutaway, the green coiled sweat gland connects with an opening at the surface. Water reaching the surface can be lost as sweat.](images/servier/skin-detailed.png)
+
+*In this skin cutaway, the green coiled sweat gland connects with an opening at the surface. Water reaching the surface can be lost as sweat. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A kidney cutaway shows larger structures. Water filtering and selective return happen in tiny processing units too small to see in this picture.](images/servier/kidney.png)
+
+*A kidney cutaway shows larger structures. Water filtering and selective return happen in tiny processing units too small to see in this picture. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 When there is extra water to remove, the kidneys can return less and produce a larger volume of more dilute urine. These changes are controlled adjustments, not a choice made by the bladder.
 

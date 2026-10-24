@@ -64,12 +64,13 @@ reviewedOn: 2026-10-24
 images: []
 passMark: 0.8
 ---
-
 ## Crossing into the body’s transport routes
 Most nutrient absorption happens in the **small intestine**. Its inner surface has folds and many tiny fingerlike projections called **villi**. These provide a large total surface for substances to cross.
 
 The lining is thin, and transport vessels are close by. Many absorbed nutrients enter blood vessels. Many products of fat digestion first enter small lymph vessels and later reach blood. You do not need to memorize those vessel names to explain the main idea: digestion must be followed by crossing and transport.
 
+
+**Read the picture:** Trace a route from the intestinal space across a thin villus lining toward a transport vessel. Notice how many projections increase the crossing surface.
 
 ![Fingerlike villi increase surface area. Blood vessels and a central lymph vessel provide routes away from the lining.](images/servier/villi.png)
 

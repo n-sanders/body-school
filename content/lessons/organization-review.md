@@ -66,11 +66,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Connect the levels
 Choose the stomach as an example. Its muscle cells are part of muscle tissue. That tissue works with lining, connective, and nervous tissues in the stomach. The stomach then cooperates with other digestive organs.
 
 The levels describe **organization**, not separate boxes. An organ still contains cells, and those cells still need oxygen and nutrients.
+
+### Read the pictures
+
+Use the close-up and the organ picture to rebuild the levels: cells form tissue; several tissues contribute to an organ; the organ cooperates in a system.
+
+![Closely packed cells make a lining tissue. A lining is only one of the tissue types that can contribute to an organ.](images/servier/lining-layer.png)
+
+*Closely packed cells make a lining tissue. A lining is only one of the tissue types that can contribute to an organ. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A stomach is an organ with lining, muscle, nervous, and connective tissues. The lining example and stomach are shown at different scales.](images/servier/stomach.png)
+
+*A stomach is an organ with lining, muscle, nervous, and connective tissues. The lining example and stomach are shown at different scales. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Follow three connections
 - A material: oxygen moves from lungs to blood to body cells.

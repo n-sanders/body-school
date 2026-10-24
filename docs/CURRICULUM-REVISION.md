@@ -6,7 +6,7 @@ The target is a middle-school foundation for learners aged 11 and 13, with mecha
 
 The design target is **about 10 minutes per lesson**, including questions and feedback. This is a planning estimate, not a measured completion time or a timer. Plan roughly five minutes for the explanation, figures, and visible Go deeper material, one minute for independent reflection, and four minutes for questions and feedback. Some learners will need longer. Go deeper sections are part of the full lesson and remain visible, whether or not every fact appears in the quiz.
 
-There is no 15–25-minute lesson target and no 450–700-word minimum. Current lesson prose is approximately 145–276 words, averaging 185, excluding headings and picture captions. Visible objectives, captions, question choices, and feedback add reading beyond that prose count. Aim around 160–280 prose words for future core lessons, with flexibility for clarity; split a crowded lesson rather than pad or compress it to a rigid quota. Introductions and reviews may sit near the lower end.
+There is no 15–25-minute lesson target and no 450–700-word minimum. Current lesson prose is approximately 168–300 words, averaging 211, excluding headings and picture captions. Visible objectives, captions, question choices, and feedback add reading beyond that prose count. Aim around 160–280 prose words for future core lessons, with flexibility for clarity; split a crowded lesson rather than pad or compress it to a rigid quota. Introductions and reviews may sit near the lower end.
 
 Validate the estimate with the actual learners: note ordinary reading time, time on the explanation prompt, and time on five questions. If a core lesson regularly runs long, split its ideas or separate a crowded topic into another lesson rather than lower the conceptual level. The eight-year-old’s completion time is not the pacing standard.
 
@@ -39,7 +39,7 @@ Reproductive organs and systems remain outside scope. The old endocrine overview
 
 ## Images and small presentation changes
 
-The first-pass SVG placeholders were removed. Twenty-two official Servier PNGs were installed, individually inspected, and credited with source pages and CC BY 4.0. Five existing sourced figures were retained for their useful teaching roles. The structure catalog now serves as an illustrated reference used in visible Go deeper lesson sections; image-name drills are disabled because labelled reference art is not a fair identification test. Remaining diagram needs are recorded in IMAGE-BACKLOG.md.
+The first-pass SVG placeholders were removed. Thirty official Servier PNGs were installed, individually inspected, and credited with source pages and CC BY 4.0. Five existing sourced figures were retained for their useful teaching roles. The structure catalog now serves as an illustrated reference used in visible Go deeper lesson sections; image-name drills are disabled because labelled reference art is not a fair identification test. Remaining diagram needs are recorded in IMAGE-BACKLOG.md.
 
 Only small presentation/support changes accompany the content: responsive lesson images, contained catalog art without upscaling, visible image notes, a credits route, visible Go deeper reading, and validation of Markdown-body image references. There is no application redesign.
 
@@ -54,3 +54,9 @@ The independent first-pass audit is retained under docs/audit/independent-2026-1
 ## Independent-work update
 
 Reflection and process-tracing prompts replace all spoken tasks. Repetitive generic prompts were removed where the lesson already had a focused prediction or reflection; the remaining prompts are specific to their lessons. Go deeper sections are always visible before the quiz. The ten-minute target now includes that reading; timing should be checked against the full lesson rather than prose alone.
+
+## Visual-teaching update
+
+All 42 lessons now include at least one picture in the main lesson, independent of Go deeper catalog images. There are 63 main teaching-image placements, using 30 Servier assets and five retained sourced figures across the collection. Eight additional Servier figures cover cells, tissue, muscle, circulation, and detailed skin anatomy. Each lesson gives a specific visual-reading task. Comparisons and reviews reuse useful figures with a different task rather than adding unrelated decoration. Source files remain unmodified and attribution is visible.
+
+The content validator and shipped-content tests enforce picture coverage, including introductions and reviews. The separate mechanism-diagram backlog remains open where anatomy alone cannot depict the entire process. See VISUAL-TEACHING.md and visual-coverage.json for the lesson-by-lesson record.

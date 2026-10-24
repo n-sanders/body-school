@@ -72,11 +72,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Build a layered explanation
 Imagine a small break in the skin allows material into tissue. The barrier has been crossed. Local signals and early defense responses can follow. Blood helps carry cells and materials; lymph routes carry tissue fluid and material toward places where immune cells can encounter it.
 
 A targeted response may develop. If memory cells remain, a future encounter with the same target can produce a more effective response.
+
+### Read the pictures
+
+Imagine material crossing the skin barrier. Use the pictures to connect the entry point with transport toward a lymph node where immune cells can encounter carried material.
+
+![A skin boundary protects deeper tissues. A break changes access to those tissues; it does not identify what caused the break.](images/servier/skin-detailed.png)
+
+*A skin boundary protects deeper tissues. A break changes access to those tissues; it does not identify what caused the break. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![Vessels bring lymph to and from a node. This exterior view shows connections, not the detailed immune response inside.](images/servier/lymph-node.png)
+
+*Vessels bring lymph to and from a node. This exterior view shows connections, not the detailed immune response inside. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Keep observations separate from causes
 Redness, warmth, and swelling can reflect inflammation. They do not, by themselves, reveal exactly what entered the tissue or prove that an infection is present. The same kind of response can follow different problems.

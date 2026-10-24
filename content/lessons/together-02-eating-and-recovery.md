@@ -63,11 +63,23 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## A meal begins several connected processes
 Food is broken down by movement and digestive substances. Nutrients cross the intestinal lining into transport routes. Circulation carries them toward tissues, where cells can use them or store some for later.
 
 When blood glucose rises after many meals, hormone signals including insulin help coordinate uptake and storage. Not every nutrient follows exactly the same processing route, and the liver helps handle many absorbed materials.
+
+### Read the pictures
+
+Find the intestine and liver in the digestive overview. Then inspect the pancreas separately: its digestive secretions and blood-borne hormones take different routes.
+
+![Digestion and absorption prepare materials for delivery. The overview shows organ positions but not every transport vessel.](images/servier/digestive.png)
+
+*Digestion and absorption prepare materials for delivery. The overview shows organ positions but not every transport vessel. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![The branching pancreatic ducts carry digestive fluid toward the intestine. Hormones enter blood through a different route not drawn here.](images/servier/pancreas-anatomy.png)
+
+*The branching pancreatic ducts carry digestive fluid toward the intestine. Hormones enter blood through a different route not drawn here. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Recovery is active work
 After activity, cells continue processes that restore supplies and maintain or repair structures. Repair uses materials; it is not simply a matter of switching every organ off. Oxygen delivery, waste removal, water balance, and control signals remain important during rest.

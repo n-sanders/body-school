@@ -64,12 +64,13 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## Pulling and holding
 A muscle **contracts** when its cells develop tension. It may shorten, as when you lift a book, or stay about the same length while you hold the book still. During controlled lowering, an active muscle can even lengthen while resisting a load.
 
 Skeletal muscles attach to bones through **tendons**, strong connective tissues that transfer a pull. A muscle cannot push a bone back the opposite way. Other muscles supply the opposite pull.
 
+
+**Read the picture:** Follow the muscle bundles toward the tendon. Trace how a pull could reach a bone even while the muscle holds a load without visible movement.
 
 ![A muscle contains bundles of smaller fibers. Focus on how the tendon connects the muscle to a bone.](images/lessons/sourced-muscle-structure.jpg)
 

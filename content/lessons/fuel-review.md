@@ -63,11 +63,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Keep the routes separate
 Follow a meal: mouth → food tube → stomach → small intestine → large intestine. Digestive helpers send substances into this route. They are not extra stops through which the bite travels.
 
 Now follow an absorbed nutrient: across the intestinal lining → transport route → body tissue. Digestion, absorption, and delivery are three connected jobs.
+
+### Read the pictures
+
+Use the two routes to distinguish stool from urine. Then identify where absorbed nutrients leave the food route and why their later transport requires blood.
+
+![The digestive tube carries food and remaining material. The intestines connect with transport routes across their lining; that crossing is not drawn in detail here.](images/servier/digestive.png)
+
+*The digestive tube carries food and remaining material. The intestines connect with transport routes across their lining; that crossing is not drawn in detail here. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![The urinary route runs from kidneys to bladder and outside. The bladder stores urine rather than making it.](images/servier/urinary.png)
+
+*The urinary route runs from kidneys to bladder and outside. The bladder stores urine rather than making it. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## A different journey
 Follow a dissolved waste already in blood: blood reaches kidneys → filtering and adjustment → urine → bladder → outside. Useful materials and much water return to blood during processing.

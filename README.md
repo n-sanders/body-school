@@ -4,6 +4,8 @@ A middle-school foundation in major organs and body systems for learners around 
 
 The curriculum has **42 short lessons in seven units**: 28 focused core lessons, seven introductions, and seven reviews. Each targets **about 10 minutes**, including an independent reflection prompt and five concept questions. Pacing is an estimate to check with learners; there is no long vocabulary memorization requirement.
 
+Every lesson has at least one main teaching picture and a focused visual-reading task. Introductions and reviews use pictures too; some lessons compare two or three figures. See [visual coverage](docs/VISUAL-TEACHING.md).
+
 Lessons include visible Go deeper sections with structure facts and credited educational artwork. The separate structure catalog also provides reference reading. Practice and spaced Review focus on lesson concepts. Browser-local progress is retained by the existing app.
 
 See [the revision notes](docs/CURRICULUM-REVISION.md) for pacing, coverage, assessment choices, and existing-progress considerations; [the image backlog](docs/IMAGE-BACKLOG.md) for figures to improve later; and [image credits](IMAGE_CREDITS.md) for every current asset.

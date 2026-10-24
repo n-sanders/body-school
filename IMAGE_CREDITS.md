@@ -30,6 +30,14 @@ The following unmodified figures are by **Servier Medical Art**, licensed under 
 | `images/servier/spleen.png` | [spleen](https://smart.servier.com/smart_image/spleen/) | None |
 | `images/servier/vessels.png` | [vessels](https://smart.servier.com/smart_image/capillaries-blood-vessel/) | None |
 | `images/servier/spine.png` | [spine](https://smart.servier.com/smart_image/vertebral-column/) | None |
+| `images/servier/bloodstream.png` | [bloodstream](https://smart.servier.com/smart_image/circulation/) | None |
+| `images/servier/red-cell.png` | [red-cell](https://smart.servier.com/smart_image/erythrocyte-12/) | None |
+| `images/servier/platelet.png` | [platelet](https://smart.servier.com/smart_image/platelet-view/) | None |
+| `images/servier/muscle-fiber.png` | [muscle-fiber](https://smart.servier.com/smart_image/smart-muscles/) | None |
+| `images/servier/neuron.png` | [neuron](https://smart.servier.com/smart_image/neuron/) | None |
+| `images/servier/skin-detailed.png` | [skin-detailed](https://smart.servier.com/smart_image/skin/) | None |
+| `images/servier/white-cell.png` | [white-cell](https://smart.servier.com/smart_image/neutrophil-granulocyte/) | None |
+| `images/servier/lining-layer.png` | [lining-layer](https://smart.servier.com/smart_image/simple-columnar-epithelium/) | None |
 
 ## Other retained figures
 

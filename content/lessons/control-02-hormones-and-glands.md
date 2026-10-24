@@ -69,12 +69,13 @@ reviewedOn: 2026-10-24
 images: []
 passMark: 0.8
 ---
-
 ## A message can travel widely
 An endocrine gland releases **hormones**, chemical messages, into blood. Blood carries a hormone around the body, but not every cell responds. A target cell needs a matching **receptor**, a structure able to recognize that message.
 
 This helps explain how the same blood can carry many messages without every cell doing the same thing.
 
+
+**Read the picture:** Find the thyroid beside the windpipe. Connect this location with a message that enters blood; the pituitary and target-cell receptors are not shown.
 
 ![The thyroid sits in the neck beside the windpipe. The pituitary is a separate gland at the base of the brain and is not shown here.](images/servier/thyroid.png)
 

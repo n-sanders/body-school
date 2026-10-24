@@ -64,7 +64,6 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## Feel the pump
 
 Picture a heartbeat: the **heart** is a muscular pump in the chest, between the lungs, with much of it slightly left of center. It is cardiac muscle, so it beats without you deciding to flex it. It does speed up when cells need more oxygen.
@@ -82,6 +81,8 @@ Follow one drop:
 4. It returns to the **left** side.
 5. The left ventricle pumps it out to the body.
 
+
+**Read the picture:** Follow the arrows through both loops. Separate the place where blood is pumped from the place where it exchanges gases.
 
 ![Follow arrows through the lung loop and body loop. Red and blue indicate relative oxygen levels; blood is always a shade of red.](images/lessons/sourced-heart-flow.svg)
 

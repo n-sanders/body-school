@@ -60,7 +60,6 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Follow light, then follow a signal
 Light enters through the clear front of the eye and passes through the **pupil**, an opening. The colored ring around it adjusts the opening’s size. The clear front surface and the **lens** help focus light onto the **retina**, the light-sensitive tissue at the back.
 
@@ -68,6 +67,8 @@ Cells in the retina respond to light. Connected cells produce nerve signals that
 
 The picture is therefore not simply a tiny scene that travels down a hollow nerve. Light is changed into information carried by cells.
 
+
+**Read the picture:** Trace light from the curved front toward the back lining. Then locate the nerve leaving the eye: the route changes from light to cellular signals.
 
 ![A cutaway eye. Light enters at the curved front; light-sensitive tissue lines the back, near the nerve leaving the eye.](images/servier/eye.png)
 

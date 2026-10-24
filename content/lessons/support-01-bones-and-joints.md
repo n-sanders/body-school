@@ -66,7 +66,6 @@ reviewedOn: 2026-10-24
 images: []
 passMark: 0.8
 ---
-
 ## More than a frame
 
 Stand up, throw a ball, or take a breath. Bones are involved every time, and not only as a frame to hang muscles on. Bones contain living cells and blood vessels, allowing growth, maintenance, and repair. The **skeletal system** is bones, cartilage, and ligaments. Its jobs are easy to list and easy to underestimate:
@@ -81,6 +80,8 @@ You do not need every bone's name. Three structures are enough to start recogniz
 
 Long bones grow in length at cartilage plates near their ends. That is one reason a child's bones are not finished copies of an adult's.
 
+
+**Read the picture:** Locate the skull, rib cage, and spine. Compare the elbow’s joint with the shoulder’s: which movements would their different shapes allow?
 
 ![A labelled skeleton. Focus on the skull, rib cage, spine, and joints rather than memorizing every label.](images/lessons/sourced-skeleton.svg)
 

@@ -65,10 +65,18 @@ reviewedOn: 2026-10-24
 images: []
 passMark: 0.8
 ---
-
 ## Three kinds of tube
 
 The heart is the pump. **Blood vessels** are the roads. Learning three names covers the pattern:
+
+### Read the picture
+
+Follow the red route into the fine blood-vessel network and out through the blue route. The separate green branches collect tissue fluid into lymph vessels.
+
+![Small exchange vessels connect incoming and outgoing blood routes. Green represents lymph vessels; it is a separate route rather than another kind of blood vessel.](images/servier/vessels.png)
+
+*Small exchange vessels connect incoming and outgoing blood routes. Green represents lymph vessels; it is a separate route rather than another kind of blood vessel. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 - **Arteries** carry blood **away** from the heart. Their walls are strong because the push is strong.
 - **Capillaries** are tiny and thin. This is where oxygen, nutrients, and wastes cross between blood and cells.

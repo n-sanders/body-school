@@ -63,11 +63,23 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## Build a model you can use later
 Choose an everyday event: walking upstairs, eating lunch, hearing a warning, or cooling after a game. Begin with an observation. Then explain how at least three systems contribute different jobs.
 
 Follow one material, such as oxygen, glucose, water, or carbon dioxide. State where it starts, what barrier or route it crosses, and where it goes next. Follow one signal too: a nerve command or a hormone message.
+
+### Read the pictures
+
+Choose a material entering through one system and reaching another through blood. Use both maps to identify what the pictures show and what your explanation must add.
+
+![A digestive-system overview supplies the organ route for a meal. Nutrient absorption crosses a lining rather than carrying whole bites into blood.](images/servier/digestive.png)
+
+*A digestive-system overview supplies the organ route for a meal. Nutrient absorption crosses a lining rather than carrying whole bites into blood. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A circulation map supplies the route toward body tissues. Its colors and simplified connections are a model, not evidence of actual flow rates.](images/servier/bloodstream.png)
+
+*A circulation map supplies the route toward body tissues. Its colors and simplified connections are a model, not evidence of actual flow rates. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Make a prediction
 Change one condition in your model. Perhaps an exchange surface is reduced or a transport route is blocked. Predict which later step would be affected and explain why. A prediction should follow from a mechanism, not just say that everything gets worse.

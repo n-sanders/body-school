@@ -65,11 +65,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## A question to carry through the course
 How can one body sense a sound, run across a room, and recover afterward? No organ does all of that alone. Body School follows the parts and, more importantly, the connections between them.
 
 Each lesson is planned for about **10 minutes**: roughly five minutes to read the explanation, pictures, and Go deeper section, a minute to reflect independently, and four minutes for five questions and feedback. Take longer when you need it. Read the Go deeper section as part of the lesson. It connects the ideas to real structures; the quiz may focus on only some of that material. You can think through reflection prompts silently or jot down a short answer for yourself.
+
+### Read the pictures
+
+Compare the routes in these two maps. One carries blood; the other carries nerve signals. Which route could deliver oxygen, and which could guide a movement?
+
+![A simplified circulation map: the central heart connects with branching blood routes and small exchange networks. It is a route model, not an exact anatomical map.](images/servier/bloodstream.png)
+
+*A simplified circulation map: the central heart connects with branching blood routes and small exchange networks. It is a route model, not an exact anatomical map. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A nervous-system map: the brain and spinal cord connect with branching nerves. These branches carry information, not a stream of blood.](images/servier/nervous-system.png)
+
+*A nervous-system map: the brain and spinal cord connect with branching nerves. These branches carry information, not a stream of blood. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Build explanations, not word lists
 You will meet scientific names because they help people describe the same thing clearly. Each name comes with a job or example. The questions ask you to follow a process, predict a change, or choose evidence—not spell long names.

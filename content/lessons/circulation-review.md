@@ -75,11 +75,19 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## One connected journey
 Trace oxygen through these steps: outside air → branching airways → air sacs → blood → heart and vessels → body cells. Breathing muscles move air. Thin exchange walls allow crossing. Red blood cells carry much of the oxygen. Heart pressure moves blood through connected vessels.
 
 Now follow carbon dioxide in the other overall direction. Cells produce it, blood carries it to the lungs, and breathing removes it.
+
+### Read the picture
+
+Trace the arrows through the lung and body loops. Identify where blood changes its gas cargo, then where that cargo can reach body tissues.
+
+![The heart-flow diagram connects two loops. Direction and connections matter more than memorizing all the vessel labels.](images/lessons/sourced-heart-flow.svg)
+
+*The heart-flow diagram connects two loops. Direction and connections matter more than memorizing all the vessel labels. [Source and license](#/credits).*
+
 
 ## Compare possible failures
 Consider three models: fresh air cannot reach the air sacs; blood cannot carry enough oxygen; a vessel to a tissue is blocked. Each could reduce oxygen delivery even if other parts still work.

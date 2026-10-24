@@ -61,7 +61,6 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## Filtering is only the beginning
 Blood reaches the kidneys through blood vessels. Inside are many tiny processing units. Small substances and water can pass from blood into a filtering space, while blood cells and most large proteins normally remain in the bloodstream.
 
@@ -69,6 +68,8 @@ That first filtered fluid contains useful materials as well as wastes. The kidne
 
 The fluid left after these adjustments becomes **urine**. Filtration alone would lose far too much useful material; selective return is essential.
 
+
+**Read the picture:** Start at each kidney and follow its tube to the bladder, then find the separate outlet. Distinguish urine production from storage.
 
 ![Kidneys connect to the bladder through two long tubes. The short outlet below the bladder is a different tube.](images/servier/urinary.png)
 

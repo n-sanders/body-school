@@ -60,11 +60,27 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## A moving mixture
 Blood contains cells and small cell fragments carried in a liquid called **plasma**. Plasma is mostly water. It carries dissolved materials, including nutrients, hormones, and wastes.
 
 **Red blood cells** contain a protein that binds oxygen. This helps blood carry much more oxygen than the liquid alone could carry. Blood also transports carbon dioxide away from tissues; much of it travels in the plasma after a chemical change.
+
+### Read the pictures
+
+Compare three components with different jobs: oxygen transport, defense, and clotting. Their shapes help distinguish them, but shape alone does not show the full job.
+
+![A red blood cell has a flattened, indented disk shape. Its oxygen-carrying protein is inside the cell and is not visible here.](images/servier/red-cell.png)
+
+*A red blood cell has a flattened, indented disk shape. Its oxygen-carrying protein is inside the cell and is not visible here. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![One kind of white blood cell has a lobed nucleus. It contributes to early defense; other white blood cells have different shapes and roles.](images/servier/white-cell.png)
+
+*One kind of white blood cell has a lobed nucleus. It contributes to early defense; other white blood cells have different shapes and roles. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A platelet is a small cell fragment involved in starting clots. These three illustrations are enlarged separately and are not shown at the same scale.](images/servier/platelet.png)
+
+*A platelet is a small cell fragment involved in starting clots. These three illustrations are enlarged separately and are not shown at the same scale. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 **White blood cells** help defend the body. Different kinds recognize threats, send signals, or attack infected cells and microbes.
 

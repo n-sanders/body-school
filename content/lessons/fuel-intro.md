@@ -63,11 +63,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Food is not ready for every cell
 A bite of food is too large to travel directly into your body cells. Digestion breaks food into smaller substances. Absorption moves usable substances across the digestive lining into transport routes. Circulation then carries them toward tissues.
 
 These are connected steps, but they are not the same step. A substance can be broken down without yet being absorbed.
+
+### Read the pictures
+
+Trace the food route in the first picture and the urine route in the second. Notice that the kidneys are not another stop along the food tube.
+
+![Food travels from mouth to stomach and intestines. Nearby digestive helper organs contribute substances without receiving the bite itself.](images/servier/digestive.png)
+
+*Food travels from mouth to stomach and intestines. Nearby digestive helper organs contribute substances without receiving the bite itself. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![Blood reaches kidneys through vessels; urine leaves through tubes to the bladder. The blood vessels are not fully shown in this overview.](images/servier/urinary.png)
+
+*Blood reaches kidneys through vessels; urine leaves through tubes to the bladder. The blood vessels are not fully shown in this overview. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Two routes out
 Material left in the digestive tract can leave as stool. Meanwhile, cells throughout the body produce wastes that enter blood. Kidneys help remove some dissolved wastes and adjust water and salts, making urine.

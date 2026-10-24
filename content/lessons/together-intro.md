@@ -72,11 +72,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Put the connections to work
 The last unit uses familiar events instead of introducing another long list of organs. You will explain activity, a meal, and recovery by following materials, signals, and changes over time.
 
 Choose a quiet example such as walking to a table and sitting down. Muscles develop tension; joints permit motion; nerves guide the action. Blood continues supplying tissues, and lungs continue exchanging gases. The systems cooperate even when an activity is gentle.
+
+### Read the pictures
+
+Connect a muscle’s work with blood delivery. Which picture helps explain the pull, and which helps explain how supplies can reach working cells?
+
+![A cutaway muscle bundle contains long muscle fibers. The pulled-out fiber shows the repeated internal pattern that supports contraction.](images/servier/muscle-fiber.png)
+
+*A cutaway muscle bundle contains long muscle fibers. The pulled-out fiber shows the repeated internal pattern that supports contraction. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![Blood routes connect the heart with tissues throughout the body. This map does not show nerve commands or how quickly blood is flowing.](images/servier/bloodstream.png)
+
+*Blood routes connect the heart with tissues throughout the body. This map does not show nerve commands or how quickly blood is flowing. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Build a useful answer
 Start with an observation. Then name a process and explain a connection. For example: “Breathing became deeper during the game. More air moved in each breath, supporting gas exchange while active muscles used more oxygen.”

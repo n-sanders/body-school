@@ -63,10 +63,18 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## No system is an island
 
 It is useful to study bones, then the heart, then the stomach. That is not how the body runs. **Each system depends on the others.**
+
+### Read the picture
+
+Start at the heart in the circulation map and follow a route toward a body tissue. Imagine oxygen being delivered there while a separate nerve pathway controls muscle activity.
+
+![The central pump connects with routes to many tissues. The red and blue colors distinguish routes with different oxygen levels; real blood is always a shade of red.](images/servier/bloodstream.png)
+
+*The central pump connects with routes to many tissues. The red and blue colors distinguish routes with different oxygen levels; real blood is always a shade of red. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 Muscle activity requires energy. Blood brings supplies, including oxygen and nutrients, that support the processes releasing that energy. The lungs load the blood with oxygen. The digestive system is the source of the fuel. Nerves tell the muscle when to pull. Skin and sweat may cool you if the work lasts.
 

@@ -65,11 +65,23 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## Defense has layers
 Barriers such as skin and mucus reduce entry. If microbes cross them, **innate defenses** can respond quickly to general signs of trouble. Some cells take in microbes and debris. Inflammation changes local blood flow and vessel leakage, helping defense cells and materials reach an affected area.
 
 Redness and swelling can be part of that response. They are not proof of one specific cause, and inflammation can also occur after injury without infection.
+
+### Read the pictures
+
+Compare a physical barrier with a defense cell. Which can reduce entry, and which can act after entry? Neither picture alone explains immune memory.
+
+![Intact skin helps separate internal tissues from the environment. A break can open a route past this barrier.](images/servier/skin-detailed.png)
+
+*Intact skin helps separate internal tissues from the environment. A break can open a route past this barrier. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![This early-defense cell can act against microbes and damaged material. Adaptive memory involves other cells and connections not shown in this illustration.](images/servier/white-cell.png)
+
+*This early-defense cell can act against microbes and damaged material. Adaptive memory involves other cells and connections not shown in this illustration. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## A more targeted response
 **Adaptive defenses** recognize particular targets. Some cells help make antibodies, proteins that bind particular targets. Others help coordinate responses or act against infected cells.

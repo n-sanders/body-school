@@ -153,6 +153,19 @@ How can one body sense a sound, run across a room, and recover afterward? No org
 
 Each lesson is planned for about **10 minutes**: roughly five minutes to read the explanation, pictures, and Go deeper section, a minute to reflect independently, and four minutes for five questions and feedback. Take longer when you need it. Read the Go deeper section as part of the lesson. It connects the ideas to real structures; the quiz may focus on only some of that material. You can think through reflection prompts silently or jot down a short answer for yourself.
 
+### Read the pictures
+
+Compare the routes in these two maps. One carries blood; the other carries nerve signals. Which route could deliver oxygen, and which could guide a movement?
+
+![A simplified circulation map: the central heart connects with branching blood routes and small exchange networks. It is a route model, not an exact anatomical map.](images/servier/bloodstream.png)
+
+*A simplified circulation map: the central heart connects with branching blood routes and small exchange networks. It is a route model, not an exact anatomical map. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A nervous-system map: the brain and spinal cord connect with branching nerves. These branches carry information, not a stream of blood.](images/servier/nervous-system.png)
+
+*A nervous-system map: the brain and spinal cord connect with branching nerves. These branches carry information, not a stream of blood. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+
 ## Build explanations, not word lists
 You will meet scientific names because they help people describe the same thing clearly. Each name comes with a job or example. The questions ask you to follow a process, predict a change, or choose evidence—not spell long names.
 
@@ -217,6 +230,19 @@ Think about walking upstairs. What changes in your breathing, pulse, and muscles
 ## Start with something you can picture
 
 Think of a brick, then a wall, then a house, then a neighborhood. A body is organized in the same kind of way. The small pieces are alive, and each level has a bigger job than the one below it.
+
+### Read the pictures
+
+Compare the long extension of the nerve cell with the closely packed cells in the lining. How does each arrangement support a different job?
+
+![One nerve cell has a cell body, branches, and a long extension for carrying signals. The small internal parts are not vocabulary targets.](images/servier/neuron.png)
+
+*One nerve cell has a cell body, branches, and a long extension for carrying signals. The small internal parts are not vocabulary targets. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A row of closely packed cells forms a lining tissue. This is one example of lining tissue, not a picture of every tissue type. The two figures use different scales.](images/servier/lining-layer.png)
+
+*A row of closely packed cells forms a lining tissue. This is one example of lining tissue, not a picture of every tissue type. The two figures use different scales. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Cells
 
@@ -298,6 +324,19 @@ Later units will not ask you to memorize long lists of rare cell names. They wil
 ## From a tissue to an organ
 
 A tissue is a team of similar cells. An **organ** is the next step up: a structure made of **two or more kinds of tissue** whose tissues cooperate on related jobs.
+
+### Read the pictures
+
+Find the stomach in the system overview, then inspect its cutaway. Notice how a single organ has internal structures and also belongs to a larger connected route.
+
+![The stomach cutaway shows a folded lining and a thick wall. Different tissues cooperate within one organ.](images/servier/stomach.png)
+
+*The stomach cutaway shows a folded lining and a thick wall. Different tissues cooperate within one organ. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![The digestive overview places the stomach between the food tube from the mouth and the intestines. Food follows the digestive tube rather than passing through every nearby organ.](images/servier/digestive.png)
+
+*The digestive overview places the stomach between the food tube from the mouth and the intestines. Food follows the digestive tube rather than passing through every nearby organ. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 The stomach is a clear example. It is not just a bag of muscle.
 
@@ -386,6 +425,15 @@ The next units look at those systems one at a time. Each unit still belongs to t
 
 It is useful to study bones, then the heart, then the stomach. That is not how the body runs. **Each system depends on the others.**
 
+### Read the picture
+
+Start at the heart in the circulation map and follow a route toward a body tissue. Imagine oxygen being delivered there while a separate nerve pathway controls muscle activity.
+
+![The central pump connects with routes to many tissues. The red and blue colors distinguish routes with different oxygen levels; real blood is always a shade of red.](images/servier/bloodstream.png)
+
+*The central pump connects with routes to many tissues. The red and blue colors distinguish routes with different oxygen levels; real blood is always a shade of red. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+
 Muscle activity requires energy. Blood brings supplies, including oxygen and nutrients, that support the processes releasing that energy. The lungs load the blood with oxygen. The digestive system is the source of the fuel. Nerves tell the muscle when to pull. Skin and sweat may cool you if the work lasts.
 
 ## Follow one ordinary action
@@ -471,6 +519,19 @@ Choose the stomach as an example. Its muscle cells are part of muscle tissue. Th
 
 The levels describe **organization**, not separate boxes. An organ still contains cells, and those cells still need oxygen and nutrients.
 
+### Read the pictures
+
+Use the close-up and the organ picture to rebuild the levels: cells form tissue; several tissues contribute to an organ; the organ cooperates in a system.
+
+![Closely packed cells make a lining tissue. A lining is only one of the tissue types that can contribute to an organ.](images/servier/lining-layer.png)
+
+*Closely packed cells make a lining tissue. A lining is only one of the tissue types that can contribute to an organ. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A stomach is an organ with lining, muscle, nervous, and connective tissues. The lining example and stomach are shown at different scales.](images/servier/stomach.png)
+
+*A stomach is an organ with lining, muscle, nervous, and connective tissues. The lining example and stomach are shown at different scales. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+
 ## Follow three connections
 - A material: oxygen moves from lungs to blood to body cells.
 - Another material: nutrients move from the digestive tract into transport routes and on to cells.
@@ -540,6 +601,19 @@ The quiz revisits earlier ideas. Use the feedback to repair your explanation bef
 Picture bending an elbow to lift a book. Your forearm changes position, but the bones themselves do not bend like rubber. Movement happens where bones meet, and muscles supply a pull.
 
 This unit connects three questions: What supports and protects the body? Where can movement happen? What supplies the force?
+
+### Read the pictures
+
+Locate the elbow joint in the skeleton, then compare it with the cutaway. The skeleton provides orientation; the close-up reveals where bones meet.
+
+![The full skeleton shows where joints connect bones. Focus on the elbow and shoulder rather than memorizing every label.](images/lessons/sourced-skeleton.svg)
+
+*The full skeleton shows where joints connect bones. Focus on the elbow and shoulder rather than memorizing every label. [Source and license](#/credits).*
+
+![This elbow cutaway shows connected bones and joint structures. Muscles supply pulls from outside this close-up.](images/servier/elbow.png)
+
+*This elbow cutaway shows connected bones and joint structures. Muscles supply pulls from outside this close-up. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 Bones are living organs, not dry sticks. They contain cells and blood vessels. Some bone marrow makes blood cells. Joints connect bones; different joints allow different amounts of movement. Muscles develop tension and pull through strong connecting tissues called tendons.
 
@@ -613,6 +687,8 @@ You do not need every bone's name. Three structures are enough to start recogniz
 
 Long bones grow in length at cartilage plates near their ends. That is one reason a child's bones are not finished copies of an adult's.
 
+
+**Read the picture:** Locate the skull, rib cage, and spine. Compare the elbow’s joint with the shoulder’s: which movements would their different shapes allow?
 
 ![A labelled skeleton. Focus on the skull, rib cage, spine, and joints rather than memorizing every label.](images/lessons/sourced-skeleton.svg)
 
@@ -690,6 +766,8 @@ A muscle **contracts** when its cells develop tension. It may shorten, as when y
 Skeletal muscles attach to bones through **tendons**, strong connective tissues that transfer a pull. A muscle cannot push a bone back the opposite way. Other muscles supply the opposite pull.
 
 
+**Read the picture:** Follow the muscle bundles toward the tendon. Trace how a pull could reach a bone even while the muscle holds a load without visible movement.
+
 ![A muscle contains bundles of smaller fibers. Focus on how the tendon connects the muscle to a bone.](images/lessons/sourced-muscle-structure.jpg)
 
 *A muscle contains bundles of smaller fibers. Focus on how the tendon connects the muscle to a bone. [Source and license](#/credits).*
@@ -761,6 +839,8 @@ Bones without muscles are a statue. Muscles without bones are a pull with nothin
 
 Picture a tent. The pole is rigid. The ropes pull. They never push the canvas into place by shoving. Your skeleton is the set of poles. Skeletal muscles are the ropes. Joints are the places the poles can fold.
 
+
+**Read the picture:** Find the bones meeting at the elbow. Identify what this cutaway leaves out: the muscle pull and control signal needed to move or steady the joint.
 
 ![A cutaway elbow shows bones meeting at a joint. This picture shows joint structures, not the muscles that pull the arm.](images/servier/elbow.png)
 
@@ -839,6 +919,19 @@ Imagine lifting a water bottle from a table. A nerve signal changes muscle activ
 
 Now hold the bottle still. The joint angle stops changing, but muscle tension can continue. Carefully lowering the bottle also requires control.
 
+### Read the pictures
+
+Use the first picture to locate the meeting of bones. Use the second to connect a muscle’s internal structure with the tendon that transfers its pull.
+
+![A joint allows movement where bones meet. This view does not show the full muscles that control an elbow.](images/servier/elbow.png)
+
+*A joint allows movement where bones meet. This view does not show the full muscles that control an elbow. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A general muscle-structure diagram shows bundles and a tendon connection. It is not the same elbow pictured above.](images/lessons/sourced-muscle-structure.jpg)
+
+*A general muscle-structure diagram shows bundles and a tendon connection. It is not the same elbow pictured above. [Source and license](#/credits).*
+
+
 ## Compare two problems
 In one model, the muscle cannot develop enough tension. In another, the muscle contracts but its tendon cannot transfer the pull. Both models might produce weak movement, but the failed connection is different.
 
@@ -908,6 +1001,15 @@ Before the quiz, describe one job of bones that continues when a person is sitti
 Your body has many cells far from the air outside. Those cells need supplies, and their wastes need a route out. Blood connects exchange surfaces with distant tissues.
 
 The heart is the pump. Vessels provide routes. Blood carries materials. The lungs exchange oxygen and carbon dioxide with the air. Each part contributes a different job.
+
+### Read the picture
+
+Find the heart and follow one route toward a branching tissue network. What other organ must exchange gases before blood can keep supplying those tissues?
+
+![A simplified blood-route map connects a central pump with distant exchange networks. Red and blue are diagram conventions, not two literal blood colors.](images/servier/bloodstream.png)
+
+*A simplified blood-route map connects a central pump with distant exchange networks. Red and blue are diagram conventions, not two literal blood colors. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Two journeys
 Follow oxygen from outside air into the lungs, across a thin exchange surface into blood, and on to body cells. Carbon dioxide travels in the opposite overall direction: from working cells to blood, lungs, and outside air.
@@ -985,6 +1087,8 @@ Follow one drop:
 5. The left ventricle pumps it out to the body.
 
 
+**Read the picture:** Follow the arrows through both loops. Separate the place where blood is pumped from the place where it exchanges gases.
+
 ![Follow arrows through the lung loop and body loop. Red and blue indicate relative oxygen levels; blood is always a shade of red.](images/lessons/sourced-heart-flow.svg)
 
 *Follow arrows through the lung loop and body loop. Red and blue indicate relative oxygen levels; blood is always a shade of red. [Source and license](#/credits).*
@@ -1052,6 +1156,23 @@ Blood contains cells and small cell fragments carried in a liquid called **plasm
 
 **Red blood cells** contain a protein that binds oxygen. This helps blood carry much more oxygen than the liquid alone could carry. Blood also transports carbon dioxide away from tissues; much of it travels in the plasma after a chemical change.
 
+### Read the pictures
+
+Compare three components with different jobs: oxygen transport, defense, and clotting. Their shapes help distinguish them, but shape alone does not show the full job.
+
+![A red blood cell has a flattened, indented disk shape. Its oxygen-carrying protein is inside the cell and is not visible here.](images/servier/red-cell.png)
+
+*A red blood cell has a flattened, indented disk shape. Its oxygen-carrying protein is inside the cell and is not visible here. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![One kind of white blood cell has a lobed nucleus. It contributes to early defense; other white blood cells have different shapes and roles.](images/servier/white-cell.png)
+
+*One kind of white blood cell has a lobed nucleus. It contributes to early defense; other white blood cells have different shapes and roles. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A platelet is a small cell fragment involved in starting clots. These three illustrations are enlarged separately and are not shown at the same scale.](images/servier/platelet.png)
+
+*A platelet is a small cell fragment involved in starting clots. These three illustrations are enlarged separately and are not shown at the same scale. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+
 **White blood cells** help defend the body. Different kinds recognize threats, send signals, or attack infected cells and microbes.
 
 **Platelets** are small cell fragments that help start a clot when a vessel is injured. A clot limits blood loss while repair begins. Clotting is useful at a wound, but a clot blocking an important vessel can cause harm.
@@ -1115,6 +1236,15 @@ If the number of red blood cells drops, the heart might still pump, yet each amo
 ## Three kinds of tube
 
 The heart is the pump. **Blood vessels** are the roads. Learning three names covers the pattern:
+
+### Read the picture
+
+Follow the red route into the fine blood-vessel network and out through the blue route. The separate green branches collect tissue fluid into lymph vessels.
+
+![Small exchange vessels connect incoming and outgoing blood routes. Green represents lymph vessels; it is a separate route rather than another kind of blood vessel.](images/servier/vessels.png)
+
+*Small exchange vessels connect incoming and outgoing blood routes. Green represents lymph vessels; it is a separate route rather than another kind of blood vessel. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 - **Arteries** carry blood **away** from the heart. Their walls are strong because the push is strong.
 - **Capillaries** are tiny and thin. This is where oxygen, nutrients, and wastes cross between blood and cells.
@@ -1189,6 +1319,8 @@ Your lungs do not pull air in by squeezing inward. During a quiet breath in, the
 As chest space increases, the lungs expand with it. Air pressure inside the lungs becomes slightly lower than outside pressure, so air flows inward through the airways.
 
 
+**Read the picture:** Follow the large airway into smaller branches. Air reaches these structures because chest movement changes pressure; the muscle action itself is not drawn here.
+
 ![Branching airways enter the lungs. This picture shows anatomy; chest muscles supply the changes in space that move air.](images/servier/lungs.png)
 
 *Branching airways enter the lungs. This picture shows anatomy; chest muscles supply the changes in space that move air. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
@@ -1258,6 +1390,8 @@ Air passes through the nose or mouth, down the windpipe, and through smaller bra
 
 Tiny blood vessels wrap around the air sacs. The air-sac and vessel walls are very thin, so gases have a short distance to cross. Oxygen moves from air into blood. Carbon dioxide moves from blood into the air sacs and can leave in a breath out.
 
+
+**Read the picture:** Follow the oxygen and carbon-dioxide arrows separately. Then follow blood past the air sac without letting the blood route become the air route.
 
 ![Follow the arrows: oxygen moves from the air sac into blood; carbon dioxide moves from blood into the air sac. Blood passes beside the sac.](images/lessons/sourced-alveoli.svg)
 
@@ -1333,6 +1467,15 @@ Trace oxygen through these steps: outside air → branching airways → air sacs
 
 Now follow carbon dioxide in the other overall direction. Cells produce it, blood carries it to the lungs, and breathing removes it.
 
+### Read the picture
+
+Trace the arrows through the lung and body loops. Identify where blood changes its gas cargo, then where that cargo can reach body tissues.
+
+![The heart-flow diagram connects two loops. Direction and connections matter more than memorizing all the vessel labels.](images/lessons/sourced-heart-flow.svg)
+
+*The heart-flow diagram connects two loops. Direction and connections matter more than memorizing all the vessel labels. [Source and license](#/credits).*
+
+
 ## Compare possible failures
 Consider three models: fresh air cannot reach the air sacs; blood cannot carry enough oxygen; a vessel to a tissue is blocked. Each could reduce oxygen delivery even if other parts still work.
 
@@ -1398,6 +1541,19 @@ Use the quiz to check the connected journey rather than recite a list of parts.
 A bite of food is too large to travel directly into your body cells. Digestion breaks food into smaller substances. Absorption moves usable substances across the digestive lining into transport routes. Circulation then carries them toward tissues.
 
 These are connected steps, but they are not the same step. A substance can be broken down without yet being absorbed.
+
+### Read the pictures
+
+Trace the food route in the first picture and the urine route in the second. Notice that the kidneys are not another stop along the food tube.
+
+![Food travels from mouth to stomach and intestines. Nearby digestive helper organs contribute substances without receiving the bite itself.](images/servier/digestive.png)
+
+*Food travels from mouth to stomach and intestines. Nearby digestive helper organs contribute substances without receiving the bite itself. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![Blood reaches kidneys through vessels; urine leaves through tubes to the bladder. The blood vessels are not fully shown in this overview.](images/servier/urinary.png)
+
+*Blood reaches kidneys through vessels; urine leaves through tubes to the bladder. The blood vessels are not fully shown in this overview. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Two routes out
 Material left in the digestive tract can leave as stool. Meanwhile, cells throughout the body produce wastes that enter blood. Kidneys help remove some dissolved wastes and adjust water and salts, making urine.
@@ -1466,6 +1622,8 @@ Do not begin with a list of organs. Begin with lunch. You bite a sandwich. Two k
 
 **Chemical digestion** uses enzymes and, later, acid. Saliva is not just water. It has enzymes that start breaking starch. The food is still far from being fuel a cell can use.
 
+
+**Read the picture:** Locate the central stomach space and surrounding wall. Connect mixing with muscle in the wall and chemical digestion with substances released into the space.
 
 ![A cutaway stomach shows its thick wall and folded lining. Food mixes inside the central space.](images/servier/stomach.png)
 
@@ -1546,6 +1704,8 @@ The **liver** makes bile. The **gallbladder** stores and concentrates bile and r
 The **pancreas** sends digestive enzymes into the small intestine. Enzymes help break large food molecules into smaller ones. Pancreatic fluid also helps neutralize the acidic mixture arriving from the stomach, creating better conditions for intestinal digestion.
 
 
+**Read the picture:** Locate the green gallbladder and its ducts beneath the liver. Follow the bile route toward the intestine rather than sending a bite of food through the liver.
+
 ![The green gallbladder sits beneath the liver. Its ducts connect bile delivery with the intestine; food does not pass through the liver.](images/servier/liver-gallbladder.png)
 
 *The green gallbladder sits beneath the liver. Its ducts connect bile delivery with the intestine; food does not pass through the liver. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
@@ -1610,6 +1770,8 @@ Most nutrient absorption happens in the **small intestine**. Its inner surface h
 
 The lining is thin, and transport vessels are close by. Many absorbed nutrients enter blood vessels. Many products of fat digestion first enter small lymph vessels and later reach blood. You do not need to memorize those vessel names to explain the main idea: digestion must be followed by crossing and transport.
 
+
+**Read the picture:** Trace a route from the intestinal space across a thin villus lining toward a transport vessel. Notice how many projections increase the crossing surface.
 
 ![Fingerlike villi increase surface area. Blood vessels and a central lymph vessel provide routes away from the lining.](images/servier/villi.png)
 
@@ -1680,6 +1842,8 @@ That first filtered fluid contains useful materials as well as wastes. The kidne
 The fluid left after these adjustments becomes **urine**. Filtration alone would lose far too much useful material; selective return is essential.
 
 
+**Read the picture:** Start at each kidney and follow its tube to the bladder, then find the separate outlet. Distinguish urine production from storage.
+
 ![Kidneys connect to the bladder through two long tubes. The short outlet below the bladder is a different tube.](images/servier/urinary.png)
 
 *Kidneys connect to the bladder through two long tubes. The short outlet below the bladder is a different tube. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
@@ -1746,6 +1910,19 @@ Water enters through drinks and food. It leaves in urine, sweat, breath, and sto
 
 Kidneys help keep the amount and concentration of body fluids within a workable range. They do not always produce the same volume of urine. When the body needs to conserve water, signals can cause the kidneys to return more water to blood. Less water then remains in urine, which is usually more concentrated.
 
+### Read the pictures
+
+Compare the two views. Skin can lose water through sweat, while kidneys can adjust how much filtered water returns to blood. Which changes would help conserve water?
+
+![In this skin cutaway, the green coiled sweat gland connects with an opening at the surface. Water reaching the surface can be lost as sweat.](images/servier/skin-detailed.png)
+
+*In this skin cutaway, the green coiled sweat gland connects with an opening at the surface. Water reaching the surface can be lost as sweat. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A kidney cutaway shows larger structures. Water filtering and selective return happen in tiny processing units too small to see in this picture.](images/servier/kidney.png)
+
+*A kidney cutaway shows larger structures. Water filtering and selective return happen in tiny processing units too small to see in this picture. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+
 When there is extra water to remove, the kidneys can return less and produce a larger volume of more dilute urine. These changes are controlled adjustments, not a choice made by the bladder.
 
 ## Feedback connects systems
@@ -1810,6 +1987,19 @@ A single observation, such as urine color, is not a complete explanation of heal
 Follow a meal: mouth → food tube → stomach → small intestine → large intestine. Digestive helpers send substances into this route. They are not extra stops through which the bite travels.
 
 Now follow an absorbed nutrient: across the intestinal lining → transport route → body tissue. Digestion, absorption, and delivery are three connected jobs.
+
+### Read the pictures
+
+Use the two routes to distinguish stool from urine. Then identify where absorbed nutrients leave the food route and why their later transport requires blood.
+
+![The digestive tube carries food and remaining material. The intestines connect with transport routes across their lining; that crossing is not drawn in detail here.](images/servier/digestive.png)
+
+*The digestive tube carries food and remaining material. The intestines connect with transport routes across their lining; that crossing is not drawn in detail here. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![The urinary route runs from kidneys to bladder and outside. The bladder stores urine rather than making it.](images/servier/urinary.png)
+
+*The urinary route runs from kidneys to bladder and outside. The bladder stores urine rather than making it. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## A different journey
 Follow a dissolved waste already in blood: blood reaches kidneys → filtering and adjustment → urine → bladder → outside. Useful materials and much water return to blood during processing.
@@ -1883,6 +2073,19 @@ Picture catching a ball. Light from the ball reaches your eyes. Sensory cells tu
 
 The body also responds without a conscious decision. A quick withdrawal from something painfully hot can begin through a spinal reflex pathway. Breathing and posture involve automatic control too.
 
+### Read the pictures
+
+Compare the nerve map with the thyroid’s position. Nerve signals follow connected cells; thyroid hormones enter blood and can reach distant responsive cells.
+
+![The brain and spinal cord connect with nerves throughout the body. A branching map shows routes, not the timing of individual signals.](images/servier/nervous-system.png)
+
+*The brain and spinal cord connect with nerves throughout the body. A branching map shows routes, not the timing of individual signals. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![The thyroid is in the neck beside the windpipe. Its hormones travel by blood rather than along the visible nerve branches in the other picture.](images/servier/thyroid.png)
+
+*The thyroid is in the neck beside the windpipe. Its hormones travel by blood rather than along the visible nerve branches in the other picture. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+
 ## More than one message route
 Nerve signals follow connected cells and often support fast, specific responses. Hormones travel in blood and affect cells able to respond to that particular message. Some hormone effects are rapid; others develop over longer periods.
 
@@ -1945,6 +2148,8 @@ The **brain** and **spinal cord** form the central part of the nervous system. N
 
 Nerve cells pass signals along their extensions and across small junctions between cells. A nerve is a bundle of many fibers, not one giant hollow pipe.
 
+
+**Read the picture:** Compare the large upper regions with the smaller gray region at the lower back and the pink connecting stalk. Use their positions to organize their cooperating jobs.
 
 ![Side view of a brain. Colors distinguish regions; the smaller gray region at the lower back helps coordinate movement.](images/servier/brain.png)
 
@@ -2015,6 +2220,8 @@ Imagine touching an unexpectedly hot pan. Sensors in the skin detect a harmful s
 
 This is a **reflex**: a relatively automatic response through a nerve pathway. The signal does not need to wait for a conscious decision before the spinal circuit starts the movement.
 
+
+**Read the picture:** Find the spinal cord below the brain, then a branching nerve route. Imagine a response beginning through spinal connections while another route carries information upward.
 
 ![The brain and spinal cord connect with branching nerves throughout the body. This overview does not show the detailed reflex circuit.](images/servier/nervous-system.png)
 
@@ -2088,6 +2295,8 @@ Cells in the retina respond to light. Connected cells produce nerve signals that
 The picture is therefore not simply a tiny scene that travels down a hollow nerve. Light is changed into information carried by cells.
 
 
+**Read the picture:** Trace light from the curved front toward the back lining. Then locate the nerve leaving the eye: the route changes from light to cellular signals.
+
 ![A cutaway eye. Light enters at the curved front; light-sensitive tissue lines the back, near the nerve leaving the eye.](images/servier/eye.png)
 
 *A cutaway eye. Light enters at the curved front; light-sensitive tissue lines the back, near the nerve leaving the eye. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
@@ -2156,6 +2365,8 @@ Sound is a pressure wave moving through material such as air. The outer ear guid
 
 Inside a coiled structure called the **cochlea**, movement affects sensory hair cells. These cells help turn the vibration pattern into nerve signals. The brain uses the signals to perceive sound. You do not need the individual bone names to explain this chain.
 
+
+**Read the picture:** Trace sound from the ear canal toward the coiled inner-ear structure. Contrast the coil’s hearing role with the nearby curved balance structures.
 
 ![A cutaway ear shows the canal, middle-ear structures, coiled hearing organ, and curved balance structures. Focus on the route, not every small part.](images/servier/ear.png)
 
@@ -2229,6 +2440,8 @@ An endocrine gland releases **hormones**, chemical messages, into blood. Blood c
 This helps explain how the same blood can carry many messages without every cell doing the same thing.
 
 
+**Read the picture:** Find the thyroid beside the windpipe. Connect this location with a message that enters blood; the pituitary and target-cell receptors are not shown.
+
 ![The thyroid sits in the neck beside the windpipe. The pituitary is a separate gland at the base of the brain and is not shown here.](images/servier/thyroid.png)
 
 *The thyroid sits in the neck beside the windpipe. The pituitary is a separate gland at the base of the brain and is not shown here. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
@@ -2298,6 +2511,15 @@ The pituitary, at the base of the brain, influences several other glands. It is 
 Body cells work best within certain ranges of temperature, water balance, and other conditions. **Homeostasis** means maintaining workable internal conditions despite changes inside and outside the body. It does not mean every measurement stays at one exact number.
 
 A feedback process connects detection, control, and response. Sensors detect a change. Control signals influence responding tissues. The response changes the original condition, which affects later signals.
+
+### Read the picture
+
+Find the green sweat gland and the red and blue blood vessels. Connect these structures with the cooling response, then consider why that response decreases as excess warmth falls.
+
+![The coiled sweat gland has a duct to the surface; vessels bring blood near skin tissues. This anatomy shows responding structures, not the complete feedback circuit.](images/servier/skin-detailed.png)
+
+*The coiled sweat gland has a duct to the surface; vessels bring blood near skin tissues. This anatomy shows responding structures, not the complete feedback circuit. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## A cooling example
 When the body becomes too warm, sweating can increase. Evaporation of sweat transfers heat away. Blood flow near the skin can also increase, helping heat reach the surface. As conditions return toward the usual range, the cooling response can decrease.
@@ -2371,6 +2593,19 @@ Light reaching the eye and sound reaching the ear are different inputs. Both mus
 
 A spinal withdrawal can begin before a conscious choice. A deliberate reach involves planned action. Both still require functioning pathways and muscles.
 
+### Read the pictures
+
+Compare the two message routes. Use the nerve map for a movement command, then use the thyroid to explain how a hormone can act at a distant target.
+
+![Nerve pathways connect sensors, control centers, and responding tissues. A reflex can begin through spinal connections while information also reaches the brain.](images/servier/nervous-system.png)
+
+*Nerve pathways connect sensors, control centers, and responding tissues. A reflex can begin through spinal connections while information also reaches the brain. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![An endocrine gland releases a chemical message into blood. Target-cell receptors, not shown here, determine which cells can respond.](images/servier/thyroid.png)
+
+*An endocrine gland releases a chemical message into blood. Target-cell receptors, not shown here, determine which cells can respond. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+
 Hormones use a different route: blood carries chemical messages to cells with matching receptors. A message can circulate widely while producing a selective response.
 
 ## Build a feedback explanation
@@ -2439,6 +2674,19 @@ If sweat cannot evaporate effectively, the same amount of sweating may remove le
 Protection is more than fighting microbes after they enter. Intact skin, mucus, and other barriers help keep harmful material out. If something crosses a barrier, internal responses can begin.
 
 The body has broad early defenses and more targeted responses that can develop memory. These overlap and cooperate; they are not two completely separate armies.
+
+### Read the pictures
+
+Start with the skin’s intact surface, then compare a defense cell. A barrier can reduce entry; an internal cell response helps when material gets past a barrier.
+
+![The upper skin layers form a physical boundary above living tissues, sensory structures, and blood vessels.](images/servier/skin-detailed.png)
+
+*The upper skin layers form a physical boundary above living tissues, sensory structures, and blood vessels. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![This is one type of white blood cell involved in early defense. It is shown at a much greater magnification than the skin section.](images/servier/white-cell.png)
+
+*This is one type of white blood cell involved in early defense. It is shown at a much greater magnification than the skin section. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Connect protection to transport
 Blood carries defense cells and signals. Some fluid moves from small blood vessels into spaces around tissue cells. Lymph vessels collect excess tissue fluid and eventually return it toward the blood. Fluid inside those vessels is called lymph.
@@ -2510,9 +2758,11 @@ It has layers:
 - The **dermis** is deeper. Blood vessels, nerves, sweat glands, and oil glands live there.
 
 
-![A section through intact skin shows layers and a blood supply beneath the surface. This figure does not label every skin structure.](images/servier/skin.png)
+**Read the picture:** Compare the intact upper boundary, yellow sensory structures, green coiled sweat gland, and red and blue vessels. Connect each with a different skin job.
 
-*A section through intact skin shows layers and a blood supply beneath the surface. This figure does not label every skin structure. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+![A detailed skin section shows an intact surface, sensory structures, a coiled sweat gland, and blood vessels. Colors distinguish structures rather than their exact appearance in life.](images/servier/skin-detailed.png)
+
+*A detailed skin section shows an intact surface, sensory structures, a coiled sweat gland, and blood vessels. Colors distinguish structures rather than their exact appearance in life. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
 ## More than a cover
 
@@ -2586,6 +2836,8 @@ Materials cross small blood-vessel walls to reach tissues. Some fluid remains in
 Once inside lymph vessels, the fluid is called **lymph**. Its movement depends on features such as valves, body movement, and vessel activity. It does not have a single central pump like the heart.
 
 
+**Read the picture:** Follow the vessels toward and away from the node. Distinguish the transport route pictured here from immune-cell encounters occurring inside the node.
+
 ![Lymph vessels connect with a lymph node. This exterior overview shows connections, not the detailed cells inside.](images/servier/lymph-node.png)
 
 *Lymph vessels connect with a lymph node. This exterior overview shows connections, not the detailed cells inside. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
@@ -2654,6 +2906,19 @@ The spleen is another immune-related organ. It checks material in blood rather t
 Barriers such as skin and mucus reduce entry. If microbes cross them, **innate defenses** can respond quickly to general signs of trouble. Some cells take in microbes and debris. Inflammation changes local blood flow and vessel leakage, helping defense cells and materials reach an affected area.
 
 Redness and swelling can be part of that response. They are not proof of one specific cause, and inflammation can also occur after injury without infection.
+
+### Read the pictures
+
+Compare a physical barrier with a defense cell. Which can reduce entry, and which can act after entry? Neither picture alone explains immune memory.
+
+![Intact skin helps separate internal tissues from the environment. A break can open a route past this barrier.](images/servier/skin-detailed.png)
+
+*Intact skin helps separate internal tissues from the environment. A break can open a route past this barrier. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![This early-defense cell can act against microbes and damaged material. Adaptive memory involves other cells and connections not shown in this illustration.](images/servier/white-cell.png)
+
+*This early-defense cell can act against microbes and damaged material. Adaptive memory involves other cells and connections not shown in this illustration. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## A more targeted response
 **Adaptive defenses** recognize particular targets. Some cells help make antibodies, proteins that bind particular targets. Others help coordinate responses or act against infected cells.
@@ -2724,6 +2989,19 @@ Imagine a small break in the skin allows material into tissue. The barrier has b
 
 A targeted response may develop. If memory cells remain, a future encounter with the same target can produce a more effective response.
 
+### Read the pictures
+
+Imagine material crossing the skin barrier. Use the pictures to connect the entry point with transport toward a lymph node where immune cells can encounter carried material.
+
+![A skin boundary protects deeper tissues. A break changes access to those tissues; it does not identify what caused the break.](images/servier/skin-detailed.png)
+
+*A skin boundary protects deeper tissues. A break changes access to those tissues; it does not identify what caused the break. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![Vessels bring lymph to and from a node. This exterior view shows connections, not the detailed immune response inside.](images/servier/lymph-node.png)
+
+*Vessels bring lymph to and from a node. This exterior view shows connections, not the detailed immune response inside. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+
 ## Keep observations separate from causes
 Redness, warmth, and swelling can reflect inflammation. They do not, by themselves, reveal exactly what entered the tissue or prove that an infection is present. The same kind of response can follow different problems.
 
@@ -2791,6 +3069,19 @@ The last unit uses familiar events instead of introducing another long list of o
 
 Choose a quiet example such as walking to a table and sitting down. Muscles develop tension; joints permit motion; nerves guide the action. Blood continues supplying tissues, and lungs continue exchanging gases. The systems cooperate even when an activity is gentle.
 
+### Read the pictures
+
+Connect a muscle’s work with blood delivery. Which picture helps explain the pull, and which helps explain how supplies can reach working cells?
+
+![A cutaway muscle bundle contains long muscle fibers. The pulled-out fiber shows the repeated internal pattern that supports contraction.](images/servier/muscle-fiber.png)
+
+*A cutaway muscle bundle contains long muscle fibers. The pulled-out fiber shows the repeated internal pattern that supports contraction. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![Blood routes connect the heart with tissues throughout the body. This map does not show nerve commands or how quickly blood is flowing.](images/servier/bloodstream.png)
+
+*Blood routes connect the heart with tissues throughout the body. This map does not show nerve commands or how quickly blood is flowing. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+
 ## Build a useful answer
 Start with an observation. Then name a process and explain a connection. For example: “Breathing became deeper during the game. More air moved in each breath, supporting gas exchange while active muscles used more oxygen.”
 
@@ -2853,6 +3144,19 @@ Avoid assuming an observation proves more than it does. A pulse count measures b
 During more intense activity, muscle cells use energy faster. Many of their energy-releasing processes use oxygen and produce carbon dioxide and heat. Circulation and breathing help match delivery and removal to the changed demand.
 
 Heart rate usually rises, and the heart can pump more blood per minute. Blood flow is redistributed among tissues. Breathing often becomes faster, deeper, or both, supporting gas exchange.
+
+### Read the pictures
+
+Use the first figure to explain increased supply demand, then trace a delivery route in the second. The pictures show connected structures, not measurements of pulse or oxygen.
+
+![Muscle fibers develop tension and use energy. A still picture cannot tell whether they are lifting, holding, or lowering a load.](images/servier/muscle-fiber.png)
+
+*Muscle fibers develop tension and use energy. A still picture cannot tell whether they are lifting, holding, or lowering a load. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![The circulation map shows how the pump and routes connect to tissues. During activity, flow can change without arterial oxygen becoming unusually low.](images/servier/bloodstream.png)
+
+*The circulation map shows how the pump and routes connect to tissues. During activity, flow can change without arterial oxygen becoming unusually low. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Do not overread one observation
 A faster pulse does not automatically mean the blood in arteries has become low in oxygen. In a healthy person during ordinary exercise, coordinated breathing and circulation usually keep arterial oxygen levels close to their usual range. Demand and delivery can rise together.
@@ -2920,6 +3224,19 @@ Food is broken down by movement and digestive substances. Nutrients cross the in
 
 When blood glucose rises after many meals, hormone signals including insulin help coordinate uptake and storage. Not every nutrient follows exactly the same processing route, and the liver helps handle many absorbed materials.
 
+### Read the pictures
+
+Find the intestine and liver in the digestive overview. Then inspect the pancreas separately: its digestive secretions and blood-borne hormones take different routes.
+
+![Digestion and absorption prepare materials for delivery. The overview shows organ positions but not every transport vessel.](images/servier/digestive.png)
+
+*Digestion and absorption prepare materials for delivery. The overview shows organ positions but not every transport vessel. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![The branching pancreatic ducts carry digestive fluid toward the intestine. Hormones enter blood through a different route not drawn here.](images/servier/pancreas-anatomy.png)
+
+*The branching pancreatic ducts carry digestive fluid toward the intestine. Hormones enter blood through a different route not drawn here. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+
 ## Recovery is active work
 After activity, cells continue processes that restore supplies and maintain or repair structures. Repair uses materials; it is not simply a matter of switching every organ off. Oxygen delivery, waste removal, water balance, and control signals remain important during rest.
 
@@ -2985,6 +3302,19 @@ Sleep and rest provide conditions that support many maintenance processes. They 
 Choose an everyday event: walking upstairs, eating lunch, hearing a warning, or cooling after a game. Begin with an observation. Then explain how at least three systems contribute different jobs.
 
 Follow one material, such as oxygen, glucose, water, or carbon dioxide. State where it starts, what barrier or route it crosses, and where it goes next. Follow one signal too: a nerve command or a hormone message.
+
+### Read the pictures
+
+Choose a material entering through one system and reaching another through blood. Use both maps to identify what the pictures show and what your explanation must add.
+
+![A digestive-system overview supplies the organ route for a meal. Nutrient absorption crosses a lining rather than carrying whole bites into blood.](images/servier/digestive.png)
+
+*A digestive-system overview supplies the organ route for a meal. Nutrient absorption crosses a lining rather than carrying whole bites into blood. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![A circulation map supplies the route toward body tissues. Its colors and simplified connections are a model, not evidence of actual flow rates.](images/servier/bloodstream.png)
+
+*A circulation map supplies the route toward body tissues. Its colors and simplified connections are a model, not evidence of actual flow rates. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Make a prediction
 Change one condition in your model. Perhaps an exchange surface is reduced or a transport route is blocked. Predict which later step would be affected and explain why. A prediction should follow from a mechanism, not just say that everything gets worse.
@@ -3056,6 +3386,19 @@ Choose one scenario:
 - A person walks upstairs and then rests.
 - A meal is digested and its materials reach working cells.
 - A warning sound helps someone stop a movement.
+
+### Read the pictures
+
+Choose one scenario from this review. Use the two maps to trace a material and a separate control signal; name the connection your explanation adds between the pictures.
+
+![Blood transports materials between organs and tissues. Use the map to support a route in your final explanation.](images/servier/bloodstream.png)
+
+*Blood transports materials between organs and tissues. Use the map to support a route in your final explanation. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![Nerves carry information between the body and control centers. Use this map to add a control signal without confusing it with a material in blood.](images/servier/nervous-system.png)
+
+*Nerves carry information between the body and control centers. Use this map to add a control signal without confusing it with a material in blood. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 Describe **three systems**, one moving material, and one control signal. Explain what each contributes and how the connections allow the event to happen. Aim for four or five clear sentences, not a long organ list.
 

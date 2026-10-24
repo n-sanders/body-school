@@ -22,6 +22,13 @@ const warnings: string[] = [];
 
 if (curriculum) problems.push(...checkIntegrity(curriculum, items, lessons, { catalogEnabled: site.catalog.enabled }));
 
+// Every Body School lesson, including previews and reviews, teaches visually.
+// A catalog picture alone does not satisfy the main-lesson requirement.
+for (const lesson of lessons) {
+  if (lesson.images.length === 0 && markdownImageUrls(lesson.body).length === 0)
+    problems.push(`lesson ${lesson.id} needs at least one teaching image in its body or lesson images`);
+}
+
 const unreviewedImages = items.flatMap((b) => b.images.filter((i) => !i.reviewed)).length;
 const unreviewedItems = items.filter((b) => !b.reviewedBy).length;
 const unreviewedLessons = lessons.filter((l) => !l.reviewedBy).length;

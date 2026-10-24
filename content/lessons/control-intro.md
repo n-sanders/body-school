@@ -81,11 +81,23 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Information before action
 Picture catching a ball. Light from the ball reaches your eyes. Sensory cells turn that information into nerve signals. Your brain uses the signals, along with information about your body position, to guide muscles.
 
 The body also responds without a conscious decision. A quick withdrawal from something painfully hot can begin through a spinal reflex pathway. Breathing and posture involve automatic control too.
+
+### Read the pictures
+
+Compare the nerve map with the thyroid’s position. Nerve signals follow connected cells; thyroid hormones enter blood and can reach distant responsive cells.
+
+![The brain and spinal cord connect with nerves throughout the body. A branching map shows routes, not the timing of individual signals.](images/servier/nervous-system.png)
+
+*The brain and spinal cord connect with nerves throughout the body. A branching map shows routes, not the timing of individual signals. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![The thyroid is in the neck beside the windpipe. Its hormones travel by blood rather than along the visible nerve branches in the other picture.](images/servier/thyroid.png)
+
+*The thyroid is in the neck beside the windpipe. Its hormones travel by blood rather than along the visible nerve branches in the other picture. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## More than one message route
 Nerve signals follow connected cells and often support fast, specific responses. Hormones travel in blood and affect cells able to respond to that particular message. Some hormone effects are rapid; others develop over longer periods.

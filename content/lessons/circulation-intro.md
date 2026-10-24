@@ -75,11 +75,19 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## A delivery problem
 Your body has many cells far from the air outside. Those cells need supplies, and their wastes need a route out. Blood connects exchange surfaces with distant tissues.
 
 The heart is the pump. Vessels provide routes. Blood carries materials. The lungs exchange oxygen and carbon dioxide with the air. Each part contributes a different job.
+
+### Read the picture
+
+Find the heart and follow one route toward a branching tissue network. What other organ must exchange gases before blood can keep supplying those tissues?
+
+![A simplified blood-route map connects a central pump with distant exchange networks. Red and blue are diagram conventions, not two literal blood colors.](images/servier/bloodstream.png)
+
+*A simplified blood-route map connects a central pump with distant exchange networks. Red and blue are diagram conventions, not two literal blood colors. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 ## Two journeys
 Follow oxygen from outside air into the lungs, across a thin exchange surface into blood, and on to body cells. Carbon dioxide travels in the opposite overall direction: from working cells to blood, lungs, and outside air.

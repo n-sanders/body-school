@@ -64,7 +64,6 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## The wall you live in
 
 A scrape shows why a body boundary matters. The **integumentary system** is the skin plus hair, nails, and the sweat and oil glands. Skin is the first physical barrier between you and the world.
@@ -75,9 +74,11 @@ It has layers:
 - The **dermis** is deeper. Blood vessels, nerves, sweat glands, and oil glands live there.
 
 
-![A section through intact skin shows layers and a blood supply beneath the surface. This figure does not label every skin structure.](images/servier/skin.png)
+**Read the picture:** Compare the intact upper boundary, yellow sensory structures, green coiled sweat gland, and red and blue vessels. Connect each with a different skin job.
 
-*A section through intact skin shows layers and a blood supply beneath the surface. This figure does not label every skin structure. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+![A detailed skin section shows an intact surface, sensory structures, a coiled sweat gland, and blood vessels. Colors distinguish structures rather than their exact appearance in life.](images/servier/skin-detailed.png)
+
+*A detailed skin section shows an intact surface, sensory structures, a coiled sweat gland, and blood vessels. Colors distinguish structures rather than their exact appearance in life. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
 ## More than a cover
 

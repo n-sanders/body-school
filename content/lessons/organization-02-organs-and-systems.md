@@ -63,10 +63,22 @@ images: []
 compare: []
 passMark: 0.8
 ---
-
 ## From a tissue to an organ
 
 A tissue is a team of similar cells. An **organ** is the next step up: a structure made of **two or more kinds of tissue** whose tissues cooperate on related jobs.
+
+### Read the pictures
+
+Find the stomach in the system overview, then inspect its cutaway. Notice how a single organ has internal structures and also belongs to a larger connected route.
+
+![The stomach cutaway shows a folded lining and a thick wall. Different tissues cooperate within one organ.](images/servier/stomach.png)
+
+*The stomach cutaway shows a folded lining and a thick wall. Different tissues cooperate within one organ. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
+![The digestive overview places the stomach between the food tube from the mouth and the intestines. Food follows the digestive tube rather than passing through every nearby organ.](images/servier/digestive.png)
+
+*The digestive overview places the stomach between the food tube from the mouth and the intestines. Food follows the digestive tube rather than passing through every nearby organ. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+
 
 The stomach is a clear example. It is not just a bag of muscle.
 

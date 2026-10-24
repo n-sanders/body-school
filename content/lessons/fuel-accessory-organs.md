@@ -60,7 +60,6 @@ passMark: 0.8
 reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
-
 ## Help from outside the tube
 Food goes from the stomach to the small intestine. It does not travel through the liver, gallbladder, or pancreas. These organs help by sending substances through small tubes called ducts.
 
@@ -68,6 +67,8 @@ The **liver** makes bile. The **gallbladder** stores and concentrates bile and r
 
 The **pancreas** sends digestive enzymes into the small intestine. Enzymes help break large food molecules into smaller ones. Pancreatic fluid also helps neutralize the acidic mixture arriving from the stomach, creating better conditions for intestinal digestion.
 
+
+**Read the picture:** Locate the green gallbladder and its ducts beneath the liver. Follow the bile route toward the intestine rather than sending a bite of food through the liver.
 
 ![The green gallbladder sits beneath the liver. Its ducts connect bile delivery with the intestine; food does not pass through the liver.](images/servier/liver-gallbladder.png)
 
