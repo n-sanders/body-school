@@ -64,24 +64,26 @@ reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
 ## Food is not ready for every cell
+
 A bite of food is too large to travel directly into your body cells. Digestion breaks food into smaller substances. Absorption moves usable substances across the digestive lining into transport routes. Circulation then carries them toward tissues.
 
 These are connected steps, but they are not the same step. A substance can be broken down without yet being absorbed.
+
+### Try this
+
+Think about the last snack or meal you ate. Where did it go first? Later, some of that material left as stool. Your kidneys handled a different job with blood—not the leftover food in your intestines.
 
 ### Read the pictures
 
 Trace the food route in the first picture and the urine route in the second. Notice that the kidneys are not another stop along the food tube.
 
-![Food travels from mouth to stomach and intestines. Nearby digestive helper organs contribute substances without receiving the bite itself.](images/servier/digestive.png)
-
-*Food travels from mouth to stomach and intestines. Nearby digestive helper organs contribute substances without receiving the bite itself. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
-
-![Blood reaches kidneys through vessels; urine leaves through tubes to the bladder. The blood vessels are not fully shown in this overview.](images/servier/urinary.png)
-
-*Blood reaches kidneys through vessels; urine leaves through tubes to the bladder. The blood vessels are not fully shown in this overview. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
-
+| Food route | Urine route |
+| --- | --- |
+| ![Food travels from mouth to stomach and intestines. Nearby digestive helper organs contribute substances without receiving the bite itself.](images/servier/digestive.png) | ![Blood reaches kidneys through vessels; urine leaves through tubes to the bladder. The blood vessels are not fully shown in this overview.](images/servier/urinary.png) |
+| *Food follows the tube. Helper organs send substances in. Servier Medical Art, CC BY 4.0.* | *Kidneys filter blood. Urine leaves by a different route. Servier Medical Art, CC BY 4.0.* |
 
 ## Two routes out
+
 Material left in the digestive tract can leave as stool. Meanwhile, cells throughout the body produce wastes that enter blood. Kidneys help remove some dissolved wastes and adjust water and salts, making urine.
 
 Urine and stool therefore have different routes and origins. Kidneys do not receive a stream of undigested food from the stomach.

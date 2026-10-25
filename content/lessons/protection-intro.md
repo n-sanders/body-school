@@ -73,24 +73,26 @@ reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
 ## Start before an infection
+
 Protection is more than fighting microbes after they enter. Intact skin, mucus, and other barriers help keep harmful material out. If something crosses a barrier, internal responses can begin.
 
 The body has broad early defenses and more targeted responses that can develop memory. These overlap and cooperate; they are not two completely separate armies.
+
+### Try this
+
+Look at the skin on your arm. It is a barrier right now. If you get a small cut, the barrier is broken and other defenses start working underneath.
 
 ### Read the pictures
 
 Start with the skin’s intact surface, then compare a defense cell. A barrier can reduce entry; an internal cell response helps when material gets past a barrier.
 
-![The upper skin layers form a physical boundary above living tissues, sensory structures, and blood vessels.](images/servier/skin-detailed.png)
-
-*The upper skin layers form a physical boundary above living tissues, sensory structures, and blood vessels. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
-
-![This is one type of white blood cell involved in early defense. It is shown at a much greater magnification than the skin section.](images/servier/white-cell.png)
-
-*This is one type of white blood cell involved in early defense. It is shown at a much greater magnification than the skin section. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
-
+| Skin barrier | Defense cell |
+| --- | --- |
+| ![The upper skin layers form a physical boundary above living tissues, sensory structures, and blood vessels.](images/servier/skin-detailed.png) | ![This is one type of white blood cell involved in early defense. It is shown at a much greater magnification than the skin section.](images/servier/white-cell.png) |
+| *Intact surface forms a barrier. Servier Medical Art, CC BY 4.0.* | *One type of white blood cell (much larger magnification). Servier Medical Art, CC BY 4.0.* |
 
 ## Connect protection to transport
+
 Blood carries defense cells and signals. Some fluid moves from small blood vessels into spaces around tissue cells. Lymph vessels collect excess tissue fluid and eventually return it toward the blood. Fluid inside those vessels is called lymph.
 
 Along the route, lymph nodes provide places where immune cells can encounter material carried from tissues.
