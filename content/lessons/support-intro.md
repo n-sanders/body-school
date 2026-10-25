@@ -70,26 +70,28 @@ reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
 ## Start with a bend
-Picture bending an elbow to lift a book. Your forearm changes position, but the bones themselves do not bend like rubber. Movement happens where bones meet, and muscles supply a pull.
+
+Picture bending an elbow to lift a book (or actually try it). Your forearm changes position, but the bones themselves do not bend like rubber. Movement happens where bones meet, and muscles supply a pull.
 
 This unit connects three questions: What supports and protects the body? Where can movement happen? What supplies the force?
+
+### Try this
+
+Bend and straighten one elbow a few times. Feel where the bones meet. Then hold a light object (or just your arm) still. Your muscles can keep working even when nothing is moving.
 
 ### Read the pictures
 
 Locate the elbow joint in the skeleton, then compare it with the cutaway. The skeleton provides orientation; the close-up reveals where bones meet.
 
-![The full skeleton shows where joints connect bones. Focus on the elbow and shoulder rather than memorizing every label.](images/lessons/sourced-skeleton.svg)
-
-*The full skeleton shows where joints connect bones. Focus on the elbow and shoulder rather than memorizing every label. [Source and license](#/credits).*
-
-![This elbow cutaway shows connected bones and joint structures. Muscles supply pulls from outside this close-up.](images/servier/elbow.png)
-
-*This elbow cutaway shows connected bones and joint structures. Muscles supply pulls from outside this close-up. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
-
+| Full skeleton | Elbow close-up |
+| --- | --- |
+| ![The full skeleton shows where joints connect bones. Focus on the elbow and shoulder rather than memorizing every label.](images/lessons/sourced-skeleton.svg) | ![This elbow cutaway shows connected bones and joint structures. Muscles supply pulls from outside this close-up.](images/servier/elbow.png) |
+| *Joints connect bones. Focus on elbow and shoulder.* | *Bones meet at the elbow. Muscles pull from outside this view. Servier Medical Art, CC BY 4.0.* |
 
 Bones are living organs, not dry sticks. They contain cells and blood vessels. Some bone marrow makes blood cells. Joints connect bones; different joints allow different amounts of movement. Muscles develop tension and pull through strong connecting tissues called tendons.
 
 ## A useful distinction
+
 Support is not the same as movement. A rib cage protects organs even when you are sitting still. Muscles can also hold a position without visibly shortening.
 
 **Predict:** If a muscle could contract but its tendon no longer transferred the pull to a bone, would that movement work normally? Explain your prediction before the lessons.

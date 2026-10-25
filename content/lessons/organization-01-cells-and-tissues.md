@@ -75,13 +75,10 @@ Make a fist and then open your hand. Feel the muscles in your forearm tighten an
 
 Compare the long extension of the nerve cell with the closely packed cells in the lining. How does each arrangement support a different job?
 
-![One nerve cell has a cell body, branches, and a long extension for carrying signals. The small internal parts are not vocabulary targets.](images/servier/neuron.png)
-
-*One nerve cell has a cell body, branches, and a long extension for carrying signals. The small internal parts are not vocabulary targets. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
-
-![A row of closely packed cells forms a lining tissue. This is one example of lining tissue, not a picture of every tissue type. The two figures use different scales.](images/servier/lining-layer.png)
-
-*A row of closely packed cells forms a lining tissue. This is one example of lining tissue, not a picture of every tissue type. The two figures use different scales. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+| Nerve cell | Lining tissue |
+| --- | --- |
+| ![One nerve cell has a cell body, branches, and a long extension for carrying signals. The small internal parts are not vocabulary targets.](images/servier/neuron.png) | ![A row of closely packed cells forms a lining tissue. This is one example of lining tissue, not a picture of every tissue type. The two figures use different scales.](images/servier/lining-layer.png) |
+| *Long extension for carrying signals. Servier Medical Art, CC BY 4.0.* | *Closely packed cells form a lining. Different scale. Servier Medical Art, CC BY 4.0.* |
 
 ## Cells
 

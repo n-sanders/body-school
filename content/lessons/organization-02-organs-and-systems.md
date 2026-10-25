@@ -75,13 +75,10 @@ Think about the last time you ate something. Your stomach did more than just hol
 
 Find the stomach in the system overview, then inspect its cutaway. Notice how a single organ has internal structures and also belongs to a larger connected route.
 
-![The stomach cutaway shows a folded lining and a thick wall. Different tissues cooperate within one organ.](images/servier/stomach.png)
-
-*The stomach cutaway shows a folded lining and a thick wall. Different tissues cooperate within one organ. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
-
-![The digestive overview places the stomach between the food tube from the mouth and the intestines. Food follows the digestive tube rather than passing through every nearby organ.](images/servier/digestive.png)
-
-*The digestive overview places the stomach between the food tube from the mouth and the intestines. Food follows the digestive tube rather than passing through every nearby organ. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+| Stomach cutaway | Digestive route |
+| --- | --- |
+| ![The stomach cutaway shows a folded lining and a thick wall. Different tissues cooperate within one organ.](images/servier/stomach.png) | ![The digestive overview places the stomach between the food tube from the mouth and the intestines. Food follows the digestive tube rather than passing through every nearby organ.](images/servier/digestive.png) |
+| *Folded lining and thick wall. Different tissues cooperate inside one organ. Servier Medical Art, CC BY 4.0.* | *Stomach sits in the digestive tube. Food follows the tube. Servier Medical Art, CC BY 4.0.* |
 
 The stomach is a clear example. It is not just a bag of muscle.
 

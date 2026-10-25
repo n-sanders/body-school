@@ -79,13 +79,10 @@ Sit still for a moment and notice your breathing. Then stand up and take a few s
 
 Compare the routes in these two maps. One carries blood; the other carries nerve signals. Which route could deliver oxygen, and which could guide a movement?
 
-![A simplified circulation map: the central heart connects with branching blood routes and small exchange networks. It is a route model, not an exact anatomical map.](images/servier/bloodstream.png)
-
-*A simplified circulation map: the central heart connects with branching blood routes and small exchange networks. It is a route model, not an exact anatomical map. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
-
-![A nervous-system map: the brain and spinal cord connect with branching nerves. These branches carry information, not a stream of blood.](images/servier/nervous-system.png)
-
-*A nervous-system map: the brain and spinal cord connect with branching nerves. These branches carry information, not a stream of blood. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
+| Blood routes | Nerve routes |
+| --- | --- |
+| ![A simplified circulation map: the central heart connects with branching blood routes and small exchange networks. It is a route model, not an exact anatomical map.](images/servier/bloodstream.png) | ![A nervous-system map: the brain and spinal cord connect with branching nerves. These branches carry information, not a stream of blood.](images/servier/nervous-system.png) |
+| *A simplified circulation map. It is a route model, not an exact anatomical map. Servier Medical Art, CC BY 4.0.* | *A nervous-system map. These branches carry information, not a stream of blood. Servier Medical Art, CC BY 4.0.* |
 
 ## Build explanations, not word lists
 
