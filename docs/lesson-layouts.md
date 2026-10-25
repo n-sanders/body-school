@@ -16,6 +16,17 @@ The first word places the image. The ratio is the left column, then the right co
 
 Below a viewport width of 960px, every side-by-side section stacks, and the text uses the full card width.
 
+## Titles included in illustrations
+
+Add `title-in-image` when the illustration already contains the section title:
+
+```markdown
+## Your body's framework {image-right 1-1 title-in-image}
+## Muscles pull to make movement {stack title-in-image}
+```
+
+The section heading stays in the document for screen readers but is visually hidden. This is an explicit author choice; the page does not detect text inside images. Without this marker, headings remain visible. The marker is ignored when the section has no image. Keep the Markdown heading descriptive and use the marker only when the image provides an equivalent visible title.
+
 ## Target image widths
 
 Widths below are the displayed size on the 1200px lesson page. Export a 3:2 WebP at about twice that width so it stays sharp. One 2100×1400 master also covers every layout, and smaller layouts scale it down.

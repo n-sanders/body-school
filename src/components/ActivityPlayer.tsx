@@ -1,10 +1,12 @@
 import { useRef, useState, type DragEvent } from "react";
 import type { Activity, ActivityCard } from "../content/schema";
+import { activityComplete, applyActivityDrop, type ActivityDrop, type ActivityState } from "../lib/activity";
 import { shuffle } from "../lib/random";
 
 interface Props {
   activity: Activity;
-  /** Called once, when the learner finishes. True if the first check was right. */
+  completed?: boolean;
+  /** Called once after all answers are correct. True if no incorrect drops were made. */
   onComplete?: (correct: boolean) => void;
 }
 
@@ -18,51 +20,49 @@ function imageSrc(url: string) {
   return url.startsWith("http") || url.startsWith("/") ? url : `/${url}`;
 }
 
-export function ActivityPlayer({ activity, onComplete }: Props) {
+export function ActivityPlayer({ activity, onComplete, completed = false }: Props) {
   const [finished, setFinished] = useState(false);
 
   return (
-    <section className="activity" aria-label={activity.title}>
+    <section className="activity" aria-label={activity.title} data-completed={finished || completed}>
       <h3>{activity.title}</h3>
-      {finished ? (
-        <p className="activity-feedback good">You finished this activity.</p>
-      ) : (
-        <ActivityBoard
-          activity={activity}
-          onPass={(correct) => {
-            setFinished(true);
-            onComplete?.(correct);
-          }}
-        />
-      )}
+      <ActivityBoard
+        activity={activity}
+        completed={finished || completed}
+        onPass={(correct) => {
+          setFinished(true);
+          onComplete?.(correct);
+        }}
+      />
     </section>
   );
 }
 
-function ActivityBoard({ activity, onPass }: { activity: Activity; onPass: (correct: boolean) => void }) {
+function ActivityBoard({ activity, onPass, completed }: { activity: Activity; onPass: (correct: boolean) => void; completed: boolean }) {
   const categories = activity.categories;
   const [order] = useState(() => shuffle(activity.cards));
   const [labels] = useState(() => shuffle(activity.labels));
-  const [placed, setPlaced] = useState<Record<string, string>>(() =>
-    categories ? {} : Object.fromEntries(activity.cards.map((c) => [c.id, BOARD])),
-  );
-  const [duties, setDuties] = useState<Record<string, string>>({});
+  const [board, setBoard] = useState<ActivityState>(() => ({
+    placed: categories ? {} : Object.fromEntries(activity.cards.map((c) => [c.id, BOARD])),
+    duties: {},
+  }));
+  // Reconstruct the solved board for activities completed on an earlier visit.
+  const { placed, duties } = completed ? {
+    placed: Object.fromEntries(activity.cards.map((c) => [c.id, c.category ?? BOARD])),
+    duties: Object.fromEntries(activity.cards.map((c) => [c.id, c.duty])),
+  } : board;
   const [hover, setHover] = useState<string | null>(null);
   const [dragging, setDragging] = useState<string | null>(null);
   const [wrong, setWrong] = useState<Set<string>>(new Set());
   const [feedback, setFeedback] = useState<string | null>(null);
-  const [ok, setOk] = useState(false);
-  const [missed, setMissed] = useState(false);
+  const [feedbackGood, setFeedbackGood] = useState(false);
+  const missed = useRef(false);
+  const passed = useRef(false);
   // dataTransfer contents are hidden until drop, so drop targets read the payload from here while hovering.
   const payload = useRef<Payload | null>(null);
 
-  const changed = () => {
-    setFeedback(null);
-    setWrong(new Set());
-  };
-
   const startDrag = (e: DragEvent, p: Payload, key: string) => {
-    if (ok) {
+    if (completed) {
       e.preventDefault();
       return;
     }
@@ -98,69 +98,35 @@ function ActivityBoard({ activity, onPass }: { activity: Activity; onPass: (corr
       e.preventDefault();
       e.stopPropagation();
       drop(p);
-      changed();
       endDrag();
     },
   });
 
+  const applyDrop = (drop: ActivityDrop) => {
+    if (completed || passed.current) return;
+    const result = applyActivityDrop(activity, board, drop);
+    setBoard(result.state);
+    setFeedback(result.feedback);
+    setFeedbackGood(result.correct);
+    setWrong(result.correct ? new Set() : new Set([drop.cardId]));
+    if (!result.correct) missed.current = true;
+    if (activityComplete(activity, result.state)) {
+      passed.current = true;
+      onPass(!missed.current);
+    }
+  };
+
   const placeCard = (category: string | null) => (p: Payload) => {
-    if (p.kind !== "card") return;
-    setPlaced((prev) => {
-      const next = { ...prev };
-      if (category === null) delete next[p.id];
-      else next[p.id] = category;
-      return next;
-    });
+    if (p.kind === "card") applyDrop({ kind: "place", cardId: p.id, category });
   };
 
   const setDuty = (cardId: string) => (p: Payload) => {
     const text = p.kind === "label" ? p.text : p.kind === "duty" ? duties[p.cardId] : undefined;
-    if (!text) return;
-    setDuties((prev) => {
-      const next = { ...prev, [cardId]: text };
-      if (p.kind === "duty" && p.cardId !== cardId) delete next[p.cardId];
-      return next;
-    });
+    if (text) applyDrop({ kind: "duty", cardId, text, sourceId: p.kind === "duty" ? p.cardId : undefined });
   };
 
   const clearDuty = (p: Payload) => {
-    if (p.kind !== "duty") return;
-    setDuties((prev) => {
-      const next = { ...prev };
-      delete next[p.cardId];
-      return next;
-    });
-  };
-
-  const check = () => {
-    if (order.some((c) => placed[c.id] === undefined)) {
-      setFeedback("Drag every picture into a group before you check.");
-      return;
-    }
-    if (order.some((c) => !duties[c.id])) {
-      setFeedback("Drag a job onto every picture before you check.");
-      return;
-    }
-    const mistakes: string[] = [];
-    const bad = new Set<string>();
-    for (const card of order) {
-      if (categories && placed[card.id] !== card.category) {
-        mistakes.push(`${card.label} belongs in ${card.category}.`);
-        bad.add(card.id);
-      }
-      if (duties[card.id] !== card.duty) {
-        mistakes.push(`${card.label}'s job is "${card.duty}".`);
-        bad.add(card.id);
-      }
-    }
-    setWrong(bad);
-    if (mistakes.length) {
-      setMissed(true);
-      setFeedback(`Not quite. ${mistakes.join(" ")} Move them and check again.`);
-      return;
-    }
-    setOk(true);
-    setFeedback("That's right.");
+    if (p.kind === "duty") applyDrop({ kind: "duty", cardId: p.cardId, text: null });
   };
 
   const pictureCard = (card: ActivityCard) => {
@@ -172,11 +138,11 @@ function ActivityBoard({ activity, onPass }: { activity: Activity; onPass: (corr
       : {};
     const className = [
       "activity-card",
-      categories ? "draggable" : "",
+      categories && !completed ? "draggable" : "",
       dragging === zone ? "dragging" : "",
       hover === zone ? "drop-hover" : "",
       wrong.has(card.id) ? "wrong" : "",
-      ok ? "right" : "",
+      duty === card.duty && (!categories || placed[card.id] === card.category) ? "right" : "",
     ]
       .filter(Boolean)
       .join(" ");
@@ -184,7 +150,7 @@ function ActivityBoard({ activity, onPass }: { activity: Activity; onPass: (corr
       <div
         key={card.id}
         className={className}
-        draggable={!!categories && !ok}
+        draggable={!!categories && !completed}
         onDragStart={(e) => startDrag(e, { kind: "card", id: card.id }, zone)}
         onDragEnd={endDrag}
         {...cardDrop}
@@ -195,7 +161,7 @@ function ActivityBoard({ activity, onPass }: { activity: Activity; onPass: (corr
           (duty ? (
             <span
               className={`activity-label on-card${dragging === `duty:${card.id}` ? " dragging" : ""}`}
-              draggable={!ok}
+              draggable={!completed}
               onDragStart={(e) => startDrag(e, { kind: "duty", cardId: card.id }, `duty:${card.id}`)}
               onDragEnd={endDrag}
             >
@@ -235,7 +201,7 @@ function ActivityBoard({ activity, onPass }: { activity: Activity; onPass: (corr
             <span
               key={text}
               className={`activity-label${dragging === `label:${text}` ? " dragging" : ""}`}
-              draggable={!ok}
+              draggable={!completed}
               onDragStart={(e) => startDrag(e, { kind: "label", text }, `label:${text}`)}
               onDragEnd={endDrag}
             >
@@ -261,16 +227,9 @@ function ActivityBoard({ activity, onPass }: { activity: Activity; onPass: (corr
           );
         })}
       </div>
-      {feedback && <p className={`activity-feedback ${ok ? "good" : "bad"}`}>{feedback}</p>}
-      {ok ? (
-        <button type="button" className="btn primary" onClick={() => onPass(!missed)}>
-          Finish
-        </button>
-      ) : (
-        <button type="button" className="btn primary" onClick={check}>
-          Check
-        </button>
-      )}
+      <p role="status" aria-live="polite" className={`activity-feedback ${completed || feedbackGood ? "good" : "bad"}`}>
+        {completed ? "You finished this activity." : feedback}
+      </p>
     </>
   );
 }

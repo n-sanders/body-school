@@ -1,0 +1,26 @@
+id: movable-and-fixed-joints
+lesson: bones-joints-and-muscles
+title: Sort movable and fixed joints
+prompt: Drag each joint into the right group. Then drag a job onto each picture. You can use a job more than once.
+categories:
+  - Allows movement
+  - Stays fixed
+labels:
+  - Bends and straightens
+  - Holds bones firmly together
+cards:
+  - id: elbow-joint
+    image: images/activities/elbow-joint.webp
+    label: Elbow joint
+    category: Allows movement
+    duty: Bends and straightens
+  - id: knee-joint
+    image: images/activities/knee-joint.webp
+    label: Knee joint
+    category: Allows movement
+    duty: Bends and straightens
+  - id: skull-joint
+    image: images/activities/skull-joint.webp
+    label: Joint between skull bones
+    category: Stays fixed
+    duty: Holds bones firmly together

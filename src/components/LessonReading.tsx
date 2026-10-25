@@ -5,6 +5,7 @@ import { content } from "../content/loader";
 import { useProgress } from "../hooks/useProgress";
 import { activityCard } from "../lib/cards";
 import { ActivityPlayer } from "./ActivityPlayer";
+import { isActivityCompleted } from "../lib/progress";
 
 function LessonFigure({ src, alt, title }: { src: string; alt: string; title?: string }) {
   const dialogRef = useRef<HTMLDialogElement>(null);
@@ -82,30 +83,37 @@ function sectionLayout(section: string): { markdown: string; className: string }
   const headingIndex = lines.findIndex((line) => line.startsWith("## "));
   let placement: string | null = null;
   let ratio: string | null = null;
+  let titleInImage = false;
   if (headingIndex >= 0) {
     const marker = lines[headingIndex].match(/^(##\s+.*?)\s+\{([^}]*)\}\s*$/);
     if (marker) {
       for (const token of marker[2].trim().split(/\s+/)) {
         if (placements.has(token)) placement = token;
         else if (ratios.has(token)) ratio = token;
+        else if (token === "title-in-image") titleInImage = true;
       }
       lines[headingIndex] = marker[1];
     }
   }
   const markdown = lines.join("\n");
   const hasFigure = markdown.includes("![");
-  if (!hasFigure || placement === "stack") return { markdown, className: "layout-stack" };
+  const titleClass = titleInImage && hasFigure ? "title-in-image " : "";
+  if (!hasFigure || placement === "stack") return { markdown, className: `${titleClass}layout-stack` };
   const side = placement === "image-left" ? "layout-image-left" : "layout-image-right";
-  return { markdown, className: `${side} layout-ratio-${ratio ?? "1-2"}` };
+  return { markdown, className: `${titleClass}${side} layout-ratio-${ratio ?? "1-2"}` };
 }
 
 function ActivityEmbed({ id }: { id: string }) {
   const activity = content.activities.get(id);
-  const { store } = useProgress();
+  const { progress, store } = useProgress();
   if (!activity) return <p className="muted">This activity is not available.</p>;
   return (
     <div className="lesson-activity">
-      <ActivityPlayer activity={activity} onComplete={(correct) => store.recordAnswer(activityCard(activity.id), correct)} />
+      <ActivityPlayer
+        activity={activity}
+        completed={isActivityCompleted(progress, activity.id)}
+        onComplete={(correct) => store.recordAnswer(activityCard(activity.id), correct)}
+      />
     </div>
   );
 }

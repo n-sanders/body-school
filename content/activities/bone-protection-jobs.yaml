@@ -1,0 +1,21 @@
+id: bone-protection-jobs
+lesson: bones-joints-and-muscles
+title: Label the protective jobs
+prompt: Drag each protective job onto the matching picture.
+labels:
+  - Protects the brain
+  - Protects the heart and lungs
+  - Protects the spinal cord
+cards:
+  - id: skull
+    image: images/activities/skull.webp
+    label: Skull
+    duty: Protects the brain
+  - id: ribs
+    image: images/activities/ribs.webp
+    label: Ribs
+    duty: Protects the heart and lungs
+  - id: spine
+    image: images/activities/spine.webp
+    label: Spine
+    duty: Protects the spinal cord

@@ -1,0 +1,16 @@
+{
+  "tool": "OpenAI ImageGen (built-in)",
+  "date": "2026-10-25",
+  "edits": [
+    {
+      "name": "framework",
+      "target": "/Users/nathansanders/Documents/Codex/2026-10-25/cr/body-school/public/images/bones-joints-and-muscles/framework.webp",
+      "prompt": "Edit this Body School educational illustration. Change the overall canvas to SQUARE (1:1). Remove the clothed child column entirely. Show only TWO equally prominent full-body figures side by side: skeleton on left, skeletal muscles on right. Retain the same friendly shaded textbook rendering, white background, navy lettering, pale blue rounded label panels. Title exactly \"Your body's framework\". Above left figure \"Bones\"; above right \"Skeletal muscles\". Beneath the skeleton put TWO clearly readable labels \"Supports\" and \"Protects\", both belonging to the bones. Beneath the muscle figure put \"Moves\". Fit complete heads and feet comfortably within square image with good margins. No third figure. Preserve plausible skeleton and muscle anatomy, same standing pose. Clear balanced square composition."
+    },
+    {
+      "name": "bones-protect",
+      "target": "/Users/nathansanders/Documents/Codex/2026-10-25/cr/body-school/public/images/bones-joints-and-muscles/bones-protect.webp",
+      "prompt": "Edit only the CENTER rib-cage panel of this educational anatomy illustration. Preserve the entire skull/brain cutaway left panel and spine/spinal cord right panel exactly as they are, all text, fonts, colors, title, white background, and 3:2 landscape composition. In center panel, show the COMPLETE INTACT anterior rib cage covering the heart and lungs: restore every rib and costal cartilage segment across the front of the heart, connecting naturally to the sternum. The heart must be INSIDE and BEHIND the rib cage, never pasted in front or exposed through a cutaway. Use opaque ivory rib bones, with small portions of the red heart and pink lungs glimpsed only in natural spaces BETWEEN the ribs. The front ribs must visibly overlap and occlude the heart, clearly teaching protection. No removed ribs, no cutaway window in chest, no transparent bones. Preserve center labels \"Ribs\", \"Heart and lungs\" and \"Protects the heart and lungs\", adjust leader endpoint if needed so it points through a natural intercostal gap toward the organs. Keep the left skull/brain cutaway unchanged."
+    }
+  ]
+}

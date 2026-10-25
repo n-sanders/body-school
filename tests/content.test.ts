@@ -26,7 +26,7 @@ describe("shipped content", () => {
       expect(lesson.quiz).toHaveLength(5);
       expect(lesson.images).toEqual([]);
       expect(lesson.prerequisites).toEqual(i === 0 ? [] : [order[i - 1]]);
-      if (i > 0) expect(lesson.body).toContain("**Activity idea:**");
+      if (i > 0) expect(lesson.body).toMatch(/\*\*Activity idea:\*\*|^\{activity [a-z0-9-]+\}$/m);
     });
   });
 
@@ -49,7 +49,7 @@ describe("shipped content", () => {
       catalogEnabled: site.catalog.enabled,
       activities: [...content.activities.values()],
     });
-    expect(content.activities.size).toBe(3);
+    expect(content.activities.size).toBe(5);
     expect(problems).toEqual([]);
   });
 });

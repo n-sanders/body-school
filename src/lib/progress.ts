@@ -1,6 +1,8 @@
 import { z } from "zod";
 import type { Lesson } from "../content/schema";
 import { site } from "./site";
+import { activityCard } from "./cards";
+import { lessonActivityIds } from "./activity";
 
 export const STORAGE_KEY = `${site.slug}.progress.v2`;
 const DAY = 24 * 60 * 60 * 1000;
@@ -72,6 +74,15 @@ export function lessonStatus(progress: Progress, lesson: Lesson): LessonStatus {
 
 export function isCompleted(progress: Progress, lessonId: string): boolean {
   return !!progress.lessons[lessonId]?.completed;
+}
+
+/** Activity answers are recorded only after the whole board is solved, including after retries. */
+export function isActivityCompleted(progress: Progress, activityId: string): boolean {
+  return (progress.cards[activityCard(activityId)]?.seen ?? 0) > 0;
+}
+
+export function unfinishedLessonActivities(progress: Progress, body: string): string[] {
+  return lessonActivityIds(body).filter((id) => !isActivityCompleted(progress, id));
 }
 
 export function accuracy(progress: Progress, card: string): number | undefined {

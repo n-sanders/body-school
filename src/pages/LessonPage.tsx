@@ -10,7 +10,7 @@ import { LessonQuiz } from "../components/LessonQuiz";
 import { LessonStatusToggle } from "../components/LessonStatusToggle";
 import { StatusBadge } from "../components/StatusBadge";
 import type { Lesson } from "../content/schema";
-import { lessonStatus } from "../lib/progress";
+import { lessonStatus, unfinishedLessonActivities } from "../lib/progress";
 import { noun } from "../lib/site";
 import { NotFoundPage } from "./NotFoundPage";
 
@@ -33,6 +33,8 @@ function LessonView({ lesson }: { lesson: Lesson }) {
   const prevId = content.lessonOrder[index - 1];
   const nextId = content.lessonOrder[index + 1];
   const missing = lesson.prerequisites.filter((p) => !progress.lessons[p]?.completed);
+  const unfinishedActivities = unfinishedLessonActivities(progress, lesson.body);
+  const quizLocked = status === "locked" || unfinishedActivities.length > 0;
 
   return (
     <article className="lesson">
@@ -137,7 +139,8 @@ function LessonView({ lesson }: { lesson: Lesson }) {
             </p>
             <button
               className="btn primary"
-              disabled={status === "locked"}
+              disabled={quizLocked}
+              aria-describedby={quizLocked ? "quiz-unlock-instructions" : undefined}
               onClick={() => {
                 setQuizRun((n) => n + 1);
                 setQuizOpen(true);
@@ -145,7 +148,19 @@ function LessonView({ lesson }: { lesson: Lesson }) {
             >
               {record?.attempts ? "Retake quiz" : "Start quiz"}
             </button>
-            {status === "locked" && <p className="muted small">Finish the earlier lessons to unlock the quiz.</p>}
+            {quizLocked && (
+              <div id="quiz-unlock-instructions" className="muted small" aria-live="polite">
+                {status === "locked" && <p>Finish the earlier lessons to unlock the quiz.</p>}
+                {unfinishedActivities.length > 0 && (
+                  <>
+                    <p>Complete these activities to unlock the quiz:</p>
+                    <ul>
+                      {unfinishedActivities.map((id) => <li key={id}>{content.activities.get(id)?.title ?? id}</li>)}
+                    </ul>
+                  </>
+                )}
+              </div>
+            )}
           </div>
         )}
       </section>
