@@ -30,7 +30,7 @@ npm run validate
 npm run audit
 ```
 
-`content/curriculum.yaml` defines the sequence. Lesson files are in `content/lessons/`. Structure references, when added, belong in `content/items/`. Artwork, when added, belongs in `public/images/`. `docs/image-manifest.json` records download URLs and licenses.
+`content/curriculum.yaml` defines the sequence. Lesson files are in `content/lessons/`. How a section places its illustration, and the image width to export for that layout, is documented in [lesson layouts](docs/lesson-layouts.md). Structure references, when added, belong in `content/items/`. Artwork, when added, belongs in `public/images/`. `docs/image-manifest.json` records download URLs and licenses.
 
 Do not run `scripts/make-body-images.py` or `scripts/download-sourced-images.py` to create figures. Those scripts are retired.
 

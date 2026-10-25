@@ -54,13 +54,13 @@ quiz:
 passMark: 0.8
 ---
 
-## Cells: the smallest building blocks
+## Cells: the smallest building blocks {image-right 1-2}
 
 The human body is made of tiny building blocks called cells. You have trillions of cells, and they are so small that you need a microscope to see them. Different cells have different jobs. Some cells help you move, some cells carry oxygen, and some cells protect your skin.
 
 ![Muscle cells help you move, red blood cells carry oxygen, and skin cells form a protective barrier. The cells are shown enlarged beside a child and a microscope.](/images/lesson-1/cells.webp "Different cells have different jobs. Cells are shown greatly enlarged.")
 
-## From cells to tissues to organs
+## From cells to tissues to organs {stack}
 
 When many cells of the same kind work together, they form a tissue. Muscle tissue is made of muscle cells. Skin tissue is made of skin cells. Nerve tissue is made of nerve cells. Each tissue has its own special job in the body.
 
@@ -68,7 +68,7 @@ Tissues then join together to make organs. An organ is a body part that does a b
 
 ![Muscle, skin, and nerve cells work together to form their corresponding tissues. Different tissues form organs: the heart pumps blood, the stomach breaks down food, the brain contains nerve tissue, and bones support the body.](/images/lesson-1/tissues-and-organs.webp "Follow the steps from individual cells to tissues, then explore four examples of organs.")
 
-## Organs working as a team
+## Organs working as a team {image-left 1-1}
 
 Organs work together in groups called systems. The heart and blood vessels form the circulatory system. The stomach and intestines form the digestive system. The bones form the skeletal system. Each system has a main job that keeps you alive and healthy.
 
@@ -86,3 +86,4 @@ Here is the order from smallest to largest:
 You can think of it like building a house. Cells are the bricks. Tissues are the walls. Organs are the rooms. Systems are the whole house working together.
 
 Every part of your body follows this pattern. Your muscles, your heart, your brain, and your bones all start with cells. Understanding cells, tissues, organs, and systems helps you see how the whole body is organized and how every part depends on the others.
+
