@@ -1,14 +1,22 @@
 # Body School
 
-A middle-school foundation in major organs and body systems for learners around 11–13. Built on StudyKit. Reproductive organs and systems are outside scope.
+A middle-school foundation in how the human body is organized and how its major systems work, for learners around 11–13. Each lesson takes about 10 minutes: read a short explanation, notice the activity ideas, and answer five concept questions. A score of 80% or more unlocks the next lesson.
 
-The curriculum has **42 short lessons in seven units**: 28 focused core lessons, seven introductions, and seven reviews. Each targets **about 10 minutes**, including an independent reflection prompt and five concept questions. Pacing is an estimate to check with learners; there is no long vocabulary memorization requirement.
+The course has nine lessons:
 
-Every lesson has at least one main teaching picture and a focused visual-reading task. Introductions and reviews use pictures too; some lessons compare two or three figures. See [visual coverage](docs/VISUAL-TEACHING.md).
+1. **Cells, tissues, organs, and systems** — how cells form tissues, tissues form organs, and organs form systems.
+2. **Bones, joints, and muscles** — how the skeletal and muscular systems protect organs, support the body, and move it.
+3. **Lungs, heart, and blood** — how the respiratory and circulatory systems deliver oxygen and remove carbon dioxide.
+4. **Stomach, intestines, and liver** — how the digestive system breaks down food and removes solid waste.
+5. **Kidneys and the bladder** — how the urinary system filters the blood and balances water.
+6. **Brain and nerves** — how the nervous system carries information and creates responses.
+7. **Reproductive organs** — how the reproductive system makes it possible for a new baby to begin and grow.
+8. **The immune system** — how white blood cells and their organs find and fight germs.
+9. **Systems working together** — how the systems depend on one another to keep the body alive.
 
-Lessons include visible Go deeper sections with structure facts and credited educational artwork. The separate structure catalog also provides reference reading. Practice and spaced Review focus on lesson concepts. Browser-local progress is retained by the existing app.
+Activity ideas are written in the lessons as placeholders. They are not interactive yet. No figures are in use yet. When images are added, record them in [image credits](IMAGE_CREDITS.md).
 
-See [the revision notes](docs/CURRICULUM-REVISION.md) for pacing, coverage, assessment choices, and existing-progress considerations; [the image backlog](docs/IMAGE-BACKLOG.md) for figures to improve later; and [image credits](IMAGE_CREDITS.md) for every current asset.
+Practice and spaced Review use the lesson questions. Progress is saved only in this browser, under `body-school.progress.v2`.
 
 ## Run and check
 
@@ -22,10 +30,8 @@ npm run validate
 npm run audit
 ```
 
-`content/curriculum.yaml` defines sequence and units. Lesson files are in `content/lessons/`; structure references are in `content/items/`. Found artwork lives in `public/images/servier/` and `public/images/lessons/`. `docs/image-manifest.json` records original Servier download URLs and licenses.
+`content/curriculum.yaml` defines the sequence. Lesson files are in `content/lessons/`. Structure references, when added, belong in `content/items/`. Artwork, when added, belongs in `public/images/`. `docs/image-manifest.json` records download URLs and licenses.
 
-The old `scripts/make-body-images.py` is retired and exits without generating placeholder art. The historical `scripts/download-sourced-images.py` describes the first-pass Commons collection; do not run it to restore removed figures. Use the current manifest and credits when maintaining the selected artwork.
+Do not run `scripts/make-body-images.py` or `scripts/download-sourced-images.py` to create figures. Those scripts are retired.
 
-The numbered original planning files remain historical drafts. The current lesson sequence is `content/curriculum.yaml`; the revision notes supersede the earlier pacing and image-generation approach. The archived independent audit describes the first pass, not current content.
-
-Progress remains under `body-school.progress.v2`; no learner data was reset. Deployment is separate from local content work.
+Deployment is separate from local content work.

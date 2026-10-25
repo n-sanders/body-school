@@ -55,7 +55,7 @@ const config: SiteConfig = {
   emoji: "🫀",
   tagline: "Explore how the human body is built and how its systems work together",
   description:
-    "Explore the body's major organs and systems in short lessons designed for about 10 minutes. Build a middle-school foundation by explaining how parts work together, with an introduction and review in every unit.",
+    "Explore the body's major organs and systems in short lessons designed for about 10 minutes. Build a middle-school foundation by explaining how each system works and how the systems depend on one another.",
   footer:
     "Body School — a middle-school foundation in human anatomy and physiology. [Image credits](#/credits). Progress is saved only in this browser.",
   catalog: {

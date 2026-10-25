@@ -1,73 +1,44 @@
 title: Body School
-intro: Build a middle-school foundation in how major organs and body systems work together. Each lesson is planned for about 10 minutes, including five concept questions. Start each unit with a preview and finish with a review. Scientific terms are explained in context; clear reasoning matters more than memorizing names. Reproductive anatomy and systems are outside this course’s scope.
+intro: The course moves from how the body is organized to each major system, then to how those systems work together.
 units:
   - id: organization
-    title: "Unit 1: From Cells to Systems"
-    description: Build a model of cells, tissues, organs, and systems that will support every later unit.
+    title: How the body is organized
+    description: How cells, tissues, organs, and systems fit together, from smallest to largest.
     lessons:
-      - organization-intro
-      - organization-01-cells-and-tissues
-      - organization-02-organs-and-systems
-      - organization-03-working-together
-      - organization-review
+      - cells-tissues-organs-and-systems
   - id: support
-    title: "Unit 2: Support and Movement"
-    description: Explain how living bones, joints, and muscles cooperate to support and move the body.
+    title: Support and movement
+    description: How bones, joints, and muscles protect the body, hold it up, and move it.
     lessons:
-      - support-intro
-      - support-01-bones-and-joints
-      - support-02-muscles-and-movement
-      - support-03-skeleton-and-muscles-together
-      - support-review
+      - bones-joints-and-muscles
   - id: circulation
-    title: "Unit 3: Circulation and Breathing"
-    description: Follow the pump, transport routes, blood components, and gas exchange as separate short lessons.
+    title: Oxygen and blood
+    description: How the lungs and the heart move oxygen in and carbon dioxide out.
     lessons:
-      - circulation-intro
-      - circulation-01-the-heart-and-blood
-      - circulation-blood-deliveries
-      - circulation-02-blood-vessels-and-exchange
-      - circulation-breathing-mechanics
-      - circulation-03-lungs-and-breathing
-      - circulation-review
+      - lungs-heart-and-blood
   - id: fuel
-    title: "Unit 4: Fuel and Waste"
-    description: Separate food breakdown, absorption, digestive helpers, kidney filtering, and water balance.
+    title: Food and waste
+    description: How the body breaks down food and removes liquid waste.
     lessons:
-      - fuel-intro
-      - fuel-01-digestion-from-mouth-to-stomach
-      - fuel-accessory-organs
-      - fuel-02-small-intestine-and-absorption
-      - fuel-03-kidneys-and-urine
-      - fuel-water-balance
-      - fuel-review
+      - stomach-intestines-and-liver
+      - kidneys-and-bladder
   - id: control
-    title: "Unit 5: Control and Coordination"
-    description: Connect sensory information, nerve responses, hormone messages, and feedback.
+    title: Signals and responses
+    description: How the brain and nerves carry information and decide how to respond.
     lessons:
-      - control-intro
-      - control-01-brain-and-nerves
-      - control-reflexes
-      - control-eyes-and-vision
-      - control-ears-and-balance
-      - control-02-hormones-and-glands
-      - control-03-homeostasis
-      - control-review
+      - brain-and-nerves
+  - id: reproduction
+    title: The reproductive system
+    description: How the reproductive organs make it possible for a baby to begin and grow.
+    lessons:
+      - reproductive-organs
   - id: protection
-    title: "Unit 6: Protection and Defense"
-    description: Distinguish barriers, early defense, immune memory, and lymph transport.
+    title: Defense
+    description: How white blood cells and their organs find and fight germs.
     lessons:
-      - protection-intro
-      - protection-01-skin-and-its-jobs
-      - protection-02-immune-cells-and-lymph
-      - protection-03-barriers-and-responses
-      - protection-review
+      - immune-system
   - id: together
-    title: "Unit 7: Systems Working Together"
-    description: Apply the course model to activity, meals, recovery, and new situations.
+    title: Systems working together
+    description: How cells, tissues, organs, and systems depend on one another.
     lessons:
-      - together-intro
-      - together-01-exercise-and-energy
-      - together-02-eating-and-recovery
-      - together-03-final-connections
-      - together-review
+      - systems-working-together

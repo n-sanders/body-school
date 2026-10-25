@@ -4,14 +4,30 @@ import { content } from "../src/content/loader";
 import { checkIntegrity, parseItem, parseLesson } from "../src/content/parse";
 import type { Item, Lesson } from "../src/content/schema";
 import { catalogCourse, textOnlyCourse } from "./fixtures";
-import { markdownImageUrls } from "../src/content/markdown-images";
 
 describe("shipped content", () => {
-  it("includes teaching pictures in every lesson, including introductions and reviews", () => {
-    for (const lesson of content.lessons.values()) {
-      expect(lesson.images.length + markdownImageUrls(lesson.body).length, lesson.id).toBeGreaterThan(0);
-      expect(lesson.body, lesson.id).toMatch(/Read the picture/);
-    }
+  it("ships nine text lessons in a linear sequence", () => {
+    const order = [
+      "cells-tissues-organs-and-systems",
+      "bones-joints-and-muscles",
+      "lungs-heart-and-blood",
+      "stomach-intestines-and-liver",
+      "kidneys-and-bladder",
+      "brain-and-nerves",
+      "reproductive-organs",
+      "immune-system",
+      "systems-working-together",
+    ];
+    expect(content.lessons.size).toBe(order.length);
+    expect(content.lessonOrder).toEqual(order);
+    order.forEach((id, i) => {
+      const lesson = content.lessons.get(id)!;
+      expect(lesson.body.length).toBeGreaterThan(0);
+      expect(lesson.quiz).toHaveLength(5);
+      expect(lesson.images).toEqual([]);
+      expect(lesson.prerequisites).toEqual(i === 0 ? [] : [order[i - 1]]);
+      if (i > 0) expect(lesson.body).toContain("**Activity idea:**");
+    });
   });
 
   it("loads every curriculum lesson", () => {
