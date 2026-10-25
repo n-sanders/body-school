@@ -65,7 +65,11 @@ passMark: 0.8
 ---
 ## From a tissue to an organ
 
-A tissue is a team of similar cells. An **organ** is the next step up: a structure made of **two or more kinds of tissue** whose tissues cooperate on related jobs.
+A tissue is a team of similar cells doing one kind of job. An **organ** is the next step up: a structure made of **two or more kinds of tissue** whose tissues cooperate on related jobs.
+
+### Try this
+
+Think about the last time you ate something. Your stomach did more than just hold the food. It mixed it, protected its own lining, and controlled when the food moved on. Different tissues inside the stomach handled those different jobs.
 
 ### Read the pictures
 
@@ -79,19 +83,18 @@ Find the stomach in the system overview, then inspect its cutaway. Notice how a 
 
 *The digestive overview places the stomach between the food tube from the mouth and the intestines. Food follows the digestive tube rather than passing through every nearby organ. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
-
 The stomach is a clear example. It is not just a bag of muscle.
 
-- Epithelial tissue lines the inside.
-- Muscle tissue in the wall churns food.
+- Epithelial tissue lines the inside and helps protect it.
+- Muscle tissue in the wall churns the food.
 - Nervous tissue tells the muscle when to squeeze.
-- Connective tissue, including blood, supports the wall and brings supplies.
+- Connective tissue, including blood vessels, supports the wall and brings supplies.
 
 The heart, lungs, brain, and kidneys are organs for the same reason. Each one is a structure with a job, built from more than one tissue.
 
 ## From organs to systems
 
-An **organ system** is a group of organs that share a larger job.
+An **organ system** is a group of organs that share a larger job. These groupings are useful models, not sealed boxes. One organ can help with more than one job.
 
 | System you will study | A few main parts | The shared job |
 | --- | --- | --- |
@@ -101,13 +104,10 @@ An **organ system** is a group of organs that share a larger job.
 | Nervous and endocrine | Brain, nerves, glands | Carry and respond to information |
 | Integumentary and immune | Skin, lymph nodes, spleen | Block invaders and respond when they get in |
 
-Systems are useful groupings, not sealed boxes. One organ can contribute to more than one job; the pancreas, for example, helps digestion and sends hormone messages.
-
-The whole **organism** is the living person: all of those systems in one body.
+The whole **organism** is the living person: all of those systems working in one body.
 
 ## Keep the connections
 
 The next units look at those systems one at a time. Each unit still belongs to the same body.
 
-
-**Reflect:** Use the stomach to connect the levels of organization: cells, tissues, organ, and system. What does each level contribute?
+**Reflect:** Use the stomach to connect the levels of organization: cells, tissues, organ, and system. What does each level contribute to getting food ready for your body to use?

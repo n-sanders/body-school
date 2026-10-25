@@ -66,9 +66,14 @@ reviewedBy: curriculum-editor (not a specialist medical review)
 reviewedOn: 2026-10-24
 ---
 ## A question to carry through the course
-How can one body sense a sound, run across a room, and recover afterward? No organ does all of that alone. Body School follows the parts and, more importantly, the connections between them.
 
-Each lesson is planned for about **10 minutes**: roughly five minutes to read the explanation, pictures, and Go deeper section, a minute to reflect independently, and four minutes for five questions and feedback. Take longer when you need it. Read the Go deeper section as part of the lesson. It connects the ideas to real structures; the quiz may focus on only some of that material. You can think through reflection prompts silently or jot down a short answer for yourself.
+How can one body hear a sound, jump up, run across a room, and then calm down afterward? No single organ does all of that by itself. Body School looks at the parts and, more importantly, at how they work together.
+
+Each lesson is planned for about **10 minutes**. You can read the explanation and pictures, try the quick observations, think about the reflection prompt, and answer the five questions. Take the time you need. The pictures are part of the lesson, not extras.
+
+### Try this first
+
+Sit still for a moment and notice your breathing. Then stand up and take a few steps. What changed in your breathing or in how your legs felt? You do not need to run or exercise—just notice the difference. Later lessons will help explain what you felt.
 
 ### Read the pictures
 
@@ -82,13 +87,14 @@ Compare the routes in these two maps. One carries blood; the other carries nerve
 
 *A nervous-system map: the brain and spinal cord connect with branching nerves. These branches carry information, not a stream of blood. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
-
 ## Build explanations, not word lists
-You will meet scientific names because they help people describe the same thing clearly. Each name comes with a job or example. The questions ask you to follow a process, predict a change, or choose evidence—not spell long names.
+
+You will meet scientific names because they help people describe the same thing clearly. Each name comes with a job or an example. The questions ask you to follow a process, predict a change, or choose evidence—not spell long names.
 
 For example, “lungs take in oxygen” is a start. “Oxygen crosses from tiny air sacs into blood, which carries it to cells” explains a connection.
 
 ## Before you begin
-Think about walking upstairs. What changes in your breathing, pulse, and muscles? Keep those observations in mind; later units will help you explain them. You do not need to exercise to do the lesson.
 
-**Reflect:** Why might studying only the heart leave part of the upstairs story unexplained?
+Think about walking upstairs or running to catch a ball. What changes in your breathing, your pulse, and your muscles? Keep those observations in mind; later units will help you explain them.
+
+**Reflect:** Why might studying only the heart leave part of the upstairs (or running) story unexplained?
