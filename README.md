@@ -14,7 +14,7 @@ The course has nine lessons:
 8. **The immune system** — how white blood cells and their organs find and fight germs.
 9. **Systems working together** — how the systems depend on one another to keep the body alive.
 
-Activity ideas are written in the lessons as placeholders. They are not interactive yet. No figures are in use yet. When images are added, record them in [image credits](IMAGE_CREDITS.md).
+Activity ideas are written in the lessons as placeholders. They are not interactive yet. Lesson 1 includes three original teaching illustrations; their provenance is recorded in [image credits](IMAGE_CREDITS.md).
 
 Practice and spaced Review use the lesson questions. Progress is saved only in this browser, under `body-school.progress.v2`.
 

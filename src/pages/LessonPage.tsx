@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { Link, useParams } from "react-router";
-import Markdown from "react-markdown";
-import remarkGfm from "remark-gfm";
+import { LessonReading } from "../components/LessonReading";
 import { content, getItem, getLesson } from "../content/loader";
 import { useProgress } from "../hooks/useProgress";
 import { ItemCard } from "../components/ItemCard";
@@ -77,9 +76,7 @@ function LessonView({ lesson }: { lesson: Lesson }) {
         </ul>
       </section>
 
-      <section className="card prose">
-        <Markdown remarkPlugins={[remarkGfm]}>{lesson.body}</Markdown>
-      </section>
+      <LessonReading body={lesson.body} />
 
       {lesson.images.length > 0 && (
         <section>

@@ -54,13 +54,27 @@ quiz:
 passMark: 0.8
 ---
 
+## Cells: the smallest building blocks
+
 The human body is made of tiny building blocks called cells. You have trillions of cells, and they are so small that you need a microscope to see them. Different cells have different jobs. Some cells help you move, some cells carry oxygen, and some cells protect your skin.
+
+![Muscle cells help you move, red blood cells carry oxygen, and skin cells form a protective barrier. The cells are shown enlarged beside a child and a microscope.](/images/lesson-1/cells.webp "Different cells have different jobs. Cells are shown greatly enlarged.")
+
+## From cells to tissues to organs
 
 When many cells of the same kind work together, they form a tissue. Muscle tissue is made of muscle cells. Skin tissue is made of skin cells. Nerve tissue is made of nerve cells. Each tissue has its own special job in the body.
 
 Tissues then join together to make organs. An organ is a body part that does a big job. Your heart is an organ made of muscle tissue and other tissues. Your stomach is an organ that helps break down food. Your brain is an organ made of nerve tissue. Bones are organs too.
 
+![Muscle, skin, and nerve cells work together to form their corresponding tissues. Different tissues form organs: the heart pumps blood, the stomach breaks down food, the brain contains nerve tissue, and bones support the body.](/images/lesson-1/tissues-and-organs.webp "Follow the steps from individual cells to tissues, then explore four examples of organs.")
+
+## Organs working as a team
+
 Organs work together in groups called systems. The heart and blood vessels form the circulatory system. The stomach and intestines form the digestive system. The bones form the skeletal system. Each system has a main job that keeps you alive and healthy.
+
+![Three body outlines show the circulatory system with the heart and blood vessels, the digestive system with the stomach and intestines, and the skeletal system with bones. Their jobs are moving blood, breaking down food and absorbing nutrients, and supporting the body and protecting organs.](/images/lesson-1/organ-systems.webp "Each system has a main job. All your systems work together to keep you healthy.")
+
+## Put it all together
 
 Here is the order from smallest to largest:
 
