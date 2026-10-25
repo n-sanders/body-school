@@ -65,7 +65,11 @@ passMark: 0.8
 ---
 ## Start with something you can picture
 
-Think of a brick, then a wall, then a house, then a neighborhood. A body is organized in the same kind of way. The small pieces are alive, and each level has a bigger job than the one below it.
+Think of a single brick, then a wall made of many bricks, then a house, then a whole neighborhood. Your body is organized in a similar way. The small pieces are alive, and each bigger level has a bigger job.
+
+### Try this
+
+Make a fist and then open your hand. Feel the muscles in your forearm tighten and relax. Those muscles are made of many muscle cells working together. The shape and arrangement of the cells help them pull.
 
 ### Read the pictures
 
@@ -79,20 +83,17 @@ Compare the long extension of the nerve cell with the closely packed cells in th
 
 *A row of closely packed cells forms a lining tissue. This is one example of lining tissue, not a picture of every tissue type. The two figures use different scales. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
-
 ## Cells
 
-A **cell** is the basic living unit. Cells are tiny, but they are not all copies of one shape.
+A **cell** is the basic living unit. Cells are tiny, but they are not all the same shape. The shape is a clue to the job.
 
-- A **muscle cell** develops tension. It can shorten to create movement or hold steady to maintain a position.
-- A **nerve cell** has long branches so it can carry a signal from one place to another.
-- A **red blood cell** is a small disk that travels easily through narrow vessels.
-
-The shape is a clue to the job.
+- A **muscle cell** can develop tension. It shortens to create movement or holds steady to keep a position.
+- A **nerve cell** has long branches so it can carry a signal from one place to another—sometimes across a long distance.
+- A **red blood cell** is a small, flexible disk that travels easily through narrow vessels.
 
 ## Tissues
 
-A **tissue** is a group of similar cells working on the same job. Four broad tissue types provide a useful starting model:
+A **tissue** is a group of similar cells working on the same job. Four broad types give a useful starting model. You do not need to memorize long lists of rare cell names. Later lessons will keep returning to these four and to the idea that **parts work together**.
 
 | Tissue | What it does | A place you will meet it |
 | --- | --- | --- |
@@ -101,7 +102,4 @@ A **tissue** is a group of similar cells working on the same job. Four broad tis
 | Muscle | Develops tension; moves or holds body parts | Muscles that move bones, the heart |
 | Nervous | Carries signals | Brain, spinal cord, nerves |
 
-Later units will not ask you to memorize long lists of rare cell names. They will keep coming back to these four tissues and to the idea that **parts work together**.
-
-
-**Reflect:** Compare a nerve cell with a muscle cell. How does each cell’s structure help it do a different job?
+**Reflect:** Compare a nerve cell with a muscle cell. How does each cell’s structure help it do a different job? Use the fist you made earlier if it helps.

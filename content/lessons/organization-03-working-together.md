@@ -65,7 +65,11 @@ passMark: 0.8
 ---
 ## No system is an island
 
-It is useful to study bones, then the heart, then the stomach. That is not how the body runs. **Each system depends on the others.**
+It is useful to study bones, then the heart, then the stomach. That is not how your body actually runs. **Each system depends on the others.**
+
+### Try this
+
+Stand up from your chair (or imagine doing it). Notice that your legs and core do the work, but you also keep breathing and your heart keeps beating. Those other systems did not pause while you stood up.
 
 ### Read the picture
 
@@ -75,8 +79,7 @@ Start at the heart in the circulation map and follow a route toward a body tissu
 
 *The central pump connects with routes to many tissues. The red and blue colors distinguish routes with different oxygen levels; real blood is always a shade of red. Servier Medical Art, CC BY 4.0. [Source and license](#/credits).*
 
-
-Muscle activity requires energy. Blood brings supplies, including oxygen and nutrients, that support the processes releasing that energy. The lungs load the blood with oxygen. The digestive system is the source of the fuel. Nerves tell the muscle when to pull. Skin and sweat may cool you if the work lasts.
+Muscle activity needs energy. Blood brings supplies, including oxygen and nutrients, that support the processes releasing that energy. The lungs load the blood with oxygen. Food you ate earlier is the source of the fuel. Nerves tell the muscle when to pull. Skin and sweat may help cool you if the work lasts.
 
 ## Follow one ordinary action
 
@@ -84,8 +87,8 @@ Imagine standing up from a chair and walking to the door.
 
 1. **Nervous system.** Your brain and nerves plan the movement and send the signal.
 2. **Muscular and skeletal systems.** Muscles pull on bones at the hips, knees, and ankles.
-3. **Circulatory and respiratory systems.** Breathing and circulation continue supplying oxygen; they can increase as activity demands rise.
-4. **Digestive system, earlier.** The fuel those cells burn came from food you already ate.
+3. **Circulatory and respiratory systems.** Breathing and circulation keep supplying oxygen; they can increase if you start moving faster.
+4. **Digestive system, earlier.** The fuel those cells use came from food you already ate.
 
 None of those steps is optional for long. If the signal, the pull, the oxygen, or the fuel is missing, the walk changes or stops.
 
@@ -99,7 +102,6 @@ The next units take the systems in turn:
 - control and coordination
 - protection and defense
 
-Each unit ends by pointing toward the next dependency. The last unit puts the pieces back into everyday scenes: activity, a meal, recovery, and responding to a warning. The question to keep is always the same. **How does this part serve the whole body?**
+Each unit ends by pointing toward the next dependency. The last unit puts the pieces back into everyday scenes: activity, a meal, recovery, and responding to a warning. The question to keep is always the same: **How does this part help the whole body keep working?**
 
-
-**Reflect:** Follow oxygen from the lungs to a muscle used in walking. Which parts provide exchange, transport, and movement?
+**Reflect:** Follow oxygen from the lungs to a muscle you just used when you stood up or walked. Which parts provide exchange, transport, and movement?
