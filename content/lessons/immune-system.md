@@ -63,7 +63,7 @@ White blood cells are the main fighters. Some white blood cells patrol the body 
 
 Several organs support these cells. Bone marrow, found inside certain bones, makes new white blood cells. The thymus, a small organ in the chest, helps some white blood cells mature and learn which cells belong to your body and which do not. Lymph nodes are small, bean-shaped structures located in places such as your neck, armpits, and groin. They filter fluid and give white blood cells a place to gather and fight germs. The spleen, an organ in the upper left side of your abdomen, also filters blood and stores white blood cells ready for action.
 
-> **Activity idea:** Click on the bone marrow, thymus, lymph nodes, and spleen in the body diagram. Then match each organ to its main job: makes white blood cells, trains white blood cells, or filters and gathers fighters.
+{activity immune-organ-jobs}
 
 Here is how the system responds to a germ:
 

@@ -11,13 +11,13 @@ import { buildContent, checkIntegrity } from "../src/content/parse";
 import type { Item, Lesson, QuizItem } from "../src/content/schema";
 import { readAllContent, ROOT } from "./lib/content";
 
-const { curriculum, items, lessons, errors } = readAllContent();
+const { curriculum, items, lessons, activities, errors } = readAllContent();
 if (!curriculum || errors.length) {
   console.error("Content has errors; run `npm run validate` first.\n" + errors.join("\n"));
   process.exit(1);
 }
-const problems = checkIntegrity(curriculum, items, lessons, { catalogEnabled: site.catalog.enabled });
-const content = buildContent(curriculum, items, lessons);
+const problems = checkIntegrity(curriculum, items, lessons, { catalogEnabled: site.catalog.enabled, activities });
+const content = buildContent(curriculum, items, lessons, activities);
 const { singular, plural, categoryLabel } = site.catalog;
 const Plural = plural.charAt(0).toUpperCase() + plural.slice(1);
 const itemName = (slug: string) => content.items.get(slug)?.name ?? `UNKNOWN(${slug})`;

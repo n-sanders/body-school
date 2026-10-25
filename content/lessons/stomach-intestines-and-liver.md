@@ -65,7 +65,7 @@ The liquid food next moves into the small intestine. This is a long, coiled tube
 
 The liver is a large organ that helps digestion even though food does not pass through it. It produces a liquid called bile that is stored in the gallbladder and released into the small intestine. Bile helps break down fats so they can be absorbed. The liver also processes many of the nutrients that come from the small intestine and stores some of them for later use.
 
-> **Activity idea:** Match each organ picture to its main job: churn food, absorb nutrients, absorb water, or help break down fats.
+{activity digestive-organ-jobs}
 
 Here is the path in simple steps:
 

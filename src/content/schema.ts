@@ -78,6 +78,28 @@ const QuestionItem = z
 
 export const QuizItemSchema = z.discriminatedUnion("type", [IdentifyItem, FindItem, QuestionItem]);
 
+export const ActivityCardSchema = z.object({
+  id: slug,
+  image: imageUrl,
+  label: z.string().min(1),
+  /** The category box the picture belongs in; required when the activity has categories. */
+  category: z.string().min(1).optional(),
+  /** The duty label that belongs on the picture. */
+  duty: z.string().min(1),
+});
+
+export const ActivitySchema = z.object({
+  id: slug,
+  lesson: slug,
+  title: z.string().min(1),
+  prompt: z.string().min(1),
+  /** When omitted, every picture starts placed and the learner only drags labels. */
+  categories: z.array(z.string().min(1)).min(2).optional(),
+  /** A reusable palette: a label can go on more than one picture, and unused labels act as distractors. */
+  labels: z.array(z.string().min(1)).min(2),
+  cards: z.array(ActivityCardSchema).min(2),
+});
+
 export const LessonImageSchema = z.object({
   /** The catalog item shown, if any. Lesson images may also be general illustrations. */
   item: slug.optional(),
@@ -125,5 +147,7 @@ export type QuizItem = z.infer<typeof QuizItemSchema>;
 export type LessonImage = z.infer<typeof LessonImageSchema>;
 export type LessonFrontmatter = z.infer<typeof LessonFrontmatterSchema>;
 export type Lesson = LessonFrontmatter & { body: string; file: string };
+export type ActivityCard = z.infer<typeof ActivityCardSchema>;
+export type Activity = z.infer<typeof ActivitySchema>;
 export type Curriculum = z.infer<typeof CurriculumSchema>;
 export type Unit = Curriculum["units"][number];

@@ -1,8 +1,8 @@
 import { describe, expect, it } from "vitest";
 import site from "../site.config";
 import { content } from "../src/content/loader";
-import { checkIntegrity, parseItem, parseLesson } from "../src/content/parse";
-import type { Item, Lesson } from "../src/content/schema";
+import { checkIntegrity, parseActivity, parseItem, parseLesson } from "../src/content/parse";
+import type { Activity, ActivityCard, Item, Lesson } from "../src/content/schema";
 import { catalogCourse, textOnlyCourse } from "./fixtures";
 
 describe("shipped content", () => {
@@ -47,7 +47,9 @@ describe("shipped content", () => {
   it("passes the integrity checks", () => {
     const problems = checkIntegrity(content.curriculum, [...content.items.values()], [...content.lessons.values()], {
       catalogEnabled: site.catalog.enabled,
+      activities: [...content.activities.values()],
     });
+    expect(content.activities.size).toBe(3);
     expect(problems).toEqual([]);
   });
 });
@@ -82,6 +84,51 @@ describe("integrity checks", () => {
       l.id === "one-01" ? { ...l, quiz: [{ type: "find" as const, item: "aa", distractors: ["aa"] }, ...l.quiz] } : l,
     );
     expect(checkIntegrity(curriculum, items, broken).join("\n")).toMatch(/lists the answer as a distractor/);
+  });
+});
+
+describe("activity checks", () => {
+  const { curriculum, items, lessons } = catalogCourse();
+  const card = (id: string, category: string | undefined, duty: string): ActivityCard => ({
+    id,
+    image: `images/activities/${id}.png`,
+    label: id,
+    category,
+    duty,
+  });
+  const sorted: Activity = {
+    id: "sort-and-label",
+    lesson: "one-01",
+    title: "T",
+    prompt: "P",
+    categories: ["Left", "Right"],
+    labels: ["Pump", "Filter", "Spare"],
+    cards: [card("aa", "Left", "Pump"), card("bb", "Right", "Filter")],
+  };
+  const check = (activity: Activity) => checkIntegrity(curriculum, items, lessons, { activities: [activity] }).join("\n");
+
+  it("passes for a consistent activity, with or without categories", () => {
+    expect(check(sorted)).toBe("");
+    const unsorted: Activity = { ...sorted, categories: undefined, cards: sorted.cards.map((c) => ({ ...c, category: undefined })) };
+    expect(check(unsorted)).toBe("");
+  });
+
+  it("catches a card in an unknown category and an empty category", () => {
+    const problems = check({ ...sorted, cards: [card("aa", "Left", "Pump"), card("bb", "Middle", "Filter")] });
+    expect(problems).toMatch(/card 'bb' has unknown category 'Middle'/);
+    expect(problems).toMatch(/category 'Right' has no card/);
+  });
+
+  it("catches a duty that is not one of the labels", () => {
+    expect(check({ ...sorted, cards: [card("aa", "Left", "Pump"), card("bb", "Right", "Sing")] })).toMatch(
+      /card 'bb' has unknown duty 'Sing'/,
+    );
+  });
+
+  it("catches duplicate cards and unknown lessons", () => {
+    const problems = check({ ...sorted, lesson: "nope", cards: [card("aa", "Left", "Pump"), card("aa", "Right", "Filter")] });
+    expect(problems).toMatch(/duplicate card 'aa'/);
+    expect(problems).toMatch(/unknown lesson 'nope'/);
   });
 });
 
@@ -160,6 +207,12 @@ quiz:
 ---
 Body`;
     expect(() => parseLesson(md, "x.md")).toThrow(/at least five items/);
+  });
+
+  it("parses an activity and rejects one without labels", () => {
+    const yaml = `id: a\nlesson: l\ntitle: T\nprompt: P\nlabels: [Pump, Filter]\ncards:\n  - { id: x, image: images/x.png, label: X, duty: Pump }\n  - { id: y, image: images/y.png, label: Y, duty: Filter }\n`;
+    expect(parseActivity(yaml, "a.yaml").categories).toBeUndefined();
+    expect(() => parseActivity(yaml.replace("labels: [Pump, Filter]\n", ""), "a.yaml")).toThrow(/labels/);
   });
 
   it("rejects a lesson without frontmatter", () => {

@@ -1,6 +1,10 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 import Markdown, { type Components } from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { content } from "../content/loader";
+import { useProgress } from "../hooks/useProgress";
+import { activityCard } from "../lib/cards";
+import { ActivityPlayer } from "./ActivityPlayer";
 
 function LessonFigure({ src, alt, title }: { src: string; alt: string; title?: string }) {
   const dialogRef = useRef<HTMLDialogElement>(null);
@@ -95,11 +99,50 @@ function sectionLayout(section: string): { markdown: string; className: string }
   return { markdown, className: `${side} layout-ratio-${ratio ?? "1-2"}` };
 }
 
+function ActivityEmbed({ id }: { id: string }) {
+  const activity = content.activities.get(id);
+  const { store } = useProgress();
+  if (!activity) return <p className="muted">This activity is not available.</p>;
+  return (
+    <div className="lesson-activity">
+      <ActivityPlayer activity={activity} onComplete={(correct) => store.recordAnswer(activityCard(activity.id), correct)} />
+    </div>
+  );
+}
+
+function proseWithActivities(markdown: string, keyPrefix: string): ReactNode[] {
+  const nodes: ReactNode[] = [];
+  let last = 0;
+  const activityLine = /^\{activity\s+([a-z0-9-]+)\}\s*$/gm;
+  for (const match of markdown.matchAll(activityLine)) {
+    const start = match.index ?? 0;
+    const before = markdown.slice(last, start).trim();
+    if (before) {
+      nodes.push(
+        <Markdown key={`${keyPrefix}-md-${start}`} remarkPlugins={[remarkGfm]} components={illustratedComponents}>
+          {before}
+        </Markdown>,
+      );
+    }
+    nodes.push(<ActivityEmbed key={`${keyPrefix}-activity-${match[1]}`} id={match[1]} />);
+    last = start + match[0].length;
+  }
+  const after = markdown.slice(last).trim();
+  if (after) {
+    nodes.push(
+      <Markdown key={`${keyPrefix}-md-end`} remarkPlugins={[remarkGfm]} components={illustratedComponents}>
+        {after}
+      </Markdown>,
+    );
+  }
+  return nodes;
+}
+
 export function LessonReading({ body }: { body: string }) {
   // Illustrated lessons use level-two headings to separate their reading panels.
   // Keep the original Markdown rendering for lessons without this structure.
   if (!body.includes("![") || !/^## /m.test(body)) {
-    return <section className="card prose"><Markdown remarkPlugins={[remarkGfm]}>{body}</Markdown></section>;
+    return <section className="card prose">{proseWithActivities(body, "lesson")}</section>;
   }
 
   const sections = body.trim().split(/\n(?=## )/);
@@ -109,7 +152,7 @@ export function LessonReading({ body }: { body: string }) {
         const layout = sectionLayout(section);
         return (
           <section className={`card prose lesson-panel lesson-panel-${index + 1} ${layout.className}`} key={index}>
-            <Markdown remarkPlugins={[remarkGfm]} components={illustratedComponents}>{layout.markdown}</Markdown>
+            {proseWithActivities(layout.markdown, `section-${index}`)}
           </section>
         );
       })}

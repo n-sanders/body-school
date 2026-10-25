@@ -1,0 +1,33 @@
+id: respiratory-circulatory-sort
+lesson: lungs-heart-and-blood
+title: Sort the parts and label their jobs
+prompt: Drag each picture into its system. Then drag a job from the list onto each picture.
+categories:
+  - Respiratory system
+  - Circulatory system
+labels:
+  - Pump blood
+  - Carry blood around the body
+  - Carry air to the lungs
+  - Exchange gases
+cards:
+  - id: lungs
+    image: images/activities/lungs.png
+    label: Lungs
+    category: Respiratory system
+    duty: Exchange gases
+  - id: windpipe
+    image: images/activities/windpipe.png
+    label: Windpipe
+    category: Respiratory system
+    duty: Carry air to the lungs
+  - id: heart
+    image: images/activities/heart.png
+    label: Heart
+    category: Circulatory system
+    duty: Pump blood
+  - id: blood-vessels
+    image: images/activities/blood-vessels.png
+    label: Blood vessels
+    category: Circulatory system
+    duty: Carry blood around the body

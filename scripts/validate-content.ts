@@ -16,11 +16,12 @@ import { PUBLIC_DIR, readAllContent } from "./lib/content";
 
 const offline = process.argv.includes("--offline");
 
-const { curriculum, items, lessons, errors } = readAllContent();
+const { curriculum, items, lessons, activities, errors } = readAllContent();
 const problems = [...errors];
 const warnings: string[] = [];
 
-if (curriculum) problems.push(...checkIntegrity(curriculum, items, lessons, { catalogEnabled: site.catalog.enabled }));
+if (curriculum)
+  problems.push(...checkIntegrity(curriculum, items, lessons, { catalogEnabled: site.catalog.enabled, activities }));
 
 const unreviewedImages = items.flatMap((b) => b.images.filter((i) => !i.reviewed)).length;
 const unreviewedItems = items.filter((b) => !b.reviewedBy).length;
@@ -34,6 +35,7 @@ const imageUrls = new Set<string>([
   ...lessons.flatMap((l) => l.images.map((i) => i.url)),
   ...lessons.flatMap((l) => markdownImageUrls(l.body)),
   ...lessons.flatMap((l) => l.quiz.flatMap((q) => (q.type === "identify" && q.image ? [q.image] : []))),
+  ...activities.flatMap((a) => a.cards.map((c) => c.image)),
 ]);
 const localImages = [...imageUrls].filter((u) => !u.startsWith("https://"));
 const remoteImages = [...imageUrls].filter((u) => u.startsWith("https://"));
@@ -79,7 +81,7 @@ if (!offline) {
 }
 
 console.log(
-  `\nChecked ${items.length} items, ${lessons.length} lessons, ${curriculum?.units.length ?? 0} units${offline ? " (offline)" : ""}.`,
+  `\nChecked ${items.length} items, ${lessons.length} lessons, ${activities.length} activities, ${curriculum?.units.length ?? 0} units${offline ? " (offline)" : ""}.`,
 );
 for (const w of warnings) console.log(`WARN  ${w}`);
 for (const p of problems) console.log(`ERROR ${p}`);

@@ -1,9 +1,11 @@
 import { parse as parseYaml } from "yaml";
 import type { ZodType } from "zod";
 import {
+  ActivitySchema,
   CurriculumSchema,
   ItemSchema,
   LessonFrontmatterSchema,
+  type Activity,
   type Curriculum,
   type Item,
   type Lesson,
@@ -52,18 +54,29 @@ export function parseCurriculum(raw: string, file: string): Curriculum {
   return validate(CurriculumSchema, parseYaml(raw), file);
 }
 
+export function parseActivity(raw: string, file: string): Activity {
+  return validate(ActivitySchema, parseYaml(raw), file);
+}
+
 export interface Content {
   curriculum: Curriculum;
   items: Map<string, Item>;
   lessons: Map<string, Lesson>;
+  activities: Map<string, Activity>;
   /** Lesson ids in curriculum order. */
   lessonOrder: string[];
   unitOf: Map<string, Unit>;
 }
 
-export function buildContent(curriculum: Curriculum, items: Item[], lessons: Lesson[]): Content {
+export function buildContent(
+  curriculum: Curriculum,
+  items: Item[],
+  lessons: Lesson[],
+  activities: Activity[] = [],
+): Content {
   const itemMap = new Map(items.map((b) => [b.slug, b]));
   const lessonMap = new Map(lessons.map((l) => [l.id, l]));
+  const activityMap = new Map(activities.map((a) => [a.id, a]));
   const unitOf = new Map<string, Unit>();
   const lessonOrder: string[] = [];
   for (const unit of curriculum.units) {
@@ -72,7 +85,7 @@ export function buildContent(curriculum: Curriculum, items: Item[], lessons: Les
       unitOf.set(id, unit);
     }
   }
-  return { curriculum, items: itemMap, lessons: lessonMap, lessonOrder, unitOf };
+  return { curriculum, items: itemMap, lessons: lessonMap, activities: activityMap, lessonOrder, unitOf };
 }
 
 function duplicates(values: string[]): string[] {
@@ -85,6 +98,7 @@ function duplicates(values: string[]): string[] {
 export interface IntegrityOptions {
   /** When false, any catalog item or photo quiz is a problem. */
   catalogEnabled?: boolean;
+  activities?: Activity[];
 }
 
 /**
@@ -95,7 +109,7 @@ export function checkIntegrity(
   curriculum: Curriculum,
   items: Item[],
   lessons: Lesson[],
-  { catalogEnabled = true }: IntegrityOptions = {},
+  { catalogEnabled = true, activities = [] }: IntegrityOptions = {},
 ): string[] {
   const problems: string[] = [];
   const itemSlugs = new Set(items.map((b) => b.slug));
@@ -151,6 +165,35 @@ export function checkIntegrity(
       q.distractors?.forEach((d) => checkItem(d, `quiz[${i}].distractors`));
       if (q.distractors?.includes(q.item)) problems.push(`${where}: quiz[${i}] lists the answer as a distractor`);
     });
+  }
+
+  const activityIds = new Set(activities.map((a) => a.id));
+  for (const d of duplicates(activities.map((a) => a.id))) problems.push(`duplicate activity id '${d}'`);
+  for (const activity of activities) {
+    const where = `activity '${activity.id}'`;
+    if (!lessonIds.has(activity.lesson)) problems.push(`${where}: unknown lesson '${activity.lesson}'`);
+    for (const d of duplicates(activity.cards.map((c) => c.id))) problems.push(`${where}: duplicate card '${d}'`);
+    for (const d of duplicates(activity.labels)) problems.push(`${where}: duplicate label '${d}'`);
+    for (const d of duplicates(activity.categories ?? [])) problems.push(`${where}: duplicate category '${d}'`);
+    for (const card of activity.cards) {
+      if (!activity.labels.includes(card.duty)) problems.push(`${where}: card '${card.id}' has unknown duty '${card.duty}'`);
+      if (activity.categories && !(card.category && activity.categories.includes(card.category)))
+        problems.push(`${where}: card '${card.id}' has unknown category '${card.category ?? ""}'`);
+      if (!activity.categories && card.category)
+        problems.push(`${where}: card '${card.id}' has a category but the activity has none`);
+    }
+    for (const category of activity.categories ?? [])
+      if (!activity.cards.some((c) => c.category === category))
+        problems.push(`${where}: category '${category}' has no card`);
+  }
+  for (const lesson of lessons) {
+    for (const marker of lesson.body.matchAll(/^\{activity\s+([a-z0-9-]+)\}\s*$/gm)) {
+      const id = marker[1];
+      const activity = activities.find((a) => a.id === id);
+      if (!activityIds.has(id)) problems.push(`lesson '${lesson.id}' embeds unknown activity '${id}'`);
+      else if (activity && activity.lesson !== lesson.id)
+        problems.push(`lesson '${lesson.id}' embeds activity '${id}', which belongs to '${activity.lesson}'`);
+    }
   }
 
   problems.push(...findCycles(lessons));

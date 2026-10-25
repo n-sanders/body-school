@@ -65,6 +65,6 @@ The circulatory system is made of the heart and blood vessels. The heart is a st
 
 Blood picks up oxygen in the lungs and carries it to the heart. The heart then pumps the oxygen-rich blood out through arteries to the rest of the body. After the cells use the oxygen, the blood returns to the heart carrying carbon dioxide. The heart sends that blood to the lungs so the carbon dioxide can be exhaled and fresh oxygen can be collected again.
 
-> **Activity idea:** Sort the pictures into two groups—parts of the respiratory system and parts of the circulatory system. Then match each part to its main job: pump blood, carry oxygen, or exchange gases.
+{activity respiratory-circulatory-sort}
 
 Together these systems keep a continuous loop going: lungs supply oxygen, the heart and vessels deliver it, and the lungs remove carbon dioxide. Without this teamwork, your cells would not get the oxygen they need to stay alive.

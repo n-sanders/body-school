@@ -41,7 +41,7 @@ describe("cards per lesson", () => {
 
 describe("practice modes", () => {
   it("offers only lesson questions when the catalog is disabled", () => {
-    expect(availableModes(false)).toEqual(["questions"]);
+    expect(availableModes(false)).toEqual(["questions", "activities"]);
     expect(availableModes(true)).toContain("identify");
   });
 

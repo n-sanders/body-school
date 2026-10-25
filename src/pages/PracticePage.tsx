@@ -1,6 +1,8 @@
 import { useCallback, useMemo, useState } from "react";
 import { Link } from "react-router";
 import { allItems, content } from "../content/loader";
+import { ActivityPlayer } from "../components/ActivityPlayer";
+import { parseCard } from "../lib/cards";
 import { useProgress } from "../hooks/useProgress";
 import { PracticeSession } from "../components/PracticeSession";
 import {
@@ -24,6 +26,7 @@ const MODE_LABELS: Record<PracticeMode, string> = {
   mixed: `Mixed ${noun.one} questions`,
   questions: "Lesson questions",
   all: "Everything",
+  activities: "Activities",
 };
 
 export function PracticePage() {
@@ -98,9 +101,14 @@ export function PracticePage() {
             course ({totalForMode}, challenge)
           </label>
         </fieldset>
-        {!started && (
+        {!started && mode !== "activities" && (
           <button className="btn primary" onClick={() => setStarted(true)} disabled={cards.length < 1}>
             Start practicing
+          </button>
+        )}
+        {mode === "activities" && !started && (
+          <button className="btn primary" onClick={() => setStarted(true)} disabled={cards.length < 1}>
+            Show activities
           </button>
         )}
       </div>
@@ -110,11 +118,55 @@ export function PracticePage() {
           Complete a lesson (starting with <Link to={`/lesson/${firstLesson.id}`}>{firstLesson.title}</Link>) to
           practice what it taught, or choose <em>The whole course</em>.
         </div>
+      ) : started && mode === "activities" ? (
+        <ActivityPractice cards={cards} />
       ) : (
         started && (
           <PracticeSession key={`${mode}:${scope}`} pool={pool} itemMode={itemModeFor(mode)} nextTarget={nextTarget} />
         )
       )}
+    </div>
+  );
+}
+
+function ActivityPractice({ cards }: { cards: string[] }) {
+  const { store } = useProgress();
+  const [active, setActive] = useState<string | null>(null);
+  const activeRef = active ? parseCard(active) : null;
+  const activity = activeRef?.kind === "activity" ? content.activities.get(activeRef.id) : undefined;
+
+  if (activity && active) {
+    return (
+      <div>
+        <button type="button" className="btn small" onClick={() => setActive(null)}>
+          All activities
+        </button>
+        <ActivityPlayer
+          key={activity.id}
+          activity={activity}
+          onComplete={(correct) => store.recordAnswer(active, correct)}
+        />
+      </div>
+    );
+  }
+
+  return (
+    <div className="card">
+      <h2>Choose an activity</h2>
+      <ul className="activity-list">
+        {cards.map((card) => {
+          const ref = parseCard(card);
+          const item = ref?.kind === "activity" ? content.activities.get(ref.id) : undefined;
+          if (!item) return null;
+          return (
+            <li key={card}>
+              <button type="button" className="btn" onClick={() => setActive(card)}>
+                {item.title}
+              </button>
+            </li>
+          );
+        })}
+      </ul>
     </div>
   );
 }

@@ -1,17 +1,23 @@
 /**
  * A "card" is one thing the learner is tested on and that spaced repetition tracks:
- * either a catalog item ("item:<slug>") or one text question in a lesson quiz
- * ("q:<lessonId>:<index>").
+ * a catalog item ("item:<slug>"), one text question in a lesson quiz
+ * ("q:<lessonId>:<index>"), or a whole activity ("activity:<id>").
  */
-export type CardRef = { kind: "item"; slug: string } | { kind: "question"; lessonId: string; index: number };
+export type CardRef =
+  | { kind: "item"; slug: string }
+  | { kind: "question"; lessonId: string; index: number }
+  | { kind: "activity"; id: string };
 
 export const itemCard = (slug: string) => `item:${slug}`;
 export const questionCard = (lessonId: string, index: number) => `q:${lessonId}:${index}`;
+export const activityCard = (id: string) => `activity:${id}`;
 
 export function parseCard(key: string): CardRef | null {
   const item = /^item:([a-z0-9-]+)$/.exec(key);
   if (item) return { kind: "item", slug: item[1] };
   const q = /^q:([a-z0-9-]+):(\d+)$/.exec(key);
   if (q) return { kind: "question", lessonId: q[1], index: Number(q[2]) };
+  const activity = /^activity:([a-z0-9-]+)$/.exec(key);
+  if (activity) return { kind: "activity", id: activity[1] };
   return null;
 }

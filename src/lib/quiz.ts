@@ -151,11 +151,12 @@ export async function buildCardQuestion(card: string, ctx: CardQuestionContext):
   return null;
 }
 
-/** True if the card refers to an item or text question that exists in the content. */
+/** True if the card refers to an item, text question, or activity that exists in the content. */
 export function cardExists(content: Content, card: string): boolean {
   const ref = parseCard(card);
   if (ref?.kind === "item") return content.items.has(ref.slug);
   if (ref?.kind === "question") return content.lessons.get(ref.lessonId)?.quiz[ref.index]?.type === "question";
+  if (ref?.kind === "activity") return content.activities.has(ref.id);
   return false;
 }
 
@@ -167,6 +168,7 @@ export function cardLabel(content: Content, card: string): string {
     const q = content.lessons.get(ref.lessonId)?.quiz[ref.index];
     return q?.type === "question" ? q.prompt : card;
   }
+  if (ref?.kind === "activity") return content.activities.get(ref.id)?.title ?? card;
   return card;
 }
 

@@ -1,0 +1,33 @@
+id: digestive-organ-jobs
+lesson: stomach-intestines-and-liver
+title: Sort the organs and label their jobs
+prompt: Drag each organ into the right group. Then drag a job from the list onto each organ.
+categories:
+  - Food passes through it
+  - Food does not pass through it
+labels:
+  - Churn food
+  - Absorb nutrients
+  - Absorb water
+  - Help break down fats
+cards:
+  - id: stomach
+    image: images/activities/stomach.png
+    label: Stomach
+    category: Food passes through it
+    duty: Churn food
+  - id: small-intestine
+    image: images/activities/small-intestine.png
+    label: Small intestine
+    category: Food passes through it
+    duty: Absorb nutrients
+  - id: large-intestine
+    image: images/activities/large-intestine.png
+    label: Large intestine
+    category: Food passes through it
+    duty: Absorb water
+  - id: liver
+    image: images/activities/liver.png
+    label: Liver
+    category: Food does not pass through it
+    duty: Help break down fats

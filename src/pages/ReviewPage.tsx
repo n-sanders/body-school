@@ -1,16 +1,21 @@
 import { useCallback, useMemo, useRef, useState } from "react";
 import { Link } from "react-router";
 import { allItems, content } from "../content/loader";
+import { ActivityPlayer } from "../components/ActivityPlayer";
 import { useProgress } from "../hooks/useProgress";
 import { PracticeSession } from "../components/PracticeSession";
 import { knownDueCards, studiedItems, practiceCardEnabled } from "../lib/learning";
 import { BOX_INTERVAL_DAYS, MAX_BOX, nextDue } from "../lib/progress";
+import { parseCard } from "../lib/cards";
 import { cardExists, cardLabel } from "../lib/quiz";
 
 export function ReviewPage() {
-  const { progress } = useProgress();
+  const { progress, store } = useProgress();
   const [session, setSession] = useState(0);
+  const [activeActivity, setActiveActivity] = useState<string | null>(null);
   const due = knownDueCards(content, progress);
+  const dueQuestions = due.filter((card) => parseCard(card)?.kind !== "activity");
+  const dueActivities = due.filter((card) => parseCard(card)?.kind === "activity");
   const queue = useRef<string[]>([]);
 
   const studied = studiedItems(content, progress);
@@ -20,7 +25,8 @@ export function ReviewPage() {
   const nextTarget = useCallback(() => queue.current.shift() ?? null, []);
 
   const start = () => {
-    queue.current = [...due];
+    queue.current = [...dueQuestions];
+    setActiveActivity(null);
     setSession((s) => s + 1);
   };
 
@@ -59,16 +65,16 @@ export function ReviewPage() {
             </>
           }
         />
-      ) : due.length ? (
+      ) : dueQuestions.length ? (
         <div className="card">
           <p>
-            <strong>{due.length}</strong> question{due.length === 1 ? " is" : "s are"} due for review.
+            <strong>{dueQuestions.length}</strong> question{dueQuestions.length === 1 ? " is" : "s are"} due for review.
           </p>
           <button className="btn primary" onClick={start}>
             Start review
           </button>
         </div>
-      ) : (
+      ) : dueActivities.length === 0 ? (
         <div className="card">
           {Object.keys(progress.cards).length === 0 ? (
             <p>
@@ -80,6 +86,39 @@ export function ReviewPage() {
               Nothing is due right now.{" "}
               {upcoming && <>The next review is due {upcoming.toLocaleString()}.</>}
             </p>
+          )}
+        </div>
+      ) : null}
+
+      {session === 0 && dueActivities.length > 0 && (
+        <div className="card">
+          <h2>Activities to try again</h2>
+          {activeActivity && content.activities.get(activeActivity) ? (
+            <>
+              <button type="button" className="btn small" onClick={() => setActiveActivity(null)}>
+                All activities
+              </button>
+              <ActivityPlayer
+                key={activeActivity}
+                activity={content.activities.get(activeActivity)!}
+                onComplete={(correct) => store.recordAnswer(`activity:${activeActivity}`, correct)}
+              />
+            </>
+          ) : (
+            <ul className="activity-list">
+              {dueActivities.map((card) => {
+                const ref = parseCard(card);
+                const activity = ref?.kind === "activity" ? content.activities.get(ref.id) : undefined;
+                if (!activity || ref?.kind !== "activity") return null;
+                return (
+                  <li key={card}>
+                    <button type="button" className="btn" onClick={() => setActiveActivity(ref.id)}>
+                      {activity.title}
+                    </button>
+                  </li>
+                );
+              })}
+            </ul>
           )}
         </div>
       )}

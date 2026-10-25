@@ -9,3 +9,5 @@ Lesson 1 uses three original illustrations generated with OpenAI ImageGen on Oct
 | `public/images/lesson-1/organ-systems.webp` | Organs work together in systems | AI-generated for this project; no third-party source or license asserted. |
 
 Illustrations are simplified teaching aids and are not to scale. The original generated PNGs were converted to WebP for web delivery.
+
+Activity pictures in `public/images/activities/` are temporary placeholder tiles that only show each organ's name. They will be replaced with real illustrations, and those will be credited here.
