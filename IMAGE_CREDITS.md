@@ -10,8 +10,6 @@ Lesson 1 uses three original illustrations generated with OpenAI ImageGen on Oct
 
 Illustrations are simplified teaching aids and are not to scale. The original generated PNGs were converted to WebP for web delivery.
 
-The immune activity pictures in `public/images/activities/` are temporary placeholder tiles that only show each organ's name. They will be replaced with real illustrations, and those will be credited here.
-
 ## Bones, joints, and muscles
 
 Four lesson illustrations and six activity pictures were generated with the built-in OpenAI ImageGen tool on October 25, 2026. Final prompts are recorded in `docs/bones-image-prompts.json`. All are simplified teaching illustrations.
@@ -103,3 +101,18 @@ Three clinical teaching illustrations were generated with the built-in OpenAI Im
 | `public/images/reproductive-organs/ovaries-and-uterus.webp` | Ovaries, tubes, and uterus | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/reproductive-organs/testes-and-sperm.webp` | Testes and sperm | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/reproductive-organs/egg-and-sperm.webp` | An egg and a sperm | AI-generated for this project; no third-party source or license asserted. |
+
+## The immune system
+
+Four lesson illustrations and four organ activity pictures were generated with the built-in OpenAI ImageGen tool on October 25, 2026. The lesson uses two square images, one portrait 4:5 waist-up anatomy diagram with an arm-bone marrow inset, and one wide 2:1 response sequence. Prompts are in `docs/immune-image-prompts.json` and `docs/immune-activity-image-prompts.json`; refinements are in `docs/immune-image-edits.json`. All are simplified teaching illustrations.
+
+| File | Illustration | Source and license |
+| --- | --- | --- |
+| `public/images/immune-system/white-cell-team.webp` | White blood cells work together | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/immune-system/immune-organs.webp` | Organs that support the defense | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/immune-system/germ-response.webp` | Responding to a germ | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/immune-system/immune-memory.webp` | Remembering for next time | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/immune-bone-marrow.webp` | Bone marrow | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/immune-thymus.webp` | Thymus | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/immune-lymph-nodes.webp` | Lymph nodes | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/immune-spleen.webp` | Spleen | AI-generated for this project; no third-party source or license asserted. |

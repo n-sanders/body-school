@@ -1,0 +1,26 @@
+[
+  {
+    "name": "white-cell-team",
+    "title": "White blood cells work together",
+    "ratio": "1:1",
+    "prompt": "Use case: scientific-educational. Finished Body School middle-school anatomy illustration. Pure white background, softly shaded textbook art, bold navy sans-serif title, large readable labels in pale blue rounded panels. White blood cells pale lavender with purple nuclei; bacteria small teal rods; antibodies orange Y shapes. No faces, weapons, cartoon monsters, gore, tiny type, or watermark. SQUARE 1:1. Title exactly \"White blood cells work together\". Three clearly separated vignettes with generous white space: upper left shows a pale lavender phagocyte extending membrane around one teal bacterium, caption \"Engulf germs\"; upper right shows a white blood cell releasing small gold signaling dots, with a second white cell nearby, caption \"Send signals\"; bottom centered shows one round antibody-producing cell releasing several ORANGE Y-shaped antibodies toward two teal bacteria, antibodies visibly attached by Y arm tips to bacteria, caption \"Make antibodies\". Never portray antibodies as cells or confuse signaling dots with antibodies. These are different examples, not a mandatory sequence. Bottom small note \"Enlarged and simplified\"."
+  },
+  {
+    "name": "immune-organs",
+    "title": "Organs that support the defense",
+    "ratio": "4:5",
+    "prompt": "Use case: scientific-educational. Recreate Body School textbook illustration \"Organs that support the defense\". PORTRAIT 4:5 on pure white, softly shaded textbook art, large bold navy sans-serif title and labels in pale blue panels. Show human front view ONLY FROM WAIST UP, complete head, chest, abdomen, upper arms; no hips, groin, pelvis, legs, or lower body anywhere in image. Neutral friendly child figure, anatomical overlay on torso: small bilobed thymus in upper chest below neck behind sternum; green lymph nodes in neck and armpits along fine green lymph vessels; purple spleen on PERSON\u2019S LEFT upper abdomen (VIEWER RIGHT), beneath left ribs. Subtle gray ribs for orientation, no unrelated organs. Four precise labels \"Thymus\", \"Lymph nodes\", \"Spleen\", \"Bone marrow\". Use viewer-left UPPER ARM HUMERUS: clean explanatory small cutaway at proximal humerus, with a nearby circular enlargement connected directly to that arm showing red marrow INSIDE spongy bone. Bone marrow leader points to RED tissue INSIDE bone inset. Do NOT use thigh bone, hip bone, or femur. Crop ends at WAIST, well above hips. Each leader on correct structure; no crossing lines. Bottom note \"Locations simplified\". No genitals or lower torso, no gore or injury, no watermark. All labels large and fully inside frame."
+  },
+  {
+    "name": "germ-response",
+    "title": "Responding to a germ",
+    "ratio": "2:1",
+    "prompt": "Use case: scientific-educational. Finished Body School middle-school anatomy illustration. Pure white background, softly shaded textbook art, bold navy sans-serif title, large readable labels in pale blue rounded panels. White blood cells pale lavender with purple nuclei; bacteria small teal rods; antibodies orange Y shapes. No faces, weapons, cartoon monsters, gore, tiny type, or watermark. WIDE 2:1. Title exactly \"Responding to a germ\". Four spacious equal panels left-to-right with large navy arrows BETWEEN panels. Panel 1: lavender immune cell next to teal bacterium, caption \"Recognize a germ\". Panel 2: same immune cell releasing small gold signaling dots, caption \"Send signals\". Panel 3: several lavender white cells gathering beside bacteria, caption \"More cells respond\". Panel 4: one phagocyte enclosing a bacterium, only small broken bacterial pieces within membrane and no intact bacteria outside, caption \"Remove the germ\". No memory cell in this sequence. Subtle panel separators, no dense text. Bottom note \"One simplified example of an immune response\". Arrows point left to right, no implication all immune responses are identical."
+  },
+  {
+    "name": "immune-memory",
+    "title": "Remembering for next time",
+    "ratio": "1:1",
+    "prompt": "Use case: scientific-educational. Finished Body School middle-school anatomy illustration. Pure white background, softly shaded textbook art, bold navy sans-serif title, large readable labels in pale blue rounded panels. White blood cells pale lavender with purple nuclei; bacteria small teal rods; antibodies orange Y shapes. No faces, weapons, cartoon monsters, gore, tiny type, or watermark. SQUARE 1:1. Title exactly \"Remembering for next time\". Two equal panels side by side with a pale blue dividing line. LEFT caption \"First encounter\": lavender white cell and two teal rod bacteria, underneath a second lavender cell with label \"Some memory cells remain\". RIGHT caption \"Later encounter\": same teal rod bacteria alongside several lavender white cells with orange Y-shaped antibodies attached to bacteria; label \"Memory cells help a faster response\". Do not imply perfect protection, avoid shield or crossed-out germs or zero-germs icon. No time durations, clocks, stopwatch or percentages. Bottom note \"The same germ \u2022 simplified and enlarged\". Show cells as biological cells with purple nuclei, no faces or human figures."
+  }
+]

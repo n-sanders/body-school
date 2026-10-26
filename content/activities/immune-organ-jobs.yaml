@@ -1,25 +1,26 @@
 id: immune-organ-jobs
 lesson: immune-system
-title: Label the immune organs' jobs
-prompt: Drag a job from the list onto each organ. Some organs share a job.
+title: Match the immune organs to their jobs
+prompt: Drag each job onto the matching organ. The pictures highlight each organ or tissue in its surroundings.
 labels:
-  - Makes white blood cells
-  - Trains white blood cells
-  - Filters and gathers fighters
+  - Makes new white blood cells
+  - Helps T cells mature
+  - Filters lymph and provides a meeting place
+  - Filters blood and helps respond to germs
 cards:
   - id: bone-marrow
-    image: images/activities/bone-marrow.png
+    image: images/activities/immune-bone-marrow.webp
     label: Bone marrow
-    duty: Makes white blood cells
+    duty: Makes new white blood cells
   - id: thymus
-    image: images/activities/thymus.png
+    image: images/activities/immune-thymus.webp
     label: Thymus
-    duty: Trains white blood cells
+    duty: Helps T cells mature
   - id: lymph-nodes
-    image: images/activities/lymph-nodes.png
+    image: images/activities/immune-lymph-nodes.webp
     label: Lymph nodes
-    duty: Filters and gathers fighters
+    duty: Filters lymph and provides a meeting place
   - id: spleen
-    image: images/activities/spleen.png
+    image: images/activities/immune-spleen.webp
     label: Spleen
-    duty: Filters and gathers fighters
+    duty: Filters blood and helps respond to germs

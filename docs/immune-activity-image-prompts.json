@@ -1,0 +1,22 @@
+[
+  {
+    "name": "immune-bone-marrow",
+    "title": "Bone marrow",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 small organ identification card for Body School. Soft shaded textbook anatomical illustration on pure white background, central uncluttered subject fills most of frame, no text, no labels, no letters, no icons, no watermark, no gore. Only target organ in rich natural color, nearby structures faint gray for context. A single human long bone segment oriented diagonally, outer hard ivory bone cut away in a clean explanatory section to reveal RED BONE MARROW inside spongy bone at the expanded end. Marrow clearly inside the bone. No blood cells floating outside, no full skeleton or body. Show structure cleanly, not a broken/injured bone."
+  },
+  {
+    "name": "immune-thymus",
+    "title": "Thymus",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 small organ identification card for Body School. Soft shaded textbook anatomical illustration on pure white background, central uncluttered subject fills most of frame, no text, no labels, no letters, no icons, no watermark, no gore. Only target organ in rich natural color, nearby structures faint gray for context. Small bilobed pink THYMUS in upper chest, just behind upper breastbone. Front-view cropped chest only, translucent gray rib cage and faint gray heart/lungs behind for orientation. Thymus is the ONLY colored structure, centered above heart, below neck, no thyroid in throat. No surrounding face or hands."
+  },
+  {
+    "name": "immune-lymph-nodes",
+    "title": "Lymph nodes",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 small organ identification card for Body School. Soft shaded textbook anatomical illustration on pure white background, central uncluttered subject fills most of frame, no text, no labels, no letters, no icons, no watermark, no gore. Only target organ in rich natural color, nearby structures faint gray for context. Close-up of one cluster of three green bean-shaped lymph nodes along fine green lymphatic vessels. Anatomical rather than fruit. One node in clean cutaway to show internal pale tissue and connecting vessels; surrounding tissues very faint gray. No cells as faces, no text, no full body, no kidneys, no blood vessel loops."
+  },
+  {
+    "name": "immune-spleen",
+    "title": "Spleen",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 small organ identification card for Body School. Soft shaded textbook anatomical illustration on pure white background, central uncluttered subject fills most of frame, no text, no labels, no letters, no icons, no watermark, no gore. Only target organ in rich natural color, nearby structures faint gray for context. Front-view cropped upper torso showing DEEP PURPLE SPLEEN on PERSON’S LEFT, therefore VIEWER RIGHT, tucked beneath lower left ribs. Rib cage and stomach faint light gray for orientation, spleen only colored organ. Spleen is small smooth elongated oval/bean organ lateral to stomach, not liver. No face, lower body or hands."
+  }
+]
