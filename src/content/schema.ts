@@ -80,7 +80,8 @@ export const QuizItemSchema = z.discriminatedUnion("type", [IdentifyItem, FindIt
 
 export const ActivityCardSchema = z.object({
   id: slug,
-  image: imageUrl,
+  /** Omit for a text-only matching card. */
+  image: imageUrl.optional(),
   label: z.string().min(1),
   /** The category box the picture belongs in; required when the activity has categories. */
   category: z.string().min(1).optional(),

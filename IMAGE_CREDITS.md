@@ -93,3 +93,13 @@ Four lesson illustrations and four activity pictures were generated with the bui
 | `public/images/activities/seeing-ball.webp` | Seeing a ball | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/activities/arm-command.webp` | Command to move an arm | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/activities/leg-command.webp` | Command to move a leg | AI-generated for this project; no third-party source or license asserted. |
+
+## Reproductive organs
+
+Three clinical teaching illustrations were generated with the built-in OpenAI ImageGen tool on October 25, 2026. Prompts are recorded in `docs/reproductive-image-prompts.json`. Two square anatomy diagrams and one wide 2:1 cell diagram are simplified and not to scale. The matching activity uses text cards.
+
+| File | Illustration | Source and license |
+| --- | --- | --- |
+| `public/images/reproductive-organs/ovaries-and-uterus.webp` | Ovaries, tubes, and uterus | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/reproductive-organs/testes-and-sperm.webp` | Testes and sperm | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/reproductive-organs/egg-and-sperm.webp` | An egg and a sperm | AI-generated for this project; no third-party source or license asserted. |

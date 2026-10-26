@@ -1,0 +1,22 @@
+id: reproductive-organ-jobs
+lesson: reproductive-organs
+title: Match the organs to their jobs
+prompt: Drag each job onto the matching organ name. Use the diagrams above if you need a reminder.
+labels:
+  - Hold and release egg cells
+  - Make sperm cells
+  - Provide a place where a baby can grow
+  - Form a passage from the cervix to outside the body
+cards:
+  - id: ovaries
+    label: Ovaries
+    duty: Hold and release egg cells
+  - id: testes
+    label: Testes
+    duty: Make sperm cells
+  - id: uterus
+    label: Uterus
+    duty: Provide a place where a baby can grow
+  - id: vagina
+    label: Vagina
+    duty: Form a passage from the cervix to outside the body

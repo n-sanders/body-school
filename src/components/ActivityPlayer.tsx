@@ -155,7 +155,7 @@ function ActivityBoard({ activity, onPass, completed }: { activity: Activity; on
         onDragEnd={endDrag}
         {...cardDrop}
       >
-        <img src={imageSrc(card.image)} alt="" draggable={false} />
+        {card.image && <img src={imageSrc(card.image)} alt="" draggable={false} />}
         <span className="activity-card-name">{card.label}</span>
         {isPlaced &&
           (duty ? (
@@ -185,9 +185,9 @@ function ActivityBoard({ activity, onPass, completed }: { activity: Activity; on
           className={zoneClass("activity-bank", "bank")}
           {...dropZone("bank", (p) => p.kind === "card" && placed[p.id] !== undefined, placeCard(null))}
         >
-          <h4>Pictures</h4>
+          <h4>{activity.cards.every((card) => card.image) ? "Pictures" : "Cards"}</h4>
           <div className="activity-cards">
-            {unplaced.length ? unplaced.map(pictureCard) : <p className="muted small">All pictures are placed.</p>}
+            {unplaced.length ? unplaced.map(pictureCard) : <p className="muted small">All cards are placed.</p>}
           </div>
         </div>
       )}

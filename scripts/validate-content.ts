@@ -35,7 +35,7 @@ const imageUrls = new Set<string>([
   ...lessons.flatMap((l) => l.images.map((i) => i.url)),
   ...lessons.flatMap((l) => markdownImageUrls(l.body)),
   ...lessons.flatMap((l) => l.quiz.flatMap((q) => (q.type === "identify" && q.image ? [q.image] : []))),
-  ...activities.flatMap((a) => a.cards.map((c) => c.image)),
+  ...activities.flatMap((a) => a.cards.flatMap((c) => c.image ? [c.image] : [])),
 ]);
 const localImages = [...imageUrls].filter((u) => !u.startsWith("https://"));
 const remoteImages = [...imageUrls].filter((u) => u.startsWith("https://"));

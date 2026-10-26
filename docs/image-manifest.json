@@ -382,5 +382,29 @@
     "created": "2026-10-25",
     "downloadUrl": null,
     "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/reproductive-organs/ovaries-and-uterus.webp",
+    "title": "Ovaries, tubes, and uterus",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/reproductive-organs/testes-and-sperm.webp",
+    "title": "Testes and sperm",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/reproductive-organs/egg-and-sperm.webp",
+    "title": "An egg and a sperm",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
   }
 ]

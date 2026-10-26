@@ -49,7 +49,7 @@ describe("shipped content", () => {
       catalogEnabled: site.catalog.enabled,
       activities: [...content.activities.values()],
     });
-    expect(content.activities.size).toBe(8);
+    expect(content.activities.size).toBe(9);
     expect(problems).toEqual([]);
   });
 });

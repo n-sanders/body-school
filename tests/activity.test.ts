@@ -9,15 +9,16 @@ import { ProgressStore, memoryStorage, unfinishedLessonActivities } from "../src
 
 const sort = content.activities.get("movable-and-fixed-joints")!;
 const labels = content.activities.get("bone-protection-jobs")!;
+const textLabels = content.activities.get("reproductive-organ-jobs")!;
 const empty = (): ActivityState => ({ placed: {}, duties: {} });
 
 describe("completed activity display", () => {
-  for (const activity of [labels, sort]) {
+  for (const activity of [labels, sort, textLabels]) {
     it(`keeps ${activity.id} visible with correct answers after a saved completion`, () => {
       const html = renderToStaticMarkup(createElement(ActivityPlayer, { activity, completed: true }));
       expect(html).toContain("You finished this activity.");
       for (const card of activity.cards) {
-        expect(html).toContain(card.image);
+        if (card.image) expect(html).toContain(card.image);
         expect(html).toContain(card.duty);
       }
       expect(html.match(/activity-card right/g)).toHaveLength(activity.cards.length);
@@ -28,6 +29,20 @@ describe("completed activity display", () => {
 });
 
 describe("immediate activity feedback", () => {
+  it("renders text-only organ cards and completes them with the same drop feedback", () => {
+    const html = renderToStaticMarkup(createElement(ActivityPlayer, { activity: textLabels }));
+    expect(html).not.toContain("<img");
+    for (const card of textLabels.cards) expect(html).toContain(card.label);
+    let state: ActivityState = { placed: Object.fromEntries(textLabels.cards.map((c) => [c.id, ""])), duties: {} };
+    const wrong = applyActivityDrop(textLabels, state, { kind: "duty", cardId: "ovaries", text: "Make sperm cells" });
+    expect(wrong.correct).toBe(false);
+    expect(wrong.state).toBe(state);
+    for (const card of textLabels.cards) {
+      state = applyActivityDrop(textLabels, state, { kind: "duty", cardId: card.id, text: card.duty }).state;
+    }
+    expect(activityComplete(textLabels, state)).toBe(true);
+  });
+
   it("rejects an incorrect group and accepts a correct group immediately", () => {
     const state = empty();
     const wrong = applyActivityDrop(sort, state, { kind: "place", cardId: "knee-joint", category: "Stays fixed" });
