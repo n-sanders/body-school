@@ -2,11 +2,11 @@
 id: kidneys-and-bladder
 title: Kidneys and the bladder
 unit: fuel
-summary: The kidneys and bladder filter the blood, remove liquid waste, and keep the right amount of water in the body.
+summary: The kidneys filter blood and balance water, while the bladder stores urine until it leaves the body.
 prerequisites:
   - stomach-intestines-and-liver
 objectives:
-  - The kidneys and bladder filter the blood, remove liquid waste, and keep the right amount of water in the body.
+  - The kidneys filter blood and balance water, while the bladder stores urine until it leaves the body.
 items: []
 images: []
 compare: []
@@ -27,7 +27,7 @@ quiz:
       - Store urine until the body is ready to release it
       - Absorb nutrients through finger-like projections
     answer: Remove waste chemicals and extra water while letting useful materials stay in the blood
-    explanation: As blood flows through the filters, they remove waste chemicals and extra water. Useful materials stay in the blood, and the waste and water become urine.
+    explanation: The kidneys filter the blood and return useful materials and needed water to it. Waste chemicals and extra water become urine.
   - type: question
     prompt: What is a ureter?
     choices:
@@ -55,24 +55,59 @@ quiz:
 passMark: 0.8
 ---
 
-Your blood carries waste that your cells produce and extra water that your body does not need. The urinary system filters the blood to remove that liquid waste and keeps the right amount of water in your body. The main organs are the kidneys and the bladder.
 
-You have two kidneys, one on each side of your lower back. Each kidney contains about a million tiny filters. As blood flows through these filters, they remove waste chemicals and extra water while letting useful materials stay in the blood. The cleaned blood returns to the rest of the body. The waste and water become a liquid called urine.
+## Cleaning blood and balancing water
 
-> **Activity idea:** Click on the kidneys in the body diagram. Then match the picture of a kidney filter to the job "removes waste from blood."
+Your blood carries waste that your cells produce. The urinary system removes waste and extra water from the blood and helps keep the right amount of water in your body.
 
-Urine leaves each kidney through a thin tube called a ureter. The two ureters carry the urine down into the bladder. The bladder is a stretchy, muscular sac that stores the urine until you are ready to release it. When the bladder is full, muscles in its walls tighten and push the urine out through another tube called the urethra.
+The kidneys do the filtering and make urine. The bladder stores that urine until you are ready to release it. The bladder does not filter the blood.
 
-> **Activity idea:** Put the pictures in the correct order: kidney, ureter, bladder, urethra. Then sort the organs into "filters blood" or "stores and releases urine."
+## Kidneys filter the blood {image-left 1-1 title-in-image}
 
-The urinary system works all the time, even while you sleep. The kidneys constantly check the blood and adjust how much water and waste leave the body. If you drink a lot of water, the kidneys make more urine. If you are low on water, they make less. This balance helps keep your blood at the right concentration.
+You have two kidneys, one on each side of your spine toward the back of your body, just below your ribs. Each kidney contains about a million tiny filters.
 
-Here is the path in simple steps:
+As blood flows through the kidneys, it is filtered. The kidneys return useful materials and needed water to the blood. Waste chemicals and extra water become a liquid called urine.
 
-- Blood enters the kidneys.
-- Filters remove waste and extra water.
-- Urine travels down the ureters.
-- The bladder stores the urine.
+Blood returns from the kidneys to the rest of the body through blood vessels. Urine leaves through a different tube. Blood and urine follow separate routes.
+
+![A kidney cutaway shows blood entering through a red vessel and returning to the body through a separate vessel. A yellow urine route leaves through the ureter.](/images/kidneys-and-bladder/kidney-filter.webp "The kidneys return needed water and useful materials to blood. Waste and extra water become urine.")
+
+## Follow the urine's path {image-right 1-1 title-in-image}
+
+Urine leaves each kidney through a thin tube called a ureter. You have two ureters, one from each kidney. They carry urine down into the bladder.
+
+When you release urine, it leaves the bladder through a different tube called the urethra. The names sound similar, but their jobs are different: ureters carry urine to the bladder, and the urethra carries it out of the body.
+
+![Two kidneys below the ribs connect to two ureters that carry urine down to the bladder. A single urethra carries urine out below the bladder.](/images/kidneys-and-bladder/urine-route.webp "Two ureters carry urine to the bladder. The urethra carries it out of the body.")
+
+## The bladder stores urine {image-left 1-1 title-in-image}
+
+The bladder is a stretchy, muscular sac. It expands as urine arrives from the ureters. As it fills, signals tell you that you need to go to the bathroom.
+
+When you are ready to release urine, muscles in the bladder wall tighten and push urine out through the urethra. The kidneys keep making urine while the bladder stores it.
+
+![Two panels compare a filling bladder receiving urine from its ureters and an emptying bladder whose muscular wall squeezes urine down through the urethra.](/images/kidneys-and-bladder/bladder-storage.webp "The bladder stretches to store urine. Its muscular wall squeezes when you release urine.")
+
+{activity urinary-part-jobs}
+
+## Keeping water balanced {stack title-in-image}
+
+The urinary system works all the time, even while you sleep. The kidneys adjust how much water leaves the body in urine.
+
+When your body has extra water, the kidneys let more water leave, so you make more urine. When your body needs to hold on to water, the kidneys return more water to the blood, so you make less urine. They keep filtering in both situations.
+
+This balance helps keep the right amount of water in your body.
+
+![Two panels show kidneys filtering in both situations, with more urine produced when there is extra water and less urine when the body needs to keep water.](/images/kidneys-and-bladder/water-balance.webp "The containers compare urine made over the same amount of time; they are not parts of the body. The kidneys keep filtering in both situations.")
+
+## Working together
+
+Blood and urine take different routes:
+
+- Blood enters the kidneys, is filtered, and returns to the body through blood vessels.
+- Waste and extra water become urine.
+- Urine travels down the two ureters to the bladder.
+- The bladder stores urine until you are ready to release it.
 - Urine leaves the body through the urethra.
 
-Without the kidneys and bladder, waste would build up in your blood and the amount of water in your body would be hard to control. The urinary system keeps your blood clean and your water level steady.
+The kidneys also adjust how much water stays in the body. Together, the kidneys, ureters, bladder, and urethra remove waste and help keep your water level steady.

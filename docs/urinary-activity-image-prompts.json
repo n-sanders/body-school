@@ -1,0 +1,18 @@
+[
+  {
+    "name": "kidneys",
+    "prompt": "Use case: scientific-educational. One SQUARE anatomy picture card for Body School ages 11–13. White background, centered subject with generous margins, softly shaded clean textbook illustration, natural reddish-brown kidneys and pink bladder. No gore, words, labels, arrows, letters, border, watermark, genitals or reproductive organs. Show a matching pair of complete external human kidneys, reddish-brown bean-shaped organs with concave hilums facing inward toward each other. No cutaways and no extra organs. Only short natural hilum stubs if necessary, no long ureters. Both kidneys entirely within frame."
+  },
+  {
+    "name": "ureters",
+    "prompt": "Use case: scientific-educational. One SQUARE anatomy picture card for Body School ages 11–13. White background, centered subject with generous margins, softly shaded clean textbook illustration, natural reddish-brown kidneys and pink bladder. No gore, words, labels, arrows, letters, border, watermark, genitals or reproductive organs. Clearly HIGHLIGHT exactly TWO long thin ureters in saturated golden yellow, one from each kidney to the same bladder. The kidneys at top and bladder below are VERY FAINT pale gray supporting context, not highlighted. The two gold tubes remain separate and each connects kidney hilum to bladder. No blood vessels and no highlighted urethra. Whole compact urinary arrangement within square. Tube locations recognizable at small thumbnail size."
+  },
+  {
+    "name": "bladder",
+    "prompt": "Use case: scientific-educational. One SQUARE anatomy picture card for Body School ages 11–13. White background, centered subject with generous margins, softly shaded clean textbook illustration, natural reddish-brown kidneys and pink bladder. No gore, words, labels, arrows, letters, border, watermark, genitals or reproductive organs. Show one complete pink muscular urinary bladder, a rounded pear-like sac with two short ureter stubs entering its sides and one short urethra stub exiting bottom. Bladder is the dominant recognizable organ, no kidneys, long tubes or surrounding body. Gentle soft shading, not a cross-section."
+  },
+  {
+    "name": "urethra",
+    "prompt": "Use case: scientific-educational. One SQUARE anatomy picture card for Body School ages 11–13. White background, centered subject with generous margins, softly shaded clean textbook illustration, natural reddish-brown kidneys and pink bladder. No gore, words, labels, arrows, letters, border, watermark, genitals or reproductive organs. Clearly HIGHLIGHT exactly ONE single urethra tube in saturated golden yellow leaving DOWNWARD from bottom of a VERY FAINT pale gray bladder. Bladder and two small incoming ureter stubs provide only faint supporting context. Highlight ONLY the single lower exit tube, not either incoming ureter. Tube should be large enough to recognize at thumbnail size. No kidneys, blood vessels or external genitals. Neutral simplified anatomy with whole arrangement within square."
+  }
+]

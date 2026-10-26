@@ -63,3 +63,18 @@ Four lesson illustrations and four activity pictures were generated with the bui
 | `public/images/activities/small-intestine.webp` | Small intestine | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/activities/large-intestine.webp` | Large intestine | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/activities/liver.webp` | Liver | AI-generated for this project; no third-party source or license asserted. |
+
+## Kidneys and the bladder
+
+Four lesson illustrations and four activity pictures were generated with the built-in OpenAI ImageGen tool on October 25, 2026. The lesson uses two square diagrams, a portrait 4:5 pathway, and a wide 2:1 comparison. Prompts are recorded in `docs/urinary-image-prompts.json` and `docs/urinary-activity-image-prompts.json`; vessel color corrections are recorded in `docs/urinary-image-edits.json`. These are simplified teaching illustrations, not to scale.
+
+| File | Illustration | Source and license |
+| --- | --- | --- |
+| `public/images/kidneys-and-bladder/kidney-filter.webp` | Kidneys filter the blood | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/kidneys-and-bladder/urine-route.webp` | Follow the urine's path | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/kidneys-and-bladder/bladder-storage.webp` | The bladder stores urine | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/kidneys-and-bladder/water-balance.webp` | Keeping water balanced | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/kidneys.webp` | Kidneys | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/ureters.webp` | Ureters | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/bladder.webp` | Bladder | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/urethra.webp` | Urethra | AI-generated for this project; no third-party source or license asserted. |

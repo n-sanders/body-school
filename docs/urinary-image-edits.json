@@ -1,0 +1,14 @@
+[
+  {
+    "name": "kidney-filter",
+    "prompt": "Edit ONLY the BLUE BLOOD VESSELS in this urinary anatomy illustration: recolor those blue anatomical vessel segments to dark burgundy red. Preserve red arteries, pink/red kidney tissues, pale yellow urine routes, navy text and pale-blue label panels exactly. Do not recolor typography or blue panel backgrounds. Keep every anatomical shape, arrow direction, word, label, image dimensions, composition and background unchanged. Veins should be burgundy, consistent with the lesson's convention that blood is always red."
+  },
+  {
+    "name": "water-balance",
+    "prompt": "Edit ONLY the BLUE BLOOD VESSELS in this urinary anatomy illustration: recolor those blue anatomical vessel segments to dark burgundy red. Preserve red arteries, pink/red kidney tissues, pale yellow urine routes, navy text and pale-blue label panels exactly. Do not recolor typography or blue panel backgrounds. Keep every anatomical shape, arrow direction, word, label, image dimensions, composition and background unchanged. Veins should be burgundy, consistent with the lesson's convention that blood is always red."
+  },
+  {
+    "name": "kidneys-card",
+    "prompt": "Edit ONLY the BLUE BLOOD VESSELS in this urinary anatomy illustration: recolor those blue anatomical vessel segments to dark burgundy red. Preserve red arteries, pink/red kidney tissues, pale yellow urine routes, navy text and pale-blue label panels exactly. Do not recolor typography or blue panel backgrounds. Keep every anatomical shape, arrow direction, word, label, image dimensions, composition and background unchanged. Veins should be burgundy, consistent with the lesson's convention that blood is always red."
+  }
+]

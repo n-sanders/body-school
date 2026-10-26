@@ -1,0 +1,26 @@
+id: urinary-part-jobs
+lesson: kidneys-and-bladder
+title: Label the urinary jobs
+prompt: Drag each job onto the matching part of the urinary system. Highlighted tubes show the ureters and urethra.
+labels:
+  - Filter blood and make urine
+  - Carry urine to the bladder
+  - Store urine
+  - Carry urine out of the body
+cards:
+  - id: kidneys
+    image: images/activities/kidneys.webp
+    label: Kidneys
+    duty: Filter blood and make urine
+  - id: ureters
+    image: images/activities/ureters.webp
+    label: Ureters
+    duty: Carry urine to the bladder
+  - id: bladder
+    image: images/activities/bladder.webp
+    label: Bladder
+    duty: Store urine
+  - id: urethra
+    image: images/activities/urethra.webp
+    label: Urethra
+    duty: Carry urine out of the body
