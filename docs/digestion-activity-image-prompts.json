@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stomach",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone anatomy picture card for Body School ages 11–13. White background, centered organ with generous margins, softly shaded clean textbook illustration matching the digestion lesson, natural pink and red-brown tissues, friendly non-gory. NO words, labels, arrows, letters, border, watermark, body outline, or unrelated organs. Show a complete recognizable human J-shaped stomach, external anterior view, pale pink muscular sac with subtle surface folds and small blood vessels, short esophagus entering at upper left and short pyloric outlet curving out at lower right. No food, no liver, no full intestines. Whole organ comfortably inside frame."
+  },
+  {
+    "name": "small-intestine",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone anatomy picture card for Body School ages 11–13. White background, centered organ with generous margins, softly shaded clean textbook illustration matching the digestion lesson, natural pink and red-brown tissues, friendly non-gory. NO words, labels, arrows, letters, border, watermark, body outline, or unrelated organs. Show the human small intestine alone as a long continuous pink tube arranged in natural central abdominal coils, a visibly narrow tube with several rounded loops and a short free end at each end. No surrounding colon frame, no stomach, no liver. The coils must look like connected intestine, not separate sausages or noodles. Entire coiled mass inside frame."
+  },
+  {
+    "name": "large-intestine",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone anatomy picture card for Body School ages 11–13. White background, centered organ with generous margins, softly shaded clean textbook illustration matching the digestion lesson, natural pink and red-brown tissues, friendly non-gory. NO words, labels, arrows, letters, border, watermark, body outline, or unrelated organs. Show only a complete human large intestine from front: cecum at viewer lower left, ascending colon on viewer left, transverse colon across top, descending colon on viewer right, sigmoid curving inward down to rectum and a small unobtrusive anus end. Distinctive segmented pink wide tube forming a squared horseshoe frame with EMPTY white center. No small intestine coils, no stomach, no liver. Entire organ within frame."
+  },
+  {
+    "name": "liver",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone anatomy picture card for Body School ages 11–13. White background, centered organ with generous margins, softly shaded clean textbook illustration matching the digestion lesson, natural pink and red-brown tissues, friendly non-gory. NO words, labels, arrows, letters, border, watermark, body outline, or unrelated organs. Show a single complete human liver viewed from front, a smooth reddish-brown wedge-shaped organ with a large right lobe at viewer left and smaller left lobe extending to viewer right, subtle dividing falciform ligament and natural curved lower edge. No stomach, gallbladder, bile duct, intestine, or surrounding body. Entire liver within frame, anatomically recognizable shape."
+  }
+]

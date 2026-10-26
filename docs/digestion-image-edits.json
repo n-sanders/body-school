@@ -1,0 +1,10 @@
+[
+  {
+    "name": "large-intestine",
+    "prompt": "Edit this square colon diagram. Preserve ALL anatomy, labels, title, inset, water arrows, colors and layout. Correct ONLY two misleading ORANGE food-route arrows: (1) REMOVE the curved orange arrow at the lower-left cecum that currently points RIGHT toward the small-intestine opening. Keep the upward arrows in ascending colon. (2) REMOVE the short curved orange arrow near the TOP of the sigmoid loop just above the rectum that currently points RIGHT. Keep the leftward/downward arrows approaching from the descending colon and the downward arrow in rectum. The remaining route should be unambiguously up viewer-left, across top toward viewer-right, down viewer-right, curving LEFT into sigmoid, then DOWN through rectum to anus. No arrows may point backward into small intestine or back toward descending colon. Do not change anything else."
+  },
+  {
+    "name": "liver-and-bile",
+    "prompt": "Edit ONLY the route arrows in this wide digestive diagram. Preserve the organs, bile duct anatomy, exact labels/title/legend/note, colors, white background and 2:1 composition. Fix the ORANGE food arrows at the narrow stomach outlet: the arrow along the lower stomach just left of its body currently points RIGHT, but must point LEFT toward the outlet. The next curved orange arrow above the duodenum currently points RIGHT, but must point LEFT then DOWN around the duodenal bend. Keep food flowing down esophagus into stomach, down around the stomach's right edge, then LEFT through its outlet into duodenum, then DOWN and RIGHT along the small intestine. Avoid conflicting arrows; fewer clear arrows are better. Keep the correct downward/rightward orange arrows at the lower small intestine. Also correct the tiny green arrow on the gallbladder's connecting branch so it points FROM gallbladder RIGHTWARD into the main bile duct, not upward toward liver. Keep main green arrows flowing down from liver and into small intestine. Food never enters liver. No other changes."
+  }
+]

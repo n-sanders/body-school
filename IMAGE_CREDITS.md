@@ -10,7 +10,7 @@ Lesson 1 uses three original illustrations generated with OpenAI ImageGen on Oct
 
 Illustrations are simplified teaching aids and are not to scale. The original generated PNGs were converted to WebP for web delivery.
 
-The digestive and immune activity pictures in `public/images/activities/` are temporary placeholder tiles that only show each organ's name. They will be replaced with real illustrations, and those will be credited here.
+The immune activity pictures in `public/images/activities/` are temporary placeholder tiles that only show each organ's name. They will be replaced with real illustrations, and those will be credited here.
 
 ## Bones, joints, and muscles
 
@@ -48,3 +48,18 @@ Four lesson illustrations and seven activity pictures were generated with the bu
 | `public/images/activities/windpipe.webp` | Windpipe | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/activities/heart.webp` | Heart | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/activities/blood-vessels.webp` | Blood vessels | AI-generated for this project; no third-party source or license asserted. |
+
+## Stomach, intestines, and liver
+
+Four lesson illustrations and four activity pictures were generated with the built-in OpenAI ImageGen tool on October 25, 2026. The lesson uses a portrait 4:5 diagram, two square diagrams, and a wide 2:1 diagram. Prompts are recorded in `docs/digestion-image-prompts.json` and `docs/digestion-activity-image-prompts.json`; arrow corrections are recorded in `docs/digestion-image-edits.json`. Illustrations are simplified and not to scale.
+
+| File | Illustration | Source and license |
+| --- | --- | --- |
+| `public/images/stomach-intestines-and-liver/mouth-to-stomach.webp` | From your mouth to your stomach | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/stomach-intestines-and-liver/small-intestine.webp` | The small intestine absorbs nutrients | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/stomach-intestines-and-liver/large-intestine.webp` | The large intestine absorbs water | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/stomach-intestines-and-liver/liver-and-bile.webp` | The liver helps from the sidelines | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/stomach.webp` | Stomach | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/small-intestine.webp` | Small intestine | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/large-intestine.webp` | Large intestine | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/liver.webp` | Liver | AI-generated for this project; no third-party source or license asserted. |

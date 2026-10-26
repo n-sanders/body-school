@@ -12,22 +12,22 @@ labels:
   - Help break down fats
 cards:
   - id: stomach
-    image: images/activities/stomach.png
+    image: images/activities/stomach.webp
     label: Stomach
     category: Food passes through it
     duty: Churn food
   - id: small-intestine
-    image: images/activities/small-intestine.png
+    image: images/activities/small-intestine.webp
     label: Small intestine
     category: Food passes through it
     duty: Absorb nutrients
   - id: large-intestine
-    image: images/activities/large-intestine.png
+    image: images/activities/large-intestine.webp
     label: Large intestine
     category: Food passes through it
     duty: Absorb water
   - id: liver
-    image: images/activities/liver.png
+    image: images/activities/liver.webp
     label: Liver
     category: Food does not pass through it
     duty: Help break down fats
