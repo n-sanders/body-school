@@ -5,6 +5,7 @@ import { content } from "../content/loader";
 import { useProgress } from "../hooks/useProgress";
 import { knownDueCards } from "../lib/learning";
 import { noun, site } from "../lib/site";
+import { TextSizeControl } from "./TextSizeControl";
 
 export function Layout() {
   const { progress, store } = useProgress();
@@ -22,15 +23,18 @@ export function Layout() {
         <NavLink to="/" className="brand">
           <span aria-hidden="true">{site.emoji}</span> {site.name}
         </NavLink>
-        <nav aria-label="Main">
-          <NavLink to="/learn">Learn</NavLink>
-          <NavLink to="/practice">Practice</NavLink>
-          <NavLink to="/review">
-            Review{due > 0 && <span className="badge" aria-label={`${due} due`}>{due}</span>}
-          </NavLink>
-          {site.catalog.enabled && <NavLink to="/catalog">{noun.Many}</NavLink>}
-          <NavLink to="/progress">Progress</NavLink>
-        </nav>
+        <div className="header-tools">
+          <nav aria-label="Main">
+            <NavLink to="/learn">Learn</NavLink>
+            <NavLink to="/practice">Practice</NavLink>
+            <NavLink to="/review">
+              Review{due > 0 && <span className="badge" aria-label={`${due} due`}>{due}</span>}
+            </NavLink>
+            {site.catalog.enabled && <NavLink to="/catalog">{noun.Many}</NavLink>}
+            <NavLink to="/progress">Progress</NavLink>
+          </nav>
+          <TextSizeControl />
+        </div>
       </header>
       {store.loadError && (
         <div className="banner warning" role="alert">

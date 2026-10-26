@@ -12,7 +12,10 @@ import { ItemsPage } from "./pages/ItemsPage";
 import { CreditsPage } from "./pages/CreditsPage";
 import { NotFoundPage } from "./pages/NotFoundPage";
 import { site } from "./lib/site";
+import { applyTextSize, getTextSizeStore } from "./lib/text-size";
 import "./styles.css";
+
+applyTextSize(getTextSizeStore().getSnapshot());
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
