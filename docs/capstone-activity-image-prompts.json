@@ -1,0 +1,42 @@
+[
+  {
+    "name": "front-arm-muscle",
+    "title": "Front upper-arm muscle",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 Body School organ identification card. Soft shaded clean textbook anatomy on pure white. No text, labels, letters, arrows, watermark, gore, or unrelated organs. Target colored naturally, context very faint gray. Side-view bent upper arm showing humerus faint gray, BICEPS at FRONT of upper arm highlighted red from shoulder tendon to near elbow, opposing back muscle faint gray. No brain or nerve commands, no whole person."
+  },
+  {
+    "name": "back-arm-muscle",
+    "title": "Back upper-arm muscle",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 Body School organ identification card. Soft shaded clean textbook anatomy on pure white. No text, labels, letters, arrows, watermark, gore, or unrelated organs. Target colored naturally, context very faint gray. Side-view bent upper arm showing humerus faint gray, TRICEPS at BACK of upper arm highlighted red with tendon to elbow, opposing front muscle faint gray. No brain or nerve commands, no whole person."
+  },
+  {
+    "name": "capstone-brain",
+    "title": "Brain",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 Body School organ identification card. Soft shaded clean textbook anatomy on pure white. No text, labels, letters, arrows, watermark, gore, or unrelated organs. Target colored naturally, context very faint gray. Isolated anatomically recognizable pink human brain side view, cerebral folds, cerebellum and short brainstem, no skull."
+  },
+  {
+    "name": "capstone-spinal-cord",
+    "title": "Spinal cord",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 Body School organ identification card. Soft shaded clean textbook anatomy on pure white. No text, labels, letters, arrows, watermark, gore, or unrelated organs. Target colored naturally, context very faint gray. Posterior-view pale gray neck and torso cropped at waist, vertebral column faint gray with narrow central SPINAL CORD highlighted gold inside column, short golden nerve roots. Spinal cord is nerve tissue, not bones. No brain, no genitals."
+  },
+  {
+    "name": "capstone-nerves",
+    "title": "Nerves",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 Body School organ identification card. Soft shaded clean textbook anatomy on pure white. No text, labels, letters, arrows, watermark, gore, or unrelated organs. Target colored naturally, context very faint gray. One forearm and open hand, faint translucent gray skin, fine branching golden peripheral nerves along forearm into fingers. No muscles highlighted, no brain, no whole person."
+  },
+  {
+    "name": "capstone-ovaries",
+    "title": "Ovaries",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 Body School organ identification card. Soft shaded clean textbook anatomy on pure white. No text, labels, letters, arrows, watermark, gore, or unrelated organs. Target colored naturally, context very faint gray. Front-view adult female internal reproductive tract. Two OVARIES in warm cream highlighted at sides, uterus and tubes faint gray, crop below cervix, no external anatomy, no fetus. Ovaries only colored, no egg journey."
+  },
+  {
+    "name": "capstone-uterus",
+    "title": "Uterus",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 Body School organ identification card. Soft shaded clean textbook anatomy on pure white. No text, labels, letters, arrows, watermark, gore, or unrelated organs. Target colored naturally, context very faint gray. Front-view adult female internal reproductive tract. UTERUS centrally highlighted natural pink, fallopian tubes and ovaries faint gray. Include short cervix at base, no external anatomy, no fetus."
+  },
+  {
+    "name": "capstone-testes",
+    "title": "Testes",
+    "prompt": "Use case: scientific-educational. SQUARE 1:1 Body School organ identification card. Soft shaded clean textbook anatomy on pure white. No text, labels, letters, arrows, watermark, gore, or unrelated organs. Target colored naturally, context very faint gray. Isolated adult TESTES as two small natural cream oval organs with subtle pink epididymis and short ducts, neutral medical teaching illustration. Faint simple scrotal sac outline for context, no penis, full body, legs or pubic hair. No sperm or text."
+  }
+]

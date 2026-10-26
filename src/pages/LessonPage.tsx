@@ -45,7 +45,7 @@ function LessonView({ lesson }: { lesson: Lesson }) {
         <div>
           <h1>{lesson.title}</h1>
           <p className="lead">{lesson.summary}</p>
-          <p className="muted small">About 10 minutes · read, explore an example, and answer five concept questions.</p>
+          <p className="muted small">{lesson.id === "systems-working-together" ? "Capstone review" : "About 10 minutes"} · read, explore, and answer {lesson.quiz.length} concept questions.</p>
         </div>
         <div className="lesson-status">
           <StatusBadge status={status} record={record} />
@@ -134,8 +134,9 @@ function LessonView({ lesson }: { lesson: Lesson }) {
         ) : (
           <div className="card">
             <p>
-              {lesson.quiz.length} questions. Score {Math.round(lesson.passMark * 100)}% or more to complete the
-              lesson.
+              {lesson.quiz.length} questions. {lesson.passMark === 1
+                ? "Answer every question correctly (100%)"
+                : `Score at least ${Math.round(lesson.passMark * 100)}%`} to complete the lesson.
             </p>
             <button
               className="btn primary"

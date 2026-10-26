@@ -1,0 +1,10 @@
+[
+  {
+    "name": "cells-to-body",
+    "prompt": "Edit only stage 1 \"Muscle cells\" in this scientific teaching diagram. Replace the three spindle-shaped single-nucleus cells with three long unbranched CYLINDRICAL skeletal muscle fibers, each with clear transverse striations, blunt rounded ends, and several small purple nuclei near the outer edge. They must look like skeletal muscle cells, not smooth muscle cells. Preserve EVERYTHING else: title, stages 2–5, captions, numbered badges, arrows, palette, square composition, torso and clothed child. No additional labels."
+  },
+  {
+    "name": "capstone-testes",
+    "status": "Generation blocked; text-only activity card used."
+  }
+]

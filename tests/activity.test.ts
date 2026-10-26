@@ -3,7 +3,7 @@ import { createElement } from "react";
 import { renderToStaticMarkup } from "react-dom/server";
 import { ActivityPlayer } from "../src/components/ActivityPlayer";
 import { content } from "../src/content/loader";
-import { activityComplete, applyActivityDrop, type ActivityState } from "../src/lib/activity";
+import { activityComplete, activityRounds, applyActivityDrop, type ActivityState } from "../src/lib/activity";
 import { activityCard } from "../src/lib/cards";
 import { ProgressStore, memoryStorage, unfinishedLessonActivities } from "../src/lib/progress";
 
@@ -19,7 +19,7 @@ describe("completed activity display", () => {
       expect(html).toContain("You finished this activity.");
       for (const card of activity.cards) {
         if (card.image) expect(html).toContain(card.image);
-        expect(html).toContain(card.duty);
+        if (card.duty) expect(html).toContain(card.duty);
       }
       expect(html.match(/activity-card right/g)).toHaveLength(activity.cards.length);
       expect(html).not.toContain('draggable="true"');
@@ -38,7 +38,7 @@ describe("immediate activity feedback", () => {
     expect(wrong.correct).toBe(false);
     expect(wrong.state).toBe(state);
     for (const card of textLabels.cards) {
-      state = applyActivityDrop(textLabels, state, { kind: "duty", cardId: card.id, text: card.duty }).state;
+      state = applyActivityDrop(textLabels, state, { kind: "duty", cardId: card.id, text: card.duty! }).state;
     }
     expect(activityComplete(textLabels, state)).toBe(true);
   });
@@ -66,7 +66,7 @@ describe("immediate activity feedback", () => {
   it("finishes a label-only activity on the last correct drop", () => {
     let state: ActivityState = { placed: Object.fromEntries(labels.cards.map((c) => [c.id, ""])), duties: {} };
     for (const [i, card] of labels.cards.entries()) {
-      state = applyActivityDrop(labels, state, { kind: "duty", cardId: card.id, text: card.duty }).state;
+      state = applyActivityDrop(labels, state, { kind: "duty", cardId: card.id, text: card.duty! }).state;
       expect(activityComplete(labels, state)).toBe(i === labels.cards.length - 1);
     }
   });
@@ -78,7 +78,7 @@ describe("immediate activity feedback", () => {
     }
     expect(activityComplete(sort, state)).toBe(false);
     for (const card of sort.cards) {
-      state = applyActivityDrop(sort, state, { kind: "duty", cardId: card.id, text: card.duty }).state;
+      state = applyActivityDrop(sort, state, { kind: "duty", cardId: card.id, text: card.duty! }).state;
     }
     expect(activityComplete(sort, state)).toBe(true);
     const removed = applyActivityDrop(sort, state, { kind: "place", cardId: "knee-joint", category: null });
@@ -109,5 +109,55 @@ describe("lesson activity quiz gate", () => {
     expect(unfinishedLessonActivities(store.getSnapshot(), "## Reading only")).toEqual([]);
     store.recordAnswer(activityCard("immune-organ-jobs"), true);
     expect(unfinishedLessonActivities(store.getSnapshot(), body)).toHaveLength(2);
+  });
+});
+
+
+describe("capstone sorting rounds", () => {
+  const capstone = content.activities.get("body-systems-sort")!;
+  const lesson = content.lessons.get("systems-working-together")!;
+
+  it("covers nine systems in three eight-card rounds and needs no job labels", () => {
+    const rounds = activityRounds(capstone);
+    expect(rounds.map((r) => r.cards.length)).toEqual([8, 8, 8]);
+    expect(new Set(rounds.flatMap((r) => r.categories!)).size).toBe(9);
+    expect(new Set(rounds.flatMap((r) => r.cards.map((c) => c.id))).size).toBe(24);
+    const wrong = applyActivityDrop(rounds[0], empty(), { kind: "place", cardId: "skull", category: "Nervous" });
+    expect(wrong.correct).toBe(false);
+    expect(wrong.state.placed).toEqual({});
+    for (const round of rounds) {
+      let state = empty();
+      for (const [i, card] of round.cards.entries()) {
+        state = applyActivityDrop(round, state, { kind: "place", cardId: card.id, category: card.category! }).state;
+        expect(activityComplete(round, state)).toBe(i === round.cards.length - 1);
+      }
+      expect(state.duties).toEqual({});
+    }
+  });
+
+  it("starts with only round one and restores every solved round after completion", () => {
+    const initial = renderToStaticMarkup(createElement(ActivityPlayer, { activity: capstone }));
+    expect(initial).toContain("Round 1 of 3");
+    expect(initial).not.toContain("Round 2 of 3");
+    expect(initial).not.toContain("Drop a job here");
+    expect(initial).not.toContain("<h4>Jobs</h4>");
+    const saved = renderToStaticMarkup(createElement(ActivityPlayer, { activity: capstone, completed: true }));
+    expect(saved).toContain("Round 3 of 3");
+    expect(saved.match(/activity-card right/g)).toHaveLength(24);
+    expect(saved).not.toContain('draggable="true"');
+    expect(saved).toContain("You finished this activity.");
+  });
+
+  it("gates the capstone quiz and requires all ten quiz answers to be correct", () => {
+    expect(lesson.quiz).toHaveLength(10);
+    expect(lesson.passMark).toBe(1);
+    const store = new ProgressStore(memoryStorage());
+    expect(unfinishedLessonActivities(store.getSnapshot(), lesson.body)).toEqual([capstone.id]);
+    store.recordAnswer(activityCard(capstone.id), false);
+    expect(unfinishedLessonActivities(store.getSnapshot(), lesson.body)).toEqual([]);
+    store.recordQuiz(lesson.id, 0.9, lesson.passMark);
+    expect(store.getSnapshot().lessons[lesson.id].completed).toBeNull();
+    store.recordQuiz(lesson.id, 1, lesson.passMark);
+    expect(store.getSnapshot().lessons[lesson.id].completed?.method).toBe("quiz");
   });
 });

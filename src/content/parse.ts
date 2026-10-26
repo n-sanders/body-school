@@ -175,8 +175,18 @@ export function checkIntegrity(
     for (const d of duplicates(activity.cards.map((c) => c.id))) problems.push(`${where}: duplicate card '${d}'`);
     for (const d of duplicates(activity.labels)) problems.push(`${where}: duplicate label '${d}'`);
     for (const d of duplicates(activity.categories ?? [])) problems.push(`${where}: duplicate category '${d}'`);
+    if (activity.mode === "sort" && !activity.categories) problems.push(`${where}: sorting requires categories`);
+    if (activity.mode !== "sort" && activity.labels.length < 2) problems.push(`${where}: matching requires at least two labels`);
+    if (activity.rounds) {
+      const roundCategories = activity.rounds.flatMap((round) => round.categories);
+      for (const category of activity.categories ?? [])
+        if (roundCategories.filter((c) => c === category).length !== 1)
+          problems.push(`${where}: category '${category}' must appear in exactly one round`);
+      for (const category of roundCategories)
+        if (!activity.categories?.includes(category)) problems.push(`${where}: unknown round category '${category}'`);
+    }
     for (const card of activity.cards) {
-      if (!activity.labels.includes(card.duty)) problems.push(`${where}: card '${card.id}' has unknown duty '${card.duty}'`);
+      if (activity.mode !== 'sort' && (!card.duty || !activity.labels.includes(card.duty))) problems.push(`${where}: card '${card.id}' has unknown duty '${card.duty}'`);
       if (activity.categories && !(card.category && activity.categories.includes(card.category)))
         problems.push(`${where}: card '${card.id}' has unknown category '${card.category ?? ""}'`);
       if (!activity.categories && card.category)

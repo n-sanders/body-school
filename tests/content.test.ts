@@ -23,7 +23,7 @@ describe("shipped content", () => {
     order.forEach((id, i) => {
       const lesson = content.lessons.get(id)!;
       expect(lesson.body.length).toBeGreaterThan(0);
-      expect(lesson.quiz).toHaveLength(5);
+      expect(lesson.quiz).toHaveLength(id === "systems-working-together" ? 10 : 5);
       expect(lesson.images).toEqual([]);
       expect(lesson.prerequisites).toEqual(i === 0 ? [] : [order[i - 1]]);
       if (i > 0) expect(lesson.body).toMatch(/\*\*Activity idea:\*\*|^\{activity [a-z0-9-]+\}$/m);
@@ -49,7 +49,7 @@ describe("shipped content", () => {
       catalogEnabled: site.catalog.enabled,
       activities: [...content.activities.values()],
     });
-    expect(content.activities.size).toBe(9);
+    expect(content.activities.size).toBe(10);
     expect(problems).toEqual([]);
   });
 });
@@ -123,6 +123,16 @@ describe("activity checks", () => {
     expect(check({ ...sorted, cards: [card("aa", "Left", "Pump"), card("bb", "Right", "Sing")] })).toMatch(
       /card 'bb' has unknown duty 'Sing'/,
     );
+  });
+
+  it("rejects missing or repeated round destinations", () => {
+    const problems = check({ ...sorted, rounds: [
+      { title: "One", categories: ["Left", "Unknown"] },
+      { title: "Two", categories: ["Left", "Unknown"] },
+    ] });
+    expect(problems).toContain("category 'Left' must appear in exactly one round");
+    expect(problems).toContain("category 'Right' must appear in exactly one round");
+    expect(problems).toContain("unknown round category 'Unknown'");
   });
 
   it("catches duplicate cards and unknown lessons", () => {

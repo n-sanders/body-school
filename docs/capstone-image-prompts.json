@@ -1,0 +1,14 @@
+[
+  {
+    "name": "systems-help-move",
+    "title": "Systems help you move",
+    "ratio": "2:1",
+    "prompt": "Use case: scientific-educational. Body School textbook illustration on pure white, soft shaded anatomical art, large bold navy sans-serif title and labels in pale blue panels, no gore, watermark, tiny type, or anthropomorphic organs. WIDE 2:1. Exact title \"Systems help you move\". Central small fully clothed child catching a ball, normal limbs. Five separated generous vignettes around center: brain with nerves caption \"Nervous: sends commands\"; arm bone and skeletal muscle caption \"Muscles and bones: create movement\"; lungs caption \"Respiratory: brings in oxygen\"; heart and vessels caption \"Circulatory: delivers oxygen and nutrients\"; stomach and intestines caption \"Digestive: makes nutrients available\". Use thin neutral navy connector lines from vignettes toward central action, NOT arrows between organs. No shared pipe or circular route mixing air, food, blood, nerve messages. Keep organs anatomically recognizable, labels readable. No extra people, body cutaways, detailed fingers, or organ faces."
+  },
+  {
+    "name": "cells-to-body",
+    "title": "From cells to the whole body",
+    "ratio": "1:1",
+    "prompt": "Use case: scientific-educational. Body School textbook illustration on pure white, soft shaded anatomical art, large bold navy sans-serif title and labels in pale blue panels, no gore, watermark, tiny type, or anthropomorphic organs. SQUARE 1:1. Exact title \"From cells to the whole body\". Five spacious stages on a winding reading path across rows with clear small navy arrows between stages: \"Muscle cells\" shows three separate long parallel striated muscle fibers; \"Muscle tissue\" shows an organized bundle of striated fibers; \"Arm muscle\" shows one whole red fusiform skeletal muscle with pale tendons at both ends; \"Muscular system\" shows neutral front-view muscular torso and arms cropped at waist, only muscles no genital anatomy; \"Whole person\" shows a small fully clothed child standing. All drawings distinct with generous white space and numbered 1–5 beside captions. The sequence explains levels of organization, NOT growth or one cell turning into a person. Bottom note \"Levels of organization • not to scale\". No fetus, embryo, cell division, lower-body anatomical cutaway, or extra text."
+  }
+]

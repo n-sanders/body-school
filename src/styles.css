@@ -865,3 +865,14 @@ kbd {
   margin: 0.25rem 0 0;
   font-size: 0.9rem;
 }
+
+.activity-round + .activity-round { margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--border); }
+
+@media (min-width: 960px) {
+  .activity[data-sort-only="true"] .activity-groups { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (min-width: 1200px) {
+  .activity[data-sort-only="true"] .activity-card { width: 7rem; }
+}
+
+.activity[data-sort-only="true"] .activity-card:not(:has(img)) { min-height: 8.5rem; justify-content: center; }

@@ -86,7 +86,7 @@ export const ActivityCardSchema = z.object({
   /** The category box the picture belongs in; required when the activity has categories. */
   category: z.string().min(1).optional(),
   /** The duty label that belongs on the picture. */
-  duty: z.string().min(1),
+  duty: z.string().min(1).optional(),
 });
 
 export const ActivitySchema = z.object({
@@ -94,11 +94,26 @@ export const ActivitySchema = z.object({
   lesson: slug,
   title: z.string().min(1),
   prompt: z.string().min(1),
+  /** Sort-only activities require categories but no job labels. */
+  mode: z.enum(["match", "sort"]).optional(),
+  rounds: z.array(z.object({
+    title: z.string().min(1),
+    categories: z.array(z.string().min(1)).min(2),
+  })).min(2).optional(),
   /** When omitted, every picture starts placed and the learner only drags labels. */
   categories: z.array(z.string().min(1)).min(2).optional(),
   /** A reusable palette: a label can go on more than one picture, and unused labels act as distractors. */
-  labels: z.array(z.string().min(1)).min(2),
+  labels: z.array(z.string().min(1)).default([]),
   cards: z.array(ActivityCardSchema).min(2),
+}).superRefine((activity, ctx) => {
+  if (activity.mode === "sort") {
+    if (!activity.categories) ctx.addIssue({ code: "custom", path: ["categories"], message: "sorting requires categories" });
+  } else {
+    if (activity.labels.length < 2) ctx.addIssue({ code: "custom", path: ["labels"], message: "matching requires at least two labels" });
+    activity.cards.forEach((card, i) => {
+      if (!card.duty) ctx.addIssue({ code: "custom", path: ["cards", i, "duty"], message: "matching cards require a duty" });
+    });
+  }
 });
 
 export const LessonImageSchema = z.object({

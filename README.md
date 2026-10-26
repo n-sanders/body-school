@@ -14,7 +14,7 @@ The course has nine lessons:
 8. **The immune system** — how white blood cells and their organs find and fight germs.
 9. **Systems working together** — how the systems depend on one another to keep the body alive.
 
-Some lessons include an interactive activity, and the same activity can be practiced again later. Each drop gives immediate feedback; incorrect answers return to their starting position, and the activity completes automatically when every answer is correct. Complete all embedded activities to unlock that lesson's quiz, along with any prerequisite lessons. Activity completion is saved in this browser. The other activity ideas are still written in the lessons as placeholders. Illustration provenance is recorded in [image credits](IMAGE_CREDITS.md).
+Some lessons include an interactive activity, and the same activity can be practiced again later. Each drop gives immediate feedback; incorrect answers return to their starting position, and the activity completes automatically when every answer is correct. Complete all embedded activities to unlock that lesson's quiz, along with any prerequisite lessons. Activity completion is saved in this browser. The capstone sorts 24 body-part cards across nine systems in three rounds, then offers a ten-question quiz requiring 100%. Completed rounds stay visible, and all rounds must be finished to unlock its quiz. Illustration provenance is recorded in [image credits](IMAGE_CREDITS.md).
 
 Practice and spaced Review use the lesson questions. Progress is saved only in this browser, under `body-school.progress.v2`.
 

@@ -2,74 +2,161 @@
 id: systems-working-together
 title: Systems working together
 unit: together
-summary: Cells, tissues, organs, and systems work together so the body can live, move, grow, and stay healthy.
+summary: Review the major systems and discover how they work together to keep the whole body healthy.
 prerequisites:
   - immune-system
 objectives:
-  - Cells, tissues, organs, and systems work together so the body can live, move, grow, and stay healthy.
+  - Sort major body parts into the nine systems studied in this course.
+  - Explain how several systems contribute to movement and support one another.
+  - Connect cells, tissues, organs, systems, and the whole body.
 items: []
 images: []
 compare: []
 sources: []
 quiz:
   - type: question
-    prompt: What is the order from smallest to largest in the lesson's chain?
+    prompt: "Which order goes from the smallest level to the largest?"
     choices:
-      - Cells, tissues, organs, systems
-      - Systems, organs, tissues, cells
-      - Organs, cells, systems, tissues
-    answer: Cells, tissues, organs, systems
-    explanation: Cells build tissues, tissues build organs, and organs build systems. Systems then work as a team.
+      - "Cells, tissues, organs, systems"
+      - "Organs, cells, systems, tissues"
+      - "Systems, organs, tissues, cells"
+    answer: "Cells, tissues, organs, systems"
+    explanation: "Cells form tissues, tissues form organs, and organs work together in systems."
   - type: question
-    prompt: Why do muscles need the circulatory and respiratory systems?
+    prompt: "How do skeletal muscles move your arm?"
     choices:
-      - Muscles need the oxygen those systems deliver in order to move
-      - Those systems tell muscles when to contract
-      - Those systems break food down into fuel
-    answer: Muscles need the oxygen those systems deliver in order to move
-    explanation: Muscles need oxygen from the circulatory and respiratory systems in order to move. The brain tells muscles when to contract, and the digestive system supplies fuel.
+      - "They contract and pull on bones"
+      - "They push bones away from joints"
+      - "They pump blood through the bones"
+    answer: "They contract and pull on bones"
+    explanation: "Muscles pull when they contract. Opposing muscles help move a joint in different directions."
   - type: question
-    prompt: Which system tells muscles when to contract?
+    prompt: "What happens at the tiny air sacs in your lungs?"
     choices:
-      - The nervous system
-      - The urinary system
-      - The immune system
-    answer: The nervous system
-    explanation: The brain, part of the nervous system, tells the muscles when to contract.
+      - "Oxygen enters the blood and carbon dioxide leaves it"
+      - "Food is broken down into nutrients"
+      - "Blood is turned into air"
+    answer: "Oxygen enters the blood and carbon dioxide leaves it"
+    explanation: "Oxygen crosses into nearby blood vessels, while carbon dioxide crosses from the blood into the air sacs to be breathed out."
   - type: question
-    prompt: What does the urinary system do for the other systems?
+    prompt: "Which blood vessels carry blood away from the heart?"
     choices:
-      - Keeps the blood clean so the other systems can work well
-      - Supplies the fuel that every cell uses
-      - Protects them from illness by fighting germs
-    answer: Keeps the blood clean so the other systems can work well
-    explanation: The urinary system keeps the blood clean so the other systems can work well. The digestive system supplies fuel, and the immune system protects the body from illness.
+      - "Arteries"
+      - "Veins"
+      - "Ureters"
+    answer: "Arteries"
+    explanation: "Arteries carry blood away from the heart. Veins return blood to it, and capillaries allow exchange with tissues."
   - type: question
-    prompt: In the city analogy, what are the systems?
+    prompt: "Where are most nutrients from digested food absorbed into the blood?"
     choices:
-      - The services, such as roads, power, water, and defense, that keep the city running
-      - The workers
-      - The buildings
-    answer: The services, such as roads, power, water, and defense, that keep the city running
-    explanation: Cells are the workers, organs are the buildings, and systems are the services that keep the city running.
-passMark: 0.8
+      - "The small intestine"
+      - "The large intestine"
+      - "The bladder"
+    answer: "The small intestine"
+    explanation: "The small intestine absorbs most nutrients. The large intestine absorbs water from what remains."
+  - type: question
+    prompt: "Which statement correctly describes the urinary system?"
+    choices:
+      - "Kidneys make urine, and the bladder stores it"
+      - "The bladder filters blood, and kidneys store urine"
+      - "Ureters carry urine directly outside the body"
+    answer: "Kidneys make urine, and the bladder stores it"
+    explanation: "Kidneys filter blood and make urine. Ureters carry urine to the bladder, and the urethra carries it out of the body."
+  - type: question
+    prompt: "Which message travels toward the brain or spinal cord?"
+    choices:
+      - "A sensory message about touching something"
+      - "A motor command telling an arm muscle to contract"
+      - "Blood carrying nutrients to a muscle"
+    answer: "A sensory message about touching something"
+    explanation: "Sensory messages carry information inward. Motor commands travel toward muscles and other targets."
+  - type: question
+    prompt: "Where can a developing baby grow after implantation?"
+    choices:
+      - "In the uterus"
+      - "In an ovary"
+      - "In a testis"
+    answer: "In the uterus"
+    explanation: "Ovaries hold and release eggs, testes make sperm, and a developing embryo can attach to the lining of the uterus and continue growing."
+  - type: question
+    prompt: "Which immune organ filters blood and helps respond to germs in it?"
+    choices:
+      - "The spleen"
+      - "The thymus"
+      - "The stomach"
+    answer: "The spleen"
+    explanation: "The spleen filters blood. Lymph nodes filter lymph, while the thymus helps T cells mature."
+  - type: question
+    prompt: "Why does catching a ball need several systems working together?"
+    choices:
+      - "Nerves direct muscles, muscles pull bones, and blood delivers oxygen and nutrients"
+      - "The lungs send motor commands directly to the arm"
+      - "The skeletal system supplies all the oxygen muscles need"
+    answer: "Nerves direct muscles, muscles pull bones, and blood delivers oxygen and nutrients"
+    explanation: "The nervous, muscular, skeletal, respiratory, circulatory, and digestive systems all contribute to movement."
+passMark: 1
 ---
 
-You have learned that the human body is built from cells. Cells form tissues, tissues form organs, and organs form systems. Each system has its own job, and all the systems work together so you can live, move, grow, and stay healthy.
+## Many systems, one body
 
-The skeletal and muscular systems give your body shape, protect organs, and let you move. The circulatory and respiratory systems deliver oxygen to every cell and remove carbon dioxide. The digestive system breaks down food so your body can absorb fuel, and the urinary system filters the blood to remove liquid waste. The nervous system carries information and decides how to respond. The reproductive system makes it possible for a new baby to begin. The immune system uses special white blood cells and organs to fight germs.
+You have explored how the body is built and what its major systems do. Each system has a particular job, but none works alone. Together they help you live, move, grow, and stay healthy.
 
-> **Activity idea:** Look at the full-body diagram. Click each system and watch it light up. Then match the system name to its main job.
+Here are the nine systems we studied:
 
-These systems depend on one another. Your muscles need oxygen from the circulatory and respiratory systems in order to move. Your brain, part of the nervous system, tells the muscles when to contract. The digestive system supplies the fuel that every cell uses, and the urinary system keeps the blood clean so the other systems can work well. The immune system protects all of them from illness. Even the reproductive system relies on the others to keep the body healthy enough to grow a baby.
+- **Skeletal:** supports the body and protects organs.
+- **Muscular:** pulls on bones to create movement.
+- **Respiratory:** brings in oxygen and removes carbon dioxide.
+- **Circulatory:** moves blood, delivering oxygen and nutrients and carrying away waste.
+- **Digestive:** breaks down food and absorbs nutrients.
+- **Urinary:** removes waste from blood and helps balance water.
+- **Nervous:** carries information and directs responses.
+- **Reproductive:** makes reproduction possible.
+- **Immune:** finds and fights germs.
 
-> **Activity idea:** Sort the picture cards into groups that show systems working together. For example, place the heart, lungs, and muscles together, or place the brain and muscles together.
+## Which parts belong together?
 
-Here is the big picture in one chain:
+Sort the major organs and structures into the systems you learned about. There are **three rounds with eight cards each**. Each round includes three systems.
 
-- Cells build tissues.
-- Tissues build organs.
-- Organs build systems.
-- Systems work as a team to keep the whole body alive.
+These groups show the main role we studied for each part. Body parts can help other systems too. For example, marrow inside bones makes blood cells that help the immune system. The arm-muscle cards here show skeletal muscles, the muscles that pull on bones.
 
-You can think of your body as a city. Cells are the workers, organs are the buildings, and systems are the services—roads, power, water, and defense—that keep the city running. When you understand how the levels fit together and how the systems cooperate, you can see why every part matters.
+{activity body-systems-sort}
+
+## Systems help you move {stack title-in-image}
+
+Imagine catching a ball. Your eyes detect it, and sensory messages carry information to your brain. Your brain helps choose a response and sends motor commands through the spinal cord and nerves to your arm muscles.
+
+Your muscles contract and pull on bones at the joints. But that movement also needs supplies. Your lungs bring oxygen into your body, and oxygen passes into the blood. Your digestive system breaks down food and absorbs nutrients. Your circulatory system delivers oxygen and nutrients to working muscles.
+
+![A child catches a ball, surrounded by separate examples of the nervous system sending commands, muscles and bones creating movement, lungs bringing in oxygen, circulation delivering oxygen and nutrients, and digestion making nutrients available.](/images/systems-working-together/systems-help-move.webp "Several systems contribute to the same action. The connecting lines show contributions, not a shared pathway for food, air, blood, and nerve messages.")
+
+## Support behind the scenes
+
+Other systems help keep the whole body ready for action. Your **kidneys** filter blood, remove waste in urine, and help balance water. Your **immune system** helps fight germs that could make you ill.
+
+The **reproductive system** also depends on the others. A growing baby needs oxygen and nutrients delivered by blood, and the parent's other systems help keep the body healthy during pregnancy.
+
+The systems are connected. A change in one can affect the others. They support one another even when you are resting.
+
+## From cells to the whole body {image-right 1-1 title-in-image}
+
+The big picture begins with tiny parts:
+
+1. **Cells** are the smallest living building blocks of the body.
+2. Similar cells working together form **tissues**.
+3. Different tissues work together in **organs**, such as an arm muscle.
+4. Organs work together in **systems**, such as the muscular system.
+5. All the systems contribute to the **whole body**.
+
+A whole arm muscle contains more than muscle tissue: it also has nerves, blood vessels, and supporting tissue. Its work depends on other systems too.
+
+The image compares levels of organization. It does not show one cell growing into a whole person.
+
+![A sequence connects muscle cells, a bundle of muscle tissue, one whole arm muscle, the muscular system, and a fully clothed person.](/images/systems-working-together/cells-to-body.webp "Cells, tissues, organs, systems, and the whole body are connected levels of organization. The examples are not shown to scale.")
+
+## Working together
+
+You can think of your body as a city. Cells are the workers, organs are the buildings, and systems are the services that keep the city running. Each contributes something the others need.
+
+The key idea is teamwork: small parts form larger structures, and systems depend on one another to keep the whole body alive and healthy.
+
+**Course review:** Complete all three sorting rounds, then answer ten questions drawn from the whole course. You need **10 out of 10 (100%)** to pass this capstone. You can review the lessons and try again.

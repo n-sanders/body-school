@@ -1,0 +1,127 @@
+id: body-systems-sort
+lesson: systems-working-together
+title: Sort the body parts into their systems
+prompt: Drag each card into its system. Finish this round to open the next one. Correct answers stay in place.
+mode: sort
+categories:
+  - Skeletal
+  - Muscular
+  - Nervous
+  - Respiratory
+  - Circulatory
+  - Digestive
+  - Urinary
+  - Reproductive
+  - Immune
+rounds:
+  - title: Support and signals
+    categories:
+      - Skeletal
+      - Muscular
+      - Nervous
+  - title: Oxygen and nutrients
+    categories:
+      - Respiratory
+      - Circulatory
+      - Digestive
+  - title: Care and protection
+    categories:
+      - Urinary
+      - Reproductive
+      - Immune
+cards:
+  - id: skull
+    label: Skull
+    image: images/activities/skull.webp
+    category: Skeletal
+  - id: ribs
+    label: Ribs
+    image: images/activities/ribs.webp
+    category: Skeletal
+  - id: spine
+    label: Spine
+    image: images/activities/spine.webp
+    category: Skeletal
+  - id: front-arm-muscle
+    label: Front upper-arm muscle
+    image: images/activities/front-arm-muscle.webp
+    category: Muscular
+  - id: back-arm-muscle
+    label: Back upper-arm muscle
+    image: images/activities/back-arm-muscle.webp
+    category: Muscular
+  - id: brain
+    label: Brain
+    image: images/activities/capstone-brain.webp
+    category: Nervous
+  - id: spinal-cord
+    label: Spinal cord
+    image: images/activities/capstone-spinal-cord.webp
+    category: Nervous
+  - id: nerves
+    label: Nerves
+    image: images/activities/capstone-nerves.webp
+    category: Nervous
+  - id: lungs
+    label: Lungs
+    image: images/activities/lungs.webp
+    category: Respiratory
+  - id: windpipe
+    label: Windpipe
+    image: images/activities/windpipe.webp
+    category: Respiratory
+  - id: heart
+    label: Heart
+    image: images/activities/heart.webp
+    category: Circulatory
+  - id: blood-vessels
+    label: Blood vessels
+    image: images/activities/blood-vessels.webp
+    category: Circulatory
+  - id: stomach
+    label: Stomach
+    image: images/activities/stomach.webp
+    category: Digestive
+  - id: small-intestine
+    label: Small intestine
+    image: images/activities/small-intestine.webp
+    category: Digestive
+  - id: large-intestine
+    label: Large intestine
+    image: images/activities/large-intestine.webp
+    category: Digestive
+  - id: liver
+    label: Liver
+    image: images/activities/liver.webp
+    category: Digestive
+  - id: kidneys
+    label: Kidneys
+    image: images/activities/kidneys.webp
+    category: Urinary
+  - id: bladder
+    label: Bladder
+    image: images/activities/bladder.webp
+    category: Urinary
+  - id: ovaries
+    label: Ovaries
+    image: images/activities/capstone-ovaries.webp
+    category: Reproductive
+  - id: uterus
+    label: Uterus
+    image: images/activities/capstone-uterus.webp
+    category: Reproductive
+  - id: testes
+    label: Testes
+    category: Reproductive
+  - id: thymus
+    label: Thymus
+    image: images/activities/immune-thymus.webp
+    category: Immune
+  - id: spleen
+    label: Spleen
+    image: images/activities/immune-spleen.webp
+    category: Immune
+  - id: lymph-nodes
+    label: Lymph nodes
+    image: images/activities/immune-lymph-nodes.webp
+    category: Immune

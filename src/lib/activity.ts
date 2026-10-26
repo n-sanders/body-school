@@ -9,12 +9,27 @@ export type ActivityDrop =
   | { kind: "place"; cardId: string; category: string | null }
   | { kind: "duty"; cardId: string; text: string | null; sourceId?: string };
 
-export function activityComplete(activity: Activity, state: ActivityState): boolean {
-  return activity.cards.every((card) =>
-    state.placed[card.id] !== undefined &&
+export function activityCardComplete(activity: Activity, state: ActivityState, card: Activity["cards"][number]): boolean {
+  return state.placed[card.id] !== undefined &&
     (!activity.categories || state.placed[card.id] === card.category) &&
-    state.duties[card.id] === card.duty,
-  );
+    (activity.mode === "sort" || state.duties[card.id] === card.duty);
+}
+
+export function activityComplete(activity: Activity, state: ActivityState): boolean {
+  return activity.cards.every((card) => activityCardComplete(activity, state, card));
+}
+
+/** Each category belongs to exactly one authored round. */
+export function activityRounds(activity: Activity): Activity[] {
+  if (!activity.rounds) return [activity];
+  return activity.rounds.map((round, index) => ({
+    ...activity,
+    id: `${activity.id}-round-${index + 1}`,
+    title: round.title,
+    rounds: undefined,
+    categories: round.categories,
+    cards: activity.cards.filter((card) => round.categories.includes(card.category!)),
+  }));
 }
 
 /** Reject wrong answers without disturbing earlier correct work. */
@@ -22,7 +37,7 @@ export function applyActivityDrop(activity: Activity, state: ActivityState, drop
   const card = activity.cards.find((c) => c.id === drop.cardId)!;
   const correct = drop.kind === "place"
     ? drop.category === null || drop.category === card.category
-    : drop.text === null || drop.text === card.duty;
+    : activity.mode !== "sort" && (drop.text === null || drop.text === card.duty);
   if (!correct) {
     return { state, correct: false, feedback: `Not quite. Try another ${drop.kind === "place" ? "group" : "job"} for ${card.label}.` };
   }

@@ -116,3 +116,19 @@ Four lesson illustrations and four organ activity pictures were generated with t
 | `public/images/activities/immune-thymus.webp` | Thymus | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/activities/immune-lymph-nodes.webp` | Lymph nodes | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/activities/immune-spleen.webp` | Spleen | AI-generated for this project; no third-party source or license asserted. |
+
+## Systems working together
+
+Two lesson illustrations and seven new activity pictures were generated with the built-in OpenAI ImageGen tool on October 25, 2026. Sixteen activity pictures are reused from earlier lessons, and the testes card uses text after image generation was blocked. Prompts are in `docs/capstone-image-prompts.json` and `docs/capstone-activity-image-prompts.json`; refinements and the text fallback are recorded in `docs/capstone-image-edits.json`. All illustrations are simplified teaching aids.
+
+| File | Illustration | Source and license |
+| --- | --- | --- |
+| `public/images/systems-working-together/systems-help-move.webp` | Systems help you move | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/systems-working-together/cells-to-body.webp` | From cells to the whole body | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/front-arm-muscle.webp` | Front upper-arm muscle | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/back-arm-muscle.webp` | Back upper-arm muscle | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/capstone-brain.webp` | Brain | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/capstone-spinal-cord.webp` | Spinal cord | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/capstone-nerves.webp` | Nerves | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/capstone-ovaries.webp` | Ovaries | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/capstone-uterus.webp` | Uterus | AI-generated for this project; no third-party source or license asserted. |

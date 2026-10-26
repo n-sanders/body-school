@@ -1,6 +1,6 @@
 import { useRef, useState, type DragEvent } from "react";
 import type { Activity, ActivityCard } from "../content/schema";
-import { activityComplete, applyActivityDrop, type ActivityDrop, type ActivityState } from "../lib/activity";
+import { activityCardComplete, activityRounds, activityComplete, applyActivityDrop, type ActivityDrop, type ActivityState } from "../lib/activity";
 import { shuffle } from "../lib/random";
 
 interface Props {
@@ -21,24 +21,38 @@ function imageSrc(url: string) {
 }
 
 export function ActivityPlayer({ activity, onComplete, completed = false }: Props) {
-  const [finished, setFinished] = useState(false);
+  const [results, setResults] = useState<Record<number, boolean>>({});
+  const rounds = activityRounds(activity);
+  const finished = completed || rounds.every((_, i) => results[i] !== undefined);
 
   return (
-    <section className="activity" aria-label={activity.title} data-completed={finished || completed}>
+    <section className="activity" aria-label={activity.title} data-completed={finished} data-sort-only={activity.mode === "sort"}>
       <h3>{activity.title}</h3>
-      <ActivityBoard
-        activity={activity}
-        completed={finished || completed}
-        onPass={(correct) => {
-          setFinished(true);
-          onComplete?.(correct);
-        }}
-      />
+      {rounds.map((round, index) => {
+        if (!completed && index > 0 && results[index - 1] === undefined) return null;
+        return (
+          <div key={round.id} className={activity.rounds ? "activity-round" : undefined}>
+            {activity.rounds && <h4>Round {index + 1} of {rounds.length}: {round.title}</h4>}
+            <ActivityBoard
+              activity={round}
+              completed={completed || results[index] !== undefined}
+              completionText={activity.rounds ? "Round complete." : undefined}
+              onPass={(correct) => {
+                const next = { ...results, [index]: correct };
+                setResults(next);
+                if (rounds.every((_, i) => next[i] !== undefined)) onComplete?.(Object.values(next).every(Boolean));
+              }}
+            />
+          </div>
+        );
+      })}
+      {activity.rounds && finished && <p role="status" className="activity-feedback good">You finished this activity.</p>}
     </section>
   );
 }
 
-function ActivityBoard({ activity, onPass, completed }: { activity: Activity; onPass: (correct: boolean) => void; completed: boolean }) {
+function ActivityBoard({ activity, onPass, completed, completionText = "You finished this activity." }: { activity: Activity; onPass: (correct: boolean) => void; completed: boolean; completionText?: string }) {
+  const sortOnly = activity.mode === "sort";
   const categories = activity.categories;
   const [order] = useState(() => shuffle(activity.cards));
   const [labels] = useState(() => shuffle(activity.labels));
@@ -49,7 +63,7 @@ function ActivityBoard({ activity, onPass, completed }: { activity: Activity; on
   // Reconstruct the solved board for activities completed on an earlier visit.
   const { placed, duties } = completed ? {
     placed: Object.fromEntries(activity.cards.map((c) => [c.id, c.category ?? BOARD])),
-    duties: Object.fromEntries(activity.cards.map((c) => [c.id, c.duty])),
+    duties: Object.fromEntries(activity.cards.flatMap((c) => c.duty ? [[c.id, c.duty]] : [])),
   } : board;
   const [hover, setHover] = useState<string | null>(null);
   const [dragging, setDragging] = useState<string | null>(null);
@@ -133,7 +147,7 @@ function ActivityBoard({ activity, onPass, completed }: { activity: Activity; on
     const isPlaced = placed[card.id] !== undefined;
     const duty = duties[card.id];
     const zone = `card:${card.id}`;
-    const cardDrop = isPlaced
+    const cardDrop = isPlaced && !sortOnly
       ? dropZone(zone, (p) => p.kind === "label" || (p.kind === "duty" && p.cardId !== card.id), setDuty(card.id))
       : {};
     const className = [
@@ -142,7 +156,7 @@ function ActivityBoard({ activity, onPass, completed }: { activity: Activity; on
       dragging === zone ? "dragging" : "",
       hover === zone ? "drop-hover" : "",
       wrong.has(card.id) ? "wrong" : "",
-      duty === card.duty && (!categories || placed[card.id] === card.category) ? "right" : "",
+      activityCardComplete(activity, { placed, duties }, card) ? "right" : "",
     ]
       .filter(Boolean)
       .join(" ");
@@ -157,7 +171,7 @@ function ActivityBoard({ activity, onPass, completed }: { activity: Activity; on
       >
         {card.image && <img src={imageSrc(card.image)} alt="" draggable={false} />}
         <span className="activity-card-name">{card.label}</span>
-        {isPlaced &&
+        {isPlaced && !sortOnly &&
           (duty ? (
             <span
               className={`activity-label on-card${dragging === `duty:${card.id}` ? " dragging" : ""}`}
@@ -191,7 +205,7 @@ function ActivityBoard({ activity, onPass, completed }: { activity: Activity; on
           </div>
         </div>
       )}
-      <div
+      {!sortOnly && <div
         className={zoneClass("activity-labels", "labels")}
         {...dropZone("labels", (p) => p.kind === "duty", clearDuty)}
       >
@@ -209,7 +223,7 @@ function ActivityBoard({ activity, onPass, completed }: { activity: Activity; on
             </span>
           ))}
         </div>
-      </div>
+      </div>}
       <div className="activity-groups">
         {(categories ?? [BOARD]).map((category) => {
           const zone = `category:${category}`;
@@ -228,7 +242,7 @@ function ActivityBoard({ activity, onPass, completed }: { activity: Activity; on
         })}
       </div>
       <p role="status" aria-live="polite" className={`activity-feedback ${completed || feedbackGood ? "good" : "bad"}`}>
-        {completed ? "You finished this activity." : feedback}
+        {completed ? completionText : feedback}
       </p>
     </>
   );
