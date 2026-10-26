@@ -1,0 +1,21 @@
+id: blood-vessel-jobs
+lesson: lungs-heart-and-blood
+title: Label the vessel jobs
+prompt: Drag each job onto the matching blood vessel.
+labels:
+  - Carries blood away from the heart
+  - Carries blood toward the heart
+  - Exchanges materials with cells
+cards:
+  - id: artery
+    image: images/activities/artery.webp
+    label: Artery
+    duty: Carries blood away from the heart
+  - id: vein
+    image: images/activities/vein.webp
+    label: Vein
+    duty: Carries blood toward the heart
+  - id: capillaries
+    image: images/activities/capillaries.webp
+    label: Capillaries
+    duty: Exchanges materials with cells

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "artery",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone picture card for Body School, ages 11–13. Clean softly shaded anatomical textbook illustration on white, centered object with comfortable margins. Match ivory/pink tissues and red/burgundy blood vessels in the lesson illustrations. No gore. NO words, labels, letters, arrows, headings, borders, decorative icons, watermark, or extra objects. Show an isolated short curved artery segment with a clear cut end revealing a thick muscular wall surrounding a relatively small circular lumen, bright red vessel. Red blood visible in lumen, without valve. Three-quarter angle, visually distinct from a vein."
+  },
+  {
+    "name": "vein",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone picture card for Body School, ages 11–13. Clean softly shaded anatomical textbook illustration on white, centered object with comfortable margins. Match ivory/pink tissues and red/burgundy blood vessels in the lesson illustrations. No gore. NO words, labels, letters, arrows, headings, borders, decorative icons, watermark, or extra objects. Show an isolated short curved vein segment with a clear cut end revealing a thinner wall around a wider lumen. Dark burgundy-red vessel. A small clean side cutaway reveals one pair of thin pale valve flaps inside. Not blue. Three-quarter angle, visually distinct from thick artery."
+  },
+  {
+    "name": "capillaries",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone picture card for Body School, ages 11–13. Clean softly shaded anatomical textbook illustration on white, centered object with comfortable margins. Match ivory/pink tissues and red/burgundy blood vessels in the lesson illustrations. No gore. NO words, labels, letters, arrows, headings, borders, decorative icons, watermark, or extra objects. Show one small branching capillary network: a small bright red feeder at left divides into many extremely fine looping red channels that reunite into a dark burgundy collector at right. No heart, lungs, body silhouette, or large artery cross-section. Clearly a delicate network of tiny blood vessels, not a single tube."
+  },
+  {
+    "name": "lungs",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone picture card for Body School, ages 11–13. Clean softly shaded anatomical textbook illustration on white, centered object with comfortable margins. Match ivory/pink tissues and red/burgundy blood vessels in the lesson illustrations. No gore. NO words, labels, letters, arrows, headings, borders, decorative icons, watermark, or extra objects. Show the pair of human lungs viewed from front, anatomically believable shape: patient's right lung with three lobes on viewer left, patient's left lung with two lobes and cardiac notch on viewer right. Pale pink tissues with subtle fissures. Short central trachea branches into both lungs. No heart or rib cage. Both lungs fully contained within frame."
+  },
+  {
+    "name": "windpipe",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone picture card for Body School, ages 11–13. Clean softly shaded anatomical textbook illustration on white, centered object with comfortable margins. Match ivory/pink tissues and red/burgundy blood vessels in the lesson illustrations. No gore. NO words, labels, letters, arrows, headings, borders, decorative icons, watermark, or extra objects. Show an isolated human trachea with recognizable pale cartilage C-shaped rings and a small larynx at top. The lower end divides into two main bronchi, one for each lung. Simple pink and ivory anatomy. No lungs, heart, head, or esophagus. Whole structure in frame."
+  },
+  {
+    "name": "heart",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone picture card for Body School, ages 11–13. Clean softly shaded anatomical textbook illustration on white, centered object with comfortable margins. Match ivory/pink tissues and red/burgundy blood vessels in the lesson illustrations. No gore. NO words, labels, letters, arrows, headings, borders, decorative icons, watermark, or extra objects. Show one anatomically recognizable human heart from anterior view, red muscular organ with apex down and toward viewer right, aortic arch at top and short great vessels, subtle surface coronary vessels. All vessels natural muted red and burgundy, no blue blood. No cross-section, no detached chambers, no lungs, no body outline."
+  },
+  {
+    "name": "blood-vessels",
+    "prompt": "Use case: scientific-educational. One SQUARE standalone picture card for Body School, ages 11–13. Clean softly shaded anatomical textbook illustration on white, centered object with comfortable margins. Match ivory/pink tissues and red/burgundy blood vessels in the lesson illustrations. No gore. NO words, labels, letters, arrows, headings, borders, decorative icons, watermark, or extra objects. Show an isolated simplified branching blood-vessel network: one larger red artery branches into smaller vessels, a delicate capillary mesh joins them to a burgundy vein branching network. Visually a network of tubes carrying blood around the body, no organs or body outline. Distinct from the capillary-only card by prominently showing larger branching vessels, smooth rounded vascular tubes."
+  }
+]

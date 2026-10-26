@@ -12,22 +12,22 @@ labels:
   - Exchange gases
 cards:
   - id: lungs
-    image: images/activities/lungs.png
+    image: images/activities/lungs.webp
     label: Lungs
     category: Respiratory system
     duty: Exchange gases
   - id: windpipe
-    image: images/activities/windpipe.png
+    image: images/activities/windpipe.webp
     label: Windpipe
     category: Respiratory system
     duty: Carry air to the lungs
   - id: heart
-    image: images/activities/heart.png
+    image: images/activities/heart.webp
     label: Heart
     category: Circulatory system
     duty: Pump blood
   - id: blood-vessels
-    image: images/activities/blood-vessels.png
+    image: images/activities/blood-vessels.webp
     label: Blood vessels
     category: Circulatory system
     duty: Carry blood around the body

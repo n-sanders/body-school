@@ -1,0 +1,10 @@
+[
+  {
+    "name": "air-route",
+    "prompt": "Edit this SQUARE educational illustration. Change ONLY the blue arrow INSIDE THE NASAL PASSAGE near the nose. It currently points outward to the left, contradicting inhalation. Replace it with an arrow pointing inward: it starts near the nostril on the LEFT and curves RIGHTWARD along the nasal passage toward the back of the throat, then joins the downward airflow. There must be no outward-pointing nasal arrow. Keep the incoming arrows outside the face, inward mouth arrow, downward throat/windpipe arrows, branching lung arrows, ALL anatomy, labels, title, inset, white background and square composition unchanged. This diagram shows inhalation, so every airway arrow must lead toward the lungs."
+  },
+  {
+    "name": "blood-journey",
+    "prompt": "Edit ONLY the vessel colors in this portrait circulation diagram. Recolor ALL blue blood vessels on the heart and within the lungs to deep burgundy red, consistent with the dark-red \"Less oxygen\" legend. Blue label boxes and navy text must stay unchanged. Keep every organ, label, arrow position and direction, exact legend, white background, typography, and 4:5 portrait composition unchanged. The route arrows are already correct; do NOT change them. The illustration teaches that blood is always red, so no blood vessels should be colored blue."
+  }
+]

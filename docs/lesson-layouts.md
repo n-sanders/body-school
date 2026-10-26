@@ -29,7 +29,9 @@ The section heading stays in the document for screen readers but is visually hid
 
 ## Target image widths
 
-Widths below are the displayed size on the 1200px lesson page. Export a 3:2 WebP at about twice that width so it stays sharp. One 2100×1400 master also covers every layout, and smaller layouts scale it down.
+Widths below are the displayed size on the 1200px lesson page. Export a WebP at about twice that width so it stays sharp. Choose the image's shape to suit its content: square for a focused diagram, portrait for a vertical route, or wide for a process with several steps. The layout ratios above control column widths, not the image's shape. Images keep their natural proportions.
+
+The dimensions below are examples for 3:2 illustrations. Adjust the height for square, portrait, or wider images. One 2100×1400 landscape master covers every column width, and smaller layouts scale it down.
 
 - Image in the two-thirds column (`image-right 1-2`, `image-left 2-1`): about 700px wide. Export about 1400×930.
 - Image in a half column (`1-1`): about 520px wide. Export about 1040×690.
