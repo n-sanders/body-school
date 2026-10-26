@@ -78,3 +78,18 @@ Four lesson illustrations and four activity pictures were generated with the bui
 | `public/images/activities/ureters.webp` | Ureters | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/activities/bladder.webp` | Bladder | AI-generated for this project; no third-party source or license asserted. |
 | `public/images/activities/urethra.webp` | Urethra | AI-generated for this project; no third-party source or license asserted. |
+
+## Brain and nerves
+
+Four lesson illustrations and four activity pictures were generated with the built-in OpenAI ImageGen tool on October 25, 2026. The lesson uses two square diagrams, a portrait 4:5 pathway, and a wide 2:1 sequence. Prompts are recorded in `docs/nervous-image-prompts.json` and `docs/nervous-activity-image-prompts.json`; targeted refinements are recorded in `docs/nervous-image-edits.json`. These are simplified teaching illustrations, not to scale.
+
+| File | Illustration | Source and license |
+| --- | --- | --- |
+| `public/images/brain-and-nerves/brain-control.webp` | The brain is the control center | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/brain-and-nerves/message-directions.webp` | Messages travel in two directions | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/brain-and-nerves/spinal-reflex.webp` | Reflexes help you respond quickly | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/brain-and-nerves/chosen-action.webp` | Actions you choose | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/feeling-touch.webp` | Feeling a touch | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/seeing-ball.webp` | Seeing a ball | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/arm-command.webp` | Command to move an arm | AI-generated for this project; no third-party source or license asserted. |
+| `public/images/activities/leg-command.webp` | Command to move a leg | AI-generated for this project; no third-party source or license asserted. |

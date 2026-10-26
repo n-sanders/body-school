@@ -1,0 +1,31 @@
+id: sensory-and-motor-messages
+lesson: brain-and-nerves
+title: Sort the messages and label their direction
+prompt: Sort each message into its group. Then attach its direction. You can use a direction more than once.
+categories:
+  - Sensory message
+  - Motor command
+labels:
+  - Carries information toward the brain or spinal cord
+  - Carries commands toward muscles
+cards:
+  - id: feeling-touch
+    image: images/activities/feeling-touch.webp
+    label: Feeling a touch
+    category: Sensory message
+    duty: Carries information toward the brain or spinal cord
+  - id: seeing-ball
+    image: images/activities/seeing-ball.webp
+    label: Seeing a ball
+    category: Sensory message
+    duty: Carries information toward the brain or spinal cord
+  - id: arm-command
+    image: images/activities/arm-command.webp
+    label: Command to move an arm
+    category: Motor command
+    duty: Carries commands toward muscles
+  - id: leg-command
+    image: images/activities/leg-command.webp
+    label: Command to move a leg
+    category: Motor command
+    duty: Carries commands toward muscles

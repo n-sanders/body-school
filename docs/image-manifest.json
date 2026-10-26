@@ -318,5 +318,69 @@
     "created": "2026-10-25",
     "downloadUrl": null,
     "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/brain-and-nerves/brain-control.webp",
+    "title": "The brain is the control center",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/brain-and-nerves/message-directions.webp",
+    "title": "Messages travel in two directions",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/brain-and-nerves/spinal-reflex.webp",
+    "title": "Reflexes help you respond quickly",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/brain-and-nerves/chosen-action.webp",
+    "title": "Actions you choose",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/activities/feeling-touch.webp",
+    "title": "Feeling a touch",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/activities/seeing-ball.webp",
+    "title": "Seeing a ball",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/activities/arm-command.webp",
+    "title": "Command to move an arm",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
+  },
+  {
+    "file": "public/images/activities/leg-command.webp",
+    "title": "Command to move a leg",
+    "source": "OpenAI ImageGen, generated for Body School",
+    "created": "2026-10-25",
+    "downloadUrl": null,
+    "license": "AI-generated for this project; no third-party license asserted"
   }
 ]

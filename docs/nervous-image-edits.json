@@ -1,0 +1,10 @@
+[
+  {
+    "name": "brain-control",
+    "prompt": "Edit this square brain-functions illustration. REMOVE ONLY the three thin navy leader lines and their dark endpoint dots that currently connect each vignette to a specific point on the brain. Reconstruct the underlying white background and pink brain folds naturally where those lines/dots were. Keep all three vignette panels, their exact captions, the main title, the central brain, colors, typography, positions, square dimensions and composition unchanged. Do not add any new arrows, lines, colored regions or labels. The vignettes represent general shared brain functions, not precise anatomical locations."
+  },
+  {
+    "name": "seeing-ball",
+    "prompt": "Edit this square seeing-a-ball activity picture. REMOVE the teal glowing beam/light trail between the eye and the ball entirely, replacing it with clean white background. Preserve the child's face and eye, its gaze toward the ball, the colorful ball, positions, lighting, square composition and all other details. Add no arrows, lines, labels or effects. The child is looking at the ball; the eye must not appear to project a laser or beam."
+  }
+]

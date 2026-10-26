@@ -1,0 +1,18 @@
+[
+  {
+    "name": "feeling-touch",
+    "prompt": "Use case: scientific-educational. One SQUARE picture card for Body School, ages 11–13. White background, large centered subject, gently shaded friendly textbook illustration, clean clear silhouettes readable as a small thumbnail, comfortable margins. No words, labels, letters, watermark, border, injury or gore. Close-up of a child's relaxed hand with the back of the hand being gently touched by a soft feather. A tiny teal glow at the contact point suggests a touch being sensed. The feather is visibly in contact with skin. No brain, command arrow, movement arrows or extra objects. Natural skin, soft calm illustration."
+  },
+  {
+    "name": "seeing-ball",
+    "prompt": "Use case: scientific-educational. One SQUARE picture card for Body School, ages 11–13. White background, large centered subject, gently shaded friendly textbook illustration, clean clear silhouettes readable as a small thumbnail, comfortable margins. No words, labels, letters, watermark, border, injury or gore. Close-up side profile of a child's eye and upper cheek, looking toward a colorful round ball on the right. A subtle teal light trail travels FROM the ball TOWARD the eye, conveying seeing without written labels. Ball and eye both clearly visible. No brain, arm movement, or motor-command arrow."
+  },
+  {
+    "name": "arm-command",
+    "prompt": "Use case: scientific-educational. One SQUARE picture card for Body School, ages 11–13. White background, large centered subject, gently shaded friendly textbook illustration, clean clear silhouettes readable as a small thumbnail, comfortable margins. No words, labels, letters, watermark, border, injury or gore. A small pink brain icon at upper left sends a clear ORANGE signal arrow toward a larger child's bent upper arm and forearm on right. Arrowhead points FROM brain TOWARD upper-arm muscle. Slightly transparent sleeve/skin reveals a simple red muscle shape, no gore. Communicate a command to move the arm, not a sensation coming back. No eye, ball, spinal cord, or teal arrow."
+  },
+  {
+    "name": "leg-command",
+    "prompt": "Use case: scientific-educational. One SQUARE picture card for Body School, ages 11–13. White background, large centered subject, gently shaded friendly textbook illustration, clean clear silhouettes readable as a small thumbnail, comfortable margins. No words, labels, letters, watermark, border, injury or gore. A small pink brain icon at upper left sends a clear ORANGE signal arrow toward a larger child's bent leg and foot on right, as if preparing a step. Arrowhead points FROM brain TOWARD thigh muscle. Slightly transparent shorts/skin reveal a simple red thigh muscle shape, no gore. Communicate a command to move the leg, not a sensation coming back. No eye, ball, spinal cord, or teal arrow."
+  }
+]
