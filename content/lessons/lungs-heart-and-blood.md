@@ -6,7 +6,7 @@ summary: The lungs and the heart deliver oxygen to every cell and remove carbon 
 prerequisites:
   - bones-joints-and-muscles
 objectives:
-  - The lungs and the heart deliver oxygen to every cell and remove carbon dioxide.
+  - Learn how the lungs and the heart deliver oxygen to every cell and remove carbon dioxide.
 items: []
 images: []
 compare: []

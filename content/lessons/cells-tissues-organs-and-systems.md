@@ -5,7 +5,7 @@ unit: organization
 summary: The body is organized from cells to tissues to organs to systems, and each level depends on the smaller parts.
 prerequisites: []
 objectives:
-  - The body is organized from cells to tissues to organs to systems, and each level depends on the smaller parts.
+  - Learn how the body is organized from cells to tissues to organs to systems, and how each level depends on the smaller parts.
 items: []
 images: []
 compare: []

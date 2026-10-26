@@ -6,7 +6,7 @@ summary: Bones, joints, and muscles protect important organs, support the body, 
 prerequisites:
   - cells-tissues-organs-and-systems
 objectives:
-  - Bones, joints, and muscles protect important organs, support the body, and move it.
+  - Learn how bones, joints, and muscles protect important organs, support the body, and move it.
 items: []
 images: []
 compare: []

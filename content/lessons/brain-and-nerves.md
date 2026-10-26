@@ -6,7 +6,7 @@ summary: The brain, spinal cord, and nerves carry information and help the body 
 prerequisites:
   - kidneys-and-bladder
 objectives:
-  - The brain, spinal cord, and nerves carry information and help the body respond.
+  - Learn how the brain, spinal cord, and nerves carry information and help the body respond.
 items: []
 images: []
 compare: []

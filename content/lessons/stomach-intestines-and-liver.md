@@ -6,7 +6,7 @@ summary: The stomach, intestines, and liver break down food so the body can abso
 prerequisites:
   - lungs-heart-and-blood
 objectives:
-  - The stomach, intestines, and liver break down food so the body can absorb fuel and remove solid waste.
+  - Learn how the stomach, intestines, and liver break down food so the body can absorb fuel and remove solid waste.
 items: []
 images: []
 compare: []

@@ -6,7 +6,7 @@ summary: The reproductive organs make it possible for a new baby to begin and gr
 prerequisites:
   - brain-and-nerves
 objectives:
-  - The reproductive organs make it possible for a new baby to begin and grow.
+  - Learn how the reproductive organs make it possible for a new baby to begin and grow.
 items: []
 images: []
 compare: []

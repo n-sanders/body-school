@@ -6,7 +6,7 @@ summary: The kidneys filter blood and balance water, while the bladder stores ur
 prerequisites:
   - stomach-intestines-and-liver
 objectives:
-  - The kidneys filter blood and balance water, while the bladder stores urine until it leaves the body.
+  - Learn how the kidneys filter blood and balance water, and how the bladder stores urine until it leaves the body.
 items: []
 images: []
 compare: []

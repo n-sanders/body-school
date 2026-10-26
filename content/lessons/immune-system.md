@@ -6,7 +6,7 @@ summary: The immune system uses white blood cells and several organs to find and
 prerequisites:
   - reproductive-organs
 objectives:
-  - The immune system uses white blood cells and several organs to find and fight germs.
+  - Learn how the immune system uses white blood cells and several organs to find and fight germs.
 items: []
 images: []
 compare: []
